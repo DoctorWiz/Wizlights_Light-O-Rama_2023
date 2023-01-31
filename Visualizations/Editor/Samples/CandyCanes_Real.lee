@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LViz lvizSaveFileVersion="2.1.0" CreatedAt="08-27-2013 08:36:21" Chksum="01ECB63419EFF0371A3641D2534882AC">
+    <Background BackgroundType="1" PicIntensity="50" EditorWidthTwips="12000" EditorHeightTwips="12000"/>
+    <Levels Dimmed="50">
+        <Level ID="1" Edit_Enabled="True" Sim_Enabled="True" Name="Background"/>
+        <Level ID="2" Edit_Enabled="True" Sim_Enabled="True" Name="Level 2"/>
+        <Level ID="3" Edit_Enabled="True" Sim_Enabled="True" Name="Level 3"/>
+        <Level ID="4" Edit_Enabled="True" Sim_Enabled="True" Name="Level 4"/>
+        <Level ID="5" Edit_Enabled="True" Sim_Enabled="True" Name="Level 5"/>
+        <Level ID="6" Edit_Enabled="True" Sim_Enabled="True" Name="Level 6"/>
+        <Level ID="7" Edit_Enabled="True" Sim_Enabled="True" Name="Level 7"/>
+        <Level ID="8" Edit_Enabled="True" Sim_Enabled="True" Name="Level 8"/>
+        <Level ID="9" Edit_Enabled="True" Sim_Enabled="True" Name="Level 9"/>
+        <Level ID="10" Edit_Enabled="True" Sim_Enabled="True" Name="Level 10"/>
+        <Level ID="11" Edit_Enabled="True" Sim_Enabled="True" Name="Level 11"/>
+        <Level ID="12" Edit_Enabled="True" Sim_Enabled="True" Name="Level 12"/>
+        <Level ID="13" Edit_Enabled="True" Sim_Enabled="True" Name="Level 13"/>
+        <Level ID="14" Edit_Enabled="True" Sim_Enabled="True" Name="Level 14"/>
+        <Level ID="15" Edit_Enabled="True" Sim_Enabled="True" Name="Level 15"/>
+        <Level ID="16" Edit_Enabled="True" Sim_Enabled="True" Name="Foreground"/>
+    </Levels>
+    <Items>
+        <Item ID="1" Name="Candy Cane 01" Locked="False" Comment="">
+            <AssignedObject ID="1" Object="11"/>
+            <AssignedObject ID="2" Object="1"/>
+            <AssignedObject ID="3" Object="2"/>
+            <AssignedObject ID="4" Object="3"/>
+            <AssignedObject ID="5" Object="4"/>
+            <AssignedObject ID="6" Object="5"/>
+            <AssignedObject ID="7" Object="6"/>
+            <AssignedObject ID="8" Object="7"/>
+            <AssignedObject ID="9" Object="8"/>
+            <AssignedObject ID="10" Object="9"/>
+            <AssignedObject ID="11" Object="10"/>
+            <AssignedObject ID="12" Object="12"/>
+        </Item>
+        <Item ID="2" Name="Candy Cane 02" Locked="False" Comment="">
+            <AssignedObject ID="1" Object="13"/>
+            <AssignedObject ID="2" Object="14"/>
+            <AssignedObject ID="3" Object="15"/>
+            <AssignedObject ID="4" Object="16"/>
+            <AssignedObject ID="5" Object="17"/>
+            <AssignedObject ID="6" Object="18"/>
+            <AssignedObject ID="7" Object="19"/>
+            <AssignedObject ID="8" Object="20"/>
+            <AssignedObject ID="9" Object="21"/>
+            <AssignedObject ID="10" Object="22"/>
+            <AssignedObject ID="11" Object="23"/>
+            <AssignedObject ID="12" Object="24"/>
+        </Item>
+        <Item ID="3" Name="Candy Cane 03" Locked="False" Comment="">
+            <AssignedObject ID="1" Object="25"/>
+            <AssignedObject ID="2" Object="26"/>
+            <AssignedObject ID="3" Object="27"/>
+            <AssignedObject ID="4" Object="28"/>
+            <AssignedObject ID="5" Object="29"/>
+            <AssignedObject ID="6" Object="30"/>
+            <AssignedObject ID="7" Object="31"/>
+            <AssignedObject ID="8" Object="32"/>
+            <AssignedObject ID="9" Object="33"/>
+            <AssignedObject ID="10" Object="34"/>
+            <AssignedObject ID="11" Object="35"/>
+            <AssignedObject ID="12" Object="36"/>
+        </Item>
+        <Item ID="4" Name="Candy Cane 04" Locked="False" Comment="">
+            <AssignedObject ID="1" Object="37"/>
+            <AssignedObject ID="2" Object="38"/>
+            <AssignedObject ID="3" Object="39"/>
+            <AssignedObject ID="4" Object="40"/>
+            <AssignedObject ID="5" Object="41"/>
+            <AssignedObject ID="6" Object="42"/>
+            <AssignedObject ID="7" Object="43"/>
+            <AssignedObject ID="8" Object="44"/>
+            <AssignedObject ID="9" Object="45"/>
+            <AssignedObject ID="10" Object="46"/>
+            <AssignedObject ID="11" Object="47"/>
+            <AssignedObject ID="12" Object="48"/>
+        </Item>
+    </Items>
+    <DrawObjects>
+        <DrawObject ID="1" Name="Candy Cane 01 #02" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="red" DeviceType="1" Network="0" Controller="1" Channel="2" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="1020" Y="4425"/>
+                <DrawPoint ID="2" Type="2" X="1275" Y="4005"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="2" Name="Candy Cane 01 #03" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="white" DeviceType="1" Network="0" Controller="1" Channel="3" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="1035" Y="4065"/>
+                <DrawPoint ID="2" Type="2" X="1290" Y="3645"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="3" Name="Candy Cane 01 #04" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="red" DeviceType="1" Network="0" Controller="1" Channel="4" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="1065" Y="3645"/>
+                <DrawPoint ID="2" Type="2" X="1335" Y="3210"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="4" Name="Candy Cane 01 #05" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="white" DeviceType="1" Network="0" Controller="1" Channel="5" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="1080" Y="3240"/>
+                <DrawPoint ID="2" Type="2" X="1335" Y="2820"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="5" Name="Candy Cane 01 #06" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="red" DeviceType="1" Network="0" Controller="1" Channel="6" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="1035" Y="2835"/>
+                <DrawPoint ID="2" Type="2" X="1290" Y="2415"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="6" Name="Candy Cane 01 #07" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="white" DeviceType="1" Network="0" Controller="1" Channel="7" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="1050" Y="2400"/>
+                <DrawPoint ID="2" Type="2" X="1305" Y="1980"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="7" Name="Candy Cane 01 #08" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="red" DeviceType="1" Network="0" Controller="1" Channel="8" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="1140" Y="1935"/>
+                <DrawPoint ID="2" Type="2" X="1365" Y="1725"/>
+                <DrawPoint ID="3" Type="2" X="1605" Y="1740"/>
+                <DrawPoint ID="4" Type="2" X="1695" Y="1845"/>
+                <DrawPoint ID="5" Type="2" X="1695" Y="1830"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="8" Name="Candy Cane 01 #09" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="white" DeviceType="1" Network="0" Controller="1" Channel="9" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="1680" Y="1590"/>
+                <DrawPoint ID="2" Type="2" X="1920" Y="1740"/>
+                <DrawPoint ID="3" Type="2" X="1950" Y="1920"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="9" Name="Candy Cane 01 #10" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="red" DeviceType="1" Network="0" Controller="1" Channel="10" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="2115" Y="1695"/>
+                <DrawPoint ID="2" Type="2" X="2205" Y="1890"/>
+                <DrawPoint ID="3" Type="2" X="2070" Y="2235"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="10" Name="Candy Cane 01 #11" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="white" DeviceType="1" Network="0" Controller="1" Channel="11" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="2310" Y="2145"/>
+                <DrawPoint ID="2" Type="2" X="2070" Y="2550"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="11" Name="Candy Cane 01 #01" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="white" DeviceType="1" Network="0" Controller="1" Channel="1" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="1005" Y="4755"/>
+                <DrawPoint ID="2" Type="2" X="1260" Y="4335"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="12" Name="Candy Cane 01 #12" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="red" DeviceType="1" Network="0" Controller="1" Channel="12" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="2325" Y="2445"/>
+                <DrawPoint ID="2" Type="2" X="2085" Y="2850"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="13" Name="Candy Cane 02 #01" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-1-13)" DeviceType="1" Network="0" Controller="1" Channel="13" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="2895" Y="4770"/>
+                <DrawPoint ID="2" Type="2" X="3150" Y="4350"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="14" Name="Candy Cane 02 #02" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-1-14)" DeviceType="1" Network="0" Controller="1" Channel="14" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="2910" Y="4440"/>
+                <DrawPoint ID="2" Type="2" X="3165" Y="4020"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="15" Name="Candy Cane 02 #03" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-1-15)" DeviceType="1" Network="0" Controller="1" Channel="15" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="2925" Y="4080"/>
+                <DrawPoint ID="2" Type="2" X="3180" Y="3660"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="16" Name="Candy Cane 02 #04" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-1-16)" DeviceType="1" Network="0" Controller="1" Channel="16" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="2955" Y="3660"/>
+                <DrawPoint ID="2" Type="2" X="3225" Y="3225"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="17" Name="Candy Cane 02 #05" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-2-1)" DeviceType="1" Network="0" Controller="2" Channel="1" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="2970" Y="3255"/>
+                <DrawPoint ID="2" Type="2" X="3225" Y="2835"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="18" Name="Candy Cane 02 #06" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-2-2)" DeviceType="1" Network="0" Controller="2" Channel="2" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="2925" Y="2850"/>
+                <DrawPoint ID="2" Type="2" X="3180" Y="2430"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="19" Name="Candy Cane 02 #07" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-2-3)" DeviceType="1" Network="0" Controller="2" Channel="3" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="2940" Y="2415"/>
+                <DrawPoint ID="2" Type="2" X="3195" Y="1995"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="20" Name="Candy Cane 02 #08" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-2-4)" DeviceType="1" Network="0" Controller="2" Channel="4" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="3030" Y="1950"/>
+                <DrawPoint ID="2" Type="2" X="3255" Y="1740"/>
+                <DrawPoint ID="3" Type="2" X="3495" Y="1755"/>
+                <DrawPoint ID="4" Type="2" X="3585" Y="1860"/>
+                <DrawPoint ID="5" Type="2" X="3585" Y="1845"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="21" Name="Candy Cane 02 #09" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-2-5)" DeviceType="1" Network="0" Controller="2" Channel="5" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="3570" Y="1605"/>
+                <DrawPoint ID="2" Type="2" X="3810" Y="1755"/>
+                <DrawPoint ID="3" Type="2" X="3840" Y="1935"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="22" Name="Candy Cane 02 #10" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-2-6)" DeviceType="1" Network="0" Controller="2" Channel="6" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4005" Y="1710"/>
+                <DrawPoint ID="2" Type="2" X="4095" Y="1905"/>
+                <DrawPoint ID="3" Type="2" X="3960" Y="2250"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="23" Name="Candy Cane 02 #11" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-2-7)" DeviceType="1" Network="0" Controller="2" Channel="7" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4200" Y="2160"/>
+                <DrawPoint ID="2" Type="2" X="3960" Y="2565"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="24" Name="Candy Cane 02 #12" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 02 (1-0-2-8)" DeviceType="1" Network="0" Controller="2" Channel="8" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4215" Y="2460"/>
+                <DrawPoint ID="2" Type="2" X="3975" Y="2865"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="25" Name="Candy Cane 03 #01" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-2-9)" DeviceType="1" Network="0" Controller="2" Channel="9" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4815" Y="4905"/>
+                <DrawPoint ID="2" Type="2" X="5070" Y="4485"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="26" Name="Candy Cane 03 #02" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-2-10)" DeviceType="1" Network="0" Controller="2" Channel="10" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4830" Y="4575"/>
+                <DrawPoint ID="2" Type="2" X="5085" Y="4155"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="27" Name="Candy Cane 03 #03" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-2-11)" DeviceType="1" Network="0" Controller="2" Channel="11" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4845" Y="4215"/>
+                <DrawPoint ID="2" Type="2" X="5100" Y="3795"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="28" Name="Candy Cane 03 #04" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-2-12)" DeviceType="1" Network="0" Controller="2" Channel="12" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4875" Y="3795"/>
+                <DrawPoint ID="2" Type="2" X="5145" Y="3360"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="29" Name="Candy Cane 03 #05" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-2-13)" DeviceType="1" Network="0" Controller="2" Channel="13" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4890" Y="3390"/>
+                <DrawPoint ID="2" Type="2" X="5145" Y="2970"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="30" Name="Candy Cane 03 #06" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-2-14)" DeviceType="1" Network="0" Controller="2" Channel="14" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4845" Y="2985"/>
+                <DrawPoint ID="2" Type="2" X="5100" Y="2565"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="31" Name="Candy Cane 03 #07" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-2-15)" DeviceType="1" Network="0" Controller="2" Channel="15" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4860" Y="2550"/>
+                <DrawPoint ID="2" Type="2" X="5115" Y="2130"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="32" Name="Candy Cane 03 #08" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-2-16)" DeviceType="1" Network="0" Controller="2" Channel="16" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="4950" Y="2085"/>
+                <DrawPoint ID="2" Type="2" X="5175" Y="1875"/>
+                <DrawPoint ID="3" Type="2" X="5415" Y="1890"/>
+                <DrawPoint ID="4" Type="2" X="5505" Y="1995"/>
+                <DrawPoint ID="5" Type="2" X="5505" Y="1980"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="33" Name="Candy Cane 03 #09" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-3-1)" DeviceType="1" Network="0" Controller="3" Channel="1" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="5490" Y="1740"/>
+                <DrawPoint ID="2" Type="2" X="5730" Y="1890"/>
+                <DrawPoint ID="3" Type="2" X="5760" Y="2070"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="34" Name="Candy Cane 03 #10" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-3-2)" DeviceType="1" Network="0" Controller="3" Channel="2" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="5925" Y="1845"/>
+                <DrawPoint ID="2" Type="2" X="6015" Y="2040"/>
+                <DrawPoint ID="3" Type="2" X="5880" Y="2385"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="35" Name="Candy Cane 03 #11" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-3-3)" DeviceType="1" Network="0" Controller="3" Channel="3" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="6120" Y="2295"/>
+                <DrawPoint ID="2" Type="2" X="5880" Y="2700"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="36" Name="Candy Cane 03 #12" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 03 (1-0-3-4)" DeviceType="1" Network="0" Controller="3" Channel="4" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="6135" Y="2595"/>
+                <DrawPoint ID="2" Type="2" X="5895" Y="3000"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="37" Name="Candy Cane 04 #01" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-5)" DeviceType="1" Network="0" Controller="3" Channel="5" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="6780" Y="4830"/>
+                <DrawPoint ID="2" Type="2" X="7035" Y="4410"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="38" Name="Candy Cane 04 #02" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-6)" DeviceType="1" Network="0" Controller="3" Channel="6" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="6795" Y="4500"/>
+                <DrawPoint ID="2" Type="2" X="7050" Y="4080"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="39" Name="Candy Cane 04 #03" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-7)" DeviceType="1" Network="0" Controller="3" Channel="7" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="6810" Y="4140"/>
+                <DrawPoint ID="2" Type="2" X="7065" Y="3720"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="40" Name="Candy Cane 04 #04" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-8)" DeviceType="1" Network="0" Controller="3" Channel="8" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="6840" Y="3720"/>
+                <DrawPoint ID="2" Type="2" X="7110" Y="3285"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="41" Name="Candy Cane 04 #05" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-9)" DeviceType="1" Network="0" Controller="3" Channel="9" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="6855" Y="3315"/>
+                <DrawPoint ID="2" Type="2" X="7110" Y="2895"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="42" Name="Candy Cane 04 #06" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-10)" DeviceType="1" Network="0" Controller="3" Channel="10" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="6810" Y="2910"/>
+                <DrawPoint ID="2" Type="2" X="7065" Y="2490"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="43" Name="Candy Cane 04 #07" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-11)" DeviceType="1" Network="0" Controller="3" Channel="11" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="6825" Y="2475"/>
+                <DrawPoint ID="2" Type="2" X="7080" Y="2055"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="44" Name="Candy Cane 04 #08" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-12)" DeviceType="1" Network="0" Controller="3" Channel="12" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="6915" Y="2010"/>
+                <DrawPoint ID="2" Type="2" X="7140" Y="1800"/>
+                <DrawPoint ID="3" Type="2" X="7380" Y="1815"/>
+                <DrawPoint ID="4" Type="2" X="7470" Y="1920"/>
+                <DrawPoint ID="5" Type="2" X="7470" Y="1905"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="45" Name="Candy Cane 04 #09" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-13)" DeviceType="1" Network="0" Controller="3" Channel="13" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="7455" Y="1665"/>
+                <DrawPoint ID="2" Type="2" X="7695" Y="1815"/>
+                <DrawPoint ID="3" Type="2" X="7725" Y="1995"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="46" Name="Candy Cane 04 #10" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-14)" DeviceType="1" Network="0" Controller="3" Channel="14" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="7890" Y="1770"/>
+                <DrawPoint ID="2" Type="2" X="7980" Y="1965"/>
+                <DrawPoint ID="3" Type="2" X="7845" Y="2310"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="47" Name="Candy Cane 04 #11" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-15)" DeviceType="1" Network="0" Controller="3" Channel="15" Color="16777215" Sub_Type="0" Sub_Parm="0" Multi_1="16777215" Multi_2="16777215" Multi_3="16777215" Multi_4="16777215" Multi_5="16777215"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="8085" Y="2220"/>
+                <DrawPoint ID="2" Type="2" X="7845" Y="2625"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="48" Name="Candy Cane 04 #12" BulbSize="2" BulbSpacing="2" Comment="" BulbShape="1" ZOrder="1" AssignedItem="4" Locked="False" Fixture_Type="1" Channel_Type="1" Max_Opacity="0" LED="False">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <AssignedChannels>
+                <Channel ID="1" Name="Candy Cane 04 (1-0-3-16)" DeviceType="1" Network="0" Controller="3" Channel="16" Color="255" Sub_Type="0" Sub_Parm="0" Multi_1="0" Multi_2="0" Multi_3="0" Multi_4="0" Multi_5="0"/>
+            </AssignedChannels>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="6" X="8100" Y="2520"/>
+                <DrawPoint ID="2" Type="2" X="7860" Y="2925"/>
+            </DrawPoints>
+        </DrawObject>
+    </DrawObjects>
+</LViz>

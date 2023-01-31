@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="1d96330f-a46c-4410-b080-4d1991e3570e" BulbShape="Flood" ChannelGrid="" Comment="" CustomBulbColor="FF80FFFF" DeviceType="None" DimmingCurveName="None" IndividualChannels="False" MaxChannels="16" Opacity="255" Parm1="1" Parm2="50" Parm3="0" Parm4="0" Parm5="0" Parm6="0" PreviewBulbSize="70" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="generic_single_color_flood">
+    <shape ShapeName="Bulbs">
+      <point x="-0.7668919" y="-0.6826923" />
+    </shape>
+  </PropClass>
+</PixelEditorPropExport>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<channelsClipboard version="1" name="Altablinc">
+	<cellDemarcations>
+		<cellDemarcation centisecond="0"/>
+		<cellDemarcation centisecond="5"/>
+		<cellDemarcation centisecond="10"/>
+		<cellDemarcation centisecond="15"/>
+		<cellDemarcation centisecond="20"/>
+		<cellDemarcation centisecond="25"/>
+		<cellDemarcation centisecond="30"/>
+		<cellDemarcation centisecond="35"/>
+		<cellDemarcation centisecond="40"/>
+		<cellDemarcation centisecond="45"/>
+		<cellDemarcation centisecond="50"/>
+		<cellDemarcation centisecond="55"/>
+		<cellDemarcation centisecond="60"/>
+		<cellDemarcation centisecond="65"/>
+		<cellDemarcation centisecond="70"/>
+		<cellDemarcation centisecond="75"/>
+		<cellDemarcation centisecond="80"/>
+	</cellDemarcations>
+	<channels>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="10" intensity="100"/>
+			<effect type="intensity" startCentisecond="10" endCentisecond="20" intensity="0"/>
+			<effect type="intensity" startCentisecond="20" endCentisecond="30" intensity="100"/>
+			<effect type="intensity" startCentisecond="30" endCentisecond="80" intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="10" intensity="0"/>
+			<effect type="intensity" startCentisecond="10" endCentisecond="20" intensity="100"/>
+			<effect type="intensity" startCentisecond="20" endCentisecond="30" intensity="0"/>
+			<effect type="intensity" startCentisecond="30" endCentisecond="40" intensity="100"/>
+			<effect type="intensity" startCentisecond="40" endCentisecond="80" intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="40" intensity="0"/>
+			<effect type="intensity" startCentisecond="40" endCentisecond="50" intensity="100"/>
+			<effect type="intensity" startCentisecond="50" endCentisecond="60" intensity="0"/>
+			<effect type="intensity" startCentisecond="60" endCentisecond="70" intensity="100"/>
+			<effect type="intensity" startCentisecond="70" endCentisecond="80" intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="50" intensity="0"/>
+			<effect type="intensity" startCentisecond="50" endCentisecond="60" intensity="100"/>
+			<effect type="intensity" startCentisecond="60" endCentisecond="70" intensity="0"/>
+			<effect type="intensity" startCentisecond="70" endCentisecond="80" intensity="100"/>
+		</channel>
+	</channels>
+</channelsClipboard>

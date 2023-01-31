@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modelinventory>
+    <vendor>
+        <name>SuperStar Lights</name>
+        <website>http://superstarlights.com/</website>
+    </vendor>
+    <models>
+        <model>
+            <name>CCR Tree - 12 strings with 6 channel star</name>
+            <weblink>http://superstarlights.com/SuperStarConstruction/StarPurchase.php</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/ccr12_whitestar3.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/CCR_Tree_12_with_6ch_Star.lpeprop</lorprop>
+            <lights>12 pixel strips</lights>
+        </model>
+        <model>
+            <name>CCR Tree - 16 strings with 6 channel star</name>
+            <weblink>http://superstarlights.com/SuperStarConstruction/StarPurchase.php</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/ccr16_whitestar.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/CCR_Tree_16_with_6ch_Star.lpeprop</lorprop>
+            <lights>16 pixel strips</lights>
+        </model>
+        <model>
+            <name>CCR Tree - 16 strings with RGB pixel star</name>
+            <weblink>http://superstarlights.com/SuperStarConstruction/RGBStarPurchase.php</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/ccr16_rgbstar.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/CCR_Tree_16_with_RGB_Star.lpeprop</lorprop>
+            <lights>16 pixel strips, plus 200 pixel nodes for the star</lights>
+        </model>
+        <model>
+            <name>Light-O-Rama Pixel Tree Kit 16x25. First string is in back.</name>
+            <weblink>http://store.lightorama.com/copitrkit.html</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/black-pixel-tree-kit-16-strips-of-25-pixels-2.gif</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/LOR_16x25_Tree_BackStart.lpeprop</lorprop>
+            <lights>400 pixel nodes</lights>
+        </model>
+        <model>
+            <name>Light-O-Rama Pixel Tree Kit 16x25. First string is on the left.</name>
+            <weblink>http://store.lightorama.com/copitrkit.html</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/black-pixel-tree-kit-16-strips-of-25-pixels-2.gif</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/LOR_16x25_Tree_LeftStart.lpeprop</lorprop>
+            <lights>400 pixel nodes</lights>
+        </model>
+        <model>
+            <name>SuperStar Pixel Tree 24x25 with 8 row globe topper. First string is in back.</name>
+            <weblink>http://superstarlights.com/CCPTreeConstruction/GlobeKitPurchase.php</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/Tree24x25_Globe2.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/24x25Tree_8RowGlobe_BackStart.lpeprop</lorprop>
+            <lights>600 pixel nodes for the tree, plus 200 for the globe</lights>
+        </model>
+        <model>
+            <name>SuperStar Pixel Tree 24x25 with 8 row globe topper. First string is on the left.</name>
+            <weblink>http://superstarlights.com/CCPTreeConstruction/GlobeKitPurchase.php</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/Tree24x25_Globe2.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/24x25Tree_8RowGlobe_LeftStart.lpeprop</lorprop>
+            <lights>600 pixel nodes for the tree, plus 200 for the globe</lights>
+        </model>
+        <model>
+            <name>SuperStar Pixel Tree 24x50 with 8 row globe topper. First string is in back.</name>
+            <weblink>http://superstarlights.com/CCPTreeConstruction/GlobeKitPurchase.php</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/Tree24x25_Globe2.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/24x50Tree_8RowGlobe_BackStart.lpeprop</lorprop>
+            <lights>1200 pixel nodes for the tree, plus 200 for the globe</lights>
+        </model>
+        <model>
+            <name>SuperStar Pixel Tree 24x50 with 8 row globe topper. First string is on the left.</name>
+            <weblink>http://superstarlights.com/CCPTreeConstruction/GlobeKitPurchase.php</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/Tree24x25_Globe2.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/24x50Tree_8RowGlobe_LeftStart.lpeprop</lorprop>
+            <lights>1200 pixel nodes for the tree, plus 200 for the globe</lights>
+        </model>
+        <model>
+            <name>SuperStar 4 circles</name>
+            <weblink>http://superstarlights.com/CircleConstruction/CircleConstruction.php</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/Circles_4b.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/Circles_4.lpeprop</lorprop>
+            <lights>4 pixel strips</lights>
+        </model>
+        <model>
+            <name>SuperStar SpiderWeb 16ft</name>
+            <weblink>http://www.superstarlights.com/CCPSpiderWebs/200CCPSpiderWeb.php</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/SpiderWeb_16ft.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/SpiderWeb_16ft.lpeprop</lorprop>
+            <lights>200 pixel nodes</lights>
+        </model>
+    </models>
+</modelinventory>

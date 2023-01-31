@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="a67f85b9-c5c7-4bb2-92ee-6c5950199de1" BulbShape="Octogon" ChannelGrid="Aux B,90,1,300,0,;Aux B,91,1,300,0,;Aux B,92,1,300,0,;Aux B,93,1,300,0,;Aux B,94,1,300,0,;Aux B,95,1,300,0,;Aux B,96,1,300,0,;Aux B,97,1,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Matrix 20x40" Name="RGB Matrix 20x40" Parm1="8" Parm2="100" Parm3="4">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="-0.30142096" y="0.2746867" />
+      <point x="0.21352947" y="0.27402562" />
+      <point x="0.21189487" y="-0.16243225" />
+      <point x="-0.3048808" y="-0.16703543" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="e7d06930-7205-4406-a557-151f7302f23a" name="Whole Matrix 01" />
+      <MotionRowDefault id="d3dcccd9-ca4e-4b32-97f4-3ca19eca33ce" name="Whole Matrix 02" />
+      <MotionRowDefault id="2fdded5f-16df-4563-b978-889abf319f34" name="Tier 1" subx="0" suby="0" subw="1" subh="0.25" />
+      <MotionRowDefault id="666da70d-fe72-43ae-8784-51aeab066a45" name="Tier 2" subx="0" suby="0.25" subw="1" subh="0.25" />
+      <MotionRowDefault id="4f17e3b4-1ac6-4bce-9a0f-80fe68230ec8" name="Tier 3" subx="0" suby="0.5" subw="1" subh="0.25" />
+      <MotionRowDefault id="8ed3a2fa-f74e-4cdf-bd08-6b9ab17abfa5" name="Tier 4" subx="0" suby="0.75" subw="1" subh="0.25" />
+      <MotionRowDefault id="7c601497-73a2-4b49-a044-9194dc15982b" name="Column 1" subx="0" suby="0" subw="0.25" subh="1" />
+      <MotionRowDefault id="8fd75631-6849-42ea-b5ac-d32bcd5424e9" name="Column 2" subx="0.25" suby="0" subw="0.25" subh="1" />
+      <MotionRowDefault id="b67070a2-51f8-46b2-986e-e098eaf61cde" name="Column 3" subx="0.5" suby="0" subw="0.25" subh="1" />
+      <MotionRowDefault id="fce1dd28-73df-4e6b-9441-22467e344a7a" name="Column 4" subx="0.75" suby="0" subw="0.25" subh="1" />
+      <MotionRowDefault id="7f86db69-1c70-4e9f-8686-8edb79afdda8" name="Left Half" subx="0" suby="0" subw="0.5" subh="1" />
+      <MotionRowDefault id="2bf5f772-07cd-4506-9bc4-0710898370cf" name="Right Half" subx="0.5" suby="0" subw="0.5" subh="1" />
+      <MotionRowDefault id="08086884-8934-412e-9e02-b971ad405d65" name="Whole Matrix 03" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropGroup id="dd271481-e823-45c2-8d6a-25ed27c0b4a0" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Matrix 20x40" Name="LOR Group-RGB Matrix 20x40">
+    <member id="a67f85b9-c5c7-4bb2-92ee-6c5950199de1" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="e7d06930-7205-4406-a557-151f7302f23a" name="Whole Matrix 01" />
+      <MotionRowDefault id="d3dcccd9-ca4e-4b32-97f4-3ca19eca33ce" name="Whole Matrix 02" />
+      <MotionRowDefault id="2fdded5f-16df-4563-b978-889abf319f34" name="Tier 1" subx="0" suby="0" subw="1" subh="0.25" />
+      <MotionRowDefault id="666da70d-fe72-43ae-8784-51aeab066a45" name="Tier 2" subx="0" suby="0.25" subw="1" subh="0.25" />
+      <MotionRowDefault id="4f17e3b4-1ac6-4bce-9a0f-80fe68230ec8" name="Tier 3" subx="0" suby="0.5" subw="1" subh="0.25" />
+      <MotionRowDefault id="8ed3a2fa-f74e-4cdf-bd08-6b9ab17abfa5" name="Tier 4" subx="0" suby="0.75" subw="1" subh="0.25" />
+      <MotionRowDefault id="7c601497-73a2-4b49-a044-9194dc15982b" name="Column 1" subx="0" suby="0" subw="0.25" subh="1" />
+      <MotionRowDefault id="8fd75631-6849-42ea-b5ac-d32bcd5424e9" name="Column 2" subx="0.25" suby="0" subw="0.25" subh="1" />
+      <MotionRowDefault id="b67070a2-51f8-46b2-986e-e098eaf61cde" name="Column 3" subx="0.5" suby="0" subw="0.25" subh="1" />
+      <MotionRowDefault id="fce1dd28-73df-4e6b-9441-22467e344a7a" name="Column 4" subx="0.75" suby="0" subw="0.25" subh="1" />
+      <MotionRowDefault id="7f86db69-1c70-4e9f-8686-8edb79afdda8" name="Left Half" subx="0" suby="0" subw="0.5" subh="1" />
+      <MotionRowDefault id="2bf5f772-07cd-4506-9bc4-0710898370cf" name="Right Half" subx="0.5" suby="0" subw="0.5" subh="1" />
+      <MotionRowDefault id="08086884-8934-412e-9e02-b971ad405d65" name="Whole Matrix 03" />
+    </MotionRowDefaults>
+  </PropGroup>
+</PixelEditorPropExport>

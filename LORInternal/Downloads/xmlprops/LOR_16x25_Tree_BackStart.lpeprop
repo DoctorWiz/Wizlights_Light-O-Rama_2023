@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="9f6e10af-b65f-46bd-ab7f-731764724727" BulbShape="Square" ChannelGrid="Regular,01,1,150,0,;Regular,02,1,150,0,;Regular,03,1,150,0,;Regular,04,1,150,0,;Regular,05,1,150,0,;Regular,06,1,150,0,;Regular,07,1,150,0,;Regular,08,1,150,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" MaxChannels="150" Opacity="255" PreviewBulbSize="5" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Back CCW" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="2" Tag="Pixel_Tree" Name="Pixel Tree 16x25-Back" Parm1="8" Parm2="50" Parm3="1" Parm4="5" Parm5="2" Parm6="0" Parm7="4">
+    <shape ShapeName="Tree 360 wedges" OffsetX="-0.4810191" OffsetY="-0.01011276" ScaleX="0.9544051" ScaleY="1.827036" Radians="0" />
+  </PropClass>
+</PixelEditorPropExport>

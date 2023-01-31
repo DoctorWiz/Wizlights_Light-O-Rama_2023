@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<channelsClipboard version="1" name="Funky 4-2 Sine Chase">
+	<cellDemarcations>
+		<cellDemarcation centisecond="0"/>
+		<cellDemarcation centisecond="5"/>
+		<cellDemarcation centisecond="10"/>
+		<cellDemarcation centisecond="15"/>
+		<cellDemarcation centisecond="20"/>
+		<cellDemarcation centisecond="25"/>
+		<cellDemarcation centisecond="30"/>
+		<cellDemarcation centisecond="35"/>
+		<cellDemarcation centisecond="40"/>
+		<cellDemarcation centisecond="45"/>
+		<cellDemarcation centisecond="50"/>
+		<cellDemarcation centisecond="55"/>
+		<cellDemarcation centisecond="60"/>
+		<cellDemarcation centisecond="65"/>
+		<cellDemarcation centisecond="70"/>
+		<cellDemarcation centisecond="75"/>
+		<cellDemarcation centisecond="80"/>
+		<cellDemarcation centisecond="85"/>
+		<cellDemarcation centisecond="90"/>
+		<cellDemarcation centisecond="95"/>
+		<cellDemarcation centisecond="100"/>
+		<cellDemarcation centisecond="105"/>
+		<cellDemarcation centisecond="110"/>
+		<cellDemarcation centisecond="115"/>
+		<cellDemarcation centisecond="120"/>
+		<cellDemarcation centisecond="125"/>
+		<cellDemarcation centisecond="130"/>
+		<cellDemarcation centisecond="135"/>
+		<cellDemarcation centisecond="140"/>
+		<cellDemarcation centisecond="145"/>
+		<cellDemarcation centisecond="150"/>
+		<cellDemarcation centisecond="155"/>
+		<cellDemarcation centisecond="160"/>
+		<cellDemarcation centisecond="165"/>
+		<cellDemarcation centisecond="170"/>
+		<cellDemarcation centisecond="175"/>
+		<cellDemarcation centisecond="180"/>
+		<cellDemarcation centisecond="185"/>
+		<cellDemarcation centisecond="190"/>
+		<cellDemarcation centisecond="195"/>
+		<cellDemarcation centisecond="200"/>
+	</cellDemarcations>
+	<channels>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="20" intensity="100"/>
+			<effect type="intensity" startCentisecond="20" endCentisecond="50" intensity="0"/>
+			<effect type="intensity" startCentisecond="50" endCentisecond="70" intensity="100"/>
+			<effect type="intensity" startCentisecond="70" endCentisecond="80" intensity="0"/>
+			<effect type="intensity" startCentisecond="80" endCentisecond="100" intensity="100"/>
+			<effect type="intensity" startCentisecond="100" endCentisecond="120" intensity="0"/>
+			<effect type="intensity" startCentisecond="120" endCentisecond="150" intensity="100"/>
+			<effect type="intensity" startCentisecond="150" endCentisecond="200" intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="10" intensity="0"/>
+			<effect type="intensity" startCentisecond="10" endCentisecond="30" intensity="100"/>
+			<effect type="intensity" startCentisecond="30" endCentisecond="40" intensity="0"/>
+			<effect type="intensity" startCentisecond="40" endCentisecond="60" intensity="100"/>
+			<effect type="intensity" startCentisecond="60" endCentisecond="90" intensity="0"/>
+			<effect type="intensity" startCentisecond="90" endCentisecond="110" intensity="100"/>
+			<effect type="intensity" startCentisecond="110" endCentisecond="160" intensity="0"/>
+			<effect type="intensity" startCentisecond="160" endCentisecond="190" intensity="100"/>
+			<effect type="intensity" startCentisecond="190" endCentisecond="200" intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="20" intensity="0"/>
+			<effect type="intensity" startCentisecond="20" endCentisecond="50" intensity="100"/>
+			<effect type="intensity" startCentisecond="50" endCentisecond="100" intensity="0"/>
+			<effect type="intensity" startCentisecond="100" endCentisecond="120" intensity="100"/>
+			<effect type="intensity" startCentisecond="120" endCentisecond="150" intensity="0"/>
+			<effect type="intensity" startCentisecond="150" endCentisecond="170" intensity="100"/>
+			<effect type="intensity" startCentisecond="170" endCentisecond="180" intensity="0"/>
+			<effect type="intensity" startCentisecond="180" endCentisecond="200" intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="10" intensity="100"/>
+			<effect type="intensity" startCentisecond="10" endCentisecond="60" intensity="0"/>
+			<effect type="intensity" startCentisecond="60" endCentisecond="90" intensity="100"/>
+			<effect type="intensity" startCentisecond="90" endCentisecond="110" intensity="0"/>
+			<effect type="intensity" startCentisecond="110" endCentisecond="130" intensity="100"/>
+			<effect type="intensity" startCentisecond="130" endCentisecond="140" intensity="0"/>
+			<effect type="intensity" startCentisecond="140" endCentisecond="160" intensity="100"/>
+			<effect type="intensity" startCentisecond="160" endCentisecond="190" intensity="0"/>
+			<effect type="intensity" startCentisecond="190" endCentisecond="200" intensity="100"/>
+		</channel>
+	</channels>
+</channelsClipboard>

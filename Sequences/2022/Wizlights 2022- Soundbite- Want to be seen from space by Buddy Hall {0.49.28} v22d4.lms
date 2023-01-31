@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sequence saveFileVersion="14" author="Doctor Wizard" createdAt="12/6/2022 11:15:58 PM" musicAlbum="Deck the Halls" musicArtist="Buddy Hall (from Deck the Halls)" musicFilename="Soundbite- I Want My House to be Seen from Outer Space by Buddy Hall (from Deck the Halls) {0.49.27}.mp3" musicTitle="Soundbite- I Want My House to be Seen from Outer Space" videoUsage="2">
+	<channels>
+		<channel name="C9 Chase (RGB) (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="88" network="2" savedIndex="0"/>
+		<channel name="C9 Chase (RGB) (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="89" network="2" savedIndex="1"/>
+		<channel name="C9 Chase (RGB) (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="90" network="2" savedIndex="2"/>
+		<channel name="Eaves Chase 4 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="91" network="2" savedIndex="3"/>
+		<channel name="Roof Ridgeline 1 {L} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="67" network="2" savedIndex="4"/>
+		<channel name="Roof Ridgeline 1 {L} (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="68" network="2" savedIndex="5"/>
+		<channel name="Roof Ridgeline 1 {L} (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="69" network="2" savedIndex="6"/>
+		<channel name="Roof Ridgeline 2 {R} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="70" network="2" savedIndex="7"/>
+		<channel name="Roof Ridgeline 2 {R} (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="71" network="2" savedIndex="8"/>
+		<channel name="Roof Ridgeline 2 {R} (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="72" network="2" savedIndex="9"/>
+		<channel name="UFOs 1 {L} (RGB)" color="64" centiseconds="4928" deviceType="DMX Universe" circuit="78" network="1" savedIndex="10"/>
+		<channel name="UFOs 2 {CT} (RGB)" color="64" centiseconds="4928" deviceType="DMX Universe" circuit="8" network="2" savedIndex="11"/>
+		<channel name="UFOs 3 {R} (RGB)" color="64" centiseconds="4928" deviceType="DMX Universe" circuit="9" network="2" savedIndex="12"/>
+		<channel name="Wreath Berries (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="10" network="2" savedIndex="13"/>
+		<channel name="Wreath Leaves (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="11" network="2" savedIndex="14"/>
+		<channel name="Disco Balls (M)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="9" network="2" savedIndex="15"/>
+		<channel name="Even Bigger Nick Inside (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="4" network="2" savedIndex="16"/>
+		<channel name="Swirlies- Even Bigger Nick Fire (RO)" color="13311" centiseconds="4928" deviceType="DMX Universe" circuit="5" network="2" savedIndex="17"/>
+		<channel name="Snowfall Projectors (WB)" color="16777088" centiseconds="4928" deviceType="DMX Universe" circuit="91" network="1" savedIndex="18"/>
+		<channel name="Swirlies- Snowflakes (WB)" color="16777088" centiseconds="4928" deviceType="DMX Universe" circuit="89" network="1" savedIndex="19"/>
+		<channel name="Lasers- House Front (RGB)" color="64" centiseconds="4928" deviceType="DMX Universe" circuit="88" network="1" savedIndex="20"/>
+		<channel name="Swiriles- Candy Canes (RG)" color="128" centiseconds="4928" deviceType="DMX Universe" circuit="6" network="2" savedIndex="21"/>
+		<channel name="Bushes 1 {S} Rainbow (ROGBV)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="65" network="1" savedIndex="22"/>
+		<channel name="Bushes 2.1 {L} (M)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="66" network="1" savedIndex="23"/>
+		<channel name="Bushes 2.2 {L} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="67" network="1" savedIndex="24"/>
+		<channel name="Bushes 2.3 {L} Low (O)" color="33023" centiseconds="4928" deviceType="DMX Universe" circuit="68" network="1" savedIndex="25"/>
+		<channel name="Bushes 3 {C} (RGB) (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="101" network="1" savedIndex="26"/>
+		<channel name="Bushes 3 {C} (RGB) (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="102" network="1" savedIndex="27"/>
+		<channel name="Bushes 3 {C} (RGB) (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="103" network="1" savedIndex="28"/>
+		<channel name="Bushes 3.4 {C} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="104" network="1" savedIndex="29"/>
+		<channel name="Bushes 4.1 {D} (P)" color="16744703" centiseconds="4928" deviceType="DMX Universe" circuit="15" network="2" savedIndex="30"/>
+		<channel name="Bushes 4.2 {D} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="16" network="2" savedIndex="31"/>
+		<channel name="Bushes 5 {R} (RGB) (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="82" network="2" savedIndex="32"/>
+		<channel name="Bushes 5 {R} (RGB) (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="83" network="2" savedIndex="33"/>
+		<channel name="Bushes 5 {R} (RGB) (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="84" network="2" savedIndex="34"/>
+		<channel name="Bushes 5.4 {R} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="85" network="2" savedIndex="35"/>
+		<channel name="Bushes 5.5 {R} (V)" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="86" network="2" savedIndex="36"/>
+		<channel name="Bushes 5.6 {R} (M)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="87" network="2" savedIndex="37"/>
+		<channel name="Strobes- 5mm- Bushes {BLC} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="69" network="1" savedIndex="38"/>
+		<channel name="Strobes- C9- Bushes {BLC} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="71" network="1" savedIndex="39"/>
+		<channel name="Strobes- C9- Roof Bushes Trees {R} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="12" network="2" savedIndex="40"/>
+		<channel name="Strobes C9- Pine" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="112" network="2" savedIndex="41"/>
+		<channel name="Tree- Tomato A1.1 (L} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="1" network="1" savedIndex="42"/>
+		<channel name="Tree- Tomato A1.2 (L} (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="2" network="1" savedIndex="43"/>
+		<channel name="Tree- Tomato A1.3 (L} (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="3" network="1" savedIndex="44"/>
+		<channel name="Tree- Tomato A1.4 {L} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="4" network="1" savedIndex="45"/>
+		<channel name="Tree- Tomato A2.1 (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="5" network="1" savedIndex="46"/>
+		<channel name="Tree- Tomato A2.2 (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="6" network="1" savedIndex="47"/>
+		<channel name="Tree- Tomato A2.3 (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="7" network="1" savedIndex="48"/>
+		<channel name="Tree- Tomato A2.4 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="8" network="1" savedIndex="49"/>
+		<channel name="Tree- Tomato A3.1 (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="9" network="1" savedIndex="50"/>
+		<channel name="Tree- Tomato A3.2 (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="10" network="1" savedIndex="51"/>
+		<channel name="Tree- Tomato A3.3 (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="11" network="1" savedIndex="52"/>
+		<channel name="Tree- Tomato A3.4 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="12" network="1" savedIndex="53"/>
+		<channel name="Tree- Tomato A4.1 {CL} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="13" network="1" savedIndex="54"/>
+		<channel name="Tree- Tomato A4.2 {CL} (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="14" network="1" savedIndex="55"/>
+		<channel name="Tree- Tomato A4.3 {CL} (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="15" network="1" savedIndex="56"/>
+		<channel name="Tree- Tomato A4.4 {CL} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="16" network="1" savedIndex="57"/>
+		<channel name="Tree- Tomato A5.1 {CR} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="17" network="1" savedIndex="58"/>
+		<channel name="Tree- Tomato A5.2 {CR} (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="18" network="1" savedIndex="59"/>
+		<channel name="Tree- Tomato A5.3 {CR} (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="19" network="1" savedIndex="60"/>
+		<channel name="Tree- Tomato A5.4 {CR} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="20" network="1" savedIndex="61"/>
+		<channel name="Tree- Tomato A6.1 (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="21" network="1" savedIndex="62"/>
+		<channel name="Tree- Tomato A6.2 (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="22" network="1" savedIndex="63"/>
+		<channel name="Tree- Tomato A6.3 (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="23" network="1" savedIndex="64"/>
+		<channel name="Tree- Tomato A6.4 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="24" network="1" savedIndex="65"/>
+		<channel name="Tree- Tomato A7.1 (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="25" network="1" savedIndex="66"/>
+		<channel name="Tree- Tomato A7.2 (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="26" network="1" savedIndex="67"/>
+		<channel name="Tree- Tomato A7.3 (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="27" network="1" savedIndex="68"/>
+		<channel name="Tree- Tomato A7.4 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="28" network="1" savedIndex="69"/>
+		<channel name="Tree- Tomato A8.1 {R} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="29" network="1" savedIndex="70"/>
+		<channel name="Tree- Tomato A8.2 {R} (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="30" network="1" savedIndex="71"/>
+		<channel name="Tree- Tomato A8.3 {R} (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="31" network="1" savedIndex="72"/>
+		<channel name="Tree- Tomato A8.4 {R} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="32" network="1" savedIndex="73"/>
+		<channel name="Tree- Tomato B1.1 {L} (V)" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="33" network="1" savedIndex="74"/>
+		<channel name="Tree- Tomato B1.2 {L} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="34" network="1" savedIndex="75"/>
+		<channel name="Tree- Tomato B2.1 (V)" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="35" network="1" savedIndex="76"/>
+		<channel name="Tree- Tomato B2.2 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="36" network="1" savedIndex="77"/>
+		<channel name="Tree- Tomato B3.1 (V)" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="37" network="1" savedIndex="78"/>
+		<channel name="Tree- Tomato B3.2 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="38" network="1" savedIndex="79"/>
+		<channel name="Tree- Tomato B4.1 {CL} (V)" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="39" network="1" savedIndex="80"/>
+		<channel name="Tree- Tomato B4.2 {CL} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="40" network="1" savedIndex="81"/>
+		<channel name="Tree- Tomato B5.1 {CR} (V)" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="41" network="1" savedIndex="82"/>
+		<channel name="Tree- Tomato B5.2 {CR} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="42" network="1" savedIndex="83"/>
+		<channel name="Tree- Tomato B6.1 (V)" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="43" network="1" savedIndex="84"/>
+		<channel name="Tree- Tomato B6.2 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="44" network="1" savedIndex="85"/>
+		<channel name="Tree- Tomato B7.1 (V)" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="45" network="1" savedIndex="86"/>
+		<channel name="Tree- Tomato B7.2 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="46" network="1" savedIndex="87"/>
+		<channel name="Tree- Tomato B8.1 {R} (V)" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="47" network="1" savedIndex="88"/>
+		<channel name="Tree- Tomato B8.2 {R} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="48" network="1" savedIndex="89"/>
+		<channel name="Strobes- C9- Trees {FC} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="59" network="1" savedIndex="90"/>
+		<channel name="Tree- Tinsel 1 {L} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="55" network="1" savedIndex="91"/>
+		<channel name="Tree- Tinsel 2 {R} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="56" network="1" savedIndex="92"/>
+		<channel name="Tree- Big AC 1 (M)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="53" network="1" savedIndex="93"/>
+		<channel name="Tree- Small {L} (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="54" network="1" savedIndex="94"/>
+		<channel name="Trees- Willow and Palm (GW)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="58" network="1" savedIndex="95"/>
+		<channel name="Tree- Rainbow Inflatible (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="61" network="2" savedIndex="96"/>
+		<channel name="Tree- Rainbow Inflatible (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="11" network="2" savedIndex="97"/>
+		<channel name="Tree- Rainbow Inflatible (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="12" network="2" savedIndex="98"/>
+		<channel name="Trees- Rainbow (ROYGBV)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="57" network="1" savedIndex="99"/>
+		<channel name="Presents (M)" color="12615744" centiseconds="4928" deviceType="DMX Universe" circuit="60" network="1" savedIndex="100"/>
+		<channel name="Tree- Spiral 1 {L} (WR)" color="8421631" centiseconds="4928" deviceType="DMX Universe" circuit="49" network="1" savedIndex="101"/>
+		<channel name="Tree- Spiral 2 {F} (WG)" color="8454016" centiseconds="4928" deviceType="DMX Universe" circuit="50" network="1" savedIndex="102"/>
+		<channel name="Tree- Spiral 3 {R} (WB)" color="16744576" centiseconds="4928" deviceType="DMX Universe" circuit="51" network="1" savedIndex="103"/>
+		<channel name="Tree- Spiral 4 {B} (WV)" color="16744639" centiseconds="4928" deviceType="DMX Universe" circuit="52" network="1" savedIndex="104"/>
+		<channel name="Trees- Willow and Palm (GW)" color="8454016" centiseconds="4928" deviceType="DMX Universe" circuit="58" network="1" savedIndex="105"/>
+		<channel name="Tree- New 1" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="61" network="1" savedIndex="106"/>
+		<channel name="Tree- New 2" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="62" network="1" savedIndex="107"/>
+		<channel name="Tree- New 3" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="63" network="1" savedIndex="108"/>
+		<channel name="Tree- New 4" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="64" network="1" savedIndex="109"/>
+		<channel name="Strobes- C9- Trees {FC} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="59" network="1" savedIndex="110"/>
+		<channel name="Candy Canes 1 (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="97" network="1" savedIndex="111"/>
+		<channel name="Candy Canes 2 (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="98" network="1" savedIndex="112"/>
+		<channel name="Candy Canes 3 (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="99" network="1" savedIndex="113"/>
+		<channel name="Candy Canes 4 (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="100" network="1" savedIndex="114"/>
+		<channel name="Nativity Jesus Joseph Mary" color="4227200" centiseconds="4928" deviceType="DMX Universe" circuit="99" network="2" savedIndex="115"/>
+		<channel name="Nativity Shephards" color="12615744" centiseconds="4928" deviceType="DMX Universe" circuit="100" network="2" savedIndex="116"/>
+		<channel name="Nativity Wisemen" color="32768" centiseconds="4928" deviceType="DMX Universe" circuit="101" network="2" savedIndex="117"/>
+		<channel name="Manger Flood 1 {L} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="49" network="2" savedIndex="118"/>
+		<channel name="Manger Flood 1 {L} (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="5" network="2" savedIndex="119"/>
+		<channel name="Manger Flood 1 {L} (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="6" network="2" savedIndex="120"/>
+		<channel name="Manger Flood 2 {R} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="52" network="2" savedIndex="121"/>
+		<channel name="Manger Flood 2 {R} (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="53" network="2" savedIndex="122"/>
+		<channel name="Manger Flood 2 {R} (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="54" network="2" savedIndex="123"/>
+		<channel name="Swirlies- Manger Stars (RWB)" color="12615680" centiseconds="4928" deviceType="DMX Universe" circuit="109" network="2" savedIndex="124"/>
+		<channel name="Menorah (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="74" network="1" savedIndex="125"/>
+		<channel name="Yule Log (O)" color="33023" centiseconds="4928" deviceType="DMX Universe" circuit="93" network="1" savedIndex="126"/>
+		<channel name="Flying Spaghetti Monster (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="82" network="1" savedIndex="127"/>
+		<channel name="Coexist Flag (MRGB)" color="64" centiseconds="4928" deviceType="DMX Universe" circuit="71" network="1" savedIndex="128"/>
+		<channel name="Festivus Pole Flood (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="55" network="2" savedIndex="129"/>
+		<channel name="Festivus Pole Flood (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="2" network="2" savedIndex="130"/>
+		<channel name="Festivus Pole Flood (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="3" network="2" savedIndex="131"/>
+		<channel name="Peace Sign (RGB)" color="64" centiseconds="4928" deviceType="DMX Universe" circuit="75" network="1" savedIndex="132"/>
+		<channel name="Swirlies- Pine (GO)" color="16384" centiseconds="4928" deviceType="DMX Universe" circuit="110" network="2" savedIndex="133"/>
+		<channel name="Swirlies- Oak (RGB)" color="64" centiseconds="4928" deviceType="DMX Universe" circuit="93" network="2" savedIndex="134"/>
+		<channel name="Swirlies- Driveway (RGB)" color="64" centiseconds="4928" deviceType="DMX Universe" circuit="108" network="2" savedIndex="135"/>
+		<channel name="Swirlies- Street (M)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="111" network="2" savedIndex="136"/>
+		<channel name="Lasers- Street (RG)" color="128" centiseconds="4928" deviceType="DMX Universe" circuit="107" network="2" savedIndex="137"/>
+		<channel name="Lasers- Driveway (RG)" color="128" centiseconds="4928" deviceType="DMX Universe" circuit="106" network="2" savedIndex="138"/>
+		<channel name="Rotating Beacons {F} (RGBO)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="37" network="2" savedIndex="139"/>
+		<channel name="Rotating Beacons {R} (RGBO)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="38" network="2" savedIndex="140"/>
+		<channel name="Rotating Beacons {B} (RGBO)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="39" network="2" savedIndex="141"/>
+		<channel name="Snow Lake (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="94" network="1" savedIndex="142"/>
+		<channel name="Snowman (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="83" network="1" savedIndex="143"/>
+		<channel name="Penguins" color="4227200" centiseconds="4928" deviceType="DMX Universe" circuit="81" network="1" savedIndex="144"/>
+		<channel name="Snowman Lamp Inflatable (M)" color="128" centiseconds="4928" deviceType="DMX Universe" circuit="107" network="1" savedIndex="145"/>
+		<channel name="zYellow Snow (Y)" color="65535" centiseconds="4928" deviceType="DMX Universe" circuit="8" network="999" savedIndex="146"/>
+		<channel name="Mailboxes (O)" color="33023" centiseconds="4928" deviceType="DMX Universe" circuit="108" network="1" savedIndex="147"/>
+		<channel name="Countdown Timer (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="105" network="1" savedIndex="148"/>
+		<channel name="Lamp Posts (Y)" color="65535" centiseconds="4928" deviceType="DMX Universe" circuit="87" network="1" savedIndex="149"/>
+		<channel name="Lamp Post Directions (O)" color="33023" centiseconds="4928" deviceType="DMX Universe" circuit="72" network="1" savedIndex="150"/>
+		<channel name="Work Together 1 (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="109" network="1" savedIndex="151"/>
+		<channel name="Work Together 2 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="110" network="1" savedIndex="152"/>
+		<channel name="Work Together 3 (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="111" network="1" savedIndex="153"/>
+		<channel name="Work Together 4 Swirly Stars (RWB)" color="64" centiseconds="4928" deviceType="DMX Universe" circuit="112" network="1" savedIndex="154"/>
+		<channel name="Snowman Lantern Inflatable (M)" color="16777175" centiseconds="4928" deviceType="DMX Universe" circuit="101" network="1" savedIndex="155"/>
+		<channel name="Gingerbread House Inflatable" color="3513087" centiseconds="4928" deviceType="DMX Universe" circuit="62" network="1" savedIndex="156"/>
+		<channel name="New Channel" color="12615744" centiseconds="4928" savedIndex="157"/>
+		<channel name="On the Air (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="1" network="2" savedIndex="158">
+			<effect type="intensity" startCentisecond="0" endCentisecond="4928" intensity="100"/>
+		</channel>
+		<channel name="Amplifier 12V" color="8421376" centiseconds="4928" deviceType="DMX Universe" circuit="48" network="2" savedIndex="159">
+			<effect type="intensity" startCentisecond="0" endCentisecond="4928" intensity="100"/>
+		</channel>
+		<channel name="Transmitter 12V" color="8421376" centiseconds="4928" deviceType="DMX Universe" circuit="47" network="2" savedIndex="160">
+			<effect type="intensity" startCentisecond="0" endCentisecond="4928" intensity="100"/>
+		</channel>
+		<channel name="Laser- Streetlight (R)" color="192" centiseconds="4928" deviceType="DMX Universe" circuit="76" network="1" savedIndex="161">
+			<effect type="intensity" startCentisecond="0" endCentisecond="4928" intensity="100"/>
+		</channel>
+		<channel name="zRainbow Rope Arch 1 (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="1" network="999" savedIndex="162"/>
+		<channel name="zRainbow Rope Arch 2 (O)" color="33023" centiseconds="4928" deviceType="DMX Universe" circuit="2" network="999" savedIndex="163"/>
+		<channel name="zRainbow Rope Arch 3 (Y)" color="65535" centiseconds="4928" deviceType="DMX Universe" circuit="3" network="999" savedIndex="164"/>
+		<channel name="zRainbow Rope Arch 4 (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="4" network="999" savedIndex="165"/>
+		<channel name="zRainbow Rope Arch 5 (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="5" network="999" savedIndex="166"/>
+		<channel name="zRainbow Rope Arch 6 (V)" color="16711808" centiseconds="4928" deviceType="DMX Universe" circuit="6" network="999" savedIndex="167"/>
+		<channel name="Spare 12 Volt G25" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="25" network="2" savedIndex="168"/>
+		<channel name="Garage Window 1 Dasher {L} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="25" network="2" savedIndex="169"/>
+		<channel name="Garage Window 2 Dancer (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="26" network="2" savedIndex="170"/>
+		<channel name="Garage Window 3 Prancer (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="27" network="2" savedIndex="171"/>
+		<channel name="Garage Window 4 Vixen (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="28" network="2" savedIndex="172"/>
+		<channel name="Garage Window 5 Comet (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="29" network="2" savedIndex="173"/>
+		<channel name="Garage Window 6 Cupid (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="30" network="2" savedIndex="174"/>
+		<channel name="Garage Window 7 Donner (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="31" network="2" savedIndex="175"/>
+		<channel name="Garage Window 8 Blitzen {R} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="32" network="2" savedIndex="176"/>
+		<channel name="Meteors 1 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="33" network="2" savedIndex="177"/>
+		<channel name="Meteors 2 (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="34" network="2" savedIndex="178"/>
+		<channel name="Meteors 3 (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="35" network="2" savedIndex="179"/>
+		<channel name="Meteors 4 (M)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="36" network="2" savedIndex="180"/>
+		<channel name="Bad Triac! D9" color="8421504" centiseconds="4928" deviceType="DMX Universe" circuit="73" network="1" savedIndex="181"/>
+		<channel name="Bad Triac! E12" color="8421504" centiseconds="4928" deviceType="DMX Universe" circuit="92" network="1" savedIndex="182"/>
+		<channel name="Bad Triac! Q1" color="8421504" centiseconds="4928" deviceType="DMX Universe" circuit="81" network="2" savedIndex="183"/>
+		<channel name="Post Spiral 1 {L} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="49" network="1" savedIndex="184"/>
+		<channel name="Post Spiral 2 {F} (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="50" network="1" savedIndex="185"/>
+		<channel name="Post Spiral 3 {R} (W)" color="16777215" centiseconds="4928" deviceType="DMX Universe" circuit="51" network="1" savedIndex="186"/>
+		<channel name="Post Spiral 4 {B} (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="52" network="1" savedIndex="187"/>
+		<channel name="z BAD TRIAC D12" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="76" network="1" savedIndex="188"/>
+		<channel name="Spare F1" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="97" network="1" savedIndex="189"/>
+		<channel name="Spare 12 Volt RGB Device (R)" color="255" centiseconds="4928" deviceType="DMX Universe" circuit="19" network="2" savedIndex="190"/>
+		<channel name="Spare 12 Volt RGB Device (G)" color="65280" centiseconds="4928" deviceType="DMX Universe" circuit="20" network="2" savedIndex="191"/>
+		<channel name="Spare 12 Volt RGB Device (B)" color="16711680" centiseconds="4928" deviceType="DMX Universe" circuit="21" network="2" savedIndex="192"/>
+		<channel name="Spare 5 Volt H13" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="45" network="2" savedIndex="193"/>
+		<channel name="Spare 5 Volt H14" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="46" network="2" savedIndex="194"/>
+		<channel name="Spare 5 Volt H15" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="47" network="2" savedIndex="195"/>
+		<channel name="Spare 5 Volt H16" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="48" network="2" savedIndex="196"/>
+		<channel name="Spare 5 Volt H17" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="49" network="2" savedIndex="197"/>
+		<channel name="Spare 5 Volt H18" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="50" network="2" savedIndex="198"/>
+		<channel name="Spare 5 Volt H19" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="51" network="2" savedIndex="199"/>
+		<channel name="Spare 5 Volt H20" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="52" network="2" savedIndex="200"/>
+		<channel name="Spare 5 Volt H21" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="53" network="2" savedIndex="201"/>
+		<channel name="Spare 5 Volt H22" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="54" network="2" savedIndex="202"/>
+		<channel name="Spare 5 Volt H23" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="55" network="2" savedIndex="203"/>
+		<channel name="Spare 5 Volt H24" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="56" network="2" savedIndex="204"/>
+		<channel name="BAD TRIAC! Controller J Output 1" color="4144959" centiseconds="4928" deviceType="DMX Universe" circuit="81" network="2" savedIndex="205"/>
+		<channel name="Spare J16" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="96" network="2" savedIndex="206"/>
+		<channel name="Spare K1" color="12632256" centiseconds="4928" deviceType="DMX Universe" circuit="97" network="2" savedIndex="207"/>
+		<channel name="zTree- Big 2 (M)" color="4210816" centiseconds="4928" deviceType="DMX Universe" circuit="7" network="999" savedIndex="208"/>
+		<channel name="Buddy- Happy everyone likes..." color="16711680" centiseconds="4928" savedIndex="209">
+			<effect type="intensity" startCentisecond="0" endCentisecond="430" intensity="100"/>
+		</channel>
+		<channel name="Giggling" color="16711935" centiseconds="4928" savedIndex="210">
+			<effect type="intensity" startCentisecond="435" endCentisecond="500" intensity="100"/>
+		</channel>
+		<channel name="TV Announcer" color="255" centiseconds="4928" savedIndex="211">
+			<effect type="intensity" startCentisecond="605" endCentisecond="1025" intensity="100"/>
+		</channel>
+		<channel name="Buddy- Not finished..." color="16776960" centiseconds="4928" savedIndex="212">
+			<effect type="intensity" startCentisecond="1055" endCentisecond="1315" intensity="100"/>
+		</channel>
+		<channel name="Announcer- Christmas Spirit..." color="12615935" centiseconds="4928" savedIndex="213">
+			<effect type="intensity" startCentisecond="1445" endCentisecond="1890" intensity="100"/>
+		</channel>
+		<channel name="I Wanna Thank You Baby" color="255" centiseconds="4928" savedIndex="214"/>
+		<channel name="You Make It Feel Like Christmas" color="65280" centiseconds="4928" savedIndex="215"/>
+		<rgbChannel totalCentiseconds="4928" name="C9 Chase (RGB)" savedIndex="216">
+			<channels>
+				<channel savedIndex="0"/>
+				<channel savedIndex="1"/>
+				<channel savedIndex="2"/>
+			</channels>
+		</rgbChannel>
+		<channelGroupList totalCentiseconds="4928" name="Eaves Chase (RGBW)" savedIndex="217">
+			<channelGroups>
+				<channelGroup savedIndex="216"/>
+				<channelGroup savedIndex="3"/>
+			</channelGroups>
+		</channelGroupList>
+		<rgbChannel totalCentiseconds="4928" name="Roof Ridgeline 1 {L}" savedIndex="218">
+			<channels>
+				<channel savedIndex="4"/>
+				<channel savedIndex="5"/>
+				<channel savedIndex="6"/>
+			</channels>
+		</rgbChannel>
+		<rgbChannel totalCentiseconds="4928" name="Roof Ridgeline 2 {R}" savedIndex="219">
+			<channels>
+				<channel savedIndex="7"/>
+				<channel savedIndex="8"/>
+				<channel savedIndex="9"/>
+			</channels>
+		</rgbChannel>
+		<channelGroupList totalCentiseconds="4928" name="Roof Ridgeline (RGB)" savedIndex="220">
+			<channelGroups>
+				<channelGroup savedIndex="218"/>
+				<channelGroup savedIndex="219"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="UFOs (RGB)" savedIndex="221">
+			<channelGroups>
+				<channelGroup savedIndex="10"/>
+				<channelGroup savedIndex="11"/>
+				<channelGroup savedIndex="12"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Big Festive Wreath (RG)" savedIndex="222">
+			<channelGroups>
+				<channelGroup savedIndex="13"/>
+				<channelGroup savedIndex="14"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="House Front and Roof" savedIndex="223">
+			<channelGroups>
+				<channelGroup savedIndex="217"/>
+				<channelGroup savedIndex="220"/>
+				<channelGroup savedIndex="221"/>
+				<channelGroup savedIndex="222"/>
+				<channelGroup savedIndex="15"/>
+				<channelGroup savedIndex="16"/>
+				<channelGroup savedIndex="17"/>
+				<channelGroup savedIndex="18"/>
+				<channelGroup savedIndex="19"/>
+				<channelGroup savedIndex="20"/>
+				<channelGroup savedIndex="21"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Bushes 2 {L} (WM)" savedIndex="224">
+			<channelGroups>
+				<channelGroup savedIndex="23"/>
+				<channelGroup savedIndex="24"/>
+				<channelGroup savedIndex="25"/>
+			</channelGroups>
+		</channelGroupList>
+		<rgbChannel totalCentiseconds="4928" name="Bushes 3 {C} (RGB)" savedIndex="225">
+			<channels>
+				<channel savedIndex="26"/>
+				<channel savedIndex="27"/>
+				<channel savedIndex="28"/>
+			</channels>
+		</rgbChannel>
+		<channelGroupList totalCentiseconds="4928" name="Bushes 3 {C} (RGBW)" savedIndex="226">
+			<channelGroups>
+				<channelGroup savedIndex="225"/>
+				<channelGroup savedIndex="29"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Bushes 4 {D} (PW)" savedIndex="227">
+			<channelGroups>
+				<channelGroup savedIndex="30"/>
+				<channelGroup savedIndex="31"/>
+			</channelGroups>
+		</channelGroupList>
+		<rgbChannel totalCentiseconds="4928" name="Bushes 5 {R} (RGB)" savedIndex="228">
+			<channels>
+				<channel savedIndex="32"/>
+				<channel savedIndex="33"/>
+				<channel savedIndex="34"/>
+			</channels>
+		</rgbChannel>
+		<channelGroupList totalCentiseconds="4928" name="Bushes 5 {R} (RGBWVM)" savedIndex="229">
+			<channelGroups>
+				<channelGroup savedIndex="228"/>
+				<channelGroup savedIndex="35"/>
+				<channelGroup savedIndex="36"/>
+				<channelGroup savedIndex="37"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Strobes (W)" savedIndex="230">
+			<channelGroups>
+				<channelGroup savedIndex="38"/>
+				<channelGroup savedIndex="39"/>
+				<channelGroup savedIndex="40"/>
+				<channelGroup savedIndex="41"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Bushes" savedIndex="231">
+			<channelGroups>
+				<channelGroup savedIndex="22"/>
+				<channelGroup savedIndex="224"/>
+				<channelGroup savedIndex="226"/>
+				<channelGroup savedIndex="227"/>
+				<channelGroup savedIndex="229"/>
+				<channelGroup savedIndex="230"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato A1 (Far Left} [U1.01-04]" savedIndex="232">
+			<channelGroups>
+				<channelGroup savedIndex="42"/>
+				<channelGroup savedIndex="43"/>
+				<channelGroup savedIndex="44"/>
+				<channelGroup savedIndex="45"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato A2 [U1.05-08]" savedIndex="233">
+			<channelGroups>
+				<channelGroup savedIndex="46"/>
+				<channelGroup savedIndex="47"/>
+				<channelGroup savedIndex="48"/>
+				<channelGroup savedIndex="49"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato A3 [U1.09-12]" savedIndex="234">
+			<channelGroups>
+				<channelGroup savedIndex="50"/>
+				<channelGroup savedIndex="51"/>
+				<channelGroup savedIndex="52"/>
+				<channelGroup savedIndex="53"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato A4 {Center Left} [U1.13-16]" savedIndex="235">
+			<channelGroups>
+				<channelGroup savedIndex="54"/>
+				<channelGroup savedIndex="55"/>
+				<channelGroup savedIndex="56"/>
+				<channelGroup savedIndex="57"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato A5 {Center Right} [U1.17-20]" savedIndex="236">
+			<channelGroups>
+				<channelGroup savedIndex="58"/>
+				<channelGroup savedIndex="59"/>
+				<channelGroup savedIndex="60"/>
+				<channelGroup savedIndex="61"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato A6 [U1.21-24]" savedIndex="237">
+			<channelGroups>
+				<channelGroup savedIndex="62"/>
+				<channelGroup savedIndex="63"/>
+				<channelGroup savedIndex="64"/>
+				<channelGroup savedIndex="65"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato A7 [U1.25-28]" savedIndex="238">
+			<channelGroups>
+				<channelGroup savedIndex="66"/>
+				<channelGroup savedIndex="67"/>
+				<channelGroup savedIndex="68"/>
+				<channelGroup savedIndex="69"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato A8 {Far Right} [U1.29-32]" savedIndex="239">
+			<channelGroups>
+				<channelGroup savedIndex="70"/>
+				<channelGroup savedIndex="71"/>
+				<channelGroup savedIndex="72"/>
+				<channelGroup savedIndex="73"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Row A By Tree (RGBW)" savedIndex="240">
+			<channelGroups>
+				<channelGroup savedIndex="232"/>
+				<channelGroup savedIndex="233"/>
+				<channelGroup savedIndex="234"/>
+				<channelGroup savedIndex="235"/>
+				<channelGroup savedIndex="236"/>
+				<channelGroup savedIndex="237"/>
+				<channelGroup savedIndex="238"/>
+				<channelGroup savedIndex="239"/>
+			</channelGroups>
+		</channelGroupList>
+		<rgbChannel totalCentiseconds="4928" name="Tree- Tomato A1 (L} (RGB)" savedIndex="241">
+			<channels>
+				<channel savedIndex="42"/>
+				<channel savedIndex="43"/>
+				<channel savedIndex="44"/>
+			</channels>
+		</rgbChannel>
+		<rgbChannel totalCentiseconds="4928" name="Tree- Tomato A2 (RGB)" savedIndex="242">
+			<channels>
+				<channel savedIndex="46"/>
+				<channel savedIndex="47"/>
+				<channel savedIndex="48"/>
+			</channels>
+		</rgbChannel>
+		<rgbChannel totalCentiseconds="4928" name="Tree- Tomato A3 (RGB)" savedIndex="243">
+			<channels>
+				<channel savedIndex="50"/>
+				<channel savedIndex="51"/>
+				<channel savedIndex="52"/>
+			</channels>
+		</rgbChannel>
+		<rgbChannel totalCentiseconds="4928" name="Tree- Tomato A4 {CL} (RGB)" savedIndex="244">
+			<channels>
+				<channel savedIndex="54"/>
+				<channel savedIndex="55"/>
+				<channel savedIndex="56"/>
+			</channels>
+		</rgbChannel>
+		<rgbChannel totalCentiseconds="4928" name="Tree- Tomato A5 {CR} (RGB)" savedIndex="245">
+			<channels>
+				<channel savedIndex="58"/>
+				<channel savedIndex="59"/>
+				<channel savedIndex="60"/>
+			</channels>
+		</rgbChannel>
+		<rgbChannel totalCentiseconds="4928" name="Tree- Tomato A6 (RGB)" savedIndex="246">
+			<channels>
+				<channel savedIndex="62"/>
+				<channel savedIndex="63"/>
+				<channel savedIndex="64"/>
+			</channels>
+		</rgbChannel>
+		<rgbChannel totalCentiseconds="4928" name="Tree- Tomato A7 (RGB)" savedIndex="247">
+			<channels>
+				<channel savedIndex="66"/>
+				<channel savedIndex="67"/>
+				<channel savedIndex="68"/>
+			</channels>
+		</rgbChannel>
+		<rgbChannel totalCentiseconds="4928" name="Tree- Tomato A8 {R} (RGB)" savedIndex="248">
+			<channels>
+				<channel savedIndex="70"/>
+				<channel savedIndex="71"/>
+				<channel savedIndex="72"/>
+			</channels>
+		</rgbChannel>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Row A As RGB" savedIndex="249">
+			<channelGroups>
+				<channelGroup savedIndex="241"/>
+				<channelGroup savedIndex="45"/>
+				<channelGroup savedIndex="242"/>
+				<channelGroup savedIndex="49"/>
+				<channelGroup savedIndex="243"/>
+				<channelGroup savedIndex="53"/>
+				<channelGroup savedIndex="244"/>
+				<channelGroup savedIndex="57"/>
+				<channelGroup savedIndex="245"/>
+				<channelGroup savedIndex="61"/>
+				<channelGroup savedIndex="246"/>
+				<channelGroup savedIndex="65"/>
+				<channelGroup savedIndex="247"/>
+				<channelGroup savedIndex="69"/>
+				<channelGroup savedIndex="248"/>
+				<channelGroup savedIndex="73"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato B1 {L} (VW)" savedIndex="250">
+			<channelGroups>
+				<channelGroup savedIndex="74"/>
+				<channelGroup savedIndex="75"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato B2 (VW)" savedIndex="251">
+			<channelGroups>
+				<channelGroup savedIndex="76"/>
+				<channelGroup savedIndex="77"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato B3 (VW)" savedIndex="252">
+			<channelGroups>
+				<channelGroup savedIndex="78"/>
+				<channelGroup savedIndex="79"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato B4 {CL} (VW)" savedIndex="253">
+			<channelGroups>
+				<channelGroup savedIndex="80"/>
+				<channelGroup savedIndex="81"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato B5 {CR} (VW)" savedIndex="254">
+			<channelGroups>
+				<channelGroup savedIndex="82"/>
+				<channelGroup savedIndex="83"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato B6 (VW)" savedIndex="255">
+			<channelGroups>
+				<channelGroup savedIndex="84"/>
+				<channelGroup savedIndex="85"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato B7 (VW)" savedIndex="256">
+			<channelGroups>
+				<channelGroup savedIndex="86"/>
+				<channelGroup savedIndex="87"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomato B8 {R} (VW)" savedIndex="257">
+			<channelGroups>
+				<channelGroup savedIndex="88"/>
+				<channelGroup savedIndex="89"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Row B (VW)" savedIndex="258">
+			<channelGroups>
+				<channelGroup savedIndex="250"/>
+				<channelGroup savedIndex="251"/>
+				<channelGroup savedIndex="252"/>
+				<channelGroup savedIndex="253"/>
+				<channelGroup savedIndex="254"/>
+				<channelGroup savedIndex="255"/>
+				<channelGroup savedIndex="256"/>
+				<channelGroup savedIndex="257"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Row A (R)" savedIndex="259">
+			<channelGroups>
+				<channelGroup savedIndex="42"/>
+				<channelGroup savedIndex="46"/>
+				<channelGroup savedIndex="50"/>
+				<channelGroup savedIndex="54"/>
+				<channelGroup savedIndex="58"/>
+				<channelGroup savedIndex="62"/>
+				<channelGroup savedIndex="66"/>
+				<channelGroup savedIndex="70"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Row A (G)" savedIndex="260">
+			<channelGroups>
+				<channelGroup savedIndex="43"/>
+				<channelGroup savedIndex="47"/>
+				<channelGroup savedIndex="51"/>
+				<channelGroup savedIndex="55"/>
+				<channelGroup savedIndex="59"/>
+				<channelGroup savedIndex="63"/>
+				<channelGroup savedIndex="67"/>
+				<channelGroup savedIndex="71"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Row A (B)" savedIndex="261">
+			<channelGroups>
+				<channelGroup savedIndex="44"/>
+				<channelGroup savedIndex="48"/>
+				<channelGroup savedIndex="52"/>
+				<channelGroup savedIndex="56"/>
+				<channelGroup savedIndex="60"/>
+				<channelGroup savedIndex="64"/>
+				<channelGroup savedIndex="68"/>
+				<channelGroup savedIndex="72"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Row A (W)" savedIndex="262">
+			<channelGroups>
+				<channelGroup savedIndex="45"/>
+				<channelGroup savedIndex="49"/>
+				<channelGroup savedIndex="53"/>
+				<channelGroup savedIndex="57"/>
+				<channelGroup savedIndex="61"/>
+				<channelGroup savedIndex="65"/>
+				<channelGroup savedIndex="69"/>
+				<channelGroup savedIndex="73"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Row B (V)" savedIndex="263">
+			<channelGroups>
+				<channelGroup savedIndex="74"/>
+				<channelGroup savedIndex="76"/>
+				<channelGroup savedIndex="78"/>
+				<channelGroup savedIndex="80"/>
+				<channelGroup savedIndex="82"/>
+				<channelGroup savedIndex="84"/>
+				<channelGroup savedIndex="86"/>
+				<channelGroup savedIndex="88"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Row B (W)" savedIndex="264">
+			<channelGroups>
+				<channelGroup savedIndex="250"/>
+				<channelGroup savedIndex="251"/>
+				<channelGroup savedIndex="252"/>
+				<channelGroup savedIndex="253"/>
+				<channelGroup savedIndex="254"/>
+				<channelGroup savedIndex="255"/>
+				<channelGroup savedIndex="256"/>
+				<channelGroup savedIndex="257"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Rows A &amp; B (W)" savedIndex="265">
+			<channelGroups>
+				<channelGroup savedIndex="75"/>
+				<channelGroup savedIndex="45"/>
+				<channelGroup savedIndex="77"/>
+				<channelGroup savedIndex="49"/>
+				<channelGroup savedIndex="79"/>
+				<channelGroup savedIndex="53"/>
+				<channelGroup savedIndex="81"/>
+				<channelGroup savedIndex="57"/>
+				<channelGroup savedIndex="61"/>
+				<channelGroup savedIndex="83"/>
+				<channelGroup savedIndex="65"/>
+				<channelGroup savedIndex="85"/>
+				<channelGroup savedIndex="69"/>
+				<channelGroup savedIndex="87"/>
+				<channelGroup savedIndex="73"/>
+				<channelGroup savedIndex="89"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tomato Rows A &amp; B By Color" savedIndex="266">
+			<channelGroups>
+				<channelGroup savedIndex="259"/>
+				<channelGroup savedIndex="260"/>
+				<channelGroup savedIndex="261"/>
+				<channelGroup savedIndex="262"/>
+				<channelGroup savedIndex="263"/>
+				<channelGroup savedIndex="264"/>
+				<channelGroup savedIndex="265"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Tree- Tomatos {All} (RGBWVW)" savedIndex="267">
+			<channelGroups>
+				<channelGroup savedIndex="240"/>
+				<channelGroup savedIndex="249"/>
+				<channelGroup savedIndex="258"/>
+				<channelGroup savedIndex="266"/>
+				<channelGroup savedIndex="90"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Tinsel (R)" savedIndex="268">
+			<channelGroups>
+				<channelGroup savedIndex="91"/>
+				<channelGroup savedIndex="92"/>
+			</channelGroups>
+		</channelGroupList>
+		<rgbChannel totalCentiseconds="4928" name="Tree- Rainbow Inflatible" savedIndex="269">
+			<channels>
+				<channel savedIndex="96"/>
+				<channel savedIndex="97"/>
+				<channel savedIndex="98"/>
+			</channels>
+		</rgbChannel>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Spiral" savedIndex="270">
+			<channelGroups>
+				<channelGroup savedIndex="101"/>
+				<channelGroup savedIndex="102"/>
+				<channelGroup savedIndex="103"/>
+				<channelGroup savedIndex="104"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- New" savedIndex="271">
+			<channelGroups>
+				<channelGroup savedIndex="106"/>
+				<channelGroup savedIndex="107"/>
+				<channelGroup savedIndex="108"/>
+				<channelGroup savedIndex="109"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees- Others" savedIndex="272">
+			<channelGroups>
+				<channelGroup savedIndex="93"/>
+				<channelGroup savedIndex="94"/>
+				<channelGroup savedIndex="95"/>
+				<channelGroup savedIndex="269"/>
+				<channelGroup savedIndex="99"/>
+				<channelGroup savedIndex="90"/>
+				<channelGroup savedIndex="100"/>
+				<channelGroup savedIndex="270"/>
+				<channelGroup savedIndex="105"/>
+				<channelGroup savedIndex="271"/>
+				<channelGroup savedIndex="110"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Trees" savedIndex="273">
+			<channelGroups>
+				<channelGroup savedIndex="267"/>
+				<channelGroup savedIndex="268"/>
+				<channelGroup savedIndex="272"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Candy Canes (RG)" savedIndex="274">
+			<channelGroups>
+				<channelGroup savedIndex="111"/>
+				<channelGroup savedIndex="112"/>
+				<channelGroup savedIndex="113"/>
+				<channelGroup savedIndex="114"/>
+				<channelGroup savedIndex="21"/>
+			</channelGroups>
+		</channelGroupList>
+		<rgbChannel totalCentiseconds="4928" name="Manger Flood 1 {L}" savedIndex="275">
+			<channels>
+				<channel savedIndex="118"/>
+				<channel savedIndex="119"/>
+				<channel savedIndex="120"/>
+			</channels>
+		</rgbChannel>
+		<rgbChannel totalCentiseconds="4928" name="Manger Flood 2 {R}" savedIndex="276">
+			<channels>
+				<channel savedIndex="121"/>
+				<channel savedIndex="122"/>
+				<channel savedIndex="123"/>
+			</channels>
+		</rgbChannel>
+		<channelGroupList totalCentiseconds="4928" name="Manger Group" savedIndex="277">
+			<channelGroups>
+				<channelGroup savedIndex="115"/>
+				<channelGroup savedIndex="116"/>
+				<channelGroup savedIndex="117"/>
+				<channelGroup savedIndex="275"/>
+				<channelGroup savedIndex="276"/>
+				<channelGroup savedIndex="124"/>
+			</channelGroups>
+		</channelGroupList>
+		<rgbChannel totalCentiseconds="4928" name="Festivus Pole Flood" savedIndex="278">
+			<channels>
+				<channel savedIndex="129"/>
+				<channel savedIndex="130"/>
+				<channel savedIndex="131"/>
+			</channels>
+		</rgbChannel>
+		<channelGroupList totalCentiseconds="4928" name="Religious" savedIndex="279">
+			<channelGroups>
+				<channelGroup savedIndex="277"/>
+				<channelGroup savedIndex="125"/>
+				<channelGroup savedIndex="126"/>
+				<channelGroup savedIndex="127"/>
+				<channelGroup savedIndex="128"/>
+				<channelGroup savedIndex="278"/>
+				<channelGroup savedIndex="132"/>
+				<channelGroup savedIndex="222"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Swirly Bulbs (RGBWOV)" savedIndex="280">
+			<channelGroups>
+				<channelGroup savedIndex="133"/>
+				<channelGroup savedIndex="134"/>
+				<channelGroup savedIndex="135"/>
+				<channelGroup savedIndex="136"/>
+				<channelGroup savedIndex="124"/>
+				<channelGroup savedIndex="19"/>
+				<channelGroup savedIndex="17"/>
+				<channelGroup savedIndex="21"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Lasers (RGB)" savedIndex="281">
+			<channelGroups>
+				<channelGroup savedIndex="137"/>
+				<channelGroup savedIndex="138"/>
+				<channelGroup savedIndex="20"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Rotating Beacons (RGBO)" savedIndex="282">
+			<channelGroups>
+				<channelGroup savedIndex="139"/>
+				<channelGroup savedIndex="140"/>
+				<channelGroup savedIndex="141"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Swirlies and Spinning Things" savedIndex="283">
+			<channelGroups>
+				<channelGroup savedIndex="280"/>
+				<channelGroup savedIndex="281"/>
+				<channelGroup savedIndex="221"/>
+				<channelGroup savedIndex="15"/>
+				<channelGroup savedIndex="282"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Snow (WB)" savedIndex="284">
+			<channelGroups>
+				<channelGroup savedIndex="142"/>
+				<channelGroup savedIndex="18"/>
+				<channelGroup savedIndex="19"/>
+				<channelGroup savedIndex="143"/>
+				<channelGroup savedIndex="144"/>
+				<channelGroup savedIndex="145"/>
+				<channelGroup savedIndex="146"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Pine Tree Group" savedIndex="285">
+			<channelGroups>
+				<channelGroup savedIndex="229"/>
+				<channelGroup savedIndex="133"/>
+				<channelGroup savedIndex="135"/>
+				<channelGroup savedIndex="138"/>
+				<channelGroup savedIndex="136"/>
+				<channelGroup savedIndex="137"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Right Yard Group" savedIndex="286">
+			<channelGroups>
+				<channelGroup savedIndex="285"/>
+				<channelGroup savedIndex="277"/>
+				<channelGroup savedIndex="134"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Manger Floods (RGB)" savedIndex="287">
+			<channelGroups>
+				<channelGroup savedIndex="275"/>
+				<channelGroup savedIndex="276"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="RGB Items (RGB)" savedIndex="288">
+			<channelGroups>
+				<channelGroup savedIndex="249"/>
+				<channelGroup savedIndex="216"/>
+				<channelGroup savedIndex="225"/>
+				<channelGroup savedIndex="228"/>
+				<channelGroup savedIndex="278"/>
+				<channelGroup savedIndex="287"/>
+				<channelGroup savedIndex="220"/>
+				<channelGroup savedIndex="269"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Work Together Sign (RWB)" savedIndex="289">
+			<channelGroups>
+				<channelGroup savedIndex="151"/>
+				<channelGroup savedIndex="152"/>
+				<channelGroup savedIndex="153"/>
+				<channelGroup savedIndex="154"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Oddballs" savedIndex="290">
+			<channelGroups>
+				<channelGroup savedIndex="147"/>
+				<channelGroup savedIndex="100"/>
+				<channelGroup savedIndex="148"/>
+				<channelGroup savedIndex="149"/>
+				<channelGroup savedIndex="150"/>
+				<channelGroup savedIndex="289"/>
+				<channelGroup savedIndex="132"/>
+				<channelGroup savedIndex="155"/>
+				<channelGroup savedIndex="156"/>
+				<channelGroup savedIndex="157"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Power" savedIndex="291">
+			<channelGroups>
+				<channelGroup savedIndex="158"/>
+				<channelGroup savedIndex="159"/>
+				<channelGroup savedIndex="160"/>
+				<channelGroup savedIndex="161"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Rainbow Ropelights [L5.01-06]" savedIndex="292">
+			<channelGroups>
+				<channelGroup savedIndex="162"/>
+				<channelGroup savedIndex="163"/>
+				<channelGroup savedIndex="164"/>
+				<channelGroup savedIndex="165"/>
+				<channelGroup savedIndex="166"/>
+				<channelGroup savedIndex="167"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Twinklers [U1.94-97]" savedIndex="293">
+			<channelGroups>
+				<channelGroup savedIndex="168"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Garage Windows [L6.16-23]" savedIndex="294">
+			<channelGroups>
+				<channelGroup savedIndex="169"/>
+				<channelGroup savedIndex="170"/>
+				<channelGroup savedIndex="171"/>
+				<channelGroup savedIndex="172"/>
+				<channelGroup savedIndex="173"/>
+				<channelGroup savedIndex="174"/>
+				<channelGroup savedIndex="175"/>
+				<channelGroup savedIndex="176"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Meteors [L6.01-04]" savedIndex="295">
+			<channelGroups>
+				<channelGroup savedIndex="177"/>
+				<channelGroup savedIndex="178"/>
+				<channelGroup savedIndex="179"/>
+				<channelGroup savedIndex="180"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Bad Triacs!" savedIndex="296">
+			<channelGroups>
+				<channelGroup savedIndex="181"/>
+				<channelGroup savedIndex="182"/>
+				<channelGroup savedIndex="183"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Retired or Inactive" savedIndex="297">
+			<channelGroups>
+				<channelGroup savedIndex="292"/>
+				<channelGroup savedIndex="293"/>
+				<channelGroup savedIndex="294"/>
+				<channelGroup savedIndex="295"/>
+				<channelGroup savedIndex="296"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Strobes" savedIndex="298">
+			<channelGroups>
+				<channelGroup savedIndex="90"/>
+				<channelGroup savedIndex="38"/>
+				<channelGroup savedIndex="39"/>
+				<channelGroup savedIndex="40"/>
+				<channelGroup savedIndex="41"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="RGB Floods (R)" savedIndex="299">
+			<channelGroups>
+				<channelGroup savedIndex="129"/>
+				<channelGroup savedIndex="121"/>
+				<channelGroup savedIndex="118"/>
+				<channelGroup savedIndex="96"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Candy Canes 2 + 4 (R)" savedIndex="300">
+			<channelGroups>
+				<channelGroup savedIndex="112"/>
+				<channelGroup savedIndex="114"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Red Stuff (R)" savedIndex="301">
+			<channelGroups>
+				<channelGroup savedIndex="0"/>
+				<channelGroup savedIndex="26"/>
+				<channelGroup savedIndex="32"/>
+				<channelGroup savedIndex="259"/>
+				<channelGroup savedIndex="268"/>
+				<channelGroup savedIndex="299"/>
+				<channelGroup savedIndex="300"/>
+				<channelGroup savedIndex="4"/>
+				<channelGroup savedIndex="7"/>
+				<channelGroup savedIndex="162"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="RGB Floods (G)" savedIndex="302">
+			<channelGroups>
+				<channelGroup savedIndex="130"/>
+				<channelGroup savedIndex="119"/>
+				<channelGroup savedIndex="122"/>
+				<channelGroup savedIndex="97"/>
+				<channelGroup savedIndex="5"/>
+				<channelGroup savedIndex="8"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Candy Canes 1 + 3 (G)" savedIndex="303">
+			<channelGroups>
+				<channelGroup savedIndex="111"/>
+				<channelGroup savedIndex="113"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Green Stuff (G)" savedIndex="304">
+			<channelGroups>
+				<channelGroup savedIndex="1"/>
+				<channelGroup savedIndex="27"/>
+				<channelGroup savedIndex="33"/>
+				<channelGroup savedIndex="260"/>
+				<channelGroup savedIndex="302"/>
+				<channelGroup savedIndex="303"/>
+				<channelGroup savedIndex="165"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="RGB Floods Blues" savedIndex="305">
+			<channelGroups>
+				<channelGroup savedIndex="131"/>
+				<channelGroup savedIndex="120"/>
+				<channelGroup savedIndex="123"/>
+				<channelGroup savedIndex="98"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Blue Stuff (B)" savedIndex="306">
+			<channelGroups>
+				<channelGroup savedIndex="2"/>
+				<channelGroup savedIndex="28"/>
+				<channelGroup savedIndex="34"/>
+				<channelGroup savedIndex="179"/>
+				<channelGroup savedIndex="261"/>
+				<channelGroup savedIndex="94"/>
+				<channelGroup savedIndex="305"/>
+				<channelGroup savedIndex="148"/>
+				<channelGroup savedIndex="125"/>
+				<channelGroup savedIndex="6"/>
+				<channelGroup savedIndex="9"/>
+				<channelGroup savedIndex="166"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Bushes" savedIndex="307">
+			<channelGroups>
+				<channelGroup savedIndex="24"/>
+				<channelGroup savedIndex="29"/>
+				<channelGroup savedIndex="31"/>
+				<channelGroup savedIndex="35"/>
+				<channelGroup savedIndex="230"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Meteors" savedIndex="308">
+			<channelGroups>
+				<channelGroup savedIndex="177"/>
+				<channelGroup savedIndex="178"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="White Stuff (W)" savedIndex="309">
+			<channelGroups>
+				<channelGroup savedIndex="3"/>
+				<channelGroup savedIndex="262"/>
+				<channelGroup savedIndex="264"/>
+				<channelGroup savedIndex="307"/>
+				<channelGroup savedIndex="142"/>
+				<channelGroup savedIndex="127"/>
+				<channelGroup savedIndex="143"/>
+				<channelGroup savedIndex="308"/>
+				<channelGroup savedIndex="293"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Yellow Orange Violet Pink Stuff (YOVP)" savedIndex="310">
+			<channelGroups>
+				<channelGroup savedIndex="36"/>
+				<channelGroup savedIndex="263"/>
+				<channelGroup savedIndex="25"/>
+				<channelGroup savedIndex="126"/>
+				<channelGroup savedIndex="147"/>
+				<channelGroup savedIndex="30"/>
+				<channelGroup savedIndex="167"/>
+				<channelGroup savedIndex="164"/>
+				<channelGroup savedIndex="163"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Bushes (M)" savedIndex="311">
+			<channelGroups>
+				<channelGroup savedIndex="22"/>
+				<channelGroup savedIndex="23"/>
+				<channelGroup savedIndex="37"/>
+				<channelGroup savedIndex="99"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Spiral Trees (WWWWRGBV)" savedIndex="312">
+			<channelGroups>
+				<channelGroup savedIndex="184"/>
+				<channelGroup savedIndex="185"/>
+				<channelGroup savedIndex="186"/>
+				<channelGroup savedIndex="187"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Multicolor Stuff (M)" savedIndex="313">
+			<channelGroups>
+				<channelGroup savedIndex="311"/>
+				<channelGroup savedIndex="283"/>
+				<channelGroup savedIndex="180"/>
+				<channelGroup savedIndex="312"/>
+				<channelGroup savedIndex="132"/>
+				<channelGroup savedIndex="100"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="A - Tree- Tomatos Row A {Renard 32 Plus} [U1.01-32]" savedIndex="314">
+			<channelGroups>
+				<channelGroup savedIndex="232"/>
+				<channelGroup savedIndex="233"/>
+				<channelGroup savedIndex="234"/>
+				<channelGroup savedIndex="235"/>
+				<channelGroup savedIndex="236"/>
+				<channelGroup savedIndex="237"/>
+				<channelGroup savedIndex="238"/>
+				<channelGroup savedIndex="239"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="B - Tree- Tomatos Row B {LOR CTB16PC} [U01.033-048]" savedIndex="315">
+			<channelGroups>
+				<channelGroup savedIndex="74"/>
+				<channelGroup savedIndex="75"/>
+				<channelGroup savedIndex="76"/>
+				<channelGroup savedIndex="77"/>
+				<channelGroup savedIndex="78"/>
+				<channelGroup savedIndex="79"/>
+				<channelGroup savedIndex="80"/>
+				<channelGroup savedIndex="81"/>
+				<channelGroup savedIndex="82"/>
+				<channelGroup savedIndex="83"/>
+				<channelGroup savedIndex="84"/>
+				<channelGroup savedIndex="85"/>
+				<channelGroup savedIndex="86"/>
+				<channelGroup savedIndex="87"/>
+				<channelGroup savedIndex="88"/>
+				<channelGroup savedIndex="89"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="C - Other Trees {LOR1602W} [U1.049-064]" savedIndex="316">
+			<channelGroups>
+				<channelGroup savedIndex="93"/>
+				<channelGroup savedIndex="94"/>
+				<channelGroup savedIndex="268"/>
+				<channelGroup savedIndex="99"/>
+				<channelGroup savedIndex="95"/>
+				<channelGroup savedIndex="90"/>
+				<channelGroup savedIndex="100"/>
+				<channelGroup savedIndex="111"/>
+				<channelGroup savedIndex="112"/>
+				<channelGroup savedIndex="113"/>
+				<channelGroup savedIndex="114"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="D - Yard Left {LOR1602WG3} [U01.065-080]" savedIndex="317">
+			<channelGroups>
+				<channelGroup savedIndex="22"/>
+				<channelGroup savedIndex="224"/>
+				<channelGroup savedIndex="38"/>
+				<channelGroup savedIndex="39"/>
+				<channelGroup savedIndex="128"/>
+				<channelGroup savedIndex="150"/>
+				<channelGroup savedIndex="161"/>
+				<channelGroup savedIndex="125"/>
+				<channelGroup savedIndex="132"/>
+				<channelGroup savedIndex="188"/>
+				<channelGroup savedIndex="143"/>
+				<channelGroup savedIndex="10"/>
+				<channelGroup savedIndex="126"/>
+				<channelGroup savedIndex="144"/>
+			</channelGroups>
+		</channelGroupList>
+		<rgbChannel totalCentiseconds="4928" name="Bushes 3 {C} (RGB)" savedIndex="318">
+			<channels>
+				<channel savedIndex="26"/>
+				<channel savedIndex="27"/>
+				<channel savedIndex="28"/>
+			</channels>
+		</rgbChannel>
+		<channelGroupList totalCentiseconds="4928" name="E - Yard Middle {LOR1602WG3} [U1.081-095]" savedIndex="319">
+			<channelGroups>
+				<channelGroup savedIndex="318"/>
+				<channelGroup savedIndex="29"/>
+				<channelGroup savedIndex="148"/>
+				<channelGroup savedIndex="127"/>
+				<channelGroup savedIndex="149"/>
+				<channelGroup savedIndex="20"/>
+				<channelGroup savedIndex="147"/>
+				<channelGroup savedIndex="142"/>
+				<channelGroup savedIndex="18"/>
+				<channelGroup savedIndex="19"/>
+				<channelGroup savedIndex="289"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="F - More Left Yard {Chinese Generic 12} [U1.097-108]" savedIndex="320">
+			<channelGroups>
+				<channelGroup savedIndex="189"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="1 - Universe 1 Left Yard" savedIndex="321">
+			<channelGroups>
+				<channelGroup savedIndex="314"/>
+				<channelGroup savedIndex="315"/>
+				<channelGroup savedIndex="316"/>
+				<channelGroup savedIndex="317"/>
+				<channelGroup savedIndex="319"/>
+				<channelGroup savedIndex="320"/>
+			</channelGroups>
+		</channelGroupList>
+		<rgbChannel totalCentiseconds="4928" name="Spare 12 Volt RGB Device" savedIndex="322">
+			<channels>
+				<channel savedIndex="190"/>
+				<channel savedIndex="191"/>
+				<channel savedIndex="192"/>
+			</channels>
+		</rgbChannel>
+		<channelGroupList totalCentiseconds="4928" name="G - 12 Volt Stuff {Chinese Generic 27LV} [U2.001-027]" savedIndex="323">
+			<channelGroups>
+				<channelGroup savedIndex="278"/>
+				<channelGroup savedIndex="275"/>
+				<channelGroup savedIndex="276"/>
+				<channelGroup savedIndex="269"/>
+				<channelGroup savedIndex="218"/>
+				<channelGroup savedIndex="219"/>
+				<channelGroup savedIndex="322"/>
+				<channelGroup savedIndex="282"/>
+				<channelGroup savedIndex="168"/>
+				<channelGroup savedIndex="159"/>
+				<channelGroup savedIndex="160"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="H - 5 Volt Stuff {LOR CTB24D} [U2.033-056]" savedIndex="324">
+			<channelGroups>
+				<channelGroup savedIndex="169"/>
+				<channelGroup savedIndex="170"/>
+				<channelGroup savedIndex="171"/>
+				<channelGroup savedIndex="172"/>
+				<channelGroup savedIndex="173"/>
+				<channelGroup savedIndex="174"/>
+				<channelGroup savedIndex="175"/>
+				<channelGroup savedIndex="176"/>
+				<channelGroup savedIndex="177"/>
+				<channelGroup savedIndex="178"/>
+				<channelGroup savedIndex="179"/>
+				<channelGroup savedIndex="180"/>
+				<channelGroup savedIndex="193"/>
+				<channelGroup savedIndex="194"/>
+				<channelGroup savedIndex="195"/>
+				<channelGroup savedIndex="196"/>
+				<channelGroup savedIndex="197"/>
+				<channelGroup savedIndex="198"/>
+				<channelGroup savedIndex="199"/>
+				<channelGroup savedIndex="200"/>
+				<channelGroup savedIndex="201"/>
+				<channelGroup savedIndex="202"/>
+				<channelGroup savedIndex="203"/>
+				<channelGroup savedIndex="204"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="I - High Power in Garage {LOR1602WG1} [U2.065-080]" savedIndex="325">
+			<channelGroups>
+				<channelGroup savedIndex="217"/>
+				<channelGroup savedIndex="11"/>
+				<channelGroup savedIndex="227"/>
+				<channelGroup savedIndex="40"/>
+				<channelGroup savedIndex="15"/>
+				<channelGroup savedIndex="16"/>
+				<channelGroup savedIndex="17"/>
+				<channelGroup savedIndex="21"/>
+				<channelGroup savedIndex="12"/>
+				<channelGroup savedIndex="222"/>
+				<channelGroup savedIndex="158"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="J - Right Yard {LOR1602WG3} [U2.081-096]" savedIndex="326">
+			<channelGroups>
+				<channelGroup savedIndex="205"/>
+				<channelGroup savedIndex="229"/>
+				<channelGroup savedIndex="138"/>
+				<channelGroup savedIndex="137"/>
+				<channelGroup savedIndex="115"/>
+				<channelGroup savedIndex="135"/>
+				<channelGroup savedIndex="124"/>
+				<channelGroup savedIndex="134"/>
+				<channelGroup savedIndex="133"/>
+				<channelGroup savedIndex="136"/>
+				<channelGroup savedIndex="206"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="K - More Right Yard {Chinese Generic 12} [U2.097-108]" savedIndex="327">
+			<channelGroups>
+				<channelGroup savedIndex="207"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="2 - Universe 2 - Garage + Right Yard" savedIndex="328">
+			<channelGroups>
+				<channelGroup savedIndex="323"/>
+				<channelGroup savedIndex="324"/>
+				<channelGroup savedIndex="325"/>
+				<channelGroup savedIndex="326"/>
+				<channelGroup savedIndex="327"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Rainbow Ropelights" savedIndex="329">
+			<channelGroups>
+				<channelGroup savedIndex="162"/>
+				<channelGroup savedIndex="163"/>
+				<channelGroup savedIndex="164"/>
+				<channelGroup savedIndex="165"/>
+				<channelGroup savedIndex="166"/>
+				<channelGroup savedIndex="167"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Z - Retired or Offline" savedIndex="330">
+			<channelGroups>
+				<channelGroup savedIndex="329"/>
+				<channelGroup savedIndex="208"/>
+				<channelGroup savedIndex="146"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="999 - Universe 999 Retired or offline" savedIndex="331">
+			<channelGroups>
+				<channelGroup savedIndex="330"/>
+			</channelGroups>
+		</channelGroupList>
+		<channelGroupList totalCentiseconds="4928" name="Song Parts" savedIndex="332">
+			<channelGroups>
+				<channelGroup savedIndex="209"/>
+				<channelGroup savedIndex="210"/>
+				<channelGroup savedIndex="211"/>
+				<channelGroup savedIndex="212"/>
+				<channelGroup savedIndex="213"/>
+				<channelGroup savedIndex="214"/>
+				<channelGroup savedIndex="215"/>
+			</channelGroups>
+		</channelGroupList>
+	</channels>
+	<timingGrids>
+		<timingGrid saveID="0" name="Fixed Grid: 0.10" type="fixed" spacing="10"/>
+		<timingGrid saveID="1" name="Fixed Grid: 0.05" type="fixed" spacing="5"/>
+	</timingGrids>
+	<tracks>
+		<track totalCentiseconds="4928" timingGrid="0" name="Conventional in Logical Order">
+			<channels>
+				<channel savedIndex="223"/>
+				<channel savedIndex="231"/>
+				<channel savedIndex="273"/>
+				<channel savedIndex="274"/>
+				<channel savedIndex="279"/>
+				<channel savedIndex="283"/>
+				<channel savedIndex="284"/>
+				<channel savedIndex="286"/>
+				<channel savedIndex="288"/>
+				<channel savedIndex="290"/>
+				<channel savedIndex="291"/>
+				<channel savedIndex="297"/>
+				<channel savedIndex="298"/>
+			</channels>
+			<loopLevels/>
+		</track>
+		<track totalCentiseconds="4928" timingGrid="0" name="By Color">
+			<channels>
+				<channel savedIndex="301"/>
+				<channel savedIndex="304"/>
+				<channel savedIndex="306"/>
+				<channel savedIndex="309"/>
+				<channel savedIndex="310"/>
+				<channel savedIndex="288"/>
+				<channel savedIndex="313"/>
+			</channels>
+			<loopLevels/>
+		</track>
+		<track totalCentiseconds="4928" timingGrid="0" name="By Controller in Channel Order">
+			<channels>
+				<channel savedIndex="321"/>
+				<channel savedIndex="328"/>
+				<channel savedIndex="331"/>
+			</channels>
+			<loopLevels/>
+		</track>
+		<track totalCentiseconds="4928" timingGrid="1" name="Song Parts">
+			<channels>
+				<channel savedIndex="332"/>
+			</channels>
+			<loopLevels/>
+		</track>
+	</tracks>
+	<animation rows="40" columns="60" image=""/>
+</sequence>

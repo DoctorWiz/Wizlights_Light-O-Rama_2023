@@ -1,0 +1,237 @@
+01.01 AC Top Window 01-Group A
+01.02 AC Top Window 02-Group A
+01.03 AC Top Window 03-Group A
+01.04 AC Top Window 04-Group A
+01.05 AC Bottom Window 01-Group B
+01.06 AC Bottom Window 02-Group B
+01.07 AC Bottom Window 03-Group B
+01.08 AC Bottom Window 04-Group B
+01.09 AC Columns 01-Group C
+01.10 AC Columns 02-Group C
+01.11 AC Columns 03-Group C
+01.12 AC Columns 04-Group C
+01.13 AC Railing Prop 01-Group D
+01.14 AC Railing Prop 02-Group D
+01.15 AC Railing Prop 03-Group D
+01.16 AC Railing Prop 04-Group D
+02.01 AC Four-Color Element 01
+02.05 AC Four-Color Element 02
+02.09 AC Four-Color Element 03
+02.13 AC Four-Color Element 04
+03.01 AC Light Curtain (8 Strands) - Group A
+03.09 AC Light Curtain (8 Strands) - Group B
+04.01 AC Bush 01
+04.02 AC Bush 02
+04.03 AC Bush 03
+04.04 AC Bush 04
+04.05 AC Bush 05
+04.06 AC Bush 06
+04.07 AC Bush 07
+04.08 AC Bush 08
+06.01 Strobes 01
+06.02 Strobes 02
+06.03 Strobes 03
+06.04 Strobes 04
+07.01 Dumb RGB Prop 01 (Legacy)
+07.02 Dumb RGB Prop 02 (Legacy)
+07.03 Dumb RGB Prop 03 (Legacy)
+07.04 Dumb RGB Prop 04 (Legacy)
+07.05 Dumb RGB Prop 05 (Legacy)
+07.06 Dumb RGB Prop 06 (Legacy)
+07.07 Dumb RGB Prop 07 (Legacy)
+07.08 Dumb RGB Prop 08 (Legacy)
+08.01 Dumb RGB Flood 01
+08.02 Dumb RGB Flood 02
+08.03 Dumb RGB Flood 03
+08.04 Dumb RGB Flood 04
+08.05 Dumb RGB Flood 05
+08.06 Dumb RGB Flood 06
+08.07 Dumb RGB Flood 07
+08.08 Dumb RGB Flood 08
+Face-Elden Eyes Closed
+Face-Elden Eyes Open
+Face-Elden Mouth "OH"
+Face-Elden Mouth Closed
+Face-Elden Mouth Full Open
+Face-Elden Mouth Half Open
+Face-Elden Star
+Face-Elden Tree Outline
+Face-Felix Eyes Closed
+Face-Felix Eyes Open
+Face-Felix Mouth "OH"
+Face-Felix Mouth Closed
+Face-Felix Mouth Full Open
+Face-Felix Mouth Half Open
+Face-Felix Star
+Face-Felix Tree Outline
+Face-Ralphie Eyes Closed
+Face-Ralphie Eyes Open
+Face-Ralphie Mouth "OH"
+Face-Ralphie Mouth Closed
+Face-Ralphie Mouth Full Open
+Face-Ralphie Mouth Half Open
+Face-Ralphie Star
+Face-Ralphie Tree Outline
+Face-Zuzu Bow
+Face-Zuzu Eyes Closed
+Face-Zuzu Eyes Open
+Face-Zuzu Mouth "OH"
+Face-Zuzu Mouth Closed
+Face-Zuzu Mouth Full Open
+Face-Zuzu Mouth Half Open
+Face-Zuzu Tree Outline
+FaceV2-Elden Eyes Closed
+FaceV2-Elden Eyes Open
+FaceV2-Elden Mouth AI (Full Open)
+FaceV2-Elden Mouth Ah
+FaceV2-Elden Mouth Closed
+FaceV2-Elden Mouth E (Half Open)
+FaceV2-Elden Mouth FV
+FaceV2-Elden Mouth L
+FaceV2-Elden Mouth MBP
+FaceV2-Elden Mouth OU
+FaceV2-Elden Mouth WQ
+FaceV2-Elden Mouth etc
+FaceV2-Elden Star
+FaceV2-Elden Tree Outline
+FaceV2-Felix Eyes Closed
+FaceV2-Felix Eyes Open
+FaceV2-Felix Mouth AI (Full Open)
+FaceV2-Felix Mouth Ah
+FaceV2-Felix Mouth Closed
+FaceV2-Felix Mouth E (Half Open)
+FaceV2-Felix Mouth FV
+FaceV2-Felix Mouth L
+FaceV2-Felix Mouth MBP
+FaceV2-Felix Mouth OU
+FaceV2-Felix Mouth WQ
+FaceV2-Felix Mouth etc
+FaceV2-Felix Star
+FaceV2-Felix Tree Outline
+FaceV2-Ralphie Eyes Closed
+FaceV2-Ralphie Eyes Open
+FaceV2-Ralphie Mouth AI (Full Open)
+FaceV2-Ralphie Mouth Ah
+FaceV2-Ralphie Mouth Closed
+FaceV2-Ralphie Mouth E (Half Open)
+FaceV2-Ralphie Mouth FV
+FaceV2-Ralphie Mouth L
+FaceV2-Ralphie Mouth MBP
+FaceV2-Ralphie Mouth OU
+FaceV2-Ralphie Mouth WQ
+FaceV2-Ralphie Mouth etc
+FaceV2-Ralphie Star
+FaceV2-Ralphie Tree Outline
+FaceV2-Zuzu Bow
+FaceV2-Zuzu Eyes Closed
+FaceV2-Zuzu Eyes Open
+FaceV2-Zuzu Mouth AI (Full Open)
+FaceV2-Zuzu Mouth Ah
+FaceV2-Zuzu Mouth Closed
+FaceV2-Zuzu Mouth E (Half Open)
+FaceV2-Zuzu Mouth FV
+FaceV2-Zuzu Mouth L
+FaceV2-Zuzu Mouth MBP
+FaceV2-Zuzu Mouth OU
+FaceV2-Zuzu Mouth WQ
+FaceV2-Zuzu Mouth etc
+FaceV2-Zuzu Tree Outline
+LOR Face Group V2-Elden Whole Tree (RGB)
+LOR Face Group V2-Felix Whole Tree (RGB)
+LOR Face Group V2-Ralphie Whole Tree (RGB)
+LOR Face Group V2-Zuzu Whole Tree (RGB)
+LOR Face Group-All V1 Singing Trees 30:36
+LOR Face Group-All V2 Singing Trees 50:56
+LOR Face Group-Elden Whole Tree (RGB)
+LOR Face Group-Felix Whole Tree (RGB)
+LOR Face Group-Ralphie Whole Tree (RGB)
+LOR Face Group-Zuzu Whole Tree (RGB)
+LOR Group-Dumb RGB 10W Floods 08
+LOR Group-Dumb RGB 50W Floods 28:2F
+LOR Group-Dumb RGB Props 07 (Legacy)
+LOR Group-RGB Arches
+LOR Group-RGB Candy Canes
+LOR Group-RGB Frames
+LOR Group-RGB Matrix 20x40
+LOR Group-RGB Mini Tree 01
+LOR Group-RGB Mini Tree 02
+LOR Group-RGB Mini Tree 03
+LOR Group-RGB Mini Tree 04
+LOR Group-RGB Mini Tree 05
+LOR Group-RGB Mini Tree 06
+LOR Group-RGB Mini Tree 07
+LOR Group-RGB Mini Tree 08
+LOR Group-RGB Mini Tree Bases
+LOR Group-RGB Mini Tree Full
+LOR Group-RGB Mini Tree Stars
+LOR Group-RGB Mini Trees
+LOR Group-RGB Pixel Stakes All
+LOR Group-RGB Pixel Stakes Row 01
+LOR Group-RGB Pixel Stakes Row 02
+LOR Group-RGB Pixel Stakes Row 03
+LOR Group-RGB Pixel Stakes Row 04
+LOR Group-RGB Rooflines
+LOR Group-RGB Snowflakes
+LOR Group-RGB Spinners
+LOR Group-RGB Tree 16x25+Star
+LOR Group-RGB Tree 16x50+Star
+LOR Group-RGB Tree 32x50+Star
+RGB 50W Flood 01-28
+RGB 50W Flood 02-29
+RGB 50W Flood 03-2A
+RGB 50W Flood 04-2B
+RGB 50W Flood 05-2C
+RGB 50W Flood 06-2D
+RGB 50W Flood 07-2E
+RGB 50W Flood 08-2F
+RGB Arch 01
+RGB Arch 02
+RGB Arch 03
+RGB Arch 04
+RGB Arch 05
+RGB Arch 06
+RGB Arch 07
+RGB Arch 08
+RGB Candy Cane 01
+RGB Candy Cane 02
+RGB Candy Cane 03
+RGB Candy Cane 04
+RGB Frame 01
+RGB Frame 02
+RGB Frame 03
+RGB Frame 04
+RGB Matrix 20x40
+RGB Mini Tree Base 01
+RGB Mini Tree Base 02
+RGB Mini Tree Base 03
+RGB Mini Tree Base 04
+RGB Mini Tree Base 05
+RGB Mini Tree Base 06
+RGB Mini Tree Base 07
+RGB Mini Tree Base 08
+RGB Mini Tree Star 01
+RGB Mini Tree Star 02
+RGB Mini Tree Star 03
+RGB Mini Tree Star 04
+RGB Mini Tree Star 05
+RGB Mini Tree Star 06
+RGB Mini Tree Star 07
+RGB Mini Tree Star 08
+RGB Roofline 01
+RGB Roofline 02
+RGB Roofline 03
+RGB Roofline 04
+RGB Snowflake 01
+RGB Snowflake 02
+RGB Snowflake 03
+RGB Snowflake 04
+RGB Spinner 01
+RGB Spinner 02
+RGB Spinner 03
+RGB Spinner 04
+RGB Tree 16x25 Star
+RGB Tree 16x25-360
+RGB Tree 16x50 Star
+RGB Tree 16x50-180
+RGB Tree 32x50 Star
+RGB Tree 32x50-360

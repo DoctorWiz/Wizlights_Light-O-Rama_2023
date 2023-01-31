@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="b4421e27-81ed-46e6-a262-f46db5fed089" BulbShape="Octogon" ChannelGrid="Regular,30,28,28,0,Red;Regular,30,29,29,0,Green;Regular,30,30,30,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Elden Star" Name="FaceV2-Elden Star" Parm1="10" Parm2="21">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4633411" y="-0.08112161" />
+      <point x="0.458614" y="-0.09274764" />
+      <point x="0.4468782" y="-0.09555386" />
+      <point x="0.4555171" y="-0.1047747" />
+      <point x="0.453235" y="-0.1186058" />
+      <point x="0.4631782" y="-0.1123921" />
+      <point x="0.4739359" y="-0.1190069" />
+      <point x="0.471654" y="-0.1047747" />
+      <point x="0.4802928" y="-0.09535346" />
+      <point x="0.4688831" y="-0.09334908" />
+      <point x="0.4633411" y="-0.08112161" />
+    </shape>
+  </PropClass>
+  <PropClass id="6c4b0020-b259-428f-805c-1ca0a726831a" BulbShape="Octogon" ChannelGrid="Regular,30,25,25,0,Red;Regular,30,26,26,0,Green;Regular,30,27,27,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Elden Tree Outline" Name="FaceV2-Elden Tree Outline" Parm1="55" Parm2="78">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4639932" y="-0.1180046" />
+      <point x="0.4636671" y="-0.118205" />
+      <point x="0.4489972" y="-0.1310339" />
+      <point x="0.435957" y="-0.1446645" />
+      <point x="0.4251992" y="-0.1578945" />
+      <point x="0.4191684" y="-0.1669149" />
+      <point x="0.4178642" y="-0.170523" />
+      <point x="0.4180273" y="-0.1753339" />
+      <point x="0.4203095" y="-0.1773383" />
+      <point x="0.4232433" y="-0.1777392" />
+      <point x="0.4268291" y="-0.1775389" />
+      <point x="0.4198203" y="-0.1883634" />
+      <point x="0.4121592" y="-0.2019943" />
+      <point x="0.4088993" y="-0.2120165" />
+      <point x="0.4077584" y="-0.2164267" />
+      <point x="0.4088993" y="-0.2196339" />
+      <point x="0.4110185" y="-0.2218383" />
+      <point x="0.4139524" y="-0.2226404" />
+      <point x="0.4167233" y="-0.2222393" />
+      <point x="0.4100404" y="-0.2342667" />
+      <point x="0.4048248" y="-0.2444896" />
+      <point x="0.4033573" y="-0.2505032" />
+      <point x="0.404172" y="-0.2559154" />
+      <point x="0.4074322" y="-0.2605259" />
+      <point x="0.4152562" y="-0.2645353" />
+      <point x="0.4237323" y="-0.2669402" />
+      <point x="0.4341642" y="-0.2685438" />
+      <point x="0.4476929" y="-0.270348" />
+      <point x="0.4633411" y="-0.2701473" />
+      <point x="0.4788261" y="-0.2697464" />
+      <point x="0.4921917" y="-0.2691456" />
+      <point x="0.5027868" y="-0.2671409" />
+      <point x="0.5112631" y="-0.2647354" />
+      <point x="0.5189238" y="-0.2603253" />
+      <point x="0.5228359" y="-0.2559154" />
+      <point x="0.5235747" y="-0.2505032" />
+      <point x="0.5216947" y="-0.2444896" />
+      <point x="0.5163158" y="-0.2336652" />
+      <point x="0.5094697" y="-0.2216382" />
+      <point x="0.5122408" y="-0.2222393" />
+      <point x="0.515338" y="-0.2222393" />
+      <point x="0.5179458" y="-0.2194332" />
+      <point x="0.5182717" y="-0.2160254" />
+      <point x="0.51762" y="-0.2112147" />
+      <point x="0.5145229" y="-0.2029962" />
+      <point x="0.5065357" y="-0.1883634" />
+      <point x="0.4995269" y="-0.1775389" />
+      <point x="0.5034389" y="-0.1777392" />
+      <point x="0.506699" y="-0.1771379" />
+      <point x="0.5084919" y="-0.1751335" />
+      <point x="0.5086549" y="-0.1707235" />
+      <point x="0.5065357" y="-0.1667144" />
+      <point x="0.500994" y="-0.1584958" />
+      <point x="0.4899098" y="-0.1444644" />
+      <point x="0.4775222" y="-0.1312343" />
+      <point x="0.4633411" y="-0.1184054" />
+    </shape>
+  </PropClass>
+  <PropClass id="709766f7-0c8c-44b1-94fa-412dc3ef7357" BulbShape="Octogon" ChannelGrid="Regular,30,31,31,0,Red;Regular,30,32,32,0,Green;Regular,30,33,33,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Elden Eyes Closed" Name="FaceV2-Elden Eyes Closed" Parm1="8" Parm2="8">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="0.4442591" y="-0.1829109" />
+      <point x="0.4468673" y="-0.1890312" />
+      <point x="0.4468673" y="-0.1890312" />
+      <point x="0.4514422" y="-0.1919715" />
+      <point x="0.4514422" y="-0.1919715" />
+      <point x="0.4556801" y="-0.1883634" />
+      <point x="0.4556801" y="-0.1883634" />
+      <point x="0.4577666" y="-0.1831115" />
+      <point x="0.4676769" y="-0.182724" />
+      <point x="0.4705999" y="-0.1886436" />
+      <point x="0.4705999" y="-0.1886436" />
+      <point x="0.4746641" y="-0.1915972" />
+      <point x="0.4746641" y="-0.1915972" />
+      <point x="0.4796413" y="-0.1887642" />
+      <point x="0.4796413" y="-0.1887642" />
+      <point x="0.4818252" y="-0.1825233" />
+    </shape>
+  </PropClass>
+  <PropClass id="8ce716db-10b1-4227-b7b4-e378b835a104" BulbShape="Octogon" ChannelGrid="Regular,30,34,34,0,Red;Regular,30,35,35,0,Green;Regular,30,36,36,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Elden Eyes Open" Name="FaceV2-Elden Eyes Open" Parm1="36" Parm2="37">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="0.4511271" y="-0.1599524" />
+      <point x="0.4461175" y="-0.1642555" />
+      <point x="0.4461175" y="-0.1642555" />
+      <point x="0.4442591" y="-0.1695741" />
+      <point x="0.4442591" y="-0.1695741" />
+      <point x="0.4434226" y="-0.1761491" />
+      <point x="0.4434226" y="-0.1761491" />
+      <point x="0.4444439" y="-0.1828976" />
+      <point x="0.4444439" y="-0.1828976" />
+      <point x="0.4466064" y="-0.1886436" />
+      <point x="0.4466064" y="-0.1886436" />
+      <point x="0.4513118" y="-0.1921183" />
+      <point x="0.4513118" y="-0.1921183" />
+      <point x="0.4561693" y="-0.1888443" />
+      <point x="0.4561693" y="-0.1888443" />
+      <point x="0.4579949" y="-0.1826972" />
+      <point x="0.4579949" y="-0.1826972" />
+      <point x="0.458842" y="-0.1757212" />
+      <point x="0.458842" y="-0.1757212" />
+      <point x="0.4579949" y="-0.1689727" />
+      <point x="0.4579949" y="-0.1689727" />
+      <point x="0.4559847" y="-0.163427" />
+      <point x="0.4559847" y="-0.163427" />
+      <point x="0.4509748" y="-0.1605537" />
+      <point x="0.4513118" y="-0.1681443" />
+      <point x="0.4489644" y="-0.173062" />
+      <point x="0.4489644" y="-0.173062" />
+      <point x="0.4487798" y="-0.1792093" />
+      <point x="0.4487798" y="-0.1792093" />
+      <point x="0.4508011" y="-0.1843409" />
+      <point x="0.4508011" y="-0.1843409" />
+      <point x="0.4536483" y="-0.1788083" />
+      <point x="0.4536483" y="-0.1788083" />
+      <point x="0.4531373" y="-0.1720463" />
+      <point x="0.4531373" y="-0.1720463" />
+      <point x="0.4511271" y="-0.1685453" />
+      <point x="0.4752617" y="-0.1603534" />
+      <point x="0.4698935" y="-0.164055" />
+      <point x="0.4698935" y="-0.164055" />
+      <point x="0.4680573" y="-0.1693736" />
+      <point x="0.4680573" y="-0.1693736" />
+      <point x="0.4675468" y="-0.1759217" />
+      <point x="0.4675468" y="-0.1759217" />
+      <point x="0.4682091" y="-0.1826972" />
+      <point x="0.4682091" y="-0.1826972" />
+      <point x="0.4705565" y="-0.1890577" />
+      <point x="0.4705565" y="-0.1890577" />
+      <point x="0.4752617" y="-0.191303" />
+      <point x="0.4752617" y="-0.191303" />
+      <point x="0.4801299" y="-0.1886436" />
+      <point x="0.4801299" y="-0.1886436" />
+      <point x="0.4823033" y="-0.1822829" />
+      <point x="0.4823033" y="-0.1822829" />
+      <point x="0.4826293" y="-0.1759217" />
+      <point x="0.4826293" y="-0.1759217" />
+      <point x="0.4823033" y="-0.1689727" />
+      <point x="0.4823033" y="-0.1689727" />
+      <point x="0.4802928" y="-0.1638277" />
+      <point x="0.4802928" y="-0.1638277" />
+      <point x="0.4750773" y="-0.1599524" />
+      <point x="0.4750773" y="-0.1679306" />
+      <point x="0.4727406" y="-0.1728614" />
+      <point x="0.4727406" y="-0.1728614" />
+      <point x="0.4725992" y="-0.1790087" />
+      <point x="0.4725992" y="-0.1790087" />
+      <point x="0.4752617" y="-0.1843409" />
+      <point x="0.4752617" y="-0.1843409" />
+      <point x="0.4772831" y="-0.178608" />
+      <point x="0.4772831" y="-0.178608" />
+      <point x="0.4770871" y="-0.1718324" />
+      <point x="0.4770871" y="-0.1718324" />
+      <point x="0.4750773" y="-0.1679306" />
+    </shape>
+  </PropClass>
+  <PropClass id="e4223317-f757-40ee-a8e5-339911b57a4c" BulbShape="Octogon" ChannelGrid="Regular,30,37,37,0,Red;Regular,30,38,38,0,Green;Regular,30,39,39,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Elden Mouth Closed" Name="FaceV2-Elden Mouth Closed" Parm1="12" Parm2="14">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4301004" y="-0.2188891" />
+      <point x="0.4339236" y="-0.2227734" />
+      <point x="0.4387099" y="-0.226864" />
+      <point x="0.4434493" y="-0.2293746" />
+      <point x="0.4486254" y="-0.2325566" />
+      <point x="0.4541812" y="-0.2336034" />
+      <point x="0.4602273" y="-0.2352086" />
+      <point x="0.466571" y="-0.2350084" />
+      <point x="0.4716065" y="-0.2336725" />
+      <point x="0.4782882" y="-0.2321611" />
+      <point x="0.4832573" y="-0.2289381" />
+      <point x="0.4880284" y="-0.2264315" />
+      <point x="0.4964727" y="-0.219171" />
+    </shape>
+  </PropClass>
+  <PropClass id="95cdc9b7-9873-455b-b4cb-cd622b74803b" BulbShape="Octogon" ChannelGrid="Regular,30,40,40,0,Red;Regular,30,41,41,0,Green;Regular,30,42,42,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Elden Mouth E (Half Open)" Name="FaceV2-Elden Mouth E (Half Open)" Parm1="26" Parm2="27">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.425973" y="-0.2149263" />
+      <point x="0.4302401" y="-0.2190827" />
+      <point x="0.4339851" y="-0.2233617" />
+      <point x="0.4382523" y="-0.2261733" />
+      <point x="0.4432164" y="-0.2298411" />
+      <point x="0.4482677" y="-0.2321642" />
+      <point x="0.4545379" y="-0.2341199" />
+      <point x="0.4599376" y="-0.2346089" />
+      <point x="0.4667305" y="-0.2347314" />
+      <point x="0.4726529" y="-0.2337533" />
+      <point x="0.4779649" y="-0.2316748" />
+      <point x="0.4835386" y="-0.2289852" />
+      <point x="0.4880672" y="-0.22654" />
+      <point x="0.4922475" y="-0.2229951" />
+      <point x="0.4962536" y="-0.2193276" />
+      <point x="0.5011306" y="-0.2146822" />
+      <point x="0.494425" y="-0.2150491" />
+      <point x="0.4883285" y="-0.2149263" />
+      <point x="0.4822321" y="-0.2152932" />
+      <point x="0.476136" y="-0.2151707" />
+      <point x="0.4696914" y="-0.2152932" />
+      <point x="0.463334" y="-0.2157825" />
+      <point x="0.4579344" y="-0.2151707" />
+      <point x="0.451403" y="-0.2152932" />
+      <point x="0.4453938" y="-0.2156602" />
+      <point x="0.4392972" y="-0.2152932" />
+      <point x="0.4328531" y="-0.2155376" />
+    </shape>
+  </PropClass>
+  <PropClass id="a8325a19-69c4-4d8e-aec7-01b7a83b3c76" BulbShape="Octogon" ChannelGrid="Regular,30,43,43,0,Red;Regular,30,44,44,0,Green;Regular,30,45,45,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Elden Mouth AI (Full Open)" Name="FaceV2-Elden Mouth AI (Full Open)" Parm1="13" Parm2="33">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4269488" y="-0.2150899" />
+      <point x="0.4276009" y="-0.2231614" />
+      <point x="0.4325342" y="-0.2340661" />
+      <point x="0.44101" y="-0.2414827" />
+      <point x="0.4506271" y="-0.2460937" />
+      <point x="0.4577991" y="-0.2480979" />
+      <point x="0.4628522" y="-0.2480979" />
+      <point x="0.4683943" y="-0.2476969" />
+      <point x="0.475729" y="-0.2458931" />
+      <point x="0.4851829" y="-0.242084" />
+      <point x="0.493333" y="-0.233465" />
+      <point x="0.4987118" y="-0.2238429" />
+      <point x="0.4989511" y="-0.2152908" />
+      <point x="0.4272641" y="-0.215705" />
+    </shape>
+  </PropClass>
+  <PropClass id="7c186451-880f-46d0-bc12-2a47ab375d3c" BulbShape="Octogon" ChannelGrid="Regular,30,46,46,0,Red;Regular,30,47,47,0,Green;Regular,30,48,48,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Elden Mouth OU" Name="FaceV2-Elden Mouth OU" Parm1="12" Parm2="16">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4635369" y="-0.2150366" />
+      <point x="0.4568103" y="-0.2232822" />
+      <point x="0.4552672" y="-0.2311393" />
+      <point x="0.4545717" y="-0.2395854" />
+      <point x="0.4554302" y="-0.2448237" />
+      <point x="0.4587229" y="-0.2548866" />
+      <point x="0.463352" y="-0.258107" />
+      <point x="0.4680136" y="-0.2540845" />
+      <point x="0.4709366" y="-0.2446234" />
+      <point x="0.4716324" y="-0.2391841" />
+      <point x="0.4712844" y="-0.230124" />
+      <point x="0.4690355" y="-0.2226804" />
+      <point x="0.463352" y="-0.2152372" />
+    </shape>
+  </PropClass>
+  <PropClass id="fb75c602-fd13-4d0f-ac7b-e254ae574a47" BulbShape="Octogon" ChannelGrid="Regular,30,49,49,0,Red;Regular,30,50,50,0,Green;Regular,30,51,51,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Elden Mouth Ah" Name="FaceV2-Elden Mouth Ah" Parm1="10" Parm2="10">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4631201" y="-0.2152157" />
+      <point x="0.4452164" y="-0.2223963" />
+      <point x="0.4429922" y="-0.2287966" />
+      <point x="0.4441043" y="-0.2387872" />
+      <point x="0.4574489" y="-0.2473728" />
+      <point x="0.462453" y="-0.2481531" />
+      <point x="0.4683469" y="-0.2479975" />
+      <point x="0.4830257" y="-0.2372262" />
+      <point x="0.4841378" y="-0.2295771" />
+      <point x="0.4808016" y="-0.2225528" />
+      <point x="0.4634539" y="-0.21506" />
+    </shape>
+  </PropClass>
+  <PropClass id="32cc8403-c98d-427f-8994-05080bfae3da" BulbShape="Octogon" ChannelGrid="Regular,30,52,52,0,Red;Regular,30,53,53,0,Green;Regular,30,54,54,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Elden Mouth MBP" Name="FaceV2-Elden Mouth MBP" Parm1="9" Parm2="10">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.438208" y="-0.2263595" />
+      <point x="0.442921" y="-0.2296204" />
+      <point x="0.4477075" y="-0.2324621" />
+      <point x="0.4538922" y="-0.2330988" />
+      <point x="0.4602921" y="-0.2348765" />
+      <point x="0.4658475" y="-0.234518" />
+      <point x="0.4716713" y="-0.2334696" />
+      <point x="0.4780149" y="-0.2320205" />
+      <point x="0.4833842" y="-0.2289679" />
+      <point x="0.4881754" y="-0.2258949" />
+    </shape>
+  </PropClass>
+  <PropClass id="36d3e8ad-aa31-441a-b3b4-a161cb5c091b" BulbShape="Octogon" ChannelGrid="Regular,30,55,55,0,Red;Regular,30,56,56,0,Green;Regular,30,57,57,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Elden Mouth FV" Name="FaceV2-Elden Mouth FV" Parm1="1" Parm2="13">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4267213" y="-0.2149698" />
+      <point x="0.5011169" y="-0.2152824" />
+    </shape>
+  </PropClass>
+  <PropClass id="60b04a05-47c7-4e5c-86b4-9b82fba68286" BulbShape="Octogon" ChannelGrid="Regular,30,58,58,0,Red;Regular,30,59,59,0,Green;Regular,30,60,60,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Elden Mouth L" Name="FaceV2-Elden Mouth L" Parm1="36" Parm2="31">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4596796" y="-0.2345664" />
+      <point x="0.4667969" y="-0.2345664" />
+      <point x="0.4721348" y="-0.2337858" />
+      <point x="0.4780284" y="-0.2322245" />
+      <point x="0.4838113" y="-0.2291024" />
+      <point x="0.4884817" y="-0.2258244" />
+      <point x="0.4940421" y="-0.2223903" />
+      <point x="0.4972668" y="-0.2186436" />
+      <point x="0.5023822" y="-0.2153656" />
+      <point x="0.5017151" y="-0.2147417" />
+      <point x="0.4953763" y="-0.2153656" />
+      <point x="0.4888154" y="-0.2153656" />
+      <point x="0.4818099" y="-0.2147417" />
+      <point x="0.4764717" y="-0.2150536" />
+      <point x="0.4697996" y="-0.2153656" />
+      <point x="0.4635722" y="-0.2153656" />
+      <point x="0.4575671" y="-0.2153656" />
+      <point x="0.4516734" y="-0.2147417" />
+      <point x="0.4455571" y="-0.2150536" />
+      <point x="0.438996" y="-0.2150536" />
+      <point x="0.4322124" y="-0.21521" />
+      <point x="0.4265412" y="-0.2144291" />
+      <point x="0.4259853" y="-0.2167703" />
+      <point x="0.429766" y="-0.2191118" />
+      <point x="0.4342145" y="-0.2237956" />
+      <point x="0.438996" y="-0.226605" />
+      <point x="0.4432217" y="-0.2300394" />
+      <point x="0.4490042" y="-0.2336294" />
+      <point x="0.4535637" y="-0.2333176" />
+      <point x="0.4554542" y="-0.235815" />
+      <point x="0.4564551" y="-0.2256685" />
+      <point x="0.4593464" y="-0.2198926" />
+      <point x="0.4622375" y="-0.2148973" />
+      <point x="0.4650177" y="-0.2159902" />
+      <point x="0.4677979" y="-0.2200485" />
+      <point x="0.4702444" y="-0.2261368" />
+      <point x="0.4710227" y="-0.2340979" />
+    </shape>
+  </PropClass>
+  <PropClass id="9044b85d-0f40-493c-aaeb-117379741674" BulbShape="Octogon" ChannelGrid="Regular,30,61,61,0,Red;Regular,30,62,62,0,Green;Regular,30,63,63,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Elden Mouth WQ" Name="FaceV2-Elden Mouth WQ" Parm1="7" Parm2="7">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4634187" y="-0.21664" />
+      <point x="0.4626402" y="-0.2150785" />
+      <point x="0.4623063" y="-0.2178885" />
+      <point x="0.4543" y="-0.2216352" />
+      <point x="0.4617509" y="-0.2369328" />
+      <point x="0.4664212" y="-0.234123" />
+      <point x="0.4709804" y="-0.2221034" />
+      <point x="0.4672501" y="-0.2192294" />
+    </shape>
+  </PropClass>
+  <PropClass id="92bc2f95-344e-43af-befc-dad3fa6413ce" BulbShape="Octogon" ChannelGrid="Regular,30,64,64,0,Red;Regular,30,65,65,0,Green;Regular,30,66,66,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Elden Mouth etc" Name="FaceV2-Elden Mouth etc" Parm1="23" Parm2="36">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4258514" y="-0.2150501" />
+      <point x="0.4274812" y="-0.2232423" />
+      <point x="0.4328603" y="-0.2332642" />
+      <point x="0.4411734" y="-0.2414827" />
+      <point x="0.4504643" y="-0.2454918" />
+      <point x="0.4579838" y="-0.2474695" />
+      <point x="0.4636998" y="-0.2478574" />
+      <point x="0.4685787" y="-0.2472562" />
+      <point x="0.4763158" y="-0.2464409" />
+      <point x="0.4855635" y="-0.2415765" />
+      <point x="0.4938003" y="-0.2332911" />
+      <point x="0.4990054" y="-0.2229612" />
+      <point x="0.5000268" y="-0.214863" />
+      <point x="0.4938219" y="-0.2218383" />
+      <point x="0.4866501" y="-0.2274511" />
+      <point x="0.4765441" y="-0.2324625" />
+      <point x="0.4699155" y="-0.2345072" />
+      <point x="0.4673073" y="-0.2341061" />
+      <point x="0.4630259" y="-0.2353225" />
+      <point x="0.4561256" y="-0.2345072" />
+      <point x="0.4498121" y="-0.2326632" />
+      <point x="0.440032" y="-0.2276518" />
+      <point x="0.4330232" y="-0.2220389" />
+      <point x="0.4263623" y="-0.21525" />
+    </shape>
+  </PropClass>
+  <PropGroup id="af1b3ecb-3137-4f0f-bf72-f82709054a5e" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Face Group V2-Elden Whole Tree (RGB)" Name="LOR Face Group V2-Elden Whole Tree (RGB)">
+    <member id="b4421e27-81ed-46e6-a262-f46db5fed089" orientation="normal" top="0" left="0" />
+    <member id="6c4b0020-b259-428f-805c-1ca0a726831a" orientation="normal" top="0" left="0" />
+    <member id="709766f7-0c8c-44b1-94fa-412dc3ef7357" orientation="normal" top="0" left="0" />
+    <member id="8ce716db-10b1-4227-b7b4-e378b835a104" orientation="normal" top="0" left="0" />
+    <member id="e4223317-f757-40ee-a8e5-339911b57a4c" orientation="normal" top="0" left="0" />
+    <member id="95cdc9b7-9873-455b-b4cb-cd622b74803b" orientation="normal" top="0" left="0" />
+    <member id="a8325a19-69c4-4d8e-aec7-01b7a83b3c76" orientation="normal" top="0" left="0" />
+    <member id="7c186451-880f-46d0-bc12-2a47ab375d3c" orientation="normal" top="0" left="0" />
+    <member id="fb75c602-fd13-4d0f-ac7b-e254ae574a47" orientation="normal" top="0" left="0" />
+    <member id="32cc8403-c98d-427f-8994-05080bfae3da" orientation="normal" top="0" left="0" />
+    <member id="36d3e8ad-aa31-441a-b3b4-a161cb5c091b" orientation="normal" top="0" left="0" />
+    <member id="60b04a05-47c7-4e5c-86b4-9b82fba68286" orientation="normal" top="0" left="0" />
+    <member id="9044b85d-0f40-493c-aaeb-117379741674" orientation="normal" top="0" left="0" />
+    <member id="92bc2f95-344e-43af-befc-dad3fa6413ce" orientation="normal" top="0" left="0" />
+  </PropGroup>
+</PixelEditorPropExport>

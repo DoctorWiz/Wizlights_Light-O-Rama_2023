@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="7b0ee6b7-df7c-43e4-9b2e-e759c39f4e37" BulbShape="Square" ChannelGrid="Regular,04,1,150,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Spiral 01 - CCP 4" Parm1="50">
+    <shape ShapeName="Bulbs">
+      <point x="-0.00390625" y="-0.2395833" />
+      <point x="0.046875" y="-0.2604167" />
+      <point x="0.1113281" y="-0.2578125" />
+      <point x="0.1503906" y="-0.2213542" />
+      <point x="0.1738281" y="-0.1432292" />
+      <point x="0.1542969" y="-0.04427083" />
+      <point x="0.09375" y="0.04427083" />
+      <point x="0.0234375" y="0.07552084" />
+      <point x="-0.05078125" y="0.04166667" />
+      <point x="-0.1132813" y="-0.046875" />
+      <point x="-0.1386719" y="-0.1640625" />
+      <point x="-0.1367188" y="-0.2838542" />
+      <point x="-0.1035156" y="-0.359375" />
+      <point x="-0.03515625" y="-0.4192708" />
+      <point x="0.06445313" y="-0.4427083" />
+      <point x="0.1582031" y="-0.4296875" />
+      <point x="0.2324219" y="-0.3671875" />
+      <point x="0.2851563" y="-0.2578125" />
+      <point x="0.2851563" y="-0.1276042" />
+      <point x="0.2597656" y="-0.002604167" />
+      <point x="0.21875" y="0.09375" />
+      <point x="0.1484375" y="0.1744792" />
+      <point x="0.05273438" y="0.2265625" />
+      <point x="-0.04882813" y="0.2317708" />
+      <point x="-0.1230469" y="0.1666667" />
+      <point x="-0.1953125" y="0.07552084" />
+      <point x="-0.2402344" y="-0.02864583" />
+      <point x="-0.265625" y="-0.1432292" />
+      <point x="-0.2714844" y="-0.2604167" />
+      <point x="-0.2636719" y="-0.3854167" />
+      <point x="-0.1992188" y="-0.4817708" />
+      <point x="-0.1152344" y="-0.5520833" />
+      <point x="-0.02148438" y="-0.5859375" />
+      <point x="0.07617188" y="-0.6015625" />
+      <point x="0.1738281" y="-0.5989583" />
+      <point x="0.2675781" y="-0.5572917" />
+      <point x="0.3496094" y="-0.4947917" />
+      <point x="0.4121094" y="-0.3932292" />
+      <point x="0.4335938" y="-0.2760417" />
+      <point x="0.4296875" y="-0.1510417" />
+      <point x="0.4238281" y="-0.03125" />
+      <point x="0.3730469" y="0.07291666" />
+      <point x="0.3261719" y="0.1796875" />
+      <point x="0.2695313" y="0.265625" />
+      <point x="0.1855469" y="0.3229167" />
+      <point x="0.1074219" y="0.3854167" />
+      <point x="0.01757813" y="0.40625" />
+      <point x="-0.0703125" y="0.40625" />
+      <point x="-0.15625" y="0.34375" />
+      <point x="-0.234375" y="0.2734375" />
+    </shape>
+  </PropClass>
+  <PropClass id="cb7dde5a-ca27-45d1-a6bc-718d3193d777" BulbShape="Square" ChannelGrid="Regular,03,34,150,0," Comment="superstar ccp reverse" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Spiral 02 - CCP 3b" Parm1="39">
+    <shape ShapeName="Bulbs">
+      <point x="-0.4414063" y="0.09895834" />
+      <point x="-0.4023438" y="0.1927083" />
+      <point x="-0.3476563" y="0.2916667" />
+      <point x="-0.2871094" y="0.390625" />
+      <point x="-0.2167969" y="0.4348958" />
+      <point x="-0.15625" y="0.4791667" />
+      <point x="-0.08984375" y="0.5416667" />
+      <point x="0" y="0.5546875" />
+      <point x="0.08398438" y="0.5520833" />
+      <point x="0.1660156" y="0.5182292" />
+      <point x="0.25" y="0.4713542" />
+      <point x="0.3261719" y="0.4322917" />
+      <point x="0.3984375" y="0.3697917" />
+      <point x="0.4433594" y="0.2682292" />
+      <point x="0.4882813" y="0.1744792" />
+      <point x="0.5273438" y="0.09375" />
+      <point x="0.5527344" y="0.002604167" />
+      <point x="0.5585938" y="-0.1197917" />
+      <point x="0.5742188" y="-0.2395833" />
+      <point x="0.5867187" y="-0.3578125" />
+      <point x="0.5625" y="-0.4661458" />
+      <point x="0.5234375" y="-0.5703125" />
+      <point x="0.4550781" y="-0.65625" />
+      <point x="0.3769531" y="-0.7161458" />
+      <point x="0.2890625" y="-0.7552083" />
+      <point x="0.2070313" y="-0.7786458" />
+      <point x="0.1035156" y="-0.7760417" />
+      <point x="-0.01171875" y="-0.7682292" />
+      <point x="-0.1367188" y="-0.7604167" />
+      <point x="-0.2148438" y="-0.6953125" />
+      <point x="-0.2871094" y="-0.6354167" />
+      <point x="-0.3515625" y="-0.578125" />
+      <point x="-0.4023438" y="-0.4791667" />
+      <point x="-0.421875" y="-0.3645833" />
+      <point x="-0.4121094" y="-0.2239583" />
+      <point x="-0.3964844" y="-0.1041667" />
+      <point x="-0.3652344" y="0.01822917" />
+      <point x="-0.3320313" y="0.1067708" />
+      <point x="-0.2871094" y="0.2083333" />
+    </shape>
+  </PropClass>
+  <PropClass id="3d2faf90-4914-49f1-8789-d24a6ce3f552" BulbShape="Square" ChannelGrid="Regular,03,1,33,0," Comment="superstar ccp reverse" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Spiral 03 - CCP 3a" Parm1="11">
+    <shape ShapeName="Bulbs">
+      <point x="-0.1953125" y="-0.7630208" />
+      <point x="-0.296875" y="-0.78125" />
+      <point x="-0.3925781" y="-0.7890625" />
+      <point x="-0.4785156" y="-0.7552083" />
+      <point x="-0.546875" y="-0.6901042" />
+      <point x="-0.5800781" y="-0.5755208" />
+      <point x="-0.6113281" y="-0.4609375" />
+      <point x="-0.6132813" y="-0.3359375" />
+      <point x="-0.578125" y="-0.2291667" />
+      <point x="-0.5410156" y="-0.109375" />
+      <point x="-0.4941406" y="-0.02083333" />
+    </shape>
+  </PropClass>
+  <PropClass id="cf1a69b9-c7ae-4ec4-a01e-75ab17138be0" BulbShape="Square" ChannelGrid="Regular,01,31,66,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Spiral 04 - CCP 1c" Parm1="12">
+    <shape ShapeName="Bulbs">
+      <point x="0.2833333" y="-0.7800347" />
+      <point x="0.3766927" y="-0.7954861" />
+      <point x="0.475" y="-0.8133681" />
+      <point x="0.5716146" y="-0.7800347" />
+      <point x="0.6566406" y="-0.7399306" />
+      <point x="0.7200521" y="-0.6467014" />
+      <point x="0.760026" y="-0.5267361" />
+      <point x="0.7700521" y="-0.4065972" />
+      <point x="0.7483073" y="-0.2800347" />
+      <point x="0.714974" y="-0.1689236" />
+      <point x="0.6483073" y="-0.08003473" />
+      <point x="0.5783854" y="0.01996528" />
+    </shape>
+  </PropClass>
+  <PropClass id="5b3de21f-b458-4f25-b802-da96764defc5" BulbShape="Square" ChannelGrid="Regular,02,85,114,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Spiral 05 - CCP 2f" Parm1="10">
+    <shape ShapeName="Bulbs">
+      <point x="0.3416667" y="0.4954861" />
+      <point x="0.2983073" y="0.5934028" />
+      <point x="0.2283854" y="0.6600695" />
+      <point x="0.1583333" y="0.6888889" />
+      <point x="0.05664063" y="0.7" />
+      <point x="-0.02838542" y="0.7088541" />
+      <point x="-0.1117188" y="0.684375" />
+      <point x="-0.189974" y="0.6222222" />
+      <point x="-0.2450521" y="0.5378472" />
+      <point x="-0.285026" y="0.4333333" />
+    </shape>
+  </PropClass>
+  <PropClass id="93d780a6-8e96-43c7-af00-18720474a745" BulbShape="Square" ChannelGrid="Regular,01,130,150,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 01 - CCP 1h" Parm1="7">
+    <shape ShapeName="Bulbs">
+      <point x="-0.02161458" y="-0.1866319" />
+      <point x="-0.1033854" y="-0.2244792" />
+      <point x="-0.185026" y="-0.2621528" />
+      <point x="-0.275" y="-0.2977431" />
+      <point x="-0.375" y="-0.3399306" />
+      <point x="-0.4700521" y="-0.3777778" />
+      <point x="-0.5516927" y="-0.4199653" />
+    </shape>
+  </PropClass>
+  <PropClass id="1f6ccd5b-6c32-4198-a37f-7a96b2d11de1" BulbShape="Square" ChannelGrid="Regular,02,1,21,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 02 - CCP 2a" Parm1="7">
+    <shape ShapeName="Bulbs">
+      <point x="-0.4799479" y="-0.6444445" />
+      <point x="-0.4049479" y="-0.5777778" />
+      <point x="-0.325" y="-0.5065972" />
+      <point x="-0.2433594" y="-0.4288194" />
+      <point x="-0.1625" y="-0.3645833" />
+      <point x="-0.08046875" y="-0.28125" />
+      <point x="-0.02005208" y="-0.21875" />
+    </shape>
+  </PropClass>
+  <PropClass id="00f6a3a5-ce12-48f3-9310-48ffcf3e1ce3" BulbShape="Square" ChannelGrid="Regular,01,1,15,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 03 - CCP 1a" Parm1="5">
+    <shape ShapeName="Bulbs">
+      <point x="-0.1083333" y="-0.6755208" />
+      <point x="-0.075" y="-0.5666667" />
+      <point x="-0.03671875" y="-0.4600694" />
+      <point x="0.001692708" y="-0.3324653" />
+      <point x="0.02005208" y="-0.2222222" />
+    </shape>
+  </PropClass>
+  <PropClass id="a6a88e30-31d5-448b-b53e-95758b694004" BulbShape="Square" ChannelGrid="Regular,01,16,30,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 04 - CCP 1b" Parm1="5">
+    <shape ShapeName="Bulbs">
+      <point x="0.06666667" y="-0.2333333" />
+      <point x="0.1049479" y="-0.3421875" />
+      <point x="0.1433594" y="-0.4532986" />
+      <point x="0.175" y="-0.5732639" />
+      <point x="0.2166667" y="-0.7" />
+    </shape>
+  </PropClass>
+  <PropClass id="479f7830-7f8e-48a3-ab5b-546db7784222" BulbShape="Square" ChannelGrid="Regular,01,109,129,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 05 - CCP 1g" Parm1="7">
+    <shape ShapeName="Bulbs">
+      <point x="0.5766927" y="-0.6621528" />
+      <point x="0.4916667" y="-0.5934028" />
+      <point x="0.4049479" y="-0.5088542" />
+      <point x="0.3266927" y="-0.4288194" />
+      <point x="0.2583333" y="-0.3578125" />
+      <point x="0.1816406" y="-0.2822917" />
+      <point x="0.1033854" y="-0.2111111" />
+    </shape>
+  </PropClass>
+  <PropClass id="44043a92-8a27-4541-85b2-85815904eb3c" BulbShape="Square" ChannelGrid="Regular,01,85,105,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 06 - CCP 1e" Parm1="7">
+    <shape ShapeName="Bulbs">
+      <point x="0.1266927" y="-0.1934028" />
+      <point x="0.2166667" y="-0.2244792" />
+      <point x="0.310026" y="-0.2666667" />
+      <point x="0.385026" y="-0.3022569" />
+      <point x="0.4940104" y="-0.3439236" />
+      <point x="0.575" y="-0.384375" />
+      <point x="0.6566406" y="-0.4288194" />
+    </shape>
+  </PropClass>
+  <PropClass id="82e17e17-3a53-4bb7-8564-8d81aa1a5fb9" BulbShape="Square" ChannelGrid="Regular,01,67,84,0," Comment="superstar reverse ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 07 - CCP 1d" Parm1="6">
+    <shape ShapeName="Bulbs">
+      <point x="0.5266927" y="0.05329861" />
+      <point x="0.4483073" y="-0.004513889" />
+      <point x="0.3516927" y="-0.04444445" />
+      <point x="0.2683594" y="-0.06892361" />
+      <point x="0.1933594" y="-0.09548611" />
+      <point x="0.1083333" y="-0.1244792" />
+    </shape>
+  </PropClass>
+  <PropClass id="d0c3a4dc-af9d-4ba4-82bd-ff01067348d9" BulbShape="Square" ChannelGrid="Regular,02,67,84,0," Comment="superstar reverse ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 08 - CCP 2e" Parm1="6">
+    <shape ShapeName="Bulbs">
+      <point x="0.075" y="-0.06215278" />
+      <point x="0.1333333" y="0.01996528" />
+      <point x="0.1933594" y="0.115625" />
+      <point x="0.2566406" y="0.2088542" />
+      <point x="0.3117188" y="0.2977431" />
+      <point x="0.3566406" y="0.3911458" />
+    </shape>
+  </PropClass>
+  <PropClass id="908ecebd-521c-4274-a3ff-725ed7106943" BulbShape="Square" ChannelGrid="Regular,02,46,66,0," Comment="superstar reverse ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 09 - CCP 2d" Parm1="7">
+    <shape ShapeName="Bulbs">
+      <point x="0.1117188" y="0.6333333" />
+      <point x="0.1049479" y="0.5288194" />
+      <point x="0.09505209" y="0.4111111" />
+      <point x="0.08502604" y="0.2954861" />
+      <point x="0.06835938" y="0.1822917" />
+      <point x="0.05" y="0.06215278" />
+      <point x="0.03671875" y="-0.05104167" />
+    </shape>
+  </PropClass>
+  <PropClass id="14f46c09-037a-4def-9a7b-5441b0693b96" BulbShape="Square" ChannelGrid="Regular,02,22,42,0," Comment="superstar reverse ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 10 - CCP 2b" Parm1="7">
+    <shape ShapeName="Bulbs">
+      <point x="0.01328125" y="-0.04895834" />
+      <point x="-0.01171875" y="0.07777778" />
+      <point x="-0.03333334" y="0.1977431" />
+      <point x="-0.05169271" y="0.3133681" />
+      <point x="-0.06328125" y="0.4288194" />
+      <point x="-0.07005208" y="0.5333334" />
+      <point x="-0.07994792" y="0.6399305" />
+    </shape>
+  </PropClass>
+  <PropClass id="ca340431-38bc-426a-9f43-dc8cc3e41001" BulbShape="Square" ChannelGrid="Regular,02,115,132,0," Comment="superstar reverse ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 11 - CCP 2g" Parm1="6">
+    <shape ShapeName="Bulbs">
+      <point x="-0.3200521" y="0.3489583" />
+      <point x="-0.2716146" y="0.2600694" />
+      <point x="-0.2066406" y="0.1689236" />
+      <point x="-0.1416667" y="0.07552084" />
+      <point x="-0.07994792" y="-0.008854167" />
+      <point x="-0.008333334" y="-0.1022569" />
+    </shape>
+  </PropClass>
+  <PropClass id="1010f343-9454-4485-86a1-dfedaa49c078" BulbShape="Square" ChannelGrid="Regular,02,133,150,0," Comment="superstar reverse ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 12 - CCP 2h" Parm1="6">
+    <shape ShapeName="Bulbs">
+      <point x="-0.02330729" y="-0.1421875" />
+      <point x="-0.1066406" y="-0.1065972" />
+      <point x="-0.1966146" y="-0.08003473" />
+      <point x="-0.2882813" y="-0.05104167" />
+      <point x="-0.3766927" y="-0.01111111" />
+      <point x="-0.4483073" y="0.004513889" />
+    </shape>
+  </PropClass>
+  <PropClass id="690da4b7-0411-4e7b-9591-f8ab184a8c04" BulbShape="Square" ChannelGrid="Regular,02,43,45,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 09b - CCP 2c - orphan" Parm1="1">
+    <shape ShapeName="Bulbs">
+      <point x="0.02604167" y="0.6357639" />
+    </shape>
+  </PropClass>
+  <PropClass id="17b81dc3-f99e-4abd-b85a-a1bef2f824d7" BulbShape="Square" ChannelGrid="Regular,01,106,108,0," Comment="superstar ccp" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="10" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Radial 05b - CCP 1f - orphan" Parm1="1">
+    <shape ShapeName="Bulbs">
+      <point x="0.6322917" y="-0.5557292" />
+    </shape>
+  </PropClass>
+  <PropGroup id="09c030e0-1d01-44e5-9c7e-f34f01a6ace2" Arrangement="HorizontalTop" PreviewResFactor="1" EffectBulbSize="1" Name="Spirals">
+    <member id="7b0ee6b7-df7c-43e4-9b2e-e759c39f4e37" orientation="normal" />
+    <member id="cb7dde5a-ca27-45d1-a6bc-718d3193d777" orientation="normal" />
+    <member id="3d2faf90-4914-49f1-8789-d24a6ce3f552" orientation="normal" />
+    <member id="cf1a69b9-c7ae-4ec4-a01e-75ab17138be0" orientation="normal" />
+    <member id="5b3de21f-b458-4f25-b802-da96764defc5" orientation="normal" />
+  </PropGroup>
+  <PropGroup id="62d25649-3ead-469f-bb12-8c118f6fa05a" Arrangement="Vertical" PreviewResFactor="1" EffectBulbSize="1" Name="Radials">
+    <member id="93d780a6-8e96-43c7-af00-18720474a745" orientation="normal" />
+    <member id="1f6ccd5b-6c32-4198-a37f-7a96b2d11de1" orientation="normal" />
+    <member id="00f6a3a5-ce12-48f3-9310-48ffcf3e1ce3" orientation="normal" />
+    <member id="a6a88e30-31d5-448b-b53e-95758b694004" orientation="normal" />
+    <member id="479f7830-7f8e-48a3-ab5b-546db7784222" orientation="normal" />
+    <member id="44043a92-8a27-4541-85b2-85815904eb3c" orientation="normal" />
+    <member id="82e17e17-3a53-4bb7-8564-8d81aa1a5fb9" orientation="normal" />
+    <member id="d0c3a4dc-af9d-4ba4-82bd-ff01067348d9" orientation="normal" />
+    <member id="908ecebd-521c-4274-a3ff-725ed7106943" orientation="normal" />
+    <member id="14f46c09-037a-4def-9a7b-5441b0693b96" orientation="normal" />
+    <member id="ca340431-38bc-426a-9f43-dc8cc3e41001" orientation="normal" />
+    <member id="1010f343-9454-4485-86a1-dfedaa49c078" orientation="normal" />
+  </PropGroup>
+  <PropGroup id="bc7016f8-5549-42bf-80c5-6714da8db911" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Name="Orphans">
+    <member id="690da4b7-0411-4e7b-9591-f8ab184a8c04" orientation="normal" />
+    <member id="17b81dc3-f99e-4abd-b85a-a1bef2f824d7" orientation="normal" />
+  </PropGroup>
+  <PropGroup id="8a4ccd1e-ede5-4fe4-8a02-055d79e97bb6" Arrangement="Vertical" PreviewResFactor="1" EffectBulbSize="1" Name="Entire Web">
+    <member id="09c030e0-1d01-44e5-9c7e-f34f01a6ace2" orientation="normal" />
+    <member id="62d25649-3ead-469f-bb12-8c118f6fa05a" orientation="normal" />
+    <member id="bc7016f8-5549-42bf-80c5-6714da8db911" orientation="normal" />
+  </PropGroup>
+</PixelEditorPropExport>

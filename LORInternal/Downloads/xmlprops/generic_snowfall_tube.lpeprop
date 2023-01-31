@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="bd56b592-fbbe-418b-ba3a-7bb7264911e4" BulbShape="Snowfall_Tube" ChannelGrid="" Comment="" CustomBulbColor="FF80FFFF" DeviceType="None" DimmingCurveName="None" IndividualChannels="False" MaxChannels="16" Opacity="255" Parm1="10" Parm2="50" Parm3="0" Parm4="0" Parm5="0" Parm6="0" PreviewBulbSize="26" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Left" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="generic_snowfall_tube">
+    <shape ShapeName="Bulbs">
+      <point x="0.006756783" y="-0.2499999" />
+      <point x="0.2229466" y="-0.3070299" />
+      <point x="0.3099877" y="-0.2204915" />
+      <point x="0.3944471" y="-0.2939315" />
+      <point x="0.1384871" y="-0.2362395" />
+      <point x="-0.1891891" y="-0.2259614" />
+      <point x="-0.09118992" y="-0.2891239" />
+      <point x="-0.4924202" y="-0.2843162" />
+      <point x="-0.3674202" y="-0.2252992" />
+      <point x="-0.2668656" y="-0.2829915" />
+    </shape>
+  </PropClass>
+</PixelEditorPropExport>

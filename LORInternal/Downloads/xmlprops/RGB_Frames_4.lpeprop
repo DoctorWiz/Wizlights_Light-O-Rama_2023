@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="39d8d6c2-db4e-48de-9826-43acf500d654" BulbShape="Square" ChannelGrid="Aux B,86,1,300,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Frame 01" Name="RGB Frame 01" Parm1="4" Parm2="100">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.5934956" y="0.40141684" />
+      <point x="-0.51208264" y="0.4031201" />
+      <point x="-0.5122368" y="0.16249001" />
+      <point x="-0.5989898" y="0.16205171" />
+      <point x="-0.5989659" y="0.40126267" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="a69050e1-6e1d-4935-8d1b-8c0cdd6da5d4" name="Whole Frame 01" />
+      <MotionRowDefault id="05dcf942-b297-4069-9ac8-b97ca1e56add" name="Whole Frame 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="1823d4bd-23dc-4f17-b041-93513725b432" BulbShape="Square" ChannelGrid="Aux B,87,1,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Left" StringType="RGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Frame 02" Name="RGB Frame 02" Parm1="4" Parm2="100">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.32052207" y="0.40280953" />
+      <point x="-0.23869288" y="0.40236977" />
+      <point x="-0.23904905" y="0.16219701" />
+      <point x="-0.32411906" y="0.16298546" />
+      <point x="-0.32545525" y="0.40312088" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="a69050e1-6e1d-4935-8d1b-8c0cdd6da5d4" name="Whole Frame 01" />
+      <MotionRowDefault id="05dcf942-b297-4069-9ac8-b97ca1e56add" name="Whole Frame 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="33330b7b-762d-46fe-984a-5b97707049fd" BulbShape="Square" ChannelGrid="Aux B,88,1,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Frame 03" Name="RGB Frame 03" Parm1="4" Parm2="100">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.03221818" y="0.40221435" />
+      <point x="0.050651647" y="0.40313768" />
+      <point x="0.05055638" y="0.16270617" />
+      <point x="-0.036277022" y="0.16220883" />
+      <point x="-0.036930457" y="0.4017853" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="3ef80400-c0e6-417a-a881-5839a8950b54" name="Whole Window 01" />
+      <MotionRowDefault id="f2215e6c-b3d1-46cf-86c8-8d6ed200e73d" name="Whole Window 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="202468b8-b690-4908-ad55-6a91188405fb" BulbShape="Square" ChannelGrid="Aux B,89,1,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Frame 04" Name="RGB Frame 04" Parm1="4" Parm2="100">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.23594013" y="0.40126127" />
+      <point x="0.31781566" y="0.401415" />
+      <point x="0.31774235" y="0.16221346" />
+      <point x="0.23084804" y="0.16248919" />
+      <point x="0.23123764" y="0.40139237" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="3ef80400-c0e6-417a-a881-5839a8950b54" name="Whole Window 01" />
+      <MotionRowDefault id="f2215e6c-b3d1-46cf-86c8-8d6ed200e73d" name="Whole Window 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropGroup id="f17cf3f1-20c5-4200-88ae-4311d60b3c87" Arrangement="Vertical" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Frames" Name="LOR Group-RGB Frames">
+    <member id="39d8d6c2-db4e-48de-9826-43acf500d654" orientation="normal" top="0" left="0" />
+    <member id="1823d4bd-23dc-4f17-b041-93513725b432" orientation="normal" top="0" left="0" />
+    <member id="33330b7b-762d-46fe-984a-5b97707049fd" orientation="normal" top="0" left="0" />
+    <member id="202468b8-b690-4908-ad55-6a91188405fb" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="cdd6f45b-9072-4e3e-81f6-7977372232a7" name="All Frames 01" />
+      <MotionRowDefault id="8fdc29d9-b819-4c80-8781-13ede0bdb73d" name="All Frames 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+</PixelEditorPropExport>

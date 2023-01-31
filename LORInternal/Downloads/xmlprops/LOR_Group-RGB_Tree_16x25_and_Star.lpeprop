@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="27c1883a-ed8c-4446-aacf-6616f670d964" BulbShape="Octogon" ChannelGrid="Regular,47,151,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom-CW" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Tree 16x25 Star" Name="RGB Tree 16x25 Star" Parm1="1" Parm2="50" Parm3="5" Parm4="10">
+    <shape ShapeName="Star" OffsetX="-0.8800781" OffsetY="0.3936301" ScaleX="0.07802285" ScaleY="0.09369353" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="eb5864b4-d30a-49c6-80dd-e2264fb8f8fa" name="Whole Star 01" />
+      <MotionRowDefault id="5ea1401a-29cc-4743-acc1-2e58385ea781" name="Whole Star 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="effe46c2-cee1-448e-8740-c2f6b54d6790" BulbShape="Octogon" ChannelGrid="Regular,40,1,150,0,;Regular,41,1,150,0,;Regular,42,1,150,0,;Regular,43,1,150,0,;Regular,44,1,150,0,;Regular,45,1,150,0,;Regular,46,1,150,0,;Regular,47,1,150,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="150" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Back CCW" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="2" Tag="RGB Tree 16x25-360" Name="RGB Tree 16x25-360" Parm1="8" Parm2="50" Parm3="1" Parm4="5" Parm5="2" Parm6="1" Parm7="4">
+    <shape ShapeName="Tree 360 wedges" OffsetX="-0.8815333" OffsetY="0.177231" ScaleX="0.1707425" ScaleY="0.4282091" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="88e15d28-6c4e-4dfe-82be-970ebe64203d" name="Whole Tree 01" />
+      <MotionRowDefault id="cacf7702-f636-4015-9b1f-95f21a09899e" name="Whole Tree 02" />
+      <MotionRowDefault id="e6dcb521-75ec-4f24-ad3b-adfeb8302b7e" name="Strand 1" subx="0" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="3eca5232-e8d8-4479-8a03-9c9c88f1169d" name="Strand 2" subx="0.0625" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="5cb05242-9025-41da-962c-59a2ac89675f" name="Strand 3" subx="0.125" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="d3f2e770-185b-4fbb-84ea-727e4406660e" name="Strand 4" subx="0.1875" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="2ae91b2a-d1fe-4bc6-a839-6db6853d455d" name="Strand 5" subx="0.25" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="aa6eaff0-c5e9-43eb-9658-0ab7b745ab1b" name="Strand 6" subx="0.3125" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="8ac13497-c5ac-4b1e-8c84-0007faba179b" name="Strand 7" subx="0.375" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="6983ffa8-314b-4f54-a31c-6073b25c26ee" name="Strand 8" subx="0.4375" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="07d9c590-6a00-40f3-8e15-3aa52289155a" name="Strand 9" subx="0.5" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="baf4dcea-83d1-4144-98d9-2ab4d4ff73e1" name="Strand 10" subx="0.5625" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="851f403d-d0d1-4a05-8070-61a296a940f8" name="Strand 11" subx="0.625" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="e1cea783-14bc-4359-a99f-3aef6b1ab091" name="Strand 12" subx="0.6875" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="57d335c9-6fd1-4c51-a3ff-8d8dcf74bc37" name="Strand 13" subx="0.75" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="cad3ea5d-352d-4bad-b4e2-3a2eee1d77d9" name="Strand 14" subx="0.8125" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="abc79eb3-7fb8-42b5-a242-1d41aa7b8817" name="Strand 15" subx="0.875" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="3cec3bc0-8232-4258-9d4a-e4667a86a4bb" name="Strand 16" subx="0.9375" suby="0" subw="0.0625" subh="1" />
+      <MotionRowDefault id="1a4bb690-bb99-4502-9241-a028416c45ff" name="Tier 1" subx="0" suby="0" subw="1" subh="0.24" />
+      <MotionRowDefault id="20aab504-b226-4f06-be24-32b8cdd9c5b0" name="Tier 2" subx="0" suby="0.24" subw="1" subh="0.24" />
+      <MotionRowDefault id="292bc15d-0286-468b-9700-238cd4191e07" name="Tier 3" subx="0" suby="0.48" subw="1" subh="0.28" />
+      <MotionRowDefault id="559c878c-ab08-49b5-bb4d-9556677b366f" name="Tier 4" subx="0" suby="0.76" subw="1" subh="0.24" />
+      <MotionRowDefault id="45993e87-d4ea-4c7c-8c6b-4fa28c4e7280" name="Whole Tree 03" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropGroup id="525a1829-3641-4601-b2b0-223b56da7a29" Arrangement="Preview" PreviewResFactor="4" EffectBulbSize="1" Tag="LOR Group-RGB Tree 16x25+Star" Name="LOR Group-RGB Tree 16x25+Star">
+    <member id="effe46c2-cee1-448e-8740-c2f6b54d6790" orientation="normal" top="0" left="0" />
+    <member id="27c1883a-ed8c-4446-aacf-6616f670d964" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="2f133d3a-7d13-4b20-b151-25de2030c387" name="Tree+Star 01" />
+      <MotionRowDefault id="5fbf5192-4d0b-4f0d-b4cc-03a14e5956a8" name="Tree+Star 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+</PixelEditorPropExport>

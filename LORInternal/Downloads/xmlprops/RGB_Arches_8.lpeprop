@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="c233383c-caf1-4418-aeb3-a3ddea8cf2eb" BulbShape="Octogon" ChannelGrid="Aux A,11,1,75,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Arch 01" Name="RGB Arch 01" Parm1="1" Parm2="25">
+    <shape ShapeName="Arch" OffsetX="-0.85346615" OffsetY="-0.0031302571" ScaleX="0.2061879" ScaleY="0.18539" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="c9c77a56-42cf-4ac0-bdca-5b1f3b0c9032" name="Whole Arch 01" />
+      <MotionRowDefault id="86c189e9-efd4-4a7e-a83a-990d9d88ebad" name="Whole Arch 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="86d6495c-1af3-444c-a2ed-f1a368b8f617" BulbShape="Octogon" ChannelGrid="Aux A,11,76,150,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Arch 02" Name="RGB Arch 02" Parm1="1" Parm2="25">
+    <shape ShapeName="Arch" OffsetX="-0.6111503" OffsetY="-0.0031302571" ScaleX="0.2061879" ScaleY="0.18539" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f50095a9-c180-4718-bf62-6a33c1f04356" name="Whole Arch 01" />
+      <MotionRowDefault id="eeb662a3-c162-4a72-a599-435f8db24d1b" name="Whole Arch 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="b5a90d6c-c7ee-4497-9b14-518cdd2954bc" BulbShape="Octogon" ChannelGrid="Aux A,12,1,75,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Arch 03" Name="RGB Arch 03" Parm1="1" Parm2="25">
+    <shape ShapeName="Arch" OffsetX="-0.3688349" OffsetY="-0.0031302571" ScaleX="0.2061879" ScaleY="0.18539" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="af2e5bff-40bf-456b-a6c2-5bea50b14f70" name="Whole Arch 01" />
+      <MotionRowDefault id="7ae434b7-756a-4e4c-835b-eb4d49445aa0" name="Whole Arch 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="28df9441-8bf4-479a-b569-80b42bd5e062" BulbShape="Octogon" ChannelGrid="Aux A,12,76,150,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Arch 04" Name="RGB Arch 04" Parm1="1" Parm2="25">
+    <shape ShapeName="Arch" OffsetX="-0.12651893" OffsetY="-0.0031302571" ScaleX="0.2061879" ScaleY="0.18539" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="a3c3eb18-7ce6-4120-b171-1add321447e9" name="Whole Arch 01" />
+      <MotionRowDefault id="d4bf0202-e567-4c94-b215-d49542369085" name="Whole Arch 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="7103da1a-785b-4412-9cf0-0bdfa3a0a322" BulbShape="Octogon" ChannelGrid="Aux A,13,1,75,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Arch 05" Name="RGB Arch 05" Parm1="1" Parm2="25">
+    <shape ShapeName="Arch" OffsetX="0.115796775" OffsetY="-0.0031302571" ScaleX="0.2061879" ScaleY="0.18539" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="a3c3eb18-7ce6-4120-b171-1add321447e9" name="Whole Arch 01" />
+      <MotionRowDefault id="d4bf0202-e567-4c94-b215-d49542369085" name="Whole Arch 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="b6ab482c-6b4b-4523-9c8b-8a10173e6ced" BulbShape="Octogon" ChannelGrid="Aux A,13,76,150,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Arch 06" Name="RGB Arch 06" Parm1="1" Parm2="25">
+    <shape ShapeName="Arch" OffsetX="0.35811248" OffsetY="-0.0031302571" ScaleX="0.2061879" ScaleY="0.18539" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="a3c3eb18-7ce6-4120-b171-1add321447e9" name="Whole Arch 01" />
+      <MotionRowDefault id="d4bf0202-e567-4c94-b215-d49542369085" name="Whole Arch 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="b65298e3-21e9-405f-a53d-1f7387f430eb" BulbShape="Octogon" ChannelGrid="Aux A,14,1,75,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Arch 07" Name="RGB Arch 07" Parm1="1" Parm2="25">
+    <shape ShapeName="Arch" OffsetX="0.60042846" OffsetY="-0.0031302571" ScaleX="0.2061879" ScaleY="0.18539" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="a3c3eb18-7ce6-4120-b171-1add321447e9" name="Whole Arch 01" />
+      <MotionRowDefault id="d4bf0202-e567-4c94-b215-d49542369085" name="Whole Arch 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="2250b355-5c8b-4ebc-9f65-049e12205f04" BulbShape="Octogon" ChannelGrid="Aux A,14,76,150,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Arch 08" Name="RGB Arch 08" Parm1="1" Parm2="25">
+    <shape ShapeName="Arch" OffsetX="0.8427443" OffsetY="0.0014098883" ScaleX="0.2061879" ScaleY="0.18539" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="a3c3eb18-7ce6-4120-b171-1add321447e9" name="Whole Arch 01" />
+      <MotionRowDefault id="d4bf0202-e567-4c94-b215-d49542369085" name="Whole Arch 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropGroup id="8244c718-0974-43de-89c5-94398140349a" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Arches" Name="LOR Group-RGB Arches">
+    <member id="c233383c-caf1-4418-aeb3-a3ddea8cf2eb" orientation="normal" top="0" left="0" />
+    <member id="86d6495c-1af3-444c-a2ed-f1a368b8f617" orientation="normal" top="0" left="0" />
+    <member id="b5a90d6c-c7ee-4497-9b14-518cdd2954bc" orientation="normal" top="0" left="0" />
+    <member id="28df9441-8bf4-479a-b569-80b42bd5e062" orientation="normal" top="0" left="0" />
+    <member id="7103da1a-785b-4412-9cf0-0bdfa3a0a322" orientation="normal" top="0" left="0" />
+    <member id="b6ab482c-6b4b-4523-9c8b-8a10173e6ced" orientation="normal" top="0" left="0" />
+    <member id="b65298e3-21e9-405f-a53d-1f7387f430eb" orientation="normal" top="0" left="0" />
+    <member id="2250b355-5c8b-4ebc-9f65-049e12205f04" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="de45c6b5-273c-4147-a9b6-4cade41b3ba8" name="All Arches 01" />
+      <MotionRowDefault id="f7c66294-cfb1-490e-b794-486a21c2c837" name="All Arches 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+</PixelEditorPropExport>

@@ -1,0 +1,1110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PreviewClass id="8b33d8a8-d0e0-4d51-8053-5fac2be62074-ro" BackgroundFile="" Brightness="20" Revision="2" Name="LOR_Store_MP-SingingFaces">
+  <PropClass id="7663f85e-9cf0-4cd0-8eb0-7ca870456b8e" BulbShape="Hexagon" ChannelGrid="Aux O,EF,1,3,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Outline" Name="Singer #1-1-Outline" Parm1="55" Parm2="78">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.2383786" y="-0.6090084" />
+      <point x="-0.2387582" y="-0.60939" />
+      <point x="-0.2558554" y="-0.6337975" />
+      <point x="-0.2710527" y="-0.6597304" />
+      <point x="-0.2835904" y="-0.6849014" />
+      <point x="-0.2906191" y="-0.7020628" />
+      <point x="-0.2921389" y="-0.7089279" />
+      <point x="-0.291949" y="-0.7180808" />
+      <point x="-0.2892894" y="-0.7218946" />
+      <point x="-0.28587" y="-0.7226573" />
+      <point x="-0.281691" y="-0.722276" />
+      <point x="-0.2898595" y="-0.7428698" />
+      <point x="-0.2987876" y="-0.7688029" />
+      <point x="-0.3025871" y="-0.7878715" />
+      <point x="-0.3039169" y="-0.796262" />
+      <point x="-0.3025871" y="-0.8023638" />
+      <point x="-0.3001176" y="-0.8065589" />
+      <point x="-0.2966981" y="-0.8080847" />
+      <point x="-0.2934685" y="-0.8073214" />
+      <point x="-0.3012575" y="-0.8302041" />
+      <point x="-0.3073362" y="-0.8496539" />
+      <point x="-0.3090459" y="-0.8610954" />
+      <point x="-0.308096" y="-0.8713921" />
+      <point x="-0.3042969" y="-0.8801638" />
+      <point x="-0.2951781" y="-0.8877912" />
+      <point x="-0.2853001" y="-0.8923674" />
+      <point x="-0.2731423" y="-0.8954183" />
+      <point x="-0.2573752" y="-0.8988509" />
+      <point x="-0.2391383" y="-0.8984693" />
+      <point x="-0.2210915" y="-0.8977066" />
+      <point x="-0.2055142" y="-0.8965627" />
+      <point x="-0.1931664" y="-0.8927491" />
+      <point x="-0.1832881" y="-0.8881721" />
+      <point x="-0.1743597" y="-0.8797824" />
+      <point x="-0.1698006" y="-0.8713921" />
+      <point x="-0.1689397" y="-0.8610954" />
+      <point x="-0.1711305" y="-0.8496539" />
+      <point x="-0.1773991" y="-0.8290597" />
+      <point x="-0.1853778" y="-0.8061774" />
+      <point x="-0.1821485" y="-0.8073214" />
+      <point x="-0.1785389" y="-0.8073214" />
+      <point x="-0.1754996" y="-0.8019823" />
+      <point x="-0.1751195" y="-0.7954997" />
+      <point x="-0.1758796" y="-0.7863461" />
+      <point x="-0.1794889" y="-0.7707103" />
+      <point x="-0.1887972" y="-0.7428698" />
+      <point x="-0.1969656" y="-0.722276" />
+      <point x="-0.1924065" y="-0.7226573" />
+      <point x="-0.1886072" y="-0.721513" />
+      <point x="-0.1865174" y="-0.7176997" />
+      <point x="-0.1863275" y="-0.7093092" />
+      <point x="-0.1887972" y="-0.7016817" />
+      <point x="-0.195256" y="-0.6860455" />
+      <point x="-0.2081738" y="-0.6593492" />
+      <point x="-0.2226112" y="-0.6341788" />
+      <point x="-0.2391383" y="-0.6097712" />
+    </shape>
+  </PropClass>
+  <PropClass id="1b68afbb-b4cf-4fd4-bd35-f7a0990fe19b" BulbShape="Hexagon" ChannelGrid="Aux O,EF,4,6,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Topper" Name="Singer #1-2-Topper" Parm1="10" Parm2="21">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.2391383" y="-0.5388361" />
+      <point x="-0.2446474" y="-0.5609556" />
+      <point x="-0.2583249" y="-0.5662948" />
+      <point x="-0.2482567" y="-0.5838379" />
+      <point x="-0.2509163" y="-0.6101522" />
+      <point x="-0.2393282" y="-0.5983301" />
+      <point x="-0.2267904" y="-0.6109154" />
+      <point x="-0.2294501" y="-0.5838379" />
+      <point x="-0.2193818" y="-0.5659134" />
+      <point x="-0.2326796" y="-0.5621001" />
+      <point x="-0.2391383" y="-0.5388361" />
+    </shape>
+  </PropClass>
+  <PropClass id="eb1922f3-f1f1-4518-9a58-d0ebf03f1a4a" BulbShape="Hexagon" ChannelGrid="Aux O,EF,7,9,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Eyes_Closed" Name="Singer #1-3-Eyes Closed" Parm1="8" Parm2="8">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="-0.2613772" y="-0.7324965" />
+      <point x="-0.2583376" y="-0.7441407" />
+      <point x="-0.2583376" y="-0.7441407" />
+      <point x="-0.2530056" y="-0.7497343" />
+      <point x="-0.2530056" y="-0.7497343" />
+      <point x="-0.2480668" y="-0.7428698" />
+      <point x="-0.2480668" y="-0.7428698" />
+      <point x="-0.2456353" y="-0.7328781" />
+      <point x="-0.2340851" y="-0.7321404" />
+      <point x="-0.2306787" y="-0.7434038" />
+      <point x="-0.2306787" y="-0.7434038" />
+      <point x="-0.2259419" y="-0.749023" />
+      <point x="-0.2259419" y="-0.749023" />
+      <point x="-0.2201416" y="-0.7436324" />
+      <point x="-0.2201416" y="-0.7436324" />
+      <point x="-0.2175961" y="-0.7317594" />
+    </shape>
+  </PropClass>
+  <PropClass id="f12fdff9-5ad1-4302-b97b-a24ddedd8b0e" BulbShape="Hexagon" ChannelGrid="Aux O,EF,10,12,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Eyes_Open" Name="Singer #1-4-Eyes Open" Parm1="36" Parm2="37">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="-0.2533731" y="-0.6888167" />
+      <point x="-0.2592113" y="-0.6970036" />
+      <point x="-0.2592113" y="-0.6970036" />
+      <point x="-0.2613772" y="-0.7071227" />
+      <point x="-0.2613772" y="-0.7071227" />
+      <point x="-0.262352" y="-0.7196315" />
+      <point x="-0.262352" y="-0.7196315" />
+      <point x="-0.2611618" y="-0.7324712" />
+      <point x="-0.2611618" y="-0.7324712" />
+      <point x="-0.2586415" y="-0.7434038" />
+      <point x="-0.2586415" y="-0.7434038" />
+      <point x="-0.2531579" y="-0.7500139" />
+      <point x="-0.2531579" y="-0.7500139" />
+      <point x="-0.2474968" y="-0.7437854" />
+      <point x="-0.2474968" y="-0.7437854" />
+      <point x="-0.2453692" y="-0.7320898" />
+      <point x="-0.2453692" y="-0.7320898" />
+      <point x="-0.2443816" y="-0.7188178" />
+      <point x="-0.2443816" y="-0.7188178" />
+      <point x="-0.2453692" y="-0.7059785" />
+      <point x="-0.2453692" y="-0.7059785" />
+      <point x="-0.2477118" y="-0.6954273" />
+      <point x="-0.2477118" y="-0.6954273" />
+      <point x="-0.2535504" y="-0.6899612" />
+      <point x="-0.2531579" y="-0.7044019" />
+      <point x="-0.2558935" y="-0.7137583" />
+      <point x="-0.2558935" y="-0.7137583" />
+      <point x="-0.2561086" y="-0.7254539" />
+      <point x="-0.2561086" y="-0.7254539" />
+      <point x="-0.2537529" y="-0.7352171" />
+      <point x="-0.2537529" y="-0.7352171" />
+      <point x="-0.2504351" y="-0.7246909" />
+      <point x="-0.2504351" y="-0.7246909" />
+      <point x="-0.2510301" y="-0.7118264" />
+      <point x="-0.2510301" y="-0.7118264" />
+      <point x="-0.2533731" y="-0.7051653" />
+      <point x="-0.2252455" y="-0.6895798" />
+      <point x="-0.2315017" y="-0.6966224" />
+      <point x="-0.2315017" y="-0.6966224" />
+      <point x="-0.233642" y="-0.7067412" />
+      <point x="-0.233642" y="-0.7067412" />
+      <point x="-0.2342372" y="-0.7191997" />
+      <point x="-0.2342372" y="-0.7191997" />
+      <point x="-0.2334648" y="-0.7320898" />
+      <point x="-0.2334648" y="-0.7320898" />
+      <point x="-0.2307293" y="-0.7441918" />
+      <point x="-0.2307293" y="-0.7441918" />
+      <point x="-0.2252455" y="-0.7484635" />
+      <point x="-0.2252455" y="-0.7484635" />
+      <point x="-0.2195718" y="-0.7434038" />
+      <point x="-0.2195718" y="-0.7434038" />
+      <point x="-0.2170389" y="-0.7313015" />
+      <point x="-0.2170389" y="-0.7313015" />
+      <point x="-0.216659" y="-0.7191997" />
+      <point x="-0.216659" y="-0.7191997" />
+      <point x="-0.2170389" y="-0.7059785" />
+      <point x="-0.2170389" y="-0.7059785" />
+      <point x="-0.2193818" y="-0.6961899" />
+      <point x="-0.2193818" y="-0.6961899" />
+      <point x="-0.2254607" y="-0.6888167" />
+      <point x="-0.2254607" y="-0.7039956" />
+      <point x="-0.2281837" y="-0.7133774" />
+      <point x="-0.2281837" y="-0.7133774" />
+      <point x="-0.2283483" y="-0.7250728" />
+      <point x="-0.2283483" y="-0.7250728" />
+      <point x="-0.2252455" y="-0.7352171" />
+      <point x="-0.2252455" y="-0.7352171" />
+      <point x="-0.2228897" y="-0.7243094" />
+      <point x="-0.2228897" y="-0.7243094" />
+      <point x="-0.2231178" y="-0.7114193" />
+      <point x="-0.2231178" y="-0.7114193" />
+      <point x="-0.2254607" y="-0.7039956" />
+    </shape>
+  </PropClass>
+  <PropClass id="03005d8d-d7cf-4bc8-bb24-c16fbb30d6f0" BulbShape="Hexagon" ChannelGrid="Aux O,EF,13,15,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Closed" Name="Singer #1-5-Mouth Closed" Parm1="12" Parm2="19">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.2817667" y="-0.7956008" />
+      <point x="-0.2805508" y="-0.8092287" />
+      <point x="-0.2752319" y="-0.828297" />
+      <point x="-0.2647839" y="-0.8431704" />
+      <point x="-0.2539558" y="-0.8530863" />
+      <point x="-0.2454073" y="-0.8553748" />
+      <point x="-0.2391383" y="-0.8557561" />
+      <point x="-0.2338192" y="-0.8553748" />
+      <point x="-0.2243211" y="-0.8519424" />
+      <point x="-0.2136829" y="-0.8443148" />
+      <point x="-0.2036147" y="-0.8286787" />
+      <point x="-0.1975356" y="-0.8084658" />
+      <point x="-0.1971556" y="-0.794355" />
+    </shape>
+  </PropClass>
+  <PropClass id="f04428e9-fd42-4a40-b92b-1364a48c55be" BulbShape="Hexagon" ChannelGrid="Aux O,EF,16,18,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Half_Open" Name="Singer #1-6-Mouth Half Open" Parm1="23" Parm2="36">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.2828307" y="-0.7936432" />
+      <point x="-0.2809308" y="-0.8092287" />
+      <point x="-0.2746619" y="-0.828297" />
+      <point x="-0.2649737" y="-0.843933" />
+      <point x="-0.2541455" y="-0.851561" />
+      <point x="-0.2453817" y="-0.8553231" />
+      <point x="-0.2387203" y="-0.8560609" />
+      <point x="-0.2330341" y="-0.8549169" />
+      <point x="-0.2240169" y="-0.8533658" />
+      <point x="-0.2132396" y="-0.8441116" />
+      <point x="-0.20364" y="-0.8283479" />
+      <point x="-0.1975738" y="-0.8086948" />
+      <point x="-0.1963832" y="-0.7932871" />
+      <point x="-0.2036147" y="-0.8065589" />
+      <point x="-0.2119732" y="-0.8172374" />
+      <point x="-0.2237511" y="-0.826772" />
+      <point x="-0.2314762" y="-0.8306618" />
+      <point x="-0.2345158" y="-0.8298989" />
+      <point x="-0.2395055" y="-0.8322124" />
+      <point x="-0.2475476" y="-0.8306618" />
+      <point x="-0.2549054" y="-0.8271534" />
+      <point x="-0.2663036" y="-0.8176187" />
+      <point x="-0.274472" y="-0.8069401" />
+      <point x="-0.2822353" y="-0.7940246" />
+    </shape>
+  </PropClass>
+  <PropClass id="05c0c119-ea85-4bab-a215-42c82350d238" BulbShape="Hexagon" ChannelGrid="Aux O,EF,19,21,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Full_Open" Name="Singer #1-7-Mouth Full Open" Parm1="13" Parm2="33">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.2815515" y="-0.7937196" />
+      <point x="-0.2807917" y="-0.809076" />
+      <point x="-0.2750421" y="-0.8298224" />
+      <point x="-0.2651636" y="-0.843933" />
+      <point x="-0.2539558" y="-0.8527047" />
+      <point x="-0.2455972" y="-0.8565188" />
+      <point x="-0.2397083" y="-0.8565188" />
+      <point x="-0.2332492" y="-0.8557561" />
+      <point x="-0.2247007" y="-0.8523238" />
+      <point x="-0.2136829" y="-0.8450775" />
+      <point x="-0.2041846" y="-0.8286787" />
+      <point x="-0.1979159" y="-0.8103727" />
+      <point x="-0.197637" y="-0.7941009" />
+      <point x="-0.2811843" y="-0.7948891" />
+    </shape>
+  </PropClass>
+  <PropClass id="dac583cb-220e-4485-b94c-961cdeb3f0a7" BulbShape="Hexagon" ChannelGrid="Aux O,EF,22,24,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_OH" Name="Singer #1-8-Mouth &quot;OH&quot;" Parm1="12" Parm2="16">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.2389104" y="-0.7936174" />
+      <point x="-0.2467497" y="-0.8093048" />
+      <point x="-0.2485477" y="-0.8242546" />
+      <point x="-0.2493587" y="-0.8403233" />
+      <point x="-0.2483579" y="-0.8502896" />
+      <point x="-0.2445206" y="-0.8694347" />
+      <point x="-0.2391255" y="-0.8755619" />
+      <point x="-0.2336926" y="-0.8679093" />
+      <point x="-0.230286" y="-0.8499078" />
+      <point x="-0.2294754" y="-0.8395605" />
+      <point x="-0.2298806" y="-0.8223224" />
+      <point x="-0.2325021" y="-0.8081607" />
+      <point x="-0.2391255" y="-0.7939989" />
+    </shape>
+  </PropClass>
+  <PropClass id="7f693925-b3b8-4d3a-bb17-58e4be81392d" BulbShape="Hexagon" ChannelGrid="Aux O,EE,1,3,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Outline" Name="Singer #2 1-1-Outline" Parm1="40" Parm2="83">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.04517353" y="-0.6107372" />
+      <point x="-0.07545388" y="-0.7039106" />
+      <point x="-0.07337227" y="-0.7039106" />
+      <point x="-0.07072264" y="-0.7030967" />
+      <point x="-0.06769454" y="-0.7014691" />
+      <point x="-0.06807332" y="-0.7071651" />
+      <point x="-0.08737711" y="-0.7502934" />
+      <point x="-0.08397026" y="-0.7502934" />
+      <point x="-0.0811317" y="-0.7502934" />
+      <point x="-0.07923891" y="-0.7523277" />
+      <point x="-0.0805639" y="-0.7559897" />
+      <point x="-0.1140614" y="-0.8223093" />
+      <point x="-0.1146296" y="-0.826378" />
+      <point x="-0.1119799" y="-0.826378" />
+      <point x="-0.1087623" y="-0.825564" />
+      <point x="-0.1057344" y="-0.8243437" />
+      <point x="-0.1080053" y="-0.8308533" />
+      <point x="-0.1261739" y="-0.8756092" />
+      <point x="-0.1021388" y="-0.8947322" />
+      <point x="-0.07583269" y="-0.9081591" />
+      <point x="-0.04517353" y="-0.9146689" />
+      <point x="-0.01451462" y="-0.907752" />
+      <point x="0.01292713" y="-0.8951389" />
+      <point x="0.03525895" y="-0.8760166" />
+      <point x="0.01765846" y="-0.8308533" />
+      <point x="0.0159551" y="-0.8251576" />
+      <point x="0.01860468" y="-0.825971" />
+      <point x="0.02238971" y="-0.826785" />
+      <point x="0.02503933" y="-0.8271919" />
+      <point x="0.02371451" y="-0.8223093" />
+      <point x="-0.0103511" y="-0.7555827" />
+      <point x="-0.01072962" y="-0.7535482" />
+      <point x="-0.008837086" y="-0.7511072" />
+      <point x="-0.006376683" y="-0.7507005" />
+      <point x="-0.003916305" y="-0.7494798" />
+      <point x="-0.02246312" y="-0.7067586" />
+      <point x="-0.02246312" y="-0.7018757" />
+      <point x="-0.01924597" y="-0.7039106" />
+      <point x="-0.01640706" y="-0.704724" />
+      <point x="-0.0150823" y="-0.7035037" />
+      <point x="-0.04536278" y="-0.6115512" />
+    </shape>
+  </PropClass>
+  <PropClass id="605ba349-c3ec-4bac-8076-3a35920bbc76" BulbShape="Hexagon" ChannelGrid="Aux O,EE,4,6,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Topper" Name="Singer #2 1-2-Topper" Parm1="10" Parm2="20">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.04536278" y="-0.5342458" />
+      <point x="-0.05085117" y="-0.5598786" />
+      <point x="-0.06372032" y="-0.5651681" />
+      <point x="-0.05444692" y="-0.5834769" />
+      <point x="-0.05690715" y="-0.6119581" />
+      <point x="-0.04498431" y="-0.5989382" />
+      <point x="-0.0332506" y="-0.6119581" />
+      <point x="-0.03571088" y="-0.5851049" />
+      <point x="-0.02605898" y="-0.5635405" />
+      <point x="-0.03911735" y="-0.5606925" />
+      <point x="-0.04517353" y="-0.53506" />
+    </shape>
+  </PropClass>
+  <PropClass id="98f6cf8c-2901-4ca4-a8ff-b68fbf6af22b" BulbShape="Hexagon" ChannelGrid="Aux O,EE,7,9,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Eyes_Closed" Name="Singer #2 1-3-Eyes Closed" Parm1="8" Parm2="8">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="-0.06693756" y="-0.7580238" />
+      <point x="-0.0639096" y="-0.7706373" />
+      <point x="-0.0639096" y="-0.7706373" />
+      <point x="-0.05936751" y="-0.7763336" />
+      <point x="-0.05936751" y="-0.7763336" />
+      <point x="-0.05406841" y="-0.7714506" />
+      <point x="-0.05406841" y="-0.7714506" />
+      <point x="-0.05122972" y="-0.7584304" />
+      <point x="-0.03968526" y="-0.7576172" />
+      <point x="-0.03627864" y="-0.7698232" />
+      <point x="-0.03627864" y="-0.7698232" />
+      <point x="-0.03154738" y="-0.7759263" />
+      <point x="-0.03154738" y="-0.7759263" />
+      <point x="-0.02624829" y="-0.7694162" />
+      <point x="-0.02624829" y="-0.7694162" />
+      <point x="-0.02322012" y="-0.7572102" />
+    </shape>
+  </PropClass>
+  <PropClass id="5a22331b-9341-44c2-be77-c8914c273e27" BulbShape="Hexagon" ChannelGrid="Aux O,EE,10,12,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Eyes_Open" Name="Singer #2 1-4-Eyes Open" Parm1="36" Parm2="36">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="-0.05917814" y="-0.7128614" />
+      <point x="-0.06485584" y="-0.7214057" />
+      <point x="-0.06485584" y="-0.7214057" />
+      <point x="-0.06693756" y="-0.7319843" />
+      <point x="-0.06693756" y="-0.7319843" />
+      <point x="-0.06788378" y="-0.7450044" />
+      <point x="-0.06788378" y="-0.7450044" />
+      <point x="-0.0667484" y="-0.7584304" />
+      <point x="-0.0667484" y="-0.7584304" />
+      <point x="-0.06428812" y="-0.7698232" />
+      <point x="-0.06428812" y="-0.7698232" />
+      <point x="-0.05898906" y="-0.7767402" />
+      <point x="-0.05898906" y="-0.7767402" />
+      <point x="-0.05350075" y="-0.7702303" />
+      <point x="-0.05350075" y="-0.7702303" />
+      <point x="-0.05141885" y="-0.7580238" />
+      <point x="-0.05141885" y="-0.7580238" />
+      <point x="-0.05047268" y="-0.7441908" />
+      <point x="-0.05047268" y="-0.7441908" />
+      <point x="-0.05141885" y="-0.7307637" />
+      <point x="-0.05141885" y="-0.7307637" />
+      <point x="-0.05368991" y="-0.7197784" />
+      <point x="-0.05368991" y="-0.7197784" />
+      <point x="-0.05936751" y="-0.7140822" />
+      <point x="-0.05898906" y="-0.7291363" />
+      <point x="-0.06163863" y="-0.7389012" />
+      <point x="-0.06163863" y="-0.7389012" />
+      <point x="-0.06182789" y="-0.7511072" />
+      <point x="-0.06182789" y="-0.7511072" />
+      <point x="-0.05955671" y="-0.7612789" />
+      <point x="-0.05955671" y="-0.7612789" />
+      <point x="-0.05633945" y="-0.7502934" />
+      <point x="-0.05633945" y="-0.7502934" />
+      <point x="-0.05690715" y="-0.7368665" />
+      <point x="-0.05690715" y="-0.7368665" />
+      <point x="-0.05917814" y="-0.7299501" />
+      <point x="-0.03192591" y="-0.7136753" />
+      <point x="-0.03798182" y="-0.7209986" />
+      <point x="-0.03798182" y="-0.7209986" />
+      <point x="-0.04006376" y="-0.7315773" />
+      <point x="-0.04006376" y="-0.7315773" />
+      <point x="-0.0406314" y="-0.7445973" />
+      <point x="-0.0406314" y="-0.7445973" />
+      <point x="-0.0398744" y="-0.7580238" />
+      <point x="-0.0398744" y="-0.7580238" />
+      <point x="-0.03722483" y="-0.7706373" />
+      <point x="-0.03722483" y="-0.7706373" />
+      <point x="-0.03192591" y="-0.7751125" />
+      <point x="-0.03192591" y="-0.7751125" />
+      <point x="-0.02643746" y="-0.7698232" />
+      <point x="-0.02643746" y="-0.7698232" />
+      <point x="-0.02397713" y="-0.7572102" />
+      <point x="-0.02397713" y="-0.7572102" />
+      <point x="-0.0235987" y="-0.7445973" />
+      <point x="-0.0235987" y="-0.7445973" />
+      <point x="-0.02397713" y="-0.7307637" />
+      <point x="-0.02397713" y="-0.7307637" />
+      <point x="-0.02624829" y="-0.7205916" />
+      <point x="-0.02624829" y="-0.7205916" />
+      <point x="-0.03211506" y="-0.7128614" />
+      <point x="-0.03211506" y="-0.7287295" />
+      <point x="-0.03476462" y="-0.7384945" />
+      <point x="-0.03476462" y="-0.7384945" />
+      <point x="-0.0349539" y="-0.7507005" />
+      <point x="-0.0349539" y="-0.7507005" />
+      <point x="-0.03192591" y="-0.7612789" />
+      <point x="-0.03192591" y="-0.7612789" />
+      <point x="-0.02965486" y="-0.7498866" />
+      <point x="-0.02965486" y="-0.7498866" />
+      <point x="-0.02984398" y="-0.7364597" />
+      <point x="-0.02984398" y="-0.7364597" />
+      <point x="-0.03211506" y="-0.7287295" />
+    </shape>
+  </PropClass>
+  <PropClass id="cd615909-1887-4ed5-a3d7-e12a8e0f53a2" BulbShape="Hexagon" ChannelGrid="Aux O,EE,13,15,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Closed" Name="Singer #2 1-5-Mouth Closed" Parm1="12" Parm2="19">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.08718756" y="-0.7946424" />
+      <point x="-0.08643057" y="-0.81051" />
+      <point x="-0.0801851" y="-0.8316674" />
+      <point x="-0.0703444" y="-0.8467215" />
+      <point x="-0.0599352" y="-0.8560795" />
+      <point x="-0.05160826" y="-0.8593347" />
+      <point x="-0.04555207" y="-0.8593347" />
+      <point x="-0.03968526" y="-0.8593347" />
+      <point x="-0.03060099" y="-0.8564867" />
+      <point x="-0.020192" y="-0.847128" />
+      <point x="-0.01072962" y="-0.8308533" />
+      <point x="-0.005051893" y="-0.8101031" />
+      <point x="-0.004294913" y="-0.7938284" />
+    </shape>
+  </PropClass>
+  <PropClass id="fa330250-baf3-4ab3-b6c8-3c13e8348c74" BulbShape="Hexagon" ChannelGrid="Aux O,EE,16,18,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Half_Open" Name="Singer #2 1-6-Mouth Half Open" Parm1="22" Parm2="35">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.08737711" y="-0.7938284" />
+      <point x="-0.08643057" y="-0.8096961" />
+      <point x="-0.08037475" y="-0.8312604" />
+      <point x="-0.07072264" y="-0.8467215" />
+      <point x="-0.0605031" y="-0.8556723" />
+      <point x="-0.05122972" y="-0.8589274" />
+      <point x="-0.04479498" y="-0.8597418" />
+      <point x="-0.03930673" y="-0.8585204" />
+      <point x="-0.03060099" y="-0.8568933" />
+      <point x="-0.020192" y="-0.847128" />
+      <point x="-0.01091872" y="-0.830447" />
+      <point x="-0.005051893" y="-0.8096961" />
+      <point x="-0.003916305" y="-0.7934218" />
+      <point x="-0.01110807" y="-0.8092896" />
+      <point x="-0.01886737" y="-0.8210889" />
+      <point x="-0.02984398" y="-0.830447" />
+      <point x="-0.03779265" y="-0.8328884" />
+      <point x="-0.04555207" y="-0.8345156" />
+      <point x="-0.0533114" y="-0.8328884" />
+      <point x="-0.06088154" y="-0.8300402" />
+      <point x="-0.07204754" y="-0.8206818" />
+      <point x="-0.07999587" y="-0.8092896" />
+      <point x="-0.08680931" y="-0.7942351" />
+    </shape>
+  </PropClass>
+  <PropClass id="d46d5d43-f240-41d9-9223-f2b216e6ab85" BulbShape="Hexagon" ChannelGrid="Aux O,EE,19,21,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Full_Open" Name="Singer #2 1-7-Mouth Full Open" Parm1="13" Parm2="33">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.08737711" y="-0.7938284" />
+      <point x="-0.08662013" y="-0.8096961" />
+      <point x="-0.08037475" y="-0.8324811" />
+      <point x="-0.0709117" y="-0.8467215" />
+      <point x="-0.05974612" y="-0.8564867" />
+      <point x="-0.05122972" y="-0.8597418" />
+      <point x="-0.04555207" y="-0.8601484" />
+      <point x="-0.0389282" y="-0.8589274" />
+      <point x="-0.0307904" y="-0.8560795" />
+      <point x="-0.02057065" y="-0.8467215" />
+      <point x="-0.01091872" y="-0.8312604" />
+      <point x="-0.005051893" y="-0.81051" />
+      <point x="-0.004105742" y="-0.7942351" />
+      <point x="-0.08699829" y="-0.7950491" />
+    </shape>
+  </PropClass>
+  <PropClass id="4756adb1-fc10-4679-a10d-cfaf8a8489e8" BulbShape="Hexagon" ChannelGrid="Aux O,EE,22,24,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_OH" Name="Singer #2 1-8-Mouth &quot;OH&quot;" Parm1="12" Parm2="16">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.04517353" y="-0.7938284" />
+      <point x="-0.05255437" y="-0.81051" />
+      <point x="-0.05425772" y="-0.826378" />
+      <point x="-0.05501469" y="-0.8434665" />
+      <point x="-0.05406841" y="-0.8540453" />
+      <point x="-0.05047268" y="-0.8743885" />
+      <point x="-0.04536278" y="-0.8808984" />
+      <point x="-0.04025289" y="-0.8727612" />
+      <point x="-0.03703566" y="-0.8536384" />
+      <point x="-0.03627864" y="-0.8426528" />
+      <point x="-0.03665714" y="-0.8243437" />
+      <point x="-0.03911735" y="-0.8092896" />
+      <point x="-0.04536278" y="-0.7942351" />
+    </shape>
+  </PropClass>
+  <PropClass id="78871a1d-cae0-419a-8ccc-019d08b402b7" BulbShape="Hexagon" ChannelGrid="Aux O,ED,1,3,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Outline" Name="Singer #3-1-Outline" Parm1="76" Parm2="84">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.1383034" y="-0.5949127" />
+      <point x="0.1357543" y="-0.5995259" />
+      <point x="0.1212428" y="-0.6337407" />
+      <point x="0.1116337" y="-0.6583446" />
+      <point x="0.1077117" y="-0.6698778" />
+      <point x="0.1075157" y="-0.6748754" />
+      <point x="0.1096728" y="-0.6764131" />
+      <point x="0.1122221" y="-0.6756443" />
+      <point x="0.1075157" y="-0.6864086" />
+      <point x="0.1014365" y="-0.7040926" />
+      <point x="0.09771045" y="-0.7160103" />
+      <point x="0.09751443" y="-0.7206234" />
+      <point x="0.09888704" y="-0.7248523" />
+      <point x="0.1020247" y="-0.725621" />
+      <point x="0.09614174" y="-0.7394608" />
+      <point x="0.08967031" y="-0.7579139" />
+      <point x="0.08535598" y="-0.771369" />
+      <point x="0.08417943" y="-0.7805957" />
+      <point x="0.08457163" y="-0.7852089" />
+      <point x="0.08712094" y="-0.7875158" />
+      <point x="0.08967031" y="-0.7878999" />
+      <point x="0.09300403" y="-0.7859776" />
+      <point x="0.08731719" y="-0.7982799" />
+      <point x="0.07868863" y="-0.8240373" />
+      <point x="0.07613935" y="-0.8332632" />
+      <point x="0.07574699" y="-0.8401831" />
+      <point x="0.07810032" y="-0.8440278" />
+      <point x="0.08123798" y="-0.8444124" />
+      <point x="0.08476786" y="-0.8428746" />
+      <point x="0.08908211" y="-0.8394147" />
+      <point x="0.08261076" y="-0.8521007" />
+      <point x="0.07594317" y="-0.8670939" />
+      <point x="0.07123676" y="-0.8782424" />
+      <point x="0.06947187" y="-0.8859314" />
+      <point x="0.06947187" y="-0.892082" />
+      <point x="0.0706484" y="-0.8940044" />
+      <point x="0.07457043" y="-0.894389" />
+      <point x="0.09908327" y="-0.8959265" />
+      <point x="0.1306558" y="-0.8951578" />
+      <point x="0.1461475" y="-0.8955421" />
+      <point x="0.1773281" y="-0.8959265" />
+      <point x="0.2055664" y="-0.8936197" />
+      <point x="0.2073315" y="-0.8897755" />
+      <point x="0.2063508" y="-0.8859314" />
+      <point x="0.2045859" y="-0.8782424" />
+      <point x="0.2006642" y="-0.867478" />
+      <point x="0.1934083" y="-0.8521007" />
+      <point x="0.1869371" y="-0.839799" />
+      <point x="0.1916433" y="-0.8428746" />
+      <point x="0.1951732" y="-0.8444124" />
+      <point x="0.1981149" y="-0.843643" />
+      <point x="0.200468" y="-0.839799" />
+      <point x="0.200076" y="-0.8340325" />
+      <point x="0.1973305" y="-0.8228838" />
+      <point x="0.1888978" y="-0.7978953" />
+      <point x="0.1832111" y="-0.7844403" />
+      <point x="0.1865446" y="-0.7871309" />
+      <point x="0.1890941" y="-0.7871309" />
+      <point x="0.1916433" y="-0.7855935" />
+      <point x="0.1924277" y="-0.7802113" />
+      <point x="0.1914472" y="-0.7729069" />
+      <point x="0.1865446" y="-0.7575293" />
+      <point x="0.1802693" y="-0.7402298" />
+      <point x="0.1743864" y="-0.7252367" />
+      <point x="0.177132" y="-0.7248523" />
+      <point x="0.179093" y="-0.7213923" />
+      <point x="0.1785045" y="-0.7152412" />
+      <point x="0.1751706" y="-0.7033237" />
+      <point x="0.1683073" y="-0.6860241" />
+      <point x="0.1637967" y="-0.6760287" />
+      <point x="0.1663461" y="-0.6775665" />
+      <point x="0.1688954" y="-0.6760287" />
+      <point x="0.1686997" y="-0.6706466" />
+      <point x="0.1649736" y="-0.6587291" />
+      <point x="0.1549722" y="-0.6325873" />
+      <point x="0.1406571" y="-0.5995259" />
+      <point x="0.1384996" y="-0.595297" />
+    </shape>
+  </PropClass>
+  <PropClass id="535ad851-8405-41fd-a268-7fc93ae84bf1" BulbShape="Hexagon" ChannelGrid="Aux O,ED,4,6,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Topper" Name="Singer #3-2-Topper" Parm1="10" Parm2="21">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.1381077" y="-0.5260983" />
+      <point x="0.1318323" y="-0.5518557" />
+      <point x="0.1173207" y="-0.5541621" />
+      <point x="0.1284986" y="-0.5737686" />
+      <point x="0.1253609" y="-0.600679" />
+      <point x="0.1383034" y="-0.5879927" />
+      <point x="0.1508543" y="-0.6010634" />
+      <point x="0.148305" y="-0.5737686" />
+      <point x="0.1588944" y="-0.5537778" />
+      <point x="0.1449713" y="-0.5503178" />
+      <point x="0.1377153" y="-0.5264826" />
+    </shape>
+  </PropClass>
+  <PropClass id="667a629e-758a-4d21-8c9c-81e5518680e3" BulbShape="Hexagon" ChannelGrid="Aux O,ED,7,9,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Eyes_Closed" Name="Singer #3-3-Eyes Closed" Parm1="8" Parm2="9">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="0.1090844" y="-0.7556075" />
+      <point x="0.1133987" y="-0.765218" />
+      <point x="0.1133987" y="-0.765218" />
+      <point x="0.1204584" y="-0.7690626" />
+      <point x="0.1204584" y="-0.7690626" />
+      <point x="0.1271259" y="-0.7644494" />
+      <point x="0.1271259" y="-0.7644494" />
+      <point x="0.1310479" y="-0.7544539" />
+      <point x="0.1447752" y="-0.7548382" />
+      <point x="0.1485011" y="-0.7663715" />
+      <point x="0.1485011" y="-0.7663715" />
+      <point x="0.1553646" y="-0.7690626" />
+      <point x="0.1553646" y="-0.7690626" />
+      <point x="0.1626202" y="-0.7644494" />
+      <point x="0.1626202" y="-0.7644494" />
+      <point x="0.1661501" y="-0.756376" />
+    </shape>
+  </PropClass>
+  <PropClass id="f81dcbbb-9524-43ee-9404-ee8b68b4dfad" BulbShape="Hexagon" ChannelGrid="Aux O,ED,10,12,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Eyes_Open" Name="Singer #3-4-Eyes Open" Parm1="36" Parm2="38">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="0.1196739" y="-0.7160103" />
+      <point x="0.1135948" y="-0.7213923" />
+      <point x="0.1135948" y="-0.7213923" />
+      <point x="0.1096728" y="-0.7310033" />
+      <point x="0.1096728" y="-0.7310033" />
+      <point x="0.108496" y="-0.7429208" />
+      <point x="0.108496" y="-0.7429208" />
+      <point x="0.1097381" y="-0.754992" />
+      <point x="0.1097381" y="-0.754992" />
+      <point x="0.1130325" y="-0.7648852" />
+      <point x="0.1130325" y="-0.7648852" />
+      <point x="0.1202099" y="-0.7708821" />
+      <point x="0.1202099" y="-0.7708821" />
+      <point x="0.1275964" y="-0.7651926" />
+      <point x="0.1275964" y="-0.7651926" />
+      <point x="0.1314401" y="-0.7544539" />
+      <point x="0.1314401" y="-0.7544539" />
+      <point x="0.1324207" y="-0.7417675" />
+      <point x="0.1324207" y="-0.7417675" />
+      <point x="0.1303942" y="-0.7309008" />
+      <point x="0.1303942" y="-0.7309008" />
+      <point x="0.127335" y="-0.7213411" />
+      <point x="0.127335" y="-0.7213411" />
+      <point x="0.1197001" y="-0.7163947" />
+      <point x="0.1202099" y="-0.7294912" />
+      <point x="0.1155558" y="-0.735232" />
+      <point x="0.1155558" y="-0.735232" />
+      <point x="0.1145752" y="-0.7475339" />
+      <point x="0.1145752" y="-0.7475339" />
+      <point x="0.1202621" y="-0.7559916" />
+      <point x="0.1202621" y="-0.7559916" />
+      <point x="0.1257532" y="-0.7475339" />
+      <point x="0.1257532" y="-0.7475339" />
+      <point x="0.1253609" y="-0.7348478" />
+      <point x="0.1253609" y="-0.7348478" />
+      <point x="0.1199355" y="-0.7301832" />
+      <point x="0.156149" y="-0.7167791" />
+      <point x="0.1492854" y="-0.7217767" />
+      <point x="0.1492854" y="-0.7217767" />
+      <point x="0.1453632" y="-0.7294654" />
+      <point x="0.1453632" y="-0.7294654" />
+      <point x="0.1432063" y="-0.7429208" />
+      <point x="0.1432063" y="-0.7429208" />
+      <point x="0.1449713" y="-0.7548382" />
+      <point x="0.1449713" y="-0.7548382" />
+      <point x="0.148305" y="-0.765218" />
+      <point x="0.148305" y="-0.765218" />
+      <point x="0.1555608" y="-0.7682936" />
+      <point x="0.1555608" y="-0.7682936" />
+      <point x="0.1630124" y="-0.7644494" />
+      <point x="0.1630124" y="-0.7644494" />
+      <point x="0.1665424" y="-0.7548382" />
+      <point x="0.1665424" y="-0.7548382" />
+      <point x="0.1679937" y="-0.7429463" />
+      <point x="0.1679937" y="-0.7429463" />
+      <point x="0.1663461" y="-0.7306189" />
+      <point x="0.1663461" y="-0.7306189" />
+      <point x="0.1624243" y="-0.7213923" />
+      <point x="0.1624243" y="-0.7213923" />
+      <point x="0.1559527" y="-0.7163947" />
+      <point x="0.1553646" y="-0.7310033" />
+      <point x="0.1508543" y="-0.7348478" />
+      <point x="0.1508543" y="-0.7348478" />
+      <point x="0.1500699" y="-0.7486874" />
+      <point x="0.1500699" y="-0.7486874" />
+      <point x="0.1553646" y="-0.7567607" />
+      <point x="0.1553646" y="-0.7567607" />
+      <point x="0.1618358" y="-0.7471495" />
+      <point x="0.1618358" y="-0.7471495" />
+      <point x="0.1610514" y="-0.735232" />
+      <point x="0.1610514" y="-0.735232" />
+      <point x="0.1559527" y="-0.7317721" />
+    </shape>
+  </PropClass>
+  <PropClass id="cc39167e-710d-4892-a040-c836c5adb9b2" BulbShape="Hexagon" ChannelGrid="Aux O,ED,13,15,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Closed" Name="Singer #3-5-Mouth Closed" Parm1="12" Parm2="19">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.09293874" y="-0.8033801" />
+      <point x="0.09418058" y="-0.815964" />
+      <point x="0.1008481" y="-0.8367233" />
+      <point x="0.1108494" y="-0.8524857" />
+      <point x="0.1222233" y="-0.8605584" />
+      <point x="0.1310479" y="-0.8640182" />
+      <point x="0.1375192" y="-0.8647872" />
+      <point x="0.1437944" y="-0.8647872" />
+      <point x="0.1528153" y="-0.8620964" />
+      <point x="0.1643852" y="-0.8517166" />
+      <point x="0.1749747" y="-0.8367233" />
+      <point x="0.181054" y="-0.815964" />
+      <point x="0.1818513" y="-0.8025855" />
+    </shape>
+  </PropClass>
+  <PropClass id="54c06213-66e0-42d0-9a19-f99954d877da" BulbShape="Hexagon" ChannelGrid="Aux O,ED,16,18,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Half_Open" Name="Singer #3-6-Mouth Half Open" Parm1="23" Parm2="36">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.09257271" y="-0.8010221" />
+      <point x="0.09418058" y="-0.815964" />
+      <point x="0.0935923" y="-0.816169" />
+      <point x="0.100652" y="-0.8367233" />
+      <point x="0.110261" y="-0.8521007" />
+      <point x="0.1222233" y="-0.8605584" />
+      <point x="0.1309696" y="-0.8631984" />
+      <point x="0.1378071" y="-0.8640182" />
+      <point x="0.1439906" y="-0.8632499" />
+      <point x="0.1528675" y="-0.8612763" />
+      <point x="0.1639275" y="-0.8519473" />
+      <point x="0.1747787" y="-0.837108" />
+      <point x="0.1814462" y="-0.8155792" />
+      <point x="0.181211" y="-0.8005864" />
+      <point x="0.1753671" y="-0.8140418" />
+      <point x="0.1663461" y="-0.8251905" />
+      <point x="0.1545803" y="-0.8348014" />
+      <point x="0.1461475" y="-0.8374925" />
+      <point x="0.1375192" y="-0.83903" />
+      <point x="0.1290868" y="-0.8382614" />
+      <point x="0.1206545" y="-0.8348014" />
+      <point x="0.1088884" y="-0.8244213" />
+      <point x="0.100652" y="-0.8136572" />
+      <point x="0.09318695" y="-0.8014064" />
+    </shape>
+  </PropClass>
+  <PropClass id="5aa46658-856c-4cf4-b0e4-b2f3cd650d95" BulbShape="Hexagon" ChannelGrid="Aux O,ED,19,21,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Full_Open" Name="Singer #3-7-Mouth Full Open" Parm1="13" Parm2="34">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.09258581" y="-0.8003046" />
+      <point x="0.09398472" y="-0.8163485" />
+      <point x="0.1002598" y="-0.8355699" />
+      <point x="0.1101826" y="-0.8516655" />
+      <point x="0.1221318" y="-0.8611478" />
+      <point x="0.1312309" y="-0.8642749" />
+      <point x="0.1373102" y="-0.864685" />
+      <point x="0.1443961" y="-0.8635056" />
+      <point x="0.1530767" y="-0.8607377" />
+      <point x="0.1640192" y="-0.8516655" />
+      <point x="0.1743342" y="-0.8366468" />
+      <point x="0.1805962" y="-0.8165018" />
+      <point x="0.1816291" y="-0.8007147" />
+      <point x="0.09300403" y="-0.8014834" />
+    </shape>
+  </PropClass>
+  <PropClass id="6e69fd81-a12e-4b05-9e58-e35ef6d0cee3" BulbShape="Hexagon" ChannelGrid="Aux O,ED,22,24,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_OH" Name="Singer #3-8-Mouth &quot;OH&quot;" Parm1="12" Parm2="16">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.1380683" y="-0.799587" />
+      <point x="0.1303419" y="-0.8158613" />
+      <point x="0.127714" y="-0.8301881" />
+      <point x="0.1277665" y="-0.8480514" />
+      <point x="0.1287469" y="-0.8584056" />
+      <point x="0.1325383" y="-0.8782681" />
+      <point x="0.1378593" y="-0.8846242" />
+      <point x="0.1432324" y="-0.8766793" />
+      <point x="0.1465923" y="-0.8579957" />
+      <point x="0.1474027" y="-0.847257" />
+      <point x="0.1475205" y="-0.8298033" />
+      <point x="0.1449713" y="-0.815964" />
+      <point x="0.1378593" y="-0.7999713" />
+    </shape>
+  </PropClass>
+  <PropClass id="6567b8dd-dd9a-461f-a6df-e0496cdc670c" BulbShape="Hexagon" ChannelGrid="Aux O,EC,1,3,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Outline" Name="Singer #4-1-Outline" Parm1="58" Parm2="83">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.3351676" y="-0.5792125" />
+      <point x="0.3320931" y="-0.5869827" />
+      <point x="0.3251237" y="-0.6052425" />
+      <point x="0.316719" y="-0.6215597" />
+      <point x="0.3068808" y="-0.6370997" />
+      <point x="0.3007307" y="-0.6464239" />
+      <point x="0.2978609" y="-0.6534171" />
+      <point x="0.2984762" y="-0.6623527" />
+      <point x="0.3021662" y="-0.6712883" />
+      <point x="0.3087255" y="-0.6790584" />
+      <point x="0.3011408" y="-0.697318" />
+      <point x="0.2925318" y="-0.7081963" />
+      <point x="0.283103" y="-0.7186859" />
+      <point x="0.2759281" y="-0.7276214" />
+      <point x="0.2740832" y="-0.733449" />
+      <point x="0.273673" y="-0.7400537" />
+      <point x="0.2767479" y="-0.7474352" />
+      <point x="0.2810526" y="-0.7548168" />
+      <point x="0.2845367" y="-0.7598675" />
+      <point x="0.2779782" y="-0.7719113" />
+      <point x="0.2613745" y="-0.796387" />
+      <point x="0.2437465" y="-0.8212512" />
+      <point x="0.2433358" y="-0.8266903" />
+      <point x="0.2457957" y="-0.8348489" />
+      <point x="0.2503056" y="-0.8437846" />
+      <point x="0.2603495" y="-0.8569939" />
+      <point x="0.2781826" y="-0.8744766" />
+      <point x="0.3011408" y="-0.8919595" />
+      <point x="0.3210241" y="-0.8997291" />
+      <point x="0.335372" y="-0.901283" />
+      <point x="0.3493116" y="-0.8993409" />
+      <point x="0.3685797" y="-0.8919595" />
+      <point x="0.3919472" y="-0.8740882" />
+      <point x="0.4095753" y="-0.8566051" />
+      <point x="0.4198248" y="-0.8437846" />
+      <point x="0.4243342" y="-0.8336837" />
+      <point x="0.4265885" y="-0.8255245" />
+      <point x="0.4261791" y="-0.8196973" />
+      <point x="0.407936" y="-0.795221" />
+      <point x="0.3919472" y="-0.771134" />
+      <point x="0.3855932" y="-0.7590902" />
+      <point x="0.3890772" y="-0.7536514" />
+      <point x="0.3933826" y="-0.7470466" />
+      <point x="0.3962515" y="-0.7384998" />
+      <point x="0.3964572" y="-0.7318949" />
+      <point x="0.3937922" y="-0.726456" />
+      <point x="0.3872323" y="-0.7190745" />
+      <point x="0.377394" y="-0.7074193" />
+      <point x="0.3683742" y="-0.6930445" />
+      <point x="0.3609949" y="-0.6775044" />
+      <point x="0.3677598" y="-0.6689572" />
+      <point x="0.3718595" y="-0.6615756" />
+      <point x="0.3724738" y="-0.6530284" />
+      <point x="0.3691947" y="-0.6464239" />
+      <point x="0.3630454" y="-0.6363227" />
+      <point x="0.3527955" y="-0.6203942" />
+      <point x="0.3441863" y="-0.6040768" />
+      <point x="0.3382419" y="-0.5862054" />
+      <point x="0.3351676" y="-0.5788237" />
+    </shape>
+  </PropClass>
+  <PropClass id="84bee9a3-0ae7-42a2-bec7-a0415f79c773" BulbShape="Hexagon" ChannelGrid="Aux O,EC,4,6,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Topper" Name="Singer #4-2-Topper" Parm1="12" Parm2="28">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.3296335" y="-0.5500744" />
+      <point x="0.3298379" y="-0.5551251" />
+      <point x="0.3048302" y="-0.5318146" />
+      <point x="0.3046257" y="-0.58504" />
+      <point x="0.3298379" y="-0.5636719" />
+      <point x="0.3296335" y="-0.5691114" />
+      <point x="0.3415223" y="-0.5691114" />
+      <point x="0.3409069" y="-0.5644494" />
+      <point x="0.3657095" y="-0.5846516" />
+      <point x="0.365915" y="-0.5333686" />
+      <point x="0.3409069" y="-0.5547365" />
+      <point x="0.3409069" y="-0.5492975" />
+      <point x="0.3298379" y="-0.5492975" />
+    </shape>
+  </PropClass>
+  <PropClass id="57b20248-652d-4b96-97e9-8b6686d83d7e" BulbShape="Hexagon" ChannelGrid="Aux O,EC,7,9,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Eyes_Closed" Name="Singer #4-3-Eyes Closed" Parm1="20" Parm2="15">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="0.3072905" y="-0.7295642" />
+      <point x="0.3103649" y="-0.7396651" />
+      <point x="0.3103649" y="-0.7396651" />
+      <point x="0.307495" y="-0.7458813" />
+      <point x="0.307495" y="-0.7458813" />
+      <point x="0.3103649" y="-0.7408305" />
+      <point x="0.3103649" y="-0.7408305" />
+      <point x="0.3152843" y="-0.7462698" />
+      <point x="0.3152843" y="-0.7462698" />
+      <point x="0.313645" y="-0.7532628" />
+      <point x="0.313645" y="-0.7532628" />
+      <point x="0.3152843" y="-0.7458813" />
+      <point x="0.3152843" y="-0.7458813" />
+      <point x="0.3210241" y="-0.7454926" />
+      <point x="0.3210241" y="-0.7454926" />
+      <point x="0.3220488" y="-0.7536514" />
+      <point x="0.3220488" y="-0.7536514" />
+      <point x="0.3210241" y="-0.7451044" />
+      <point x="0.3210241" y="-0.7451044" />
+      <point x="0.3261488" y="-0.7396651" />
+      <point x="0.3437767" y="-0.7404423" />
+      <point x="0.3484916" y="-0.7466582" />
+      <point x="0.3484916" y="-0.7466582" />
+      <point x="0.3476712" y="-0.75404" />
+      <point x="0.3476712" y="-0.75404" />
+      <point x="0.3480819" y="-0.7466582" />
+      <point x="0.3480819" y="-0.7466582" />
+      <point x="0.3542306" y="-0.7466582" />
+      <point x="0.3542306" y="-0.7466582" />
+      <point x="0.3562809" y="-0.75404" />
+      <point x="0.3562809" y="-0.75404" />
+      <point x="0.3540262" y="-0.7462698" />
+      <point x="0.3540262" y="-0.7462698" />
+      <point x="0.3593554" y="-0.7400537" />
+      <point x="0.3593554" y="-0.7400537" />
+      <point x="0.3622254" y="-0.7458813" />
+      <point x="0.3622254" y="-0.7458813" />
+      <point x="0.359765" y="-0.7404423" />
+      <point x="0.359765" y="-0.7404423" />
+      <point x="0.3622254" y="-0.7303408" />
+    </shape>
+  </PropClass>
+  <PropClass id="f5d4be12-5a85-4f6f-95b0-92cad9ac419a" BulbShape="Hexagon" ChannelGrid="Aux O,EC,10,12,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Eyes_Open" Name="Singer #4-4-Eyes Open" Parm1="51" Parm2="41">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="0.3148741" y="-0.7027571" />
+      <point x="0.3138494" y="-0.6945985" />
+      <point x="0.3138494" y="-0.6945985" />
+      <point x="0.3148741" y="-0.7027571" />
+      <point x="0.3148741" y="-0.7027571" />
+      <point x="0.3101601" y="-0.7078075" />
+      <point x="0.3101601" y="-0.7078075" />
+      <point x="0.3070851" y="-0.7015917" />
+      <point x="0.3070851" y="-0.7015917" />
+      <point x="0.3099556" y="-0.7078075" />
+      <point x="0.3099556" y="-0.7078075" />
+      <point x="0.3072905" y="-0.7186859" />
+      <point x="0.3072905" y="-0.7186859" />
+      <point x="0.307495" y="-0.7299528" />
+      <point x="0.307495" y="-0.7299528" />
+      <point x="0.3105699" y="-0.7423845" />
+      <point x="0.3105699" y="-0.7423845" />
+      <point x="0.3150798" y="-0.7470466" />
+      <point x="0.3150798" y="-0.7470466" />
+      <point x="0.3208186" y="-0.7462698" />
+      <point x="0.3208186" y="-0.7462698" />
+      <point x="0.325738" y="-0.7400537" />
+      <point x="0.325738" y="-0.7400537" />
+      <point x="0.329018" y="-0.7291754" />
+      <point x="0.329018" y="-0.7291754" />
+      <point x="0.329018" y="-0.7179088" />
+      <point x="0.329018" y="-0.7179088" />
+      <point x="0.3259436" y="-0.7066422" />
+      <point x="0.3259436" y="-0.7066422" />
+      <point x="0.3208186" y="-0.7023687" />
+      <point x="0.3208186" y="-0.7023687" />
+      <point x="0.3220488" y="-0.6945985" />
+      <point x="0.3220488" y="-0.6945985" />
+      <point x="0.3206142" y="-0.7019801" />
+      <point x="0.3206142" y="-0.7019801" />
+      <point x="0.3148741" y="-0.7027571" />
+      <point x="0.318974" y="-0.7132471" />
+      <point x="0.3146696" y="-0.7155777" />
+      <point x="0.3146696" y="-0.7155777" />
+      <point x="0.3128249" y="-0.724125" />
+      <point x="0.3128249" y="-0.724125" />
+      <point x="0.3144644" y="-0.7326722" />
+      <point x="0.3144644" y="-0.7326722" />
+      <point x="0.3193838" y="-0.7350029" />
+      <point x="0.3193838" y="-0.7350029" />
+      <point x="0.3230737" y="-0.7283988" />
+      <point x="0.3230737" y="-0.7283988" />
+      <point x="0.3232788" y="-0.7198513" />
+      <point x="0.3232788" y="-0.7198513" />
+      <point x="0.318974" y="-0.7144124" />
+      <point x="0.3550504" y="-0.7019801" />
+      <point x="0.3484916" y="-0.7019801" />
+      <point x="0.3484916" y="-0.7019801" />
+      <point x="0.3478761" y="-0.6942099" />
+      <point x="0.3478761" y="-0.6942099" />
+      <point x="0.3484916" y="-0.7023687" />
+      <point x="0.3484916" y="-0.7023687" />
+      <point x="0.3441863" y="-0.7085849" />
+      <point x="0.3441863" y="-0.7085849" />
+      <point x="0.3409069" y="-0.7182972" />
+      <point x="0.3409069" y="-0.7182972" />
+      <point x="0.3407022" y="-0.7291754" />
+      <point x="0.3407022" y="-0.7291754" />
+      <point x="0.3435715" y="-0.7396651" />
+      <point x="0.3435715" y="-0.7396651" />
+      <point x="0.3484916" y="-0.7462698" />
+      <point x="0.3484916" y="-0.7462698" />
+      <point x="0.354436" y="-0.7454926" />
+      <point x="0.354436" y="-0.7454926" />
+      <point x="0.3593554" y="-0.7392763" />
+      <point x="0.3593554" y="-0.7392763" />
+      <point x="0.3589316" y="-0.7420738" />
+      <point x="0.3589316" y="-0.7420738" />
+      <point x="0.3620196" y="-0.7295642" />
+      <point x="0.3620196" y="-0.7295642" />
+      <point x="0.3620196" y="-0.7175205" />
+      <point x="0.3620196" y="-0.7175205" />
+      <point x="0.3589458" y="-0.7078075" />
+      <point x="0.3589458" y="-0.7078075" />
+      <point x="0.3628396" y="-0.7031455" />
+      <point x="0.3628396" y="-0.7031455" />
+      <point x="0.3595604" y="-0.7081963" />
+      <point x="0.3595604" y="-0.7081963" />
+      <point x="0.3548459" y="-0.7019801" />
+      <point x="0.3548459" y="-0.7019801" />
+      <point x="0.3560756" y="-0.6949872" />
+      <point x="0.3560756" y="-0.6949872" />
+      <point x="0.3550504" y="-0.7027571" />
+      <point x="0.3507462" y="-0.7136353" />
+      <point x="0.3472611" y="-0.7210169" />
+      <point x="0.3472611" y="-0.7210169" />
+      <point x="0.3466467" y="-0.7283988" />
+      <point x="0.3466467" y="-0.7283988" />
+      <point x="0.3507462" y="-0.7353916" />
+      <point x="0.3507462" y="-0.7353916" />
+      <point x="0.3548459" y="-0.7318949" />
+      <point x="0.3548459" y="-0.7318949" />
+      <point x="0.3566907" y="-0.7229593" />
+      <point x="0.3566907" y="-0.7229593" />
+      <point x="0.3550504" y="-0.715189" />
+      <point x="0.3550504" y="-0.715189" />
+      <point x="0.3499266" y="-0.7136353" />
+    </shape>
+  </PropClass>
+  <PropClass id="f502858f-b4d3-4985-9b7e-050f497ae0f6" BulbShape="Hexagon" ChannelGrid="Aux O,EC,13,15,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Closed" Name="Singer #4-5-Mouth Closed" Parm1="12" Parm2="20">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.288213" y="-0.787995" />
+      <point x="0.2890611" y="-0.8036129" />
+      <point x="0.2960024" y="-0.8245145" />
+      <point x="0.3069213" y="-0.8393818" />
+      <point x="0.3184551" y="-0.848602" />
+      <point x="0.3276928" y="-0.8517621" />
+      <point x="0.3344292" y="-0.8517621" />
+      <point x="0.3409479" y="-0.8517621" />
+      <point x="0.3510059" y="-0.8490162" />
+      <point x="0.362553" y="-0.8397701" />
+      <point x="0.3730756" y="-0.8237119" />
+      <point x="0.379348" y="-0.8032505" />
+      <point x="0.380195" y="-0.787244" />
+    </shape>
+  </PropClass>
+  <PropClass id="16cf9ee5-620e-4eeb-8381-a880111f28d9" BulbShape="Hexagon" ChannelGrid="Aux O,EC,16,18,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Half_Open" Name="Singer #4-6-Mouth Half Open" Parm1="22" Parm2="35">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.2879948" y="-0.7893681" />
+      <point x="0.2890611" y="-0.804442" />
+      <point x="0.2957426" y="-0.8249292" />
+      <point x="0.306402" y="-0.8395888" />
+      <point x="0.3177033" y="-0.8481099" />
+      <point x="0.3279384" y="-0.8511922" />
+      <point x="0.3350724" y="-0.8519689" />
+      <point x="0.3411121" y="-0.8508035" />
+      <point x="0.3507324" y="-0.8492498" />
+      <point x="0.3622387" y="-0.8399771" />
+      <point x="0.3724881" y="-0.8241521" />
+      <point x="0.3789513" y="-0.804442" />
+      <point x="0.3802218" y="-0.7889793" />
+      <point x="0.3730891" y="-0.8014376" />
+      <point x="0.3640702" y="-0.8138697" />
+      <point x="0.3521815" y="-0.8220283" />
+      <point x="0.3433673" y="-0.8255245" />
+      <point x="0.3349624" y="-0.8266903" />
+      <point x="0.3256425" y="-0.8264575" />
+      <point x="0.3171292" y="-0.8228052" />
+      <point x="0.3054456" y="-0.8134812" />
+      <point x="0.2962217" y="-0.8026028" />
+      <point x="0.2886506" y="-0.7897567" />
+    </shape>
+  </PropClass>
+  <PropClass id="0c06b7a5-cc90-440a-bfd2-1e06d1ad9280" BulbShape="Hexagon" ChannelGrid="Aux O,EC,19,21,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_Full_Open" Name="Singer #4-7-Mouth Full Open" Parm1="13" Parm2="34">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.2880222" y="-0.7890056" />
+      <point x="0.2890474" y="-0.8041573" />
+      <point x="0.2962217" y="-0.8251362" />
+      <point x="0.3068808" y="-0.8402879" />
+      <point x="0.3182634" y="-0.8484467" />
+      <point x="0.327775" y="-0.8515548" />
+      <point x="0.334115" y="-0.8519434" />
+      <point x="0.3415223" y="-0.8507777" />
+      <point x="0.3505956" y="-0.8480577" />
+      <point x="0.3620067" y="-0.8391225" />
+      <point x="0.3727881" y="-0.8243595" />
+      <point x="0.37932" y="-0.8045456" />
+      <point x="0.3803998" y="-0.7890056" />
+      <point x="0.2878448" y="-0.7897824" />
+    </shape>
+  </PropClass>
+  <PropClass id="72db5d41-02c2-424d-8dc0-4a1abe2b83ba" BulbShape="Hexagon" ChannelGrid="Aux O,EC,22,24,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Mouth_OH" Name="Singer #4-8-Mouth &quot;OH&quot;" Parm1="12" Parm2="16">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.3350857" y="-0.7882543" />
+      <point x="0.3265032" y="-0.8042606" />
+      <point x="0.3245363" y="-0.8194641" />
+      <point x="0.3236478" y="-0.8358331" />
+      <point x="0.3247408" y="-0.8459861" />
+      <point x="0.3289223" y="-0.8654893" />
+      <point x="0.3348666" y="-0.8717312" />
+      <point x="0.3407979" y="-0.8639089" />
+      <point x="0.3445143" y="-0.8455717" />
+      <point x="0.3454164" y="-0.8350564" />
+      <point x="0.3450064" y="-0.8174956" />
+      <point x="0.3420965" y="-0.8030435" />
+      <point x="0.3348666" y="-0.7886171" />
+    </shape>
+  </PropClass>
+  <PropGroup id="bc902322-034d-4be7-beb0-fa76b0b99ae6" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Tag="Singing_Face" Name="Singer #1">
+    <member id="7663f85e-9cf0-4cd0-8eb0-7ca870456b8e" orientation="normal" top="0" left="0" />
+    <member id="1b68afbb-b4cf-4fd4-bd35-f7a0990fe19b" orientation="normal" top="0" left="0" />
+    <member id="eb1922f3-f1f1-4518-9a58-d0ebf03f1a4a" orientation="normal" top="0" left="0" />
+    <member id="f12fdff9-5ad1-4302-b97b-a24ddedd8b0e" orientation="normal" top="0" left="0" />
+    <member id="03005d8d-d7cf-4bc8-bb24-c16fbb30d6f0" orientation="normal" top="0" left="0" />
+    <member id="f04428e9-fd42-4a40-b92b-1364a48c55be" orientation="normal" top="0" left="0" />
+    <member id="05c0c119-ea85-4bab-a215-42c82350d238" orientation="normal" top="0" left="0" />
+    <member id="dac583cb-220e-4485-b94c-961cdeb3f0a7" orientation="normal" top="0" left="0" />
+  </PropGroup>
+  <PropGroup id="b41a30fd-5baa-4345-a550-1ce27acdf526" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Tag="Singing_Face" Name="Singer #2">
+    <member id="7f693925-b3b8-4d3a-bb17-58e4be81392d" orientation="normal" top="0" left="0" />
+    <member id="605ba349-c3ec-4bac-8076-3a35920bbc76" orientation="normal" top="0" left="0" />
+    <member id="98f6cf8c-2901-4ca4-a8ff-b68fbf6af22b" orientation="normal" top="0" left="0" />
+    <member id="5a22331b-9341-44c2-be77-c8914c273e27" orientation="normal" top="0" left="0" />
+    <member id="cd615909-1887-4ed5-a3d7-e12a8e0f53a2" orientation="normal" top="0" left="0" />
+    <member id="fa330250-baf3-4ab3-b6c8-3c13e8348c74" orientation="normal" top="0" left="0" />
+    <member id="d46d5d43-f240-41d9-9223-f2b216e6ab85" orientation="normal" top="0" left="0" />
+    <member id="4756adb1-fc10-4679-a10d-cfaf8a8489e8" orientation="normal" top="0" left="0" />
+  </PropGroup>
+  <PropGroup id="25190f95-fcf0-4fc9-85bf-83c88d240402" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Tag="Singing_Face" Name="Singer #3">
+    <member id="78871a1d-cae0-419a-8ccc-019d08b402b7" orientation="normal" top="0" left="0" />
+    <member id="535ad851-8405-41fd-a268-7fc93ae84bf1" orientation="normal" top="0" left="0" />
+    <member id="667a629e-758a-4d21-8c9c-81e5518680e3" orientation="normal" top="0" left="0" />
+    <member id="f81dcbbb-9524-43ee-9404-ee8b68b4dfad" orientation="normal" top="0" left="0" />
+    <member id="cc39167e-710d-4892-a040-c836c5adb9b2" orientation="normal" top="0" left="0" />
+    <member id="54c06213-66e0-42d0-9a19-f99954d877da" orientation="normal" top="0" left="0" />
+    <member id="5aa46658-856c-4cf4-b0e4-b2f3cd650d95" orientation="normal" top="0" left="0" />
+    <member id="6e69fd81-a12e-4b05-9e58-e35ef6d0cee3" orientation="normal" top="0" left="0" />
+  </PropGroup>
+  <PropGroup id="7ab2bc46-8e3f-48dd-8b5e-e8cbc541b61c" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Tag="Singing_Face" Name="Singer #4">
+    <member id="6567b8dd-dd9a-461f-a6df-e0496cdc670c" orientation="normal" top="0" left="0" />
+    <member id="84bee9a3-0ae7-42a2-bec7-a0415f79c773" orientation="normal" top="0" left="0" />
+    <member id="57b20248-652d-4b96-97e9-8b6686d83d7e" orientation="normal" top="0" left="0" />
+    <member id="f5d4be12-5a85-4f6f-95b0-92cad9ac419a" orientation="normal" top="0" left="0" />
+    <member id="f502858f-b4d3-4985-9b7e-050f497ae0f6" orientation="normal" top="0" left="0" />
+    <member id="16cf9ee5-620e-4eeb-8381-a880111f28d9" orientation="normal" top="0" left="0" />
+    <member id="0c06b7a5-cc90-440a-bfd2-1e06d1ad9280" orientation="normal" top="0" left="0" />
+    <member id="72db5d41-02c2-424d-8dc0-4a1abe2b83ba" orientation="normal" top="0" left="0" />
+  </PropGroup>
+</PreviewClass>

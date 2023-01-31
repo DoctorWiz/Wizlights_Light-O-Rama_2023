@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="4e961f9a-5598-4027-a567-f3155d8e1cb0" BulbShape="Octogon" ChannelGrid="Aux A,21,1,144,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="RGB Candy Cane 01" Name="RGB Candy Cane 01" Parm1="0">
+    <shape ShapeName="Advanced" CustomWidth="3" CustomHeight="16" CustomGrid="31,32,33;29,30,34;28,27,35;25,26,36;24,23,37;21,22,38;20,19,39;17,18,40;16,15,41;13,14,42;12,11,43;9,10,44;8,7,45;5,6,46;4,3,47;1,2,48" BackgroundImage="" BackgroundTransparency="0">
+      <point x="-0.41820857" y="-0.20463379" />
+      <point x="-0.4055643" y="-0.20463379" />
+      <point x="-0.4055643" y="-0.17688718" />
+      <point x="-0.41820857" y="-0.17688718" />
+      <point x="-0.41820857" y="-0.15468943" />
+      <point x="-0.4055643" y="-0.15468943" />
+      <point x="-0.4055643" y="-0.12694253" />
+      <point x="-0.41820857" y="-0.12694253" />
+      <point x="-0.41820857" y="-0.10474513" />
+      <point x="-0.4055643" y="-0.10474513" />
+      <point x="-0.4055643" y="-0.08254775" />
+      <point x="-0.41820857" y="-0.08254775" />
+      <point x="-0.41820857" y="-0.054800794" />
+      <point x="-0.4055643" y="-0.054800794" />
+      <point x="-0.4055643" y="-0.027054137" />
+      <point x="-0.41820857" y="-0.027054137" />
+      <point x="-0.41820857" y="-0.0048566875" />
+      <point x="-0.4055643" y="-0.0048566875" />
+      <point x="-0.40134934" y="0.017340766" />
+      <point x="-0.41399387" y="0.028439462" />
+      <point x="-0.397135" y="0.05063693" />
+      <point x="-0.38870537" y="0.039538223" />
+      <point x="-0.37184656" y="0.045087647" />
+      <point x="-0.3760613" y="0.06728482" />
+      <point x="-0.350773" y="0.06728482" />
+      <point x="-0.3549876" y="0.045087647" />
+      <point x="-0.3381288" y="0.033988647" />
+      <point x="-0.32969913" y="0.05063693" />
+      <point x="-0.31705505" y="0.022890221" />
+      <point x="-0.32969913" y="0.017340766" />
+      <point x="-0.31284046" y="-0.0048566875" />
+      <point x="-0.32548466" y="-0.010405821" />
+      <point x="-0.34234348" y="-0.0048566875" />
+      <point x="-0.34234348" y="0.011791601" />
+      <point x="-0.350773" y="0.022890221" />
+      <point x="-0.35920247" y="0.028439462" />
+      <point x="-0.37184656" y="0.028439462" />
+      <point x="-0.38027608" y="0.022890221" />
+      <point x="-0.38870537" y="0.011791601" />
+      <point x="-0.38870537" y="-0.0048566875" />
+      <point x="-0.3929201" y="-0.027054137" />
+      <point x="-0.3929201" y="-0.054800794" />
+      <point x="-0.3929201" y="-0.08254775" />
+      <point x="-0.3929201" y="-0.10474513" />
+      <point x="-0.3929201" y="-0.12694253" />
+      <point x="-0.3929201" y="-0.15468943" />
+      <point x="-0.3929201" y="-0.17688718" />
+      <point x="-0.3929201" y="-0.20463379" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="38f9097a-3c5e-4181-a137-a9b48a22cede" name="Whole Cane 01" />
+      <MotionRowDefault id="b00f6cf2-05fd-484b-b895-f6984edd71d7" name="Whole Cane 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="70553aff-1304-45b7-9a5f-576df1b5d253" BulbShape="Octogon" ChannelGrid="Aux A,22,1,144,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="RGB Candy Cane 02" Name="RGB Candy Cane 02" Parm1="0">
+    <shape ShapeName="Advanced" CustomWidth="3" CustomHeight="16" CustomGrid="31,32,33;29,30,34;28,27,35;25,26,36;24,23,37;21,22,38;20,19,39;17,18,40;16,15,41;13,14,42;12,11,43;9,10,44;8,7,45;5,6,46;4,3,47;1,2,48" BackgroundImage="" BackgroundTransparency="0">
+      <point x="-0.1818549" y="-0.20463379" />
+      <point x="-0.16921082" y="-0.20463379" />
+      <point x="-0.16921082" y="-0.17688718" />
+      <point x="-0.1818549" y="-0.17688718" />
+      <point x="-0.1818549" y="-0.15468943" />
+      <point x="-0.16921082" y="-0.15468943" />
+      <point x="-0.16921082" y="-0.12694253" />
+      <point x="-0.1818549" y="-0.12694253" />
+      <point x="-0.1818549" y="-0.10474513" />
+      <point x="-0.16921082" y="-0.10474513" />
+      <point x="-0.16921082" y="-0.08254775" />
+      <point x="-0.1818549" y="-0.08254775" />
+      <point x="-0.1818549" y="-0.054800794" />
+      <point x="-0.16921082" y="-0.054800794" />
+      <point x="-0.16921082" y="-0.027054137" />
+      <point x="-0.1818549" y="-0.027054137" />
+      <point x="-0.1818549" y="-0.0048566875" />
+      <point x="-0.16921082" y="-0.0048566875" />
+      <point x="-0.16499583" y="0.017340766" />
+      <point x="-0.17764033" y="0.028439485" />
+      <point x="-0.16078141" y="0.05063693" />
+      <point x="-0.15235178" y="0.039538223" />
+      <point x="-0.135493" y="0.045087647" />
+      <point x="-0.13970767" y="0.06728482" />
+      <point x="-0.11441936" y="0.06728482" />
+      <point x="-0.11863407" y="0.045087647" />
+      <point x="-0.101775065" y="0.033988647" />
+      <point x="-0.09334556" y="0.05063693" />
+      <point x="-0.080701455" y="0.022890244" />
+      <point x="-0.09334556" y="0.017340766" />
+      <point x="-0.07648686" y="-0.0048566875" />
+      <point x="-0.08913096" y="-0.010405821" />
+      <point x="-0.105989814" y="-0.0048566875" />
+      <point x="-0.105989814" y="0.011791601" />
+      <point x="-0.11441936" y="0.022890244" />
+      <point x="-0.12284899" y="0.028439485" />
+      <point x="-0.135493" y="0.028439485" />
+      <point x="-0.14392243" y="0.022890244" />
+      <point x="-0.15235178" y="0.011791601" />
+      <point x="-0.15235178" y="-0.0048566875" />
+      <point x="-0.15656653" y="-0.027054137" />
+      <point x="-0.15656653" y="-0.054800794" />
+      <point x="-0.15656653" y="-0.08254775" />
+      <point x="-0.15656653" y="-0.10474513" />
+      <point x="-0.15656653" y="-0.12694253" />
+      <point x="-0.15656653" y="-0.15468943" />
+      <point x="-0.15656653" y="-0.17688718" />
+      <point x="-0.15656653" y="-0.20463379" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="38f9097a-3c5e-4181-a137-a9b48a22cede" name="Whole Cane 01" />
+      <MotionRowDefault id="b00f6cf2-05fd-484b-b895-f6984edd71d7" name="Whole Cane 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="befef365-0caf-4964-93b8-6882d6b2a341" BulbShape="Octogon" ChannelGrid="Aux A,23,1,144,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="RGB Candy Cane 03" Name="RGB Candy Cane 03" Parm1="0">
+    <shape ShapeName="Advanced" CustomWidth="3" CustomHeight="16" CustomGrid="31,32,33;29,30,34;28,27,35;25,26,36;24,23,37;21,22,38;20,19,39;17,18,40;16,15,41;13,14,42;12,11,43;9,10,44;8,7,45;5,6,46;4,3,47;1,2,48" BackgroundImage="" BackgroundTransparency="0">
+      <point x="0.05449857" y="-0.20463379" />
+      <point x="0.0671427" y="-0.20463379" />
+      <point x="0.0671427" y="-0.17688718" />
+      <point x="0.05449857" y="-0.17688718" />
+      <point x="0.05449857" y="-0.1546895" />
+      <point x="0.0671427" y="-0.1546895" />
+      <point x="0.0671427" y="-0.12694253" />
+      <point x="0.05449857" y="-0.12694253" />
+      <point x="0.05449857" y="-0.10474513" />
+      <point x="0.0671427" y="-0.10474513" />
+      <point x="0.0671427" y="-0.08254775" />
+      <point x="0.05449857" y="-0.08254775" />
+      <point x="0.05449857" y="-0.054800794" />
+      <point x="0.0671427" y="-0.054800794" />
+      <point x="0.0671427" y="-0.027054137" />
+      <point x="0.05449857" y="-0.027054137" />
+      <point x="0.05449857" y="-0.0048566875" />
+      <point x="0.0671427" y="-0.0048566875" />
+      <point x="0.0713576" y="0.017340887" />
+      <point x="0.058713216" y="0.028439462" />
+      <point x="0.07557217" y="0.05063707" />
+      <point x="0.08400164" y="0.039538223" />
+      <point x="0.10086059" y="0.045087647" />
+      <point x="0.096645795" y="0.06728482" />
+      <point x="0.12193407" y="0.06728482" />
+      <point x="0.11771938" y="0.045087647" />
+      <point x="0.13457829" y="0.03398892" />
+      <point x="0.14300779" y="0.05063707" />
+      <point x="0.155652" y="0.022890221" />
+      <point x="0.14300779" y="0.017340887" />
+      <point x="0.15986656" y="-0.0048566875" />
+      <point x="0.14722246" y="-0.010405821" />
+      <point x="0.13036348" y="-0.0048566875" />
+      <point x="0.13036348" y="0.011791601" />
+      <point x="0.12193407" y="0.022890221" />
+      <point x="0.1135046" y="0.028439462" />
+      <point x="0.10086059" y="0.028439462" />
+      <point x="0.092431076" y="0.022890221" />
+      <point x="0.08400164" y="0.011791601" />
+      <point x="0.08400164" y="-0.0048566875" />
+      <point x="0.07978697" y="-0.027054137" />
+      <point x="0.07978697" y="-0.054800794" />
+      <point x="0.07978697" y="-0.08254775" />
+      <point x="0.07978697" y="-0.10474513" />
+      <point x="0.07978697" y="-0.12694253" />
+      <point x="0.07978697" y="-0.1546895" />
+      <point x="0.07978697" y="-0.17688718" />
+      <point x="0.07978697" y="-0.20463379" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="38f9097a-3c5e-4181-a137-a9b48a22cede" name="Whole Cane 01" />
+      <MotionRowDefault id="b00f6cf2-05fd-484b-b895-f6984edd71d7" name="Whole Cane 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="aa01423e-8180-4fbf-aed1-91cd2e8e7731" BulbShape="Octogon" ChannelGrid="Aux A,24,1,144,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="n/a" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="RGB Candy Cane 04" Name="RGB Candy Cane 04" Parm1="0">
+    <shape ShapeName="Advanced" CustomWidth="3" CustomHeight="16" CustomGrid="31,32,33;29,30,34;28,27,35;25,26,36;24,23,37;21,22,38;20,19,39;17,18,40;16,15,41;13,14,42;12,11,43;9,10,44;8,7,45;5,6,46;4,3,47;1,2,48" BackgroundImage="" BackgroundTransparency="0">
+      <point x="0.2908521" y="-0.20463379" />
+      <point x="0.30349615" y="-0.20463379" />
+      <point x="0.30349615" y="-0.17688718" />
+      <point x="0.2908521" y="-0.17688718" />
+      <point x="0.2908521" y="-0.15468943" />
+      <point x="0.30349615" y="-0.15468943" />
+      <point x="0.30349615" y="-0.12694253" />
+      <point x="0.2908521" y="-0.12694253" />
+      <point x="0.2908521" y="-0.10474513" />
+      <point x="0.30349615" y="-0.10474513" />
+      <point x="0.30349615" y="-0.08254775" />
+      <point x="0.2908521" y="-0.08254775" />
+      <point x="0.2908521" y="-0.054800794" />
+      <point x="0.30349615" y="-0.054800794" />
+      <point x="0.30349615" y="-0.027054137" />
+      <point x="0.2908521" y="-0.027054137" />
+      <point x="0.2908521" y="-0.0048566875" />
+      <point x="0.30349615" y="-0.0048566875" />
+      <point x="0.307711" y="0.017340766" />
+      <point x="0.29506665" y="0.028439462" />
+      <point x="0.3119256" y="0.05063693" />
+      <point x="0.32035518" y="0.039538223" />
+      <point x="0.337214" y="0.045087647" />
+      <point x="0.33299917" y="0.06728482" />
+      <point x="0.35828757" y="0.06728482" />
+      <point x="0.35407287" y="0.045087647" />
+      <point x="0.37093177" y="0.033988647" />
+      <point x="0.37936124" y="0.05063693" />
+      <point x="0.3920054" y="0.022890221" />
+      <point x="0.37936124" y="0.017340766" />
+      <point x="0.3962201" y="-0.0048566875" />
+      <point x="0.38357586" y="-0.010405821" />
+      <point x="0.36671707" y="-0.0048566875" />
+      <point x="0.36671707" y="0.011791601" />
+      <point x="0.35828757" y="0.022890221" />
+      <point x="0.34985805" y="0.028439462" />
+      <point x="0.337214" y="0.028439462" />
+      <point x="0.32878456" y="0.022890221" />
+      <point x="0.32035518" y="0.011791601" />
+      <point x="0.32035518" y="-0.0048566875" />
+      <point x="0.31614047" y="-0.027054137" />
+      <point x="0.31614047" y="-0.054800794" />
+      <point x="0.31614047" y="-0.08254775" />
+      <point x="0.31614047" y="-0.10474513" />
+      <point x="0.31614047" y="-0.12694253" />
+      <point x="0.31614047" y="-0.15468943" />
+      <point x="0.31614047" y="-0.17688718" />
+      <point x="0.31614047" y="-0.20463379" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="38f9097a-3c5e-4181-a137-a9b48a22cede" name="Whole Cane 01" />
+      <MotionRowDefault id="b00f6cf2-05fd-484b-b895-f6984edd71d7" name="Whole Cane 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropGroup id="9d53b8e8-0340-4af6-82a4-93ac54ccbca7" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Candy Canes" Name="LOR Group-RGB Candy Canes">
+    <member id="4e961f9a-5598-4027-a567-f3155d8e1cb0" orientation="normal" top="0" left="0" />
+    <member id="70553aff-1304-45b7-9a5f-576df1b5d253" orientation="normal" top="0" left="0" />
+    <member id="befef365-0caf-4964-93b8-6882d6b2a341" orientation="normal" top="0" left="0" />
+    <member id="aa01423e-8180-4fbf-aed1-91cd2e8e7731" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="3cdf1fc9-17a9-45f0-be77-b989dac0c5b2" name="All Canes 01" />
+      <MotionRowDefault id="fb838f85-bef8-4611-9cf6-40cc61eacc2b" name="All Canes 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+</PixelEditorPropExport>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="c91722eb-02ad-42db-9f31-38e45baba546" BulbShape="Flood" ChannelGrid="Regular,08,1,1,0,Red;Regular,08,2,2,0,Green;Regular,08,3,3,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="24" Opacity="255" MasterDimmable="True" PreviewBulbSize="44" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="08.01 Dumb RGB Flood 01" Name="08.01 Dumb RGB Flood 01" Parm1="1">
+    <shape ShapeName="Bulbs">
+      <point x="-0.4702272" y="0.44452488" />
+    </shape>
+  </PropClass>
+  <PropClass id="5170dd7d-4bae-4a28-8fe3-b80023056e47" BulbShape="Flood" ChannelGrid="Regular,08,4,4,0,Red;Regular,08,5,5,0,Green;Regular,08,6,6,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="24" Opacity="255" MasterDimmable="True" PreviewBulbSize="44" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="08.02 Dumb RGB Flood 02" Name="08.02 Dumb RGB Flood 02" Parm1="1">
+    <shape ShapeName="Bulbs">
+      <point x="-0.22519137" y="0.44452488" />
+    </shape>
+  </PropClass>
+  <PropClass id="d054dfb8-d417-4469-9218-cf749fe30e04" BulbShape="Flood" ChannelGrid="Regular,08,7,7,0,Red;Regular,08,8,8,0,Green;Regular,08,9,9,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="24" Opacity="255" MasterDimmable="True" PreviewBulbSize="44" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="08.03 Dumb RGB Flood 03" Name="08.03 Dumb RGB Flood 03" Parm1="1">
+    <shape ShapeName="Bulbs">
+      <point x="0.019844472" y="0.44452488" />
+    </shape>
+  </PropClass>
+  <PropClass id="75c53bf8-24ef-47ae-a2a5-a421a408fe3e" BulbShape="Flood" ChannelGrid="Regular,08,10,10,0,Red;Regular,08,11,11,0,Green;Regular,08,12,12,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="24" Opacity="255" MasterDimmable="True" PreviewBulbSize="44" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="08.04 Dumb RGB Flood 04" Name="08.04 Dumb RGB Flood 04" Parm1="1">
+    <shape ShapeName="Bulbs">
+      <point x="0.2648803" y="0.44452488" />
+    </shape>
+  </PropClass>
+  <PropClass id="a4855c63-5185-4efb-ace2-89e5ad4efca7" BulbShape="Flood" ChannelGrid="Regular,08,13,13,0,Red;Regular,08,14,14,0,Green;Regular,08,15,15,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="24" Opacity="255" MasterDimmable="True" PreviewBulbSize="44" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="08.05 Dumb RGB Flood 05" Name="08.05 Dumb RGB Flood 05" Parm1="1">
+    <shape ShapeName="Bulbs">
+      <point x="-0.4702272" y="0.029891934" />
+    </shape>
+  </PropClass>
+  <PropClass id="71ae7fe3-fdba-496d-9203-c84f7a23f871" BulbShape="Flood" ChannelGrid="Regular,08,16,16,0,Red;Regular,08,17,17,0,Green;Regular,08,18,18,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="24" Opacity="255" MasterDimmable="True" PreviewBulbSize="44" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="08.06 Dumb RGB Flood 06" Name="08.06 Dumb RGB Flood 06" Parm1="1">
+    <shape ShapeName="Bulbs">
+      <point x="-0.22519137" y="0.029891934" />
+    </shape>
+  </PropClass>
+  <PropClass id="49b7dea7-520d-44fd-88a9-e7dfe3f9d5a6" BulbShape="Flood" ChannelGrid="Regular,08,19,19,0,Red;Regular,08,20,20,0,Green;Regular,08,21,21,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="24" Opacity="255" MasterDimmable="True" PreviewBulbSize="44" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="08.07 Dumb RGB Flood 07" Name="08.07 Dumb RGB Flood 07" Parm1="1">
+    <shape ShapeName="Bulbs">
+      <point x="0.019844472" y="0.029891934" />
+    </shape>
+  </PropClass>
+  <PropClass id="5801ab3f-2e60-479f-ae38-8f86c62ab745" BulbShape="Flood" ChannelGrid="Regular,08,22,22,0,Red;Regular,08,23,23,0,Green;Regular,08,24,24,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="24" Opacity="255" MasterDimmable="True" PreviewBulbSize="44" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="08.08 Dumb RGB Flood 08" Name="08.08 Dumb RGB Flood 08" Parm1="1">
+    <shape ShapeName="Bulbs">
+      <point x="0.2648803" y="0.029891934" />
+    </shape>
+  </PropClass>
+  <PropGroup id="365a33cd-5105-47f0-8e6a-610c435c7146" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-Dumb RGB 10W Floods 08" Name="LOR Group-Dumb RGB 10W Floods 08">
+    <member id="c91722eb-02ad-42db-9f31-38e45baba546" orientation="normal" top="0" left="0" />
+    <member id="5170dd7d-4bae-4a28-8fe3-b80023056e47" orientation="normal" top="0" left="0" />
+    <member id="d054dfb8-d417-4469-9218-cf749fe30e04" orientation="normal" top="0" left="0" />
+    <member id="75c53bf8-24ef-47ae-a2a5-a421a408fe3e" orientation="normal" top="0" left="0" />
+    <member id="a4855c63-5185-4efb-ace2-89e5ad4efca7" orientation="normal" top="0" left="0" />
+    <member id="71ae7fe3-fdba-496d-9203-c84f7a23f871" orientation="normal" top="0" left="0" />
+    <member id="49b7dea7-520d-44fd-88a9-e7dfe3f9d5a6" orientation="normal" top="0" left="0" />
+    <member id="5801ab3f-2e60-479f-ae38-8f86c62ab745" orientation="normal" top="0" left="0" />
+  </PropGroup>
+</PixelEditorPropExport>

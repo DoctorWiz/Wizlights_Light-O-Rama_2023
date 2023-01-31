@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="eaa7d745-956d-4747-af53-80a1cecc2eca" BulbShape="Octogon" ChannelGrid="Regular,7F,151,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom-CW" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Tree 16x50 Star" Name="RGB Tree 16x50 Star" Parm1="1" Parm2="50" Parm3="5" Parm4="10">
+    <shape ShapeName="Star" OffsetX="-0.018330693" OffsetY="0.3580225" ScaleX="0.20640779" ScaleY="0.24544434" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="52b5fdf2-076c-4172-ac60-ab5752a32ca3" name="Whole Star 01" />
+      <MotionRowDefault id="4dc03249-4e60-4fb3-aff5-722a96061192" name="Whole Star 02" />
+    </MotionRowDefaults>
+  </PropClass>
+</PixelEditorPropExport>

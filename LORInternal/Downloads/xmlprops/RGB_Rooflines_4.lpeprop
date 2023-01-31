@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="8ae4092f-a2c2-42c3-b5c4-a95d6d11e43a" BulbShape="Octogon" ChannelGrid="Aux B,82,1,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Left" StringType="RGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Roofline 01" Name="RGB Roofline 01" Parm1="2" Parm2="100">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.90791065" y="0.33272174" />
+      <point x="-0.690359" y="0.5839623" />
+      <point x="-0.48304135" y="0.32950625" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="c9c77a56-42cf-4ac0-bdca-5b1f3b0c9032" name="Whole Roof 01" />
+      <MotionRowDefault id="86c189e9-efd4-4a7e-a83a-990d9d88ebad" name="Whole Roof 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="8de01147-a00a-49d4-a6e0-288603214f54" BulbShape="Octogon" ChannelGrid="Aux B,83,1,300,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="True" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Roofline 02" Name="RGB Roofline 02" Parm1="2" Parm2="100">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.4586776" y="0.33312204" />
+      <point x="-0.23997071" y="0.5753144" />
+      <point x="-0.033364356" y="0.32950643" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="c9c77a56-42cf-4ac0-bdca-5b1f3b0c9032" name="Whole Roof 01" />
+      <MotionRowDefault id="86c189e9-efd4-4a7e-a83a-990d9d88ebad" name="Whole Roof 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="d808f77a-cdd2-425d-afb1-a209b18a9846" BulbShape="Octogon" ChannelGrid="Aux B,84,1,300,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="True" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Roofline 03" Name="RGB Roofline 03" Parm1="2" Parm2="100">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.009000592" y="0.3304518" />
+      <point x="0.20914066" y="0.557766" />
+      <point x="0.41631258" y="0.32950675" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="c9c77a56-42cf-4ac0-bdca-5b1f3b0c9032" name="Whole Roof 01" />
+      <MotionRowDefault id="86c189e9-efd4-4a7e-a83a-990d9d88ebad" name="Whole Roof 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="72747318-3476-46a7-a4e8-4f0d3fbcb2f0" BulbShape="Octogon" ChannelGrid="Aux B,85,1,300,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="True" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Roofline 04" Name="RGB Roofline 04" Parm1="2" Parm2="100">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.4406763" y="0.32951137" />
+      <point x="0.6586196" y="0.5632174" />
+      <point x="0.8664335" y="0.32986787" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="c9c77a56-42cf-4ac0-bdca-5b1f3b0c9032" name="Whole Roof 01" />
+      <MotionRowDefault id="86c189e9-efd4-4a7e-a83a-990d9d88ebad" name="Whole Roof 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropGroup id="85b7566c-b0f7-4045-87af-5574d7ab33c6" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Rooflines" Name="LOR Group-RGB Rooflines">
+    <member id="8ae4092f-a2c2-42c3-b5c4-a95d6d11e43a" orientation="normal" top="0" left="0" />
+    <member id="8de01147-a00a-49d4-a6e0-288603214f54" orientation="normal" top="0" left="0" />
+    <member id="d808f77a-cdd2-425d-afb1-a209b18a9846" orientation="normal" top="0" left="0" />
+    <member id="72747318-3476-46a7-a4e8-4f0d3fbcb2f0" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="a0a77840-2aff-4b42-a804-77ef737c4383" name="All Rooflines 01" />
+      <MotionRowDefault id="e69a23dc-9286-41a6-9933-7161f058d0c6" name="All Rooflines 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+</PixelEditorPropExport>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<channelsClipboard version="1" name="Basic 3 of 4 fadeout chase">
+	<cellDemarcations>
+		<cellDemarcation centisecond="0"/>
+		<cellDemarcation centisecond="5"/>
+		<cellDemarcation centisecond="10"/>
+		<cellDemarcation centisecond="15"/>
+		<cellDemarcation centisecond="20"/>
+		<cellDemarcation centisecond="25"/>
+		<cellDemarcation centisecond="30"/>
+		<cellDemarcation centisecond="35"/>
+		<cellDemarcation centisecond="40"/>
+	</cellDemarcations>
+	<channels>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="30" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="30" endCentisecond="40" intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="10" intensity="0"/>
+			<effect type="intensity" startCentisecond="10" endCentisecond="40" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="10" startIntensity="33" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="10" endCentisecond="20" intensity="0"/>
+			<effect type="intensity" startCentisecond="20" endCentisecond="40" startIntensity="100" endIntensity="33"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="25" startIntensity="71" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="25" endCentisecond="30" intensity="0"/>
+			<effect type="intensity" startCentisecond="30" endCentisecond="40" startIntensity="100" endIntensity="67"/>
+		</channel>
+	</channels>
+</channelsClipboard>

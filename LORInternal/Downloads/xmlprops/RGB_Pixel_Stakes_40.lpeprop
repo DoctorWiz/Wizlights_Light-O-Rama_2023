@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="ee41039b-8679-487c-82cf-38225f3f0999" BulbShape="Octogon" ChannelGrid="Aux A,15,1,15,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 01" Name="RGB Pixel Stake 01" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.3657672" OffsetY="-0.4102202" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="197d8dbc-a6da-42d8-bccf-79e23d175065" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="2816a435-a626-438e-812d-0b1eb0691ffc" BulbShape="Octogon" ChannelGrid="Aux A,15,16,30,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 02" Name="RGB Pixel Stake 02" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.282259" OffsetY="-0.4102202" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="448701f5-62a6-4206-9429-30fee124979b" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="da70f2b4-20c4-46d5-969c-9780f789bc20" BulbShape="Octogon" ChannelGrid="Aux A,15,31,45,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 03" Name="RGB Pixel Stake 03" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.1987507" OffsetY="-0.4102202" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="27e7cc05-374a-4073-9526-9787e1ec6a71" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="3f10c72f-4ba8-42e2-97a4-bc7fbe379ce2" BulbShape="Octogon" ChannelGrid="Aux A,15,46,60,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 04" Name="RGB Pixel Stake 04" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.1152424" OffsetY="-0.4102202" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="c655ff5d-9ea0-4f51-83e1-34fe86f3560f" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="283dd7d2-7a70-474c-bc94-d2734a93802e" BulbShape="Octogon" ChannelGrid="Aux A,15,61,75,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 05" Name="RGB Pixel Stake 05" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.03173409" OffsetY="-0.4102202" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="8769838b-5228-439d-8f23-31f8b0a9f1b8" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="1284a9b1-0c64-4904-af89-d8e4e8bb79ec" BulbShape="Octogon" ChannelGrid="Aux A,15,76,90,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 06" Name="RGB Pixel Stake 06" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.0517742" OffsetY="-0.4102202" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="d5b7c25a-032c-408e-b37a-2fd0bfc3a3a4" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="c7c07d07-b37a-45f1-8467-0a50586b9f56" BulbShape="Octogon" ChannelGrid="Aux A,15,91,105,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 07" Name="RGB Pixel Stake 07" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.1352825" OffsetY="-0.4102202" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="746c735c-7352-4457-833c-725ad2f25c46" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="474a0f50-7e1a-4213-9281-26ff121298de" BulbShape="Octogon" ChannelGrid="Aux A,15,106,120,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 08" Name="RGB Pixel Stake 08" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.2187908" OffsetY="-0.4102202" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="12425592-a2e0-4037-b9a2-758612952bb3" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="210bfd65-12ec-4e41-b801-2fc5beecb2f7" BulbShape="Octogon" ChannelGrid="Aux A,15,121,135,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 09" Name="RGB Pixel Stake 09" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.3022991" OffsetY="-0.4102202" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="1eac456e-9c83-41db-b43b-0c3851b77d56" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="a3a29d9e-e45f-4d8a-9a4b-49ba61545afb" BulbShape="Octogon" ChannelGrid="Aux A,15,136,150,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 10" Name="RGB Pixel Stake 10" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.3858073" OffsetY="-0.4102202" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="6e948414-2c2d-4afe-a61b-ee8e0d4f4049" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="6ccb06f4-f24d-4727-b83c-7ed3dd5fe33c" BulbShape="Octogon" ChannelGrid="Aux A,16,1,15,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 11" Name="RGB Pixel Stake 11" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.3405944" OffsetY="-0.3221719" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="01b2d3fa-5383-4b58-b924-f52bb2e4d601" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="55910c77-c5b4-498c-8a16-5f9df5c8df94" BulbShape="Octogon" ChannelGrid="Aux A,16,16,30,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 12" Name="RGB Pixel Stake 12" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.2623017" OffsetY="-0.3221719" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="63acb523-9aa5-4c24-889a-b71bd48fa0bd" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="897c6a1f-290c-4480-9108-2a15eac79506" BulbShape="Octogon" ChannelGrid="Aux A,16,31,45,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 13" Name="RGB Pixel Stake 13" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.184009" OffsetY="-0.3221719" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="fba4e126-2e6a-472d-9763-3eef2d6bfa4e" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="62d410cf-28d9-456d-ad0e-d7ec21725004" BulbShape="Octogon" ChannelGrid="Aux A,16,46,60,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 14" Name="RGB Pixel Stake 14" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.1057163" OffsetY="-0.3221719" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="2df1d727-4db6-4519-b0b1-57e72235d77b" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="3c89df4e-2128-49ec-9ff4-0627849e9b38" BulbShape="Octogon" ChannelGrid="Aux A,16,61,75,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 15" Name="RGB Pixel Stake 15" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.02742362" OffsetY="-0.3221719" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="2ed43bdb-0af8-48ae-998a-4dbba5ff7a37" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="e80f18fa-6833-4809-8046-83bf6b47fe52" BulbShape="Octogon" ChannelGrid="Aux A,16,76,90,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 16" Name="RGB Pixel Stake 16" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.05086908" OffsetY="-0.3221719" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="0b862388-866b-4fe6-8d2d-fcc0c3860efa" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="f7289a8b-72c0-41ab-bc2b-376adb9c094c" BulbShape="Octogon" ChannelGrid="Aux A,16,91,105,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 17" Name="RGB Pixel Stake 17" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.1291618" OffsetY="-0.3221719" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="40b7020c-284d-44e4-956e-423bc7b3c739" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="3e9bfaf3-78e1-43bb-af44-2c1014e5d0b0" BulbShape="Octogon" ChannelGrid="Aux A,16,106,120,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 18" Name="RGB Pixel Stake 18" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.2074545" OffsetY="-0.3221719" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="318fbaff-23a2-4b7f-92a7-a8f4633b71d9" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="64e9b2b4-50d8-47fe-a8c2-6f3159b41270" BulbShape="Octogon" ChannelGrid="Aux A,16,121,135,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 19" Name="RGB Pixel Stake 19" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.2857472" OffsetY="-0.3221719" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="bb534341-068b-4b82-959c-11ddef17d5b2" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="94388ca2-9d17-4e17-a3e9-7d7dee8b3bdb" BulbShape="Octogon" ChannelGrid="Aux A,16,136,150,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 20" Name="RGB Pixel Stake 20" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.3640399" OffsetY="-0.3176316" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="6ac6478a-aef7-4631-b2a8-e77c549940ae" BulbShape="Octogon" ChannelGrid="Aux A,17,1,15,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 21" Name="RGB Pixel Stake 21" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.3154216" OffsetY="-0.2341246" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="e626dba9-3bdc-4673-8478-51e98ba42a0e" BulbShape="Octogon" ChannelGrid="Aux A,17,16,30,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 22" Name="RGB Pixel Stake 22" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.2431012" OffsetY="-0.2341246" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="cbbacc55-35ce-429b-b37b-ddd6cec3d2b9" BulbShape="Octogon" ChannelGrid="Aux A,17,31,45,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 23" Name="RGB Pixel Stake 23" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.1707808" OffsetY="-0.2341246" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="060efa61-ef87-453d-8f2f-b6a5ca43d56c" BulbShape="Octogon" ChannelGrid="Aux A,17,46,60,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 24" Name="RGB Pixel Stake 24" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.09846047" OffsetY="-0.2341246" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="a0f15a4f-7d91-40c6-811b-b1741324460e" BulbShape="Octogon" ChannelGrid="Aux A,17,61,75,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 25" Name="RGB Pixel Stake 25" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.02614009" OffsetY="-0.2341246" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="3e8b4460-f2e3-44e7-8011-f0c5cdec4f95" BulbShape="Octogon" ChannelGrid="Aux A,17,76,90,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 26" Name="RGB Pixel Stake 26" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.04618028" OffsetY="-0.2341246" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="87ec127e-9284-499b-96fb-c77d026455b7" BulbShape="Octogon" ChannelGrid="Aux A,17,91,105,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 27" Name="RGB Pixel Stake 27" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.1185006" OffsetY="-0.2341246" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="7c52ddaf-20cb-4276-ba43-e8ee007fb595" BulbShape="Octogon" ChannelGrid="Aux A,17,106,120,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 28" Name="RGB Pixel Stake 28" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.190821" OffsetY="-0.2341246" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="140fdd90-a5fe-4748-a681-14c1dddb2c5c" BulbShape="Octogon" ChannelGrid="Aux A,17,121,135,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 29" Name="RGB Pixel Stake 29" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.2631414" OffsetY="-0.2341246" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="f3cf68d3-2ed2-4ca0-a9da-1137eacc1c44" BulbShape="Octogon" ChannelGrid="Aux A,17,136,150,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 30" Name="RGB Pixel Stake 30" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.3354618" OffsetY="-0.2341246" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="f5e40a27-2a28-40c3-8297-6309801ee59d" BulbShape="Octogon" ChannelGrid="Aux A,18,1,15,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 31" Name="RGB Pixel Stake 31" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.2902488" OffsetY="-0.1459299" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="3bd1fac3-7f68-442c-b54b-a1ba6d41e084" BulbShape="Octogon" ChannelGrid="Aux A,18,16,30,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 32" Name="RGB Pixel Stake 32" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.2235223" OffsetY="-0.1459299" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="84674faf-a527-49b6-be96-5ce811a06a6c" BulbShape="Octogon" ChannelGrid="Aux A,18,31,45,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 33" Name="RGB Pixel Stake 33" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.1567959" OffsetY="-0.1459299" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="419d462a-6ec8-4054-adef-225a8ba75ea0" BulbShape="Octogon" ChannelGrid="Aux A,18,46,60,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 34" Name="RGB Pixel Stake 34" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.09006951" OffsetY="-0.1459299" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="f8d5812b-e248-4332-abc8-5e7851df5d6d" BulbShape="Octogon" ChannelGrid="Aux A,18,61,75,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 35" Name="RGB Pixel Stake 35" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="-0.0233431" OffsetY="-0.1459299" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="fc7bedcb-4134-483e-9193-11e77a928e1b" BulbShape="Octogon" ChannelGrid="Aux A,18,76,90,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 36" Name="RGB Pixel Stake 36" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.04338331" OffsetY="-0.1459299" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="e8964d4d-7c31-4b8d-b0b4-334aaa1a4c62" BulbShape="Octogon" ChannelGrid="Aux A,18,91,105,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 37" Name="RGB Pixel Stake 37" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.1101097" OffsetY="-0.1459299" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="98a34d02-f5ed-4abc-96ba-719c394e056d" BulbShape="Octogon" ChannelGrid="Aux A,18,106,120,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 38" Name="RGB Pixel Stake 38" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.1768361" OffsetY="-0.1459299" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="48e79d57-bb43-4eb2-9610-df18a045263d" BulbShape="Octogon" ChannelGrid="Aux A,18,121,135,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 39" Name="RGB Pixel Stake 39" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.2435625" OffsetY="-0.1459299" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="8214f62e-7b30-4dec-8bac-27ea57fdb1f5" BulbShape="Octogon" ChannelGrid="Aux A,18,136,150,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Pixel Stake 40" Name="RGB Pixel Stake 40" Parm1="1" Parm2="5">
+    <shape ShapeName="Firestick" OffsetX="0.310289" OffsetY="-0.1459299" ScaleX="6.333271" ScaleY="0.06209307" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f1deb45c-0424-4bf6-a22f-bb23037aed30" name="Effects 01" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropGroup id="cfb3fff5-fe7c-4a46-acf1-e05c4c89c23a" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Pixel Stakes Row 01" Name="LOR Group-RGB Pixel Stakes Row 01">
+    <member id="ee41039b-8679-487c-82cf-38225f3f0999" orientation="normal" top="0" left="0" />
+    <member id="2816a435-a626-438e-812d-0b1eb0691ffc" orientation="normal" top="0" left="0" />
+    <member id="da70f2b4-20c4-46d5-969c-9780f789bc20" orientation="normal" top="0" left="0" />
+    <member id="3f10c72f-4ba8-42e2-97a4-bc7fbe379ce2" orientation="normal" top="0" left="0" />
+    <member id="283dd7d2-7a70-474c-bc94-d2734a93802e" orientation="normal" top="0" left="0" />
+    <member id="1284a9b1-0c64-4904-af89-d8e4e8bb79ec" orientation="normal" top="0" left="0" />
+    <member id="c7c07d07-b37a-45f1-8467-0a50586b9f56" orientation="normal" top="0" left="0" />
+    <member id="474a0f50-7e1a-4213-9281-26ff121298de" orientation="normal" top="0" left="0" />
+    <member id="210bfd65-12ec-4e41-b801-2fc5beecb2f7" orientation="normal" top="0" left="0" />
+    <member id="a3a29d9e-e45f-4d8a-9a4b-49ba61545afb" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f6539cab-0c0d-40e5-830b-52a97c709a87" name="Row 1 Stakes 01" />
+      <MotionRowDefault id="3e3310e6-f04f-4764-ab7d-02d04f3984d1" name="Row 1 Stakes 02" />
+      <MotionRowDefault id="7abc7dae-05dc-46a9-a71a-ef9013e9b08a" name="Stake 1" subx="0" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="973ac27d-cdb2-42d1-a3a8-46afce27fb04" name="Stake 2" subx="0.1" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="c0606d3e-1b61-4dfb-876a-5596b2f4ca86" name="Stake 3" subx="0.2" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="49fbf1cd-94a0-469e-bd4f-a705f3bc77fd" name="Stake 4" subx="0.3" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="4d147b31-e711-4ba0-a67c-2250fd0432cc" name="Stake 5" subx="0.4" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="9fdca988-2823-4c72-b9a9-0b2115002d87" name="Stake 6" subx="0.5" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="241525d6-e9e7-4077-a9b3-336ebf274142" name="Stake 7" subx="0.6" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="ec043ad6-f86e-46ec-b888-880f8ad6ea64" name="Stake 8" subx="0.7" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="3924a5af-c38a-4ed5-bc5f-62dcd486bf76" name="Stake 9" subx="0.8" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="038cc453-7a8d-45f3-a3b3-ac409fdefa77" name="Stake 10" subx="0.9" suby="0" subw="0.1" subh="1" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="af216cb4-7de6-48f0-a5d7-348aee3560d6" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Pixel Stakes Row 02" Name="LOR Group-RGB Pixel Stakes Row 02">
+    <member id="6ccb06f4-f24d-4727-b83c-7ed3dd5fe33c" orientation="normal" top="0" left="0" />
+    <member id="55910c77-c5b4-498c-8a16-5f9df5c8df94" orientation="normal" top="0" left="0" />
+    <member id="897c6a1f-290c-4480-9108-2a15eac79506" orientation="normal" top="0" left="0" />
+    <member id="62d410cf-28d9-456d-ad0e-d7ec21725004" orientation="normal" top="0" left="0" />
+    <member id="3c89df4e-2128-49ec-9ff4-0627849e9b38" orientation="normal" top="0" left="0" />
+    <member id="e80f18fa-6833-4809-8046-83bf6b47fe52" orientation="normal" top="0" left="0" />
+    <member id="f7289a8b-72c0-41ab-bc2b-376adb9c094c" orientation="normal" top="0" left="0" />
+    <member id="3e9bfaf3-78e1-43bb-af44-2c1014e5d0b0" orientation="normal" top="0" left="0" />
+    <member id="64e9b2b4-50d8-47fe-a8c2-6f3159b41270" orientation="normal" top="0" left="0" />
+    <member id="94388ca2-9d17-4e17-a3e9-7d7dee8b3bdb" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="614996fb-8d42-461c-936d-cdf26fd364bb" name="Row 2 Stakes 01" />
+      <MotionRowDefault id="8b4ccf28-169f-4ffc-b352-8e7533756e92" name="Row 2 Stakes 02" />
+      <MotionRowDefault id="208b37ad-d30a-4ec1-ae8f-f822dccfc1c8" name="Stake 1" subx="0" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="52f3b64f-637f-43cb-816a-2fe77617b8e8" name="Stake 2" subx="0.1" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="82cc66c1-dd5c-45cb-bdeb-96b6dfcc2aaa" name="Stake 3" subx="0.2" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="19336d72-b776-4cfe-a637-fe2c05d0462b" name="Stake 4" subx="0.3" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="26458053-0102-4eea-b1cc-9b3ecc2e2602" name="Stake 5" subx="0.4" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="d35a49a6-3974-4c54-9d68-da82e6abed59" name="Stake 6" subx="0.5" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="bdf3ec54-a066-45b2-a3c7-c177802b4176" name="Stake 7" subx="0.6" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="3ea5e290-f33e-4a1d-9a84-cb2eb8445ed3" name="Stake 8" subx="0.7" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="972596e4-9688-475a-a165-dd45ba36e178" name="Stake 9" subx="0.8" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="496b6bf5-1c94-4811-9fbb-651a30385d8b" name="Stake 10" subx="0.9" suby="0" subw="0.1" subh="1" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="77cde200-77a3-416c-b3e0-2171c6c16b83" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Pixel Stakes Row 03" Name="LOR Group-RGB Pixel Stakes Row 03">
+    <member id="6ac6478a-aef7-4631-b2a8-e77c549940ae" orientation="normal" top="0" left="0" />
+    <member id="e626dba9-3bdc-4673-8478-51e98ba42a0e" orientation="normal" top="0" left="0" />
+    <member id="cbbacc55-35ce-429b-b37b-ddd6cec3d2b9" orientation="normal" top="0" left="0" />
+    <member id="060efa61-ef87-453d-8f2f-b6a5ca43d56c" orientation="normal" top="0" left="0" />
+    <member id="a0f15a4f-7d91-40c6-811b-b1741324460e" orientation="normal" top="0" left="0" />
+    <member id="3e8b4460-f2e3-44e7-8011-f0c5cdec4f95" orientation="normal" top="0" left="0" />
+    <member id="87ec127e-9284-499b-96fb-c77d026455b7" orientation="normal" top="0" left="0" />
+    <member id="7c52ddaf-20cb-4276-ba43-e8ee007fb595" orientation="normal" top="0" left="0" />
+    <member id="140fdd90-a5fe-4748-a681-14c1dddb2c5c" orientation="normal" top="0" left="0" />
+    <member id="f3cf68d3-2ed2-4ca0-a9da-1137eacc1c44" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f332deed-4b21-459e-8ab9-83013d3d152f" name="Row 3 Stakes 01" />
+      <MotionRowDefault id="96e42fa1-f630-449d-aa72-55b6f5ff9041" name="Row 3 Stakes 02" />
+      <MotionRowDefault id="aa3f059b-f59c-46ca-b9c6-2d277acd5c25" name="Stake 1" subx="0" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="d745d81b-ccdf-4cd3-8379-153306ad398e" name="Stake 2" subx="0.1" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="53a2e77f-1afe-41a5-9115-08a0f0f916ac" name="Stake 3" subx="0.2" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="8c7281ff-ed52-473e-991a-3d1ec78c5d2b" name="Stake 4" subx="0.3" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="44da7de1-9b6c-482b-913c-cc42e907313a" name="Stake 5" subx="0.4" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="1573f419-6ff8-46c3-806a-beb32d2d84d4" name="Stake 6" subx="0.5" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="7f9e8942-0bc0-4bc2-91c5-40782860bb86" name="Stake 7" subx="0.6" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="07f00de8-6942-431d-9a92-6fc27ebd2111" name="Stake 8" subx="0.7" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="2f399568-815f-4902-a6c8-06577c083b93" name="Stake 9" subx="0.8" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="78b7aca0-1ca8-480b-aa2b-754b07476a5d" name="Stake 10" subx="0.9" suby="0" subw="0.1" subh="1" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="1fca1369-0f92-445d-a437-90e880e98480" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Pixel Stakes Row 04" Name="LOR Group-RGB Pixel Stakes Row 04">
+    <member id="f5e40a27-2a28-40c3-8297-6309801ee59d" orientation="normal" top="0" left="0" />
+    <member id="3bd1fac3-7f68-442c-b54b-a1ba6d41e084" orientation="normal" top="0" left="0" />
+    <member id="84674faf-a527-49b6-be96-5ce811a06a6c" orientation="normal" top="0" left="0" />
+    <member id="419d462a-6ec8-4054-adef-225a8ba75ea0" orientation="normal" top="0" left="0" />
+    <member id="f8d5812b-e248-4332-abc8-5e7851df5d6d" orientation="normal" top="0" left="0" />
+    <member id="fc7bedcb-4134-483e-9193-11e77a928e1b" orientation="normal" top="0" left="0" />
+    <member id="e8964d4d-7c31-4b8d-b0b4-334aaa1a4c62" orientation="normal" top="0" left="0" />
+    <member id="98a34d02-f5ed-4abc-96ba-719c394e056d" orientation="normal" top="0" left="0" />
+    <member id="48e79d57-bb43-4eb2-9610-df18a045263d" orientation="normal" top="0" left="0" />
+    <member id="8214f62e-7b30-4dec-8bac-27ea57fdb1f5" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="a7752136-8997-4baa-b840-d3810c9d5aab" name="Row 4 Stakes 01" />
+      <MotionRowDefault id="3c4d16b6-0c2f-401d-8597-77e02128869d" name="Row 4 Stakes 02" />
+      <MotionRowDefault id="2c98af16-5548-4564-9c16-68d71fee86cd" name="Stake 1" subx="0" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="6504af08-ba15-4d32-b01a-5e6a01e3dd57" name="Stake 2" subx="0.1" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="874ea765-5b85-4848-9c85-4e98ef084257" name="Stake 3" subx="0.2" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="3a825082-2996-4bce-acc0-4408166205a3" name="Stake 4" subx="0.3" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="89e75fc7-7ad1-4b83-9611-bc33fbcae7b1" name="Stake 5" subx="0.4" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="92bb0d8c-c3e8-4dfd-9acc-2d0d33d279ac" name="Stake 6" subx="0.5" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="8aaabafb-79c7-47f2-9c59-d148bb72edbb" name="Stake 7" subx="0.6" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="2e8f95b1-1c23-4292-a452-c35869e611d9" name="Stake 8" subx="0.7" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="99fc650c-e0f5-4200-8b13-f4203ebb1415" name="Stake 9" subx="0.8" suby="0" subw="0.1" subh="1" />
+      <MotionRowDefault id="c4a94256-530a-4727-b365-4b29aba093ad" name="Stake 10" subx="0.9" suby="0" subw="0.1" subh="1" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="266145eb-e0cc-4401-92b9-0ebb2adaf2e1" Arrangement="Vertical" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Pixel Stakes All" Name="LOR Group-RGB Pixel Stakes All">
+    <member id="cfb3fff5-fe7c-4a46-acf1-e05c4c89c23a" orientation="normal" top="0" left="0" />
+    <member id="af216cb4-7de6-48f0-a5d7-348aee3560d6" orientation="normal" top="0" left="0" />
+    <member id="77cde200-77a3-416c-b3e0-2171c6c16b83" orientation="normal" top="0" left="0" />
+    <member id="1fca1369-0f92-445d-a437-90e880e98480" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="4098b94b-ff7a-4e4e-ae69-0a21f58fed2d" name="All Stakes 01" />
+      <MotionRowDefault id="9188a53b-2e5d-4798-adf2-004667fc077a" name="All Stakes 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+</PixelEditorPropExport>

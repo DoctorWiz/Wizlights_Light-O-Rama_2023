@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="44e50f09-247a-4284-8e35-10bf79fd709a" BulbShape="Square" ChannelGrid="Aux A,11,1,150,0,;Aux A,12,1,150,0,;Aux A,13,1,150,0,;Aux A,14,1,150,0,;Aux A,15,1,150,0,;Aux A,16,1,150,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" MaxChannels="510" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="" Name="ribbons 1-6" Parm1="6" Parm2="50" Parm3="0">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="-0.184413" y="0.3352841" />
+      <point x="-0.04344589" y="0.4300889" />
+      <point x="-0.0134529" y="-0.7282007" />
+      <point x="-0.5593255" y="-0.7265121" />
+    </shape>
+  </PropClass>
+  <PropClass id="f3634a26-bd7b-4bc0-986d-8a791c56b420" BulbShape="Square" ChannelGrid="Aux A,17,1,150,0,;Aux A,18,1,150,0,;Aux A,19,1,150,0,;Aux A,1A,1,150,0,;Aux A,1B,1,150,0,;Aux A,1C,1,150,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" MaxChannels="510" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="" Name="ribbons 7-12" Parm1="6" Parm2="50" Parm3="0">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="-0.04428583" y="0.429294" />
+      <point x="0.09068278" y="0.3370572" />
+      <point x="0.4146071" y="-0.7179878" />
+      <point x="-0.01729199" y="-0.7314918" />
+    </shape>
+  </PropClass>
+  <PropClass id="2bdf3ee4-9508-4d9d-8290-f56c60c3b017" BulbShape="Square" ChannelGrid="Regular,01,1,1,0,White;Regular,01,2,2,0,White;Regular,01,3,3,0,White;Regular,01,4,4,0,White;Regular,01,5,5,0,White;Regular,01,6,6,0,White" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" MaxChannels="16" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="" Name="Star6-white" Parm1="20" Parm2="30" Parm3="40" Parm4="50" Parm5="60" Parm6="70">
+    <shape ShapeName="Stars Nested" OffsetX="-0.043446" OffsetY="0.5252898" ScaleX="0.4270854" ScaleY="0.4213806" Radians="0" />
+  </PropClass>
+  <PropGroup id="0a3d5d46-6282-4f95-88bf-9290f24a7b5c" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Tag="Pixel_Tree" Name="Ribbons 1-12">
+    <member id="44e50f09-247a-4284-8e35-10bf79fd709a" orientation="normal" top="0" left="0" />
+    <member id="f3634a26-bd7b-4bc0-986d-8a791c56b420" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="b9ba6a42-9f32-45a7-9a75-1e310b9836dd" name="Effects All Ribbons" />
+      <MotionRowDefault id="8af563f4-3776-4e89-a32c-fa9699ce0c6b" name="Effects ccr01" subx="0" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="148ddef1-823d-4333-8789-6b219d3613ed" name="Effects ccr02" subx="0.08333334" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="04486953-2c06-49a0-a47b-d086d0cb3875" name="Effects ccr03" subx="0.1666667" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="5adf53e3-bd39-477b-a39c-00b06b42baca" name="Effects ccr04" subx="0.25" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="8114663f-1af5-41b3-8ce8-cfdf04bf6455" name="Effects ccr05" subx="0.3333333" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="849fc3d8-d234-4097-b2ac-382c8fdd3903" name="Effects ccr06" subx="0.4166667" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="34e99f43-cc04-47c4-8207-0f3f227be864" name="Effects ccr07" subx="0.5" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="eb1f0317-a407-4ebf-9c55-7b115a846370" name="Effects ccr08" subx="0.5833333" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="930acd0f-a2d1-416a-8ae0-aa2269a9eb70" name="Effects ccr09" subx="0.6666667" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="9227d43d-3650-49d1-8372-2f9838a5f59a" name="Effects ccr10" subx="0.75" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="5a5e7748-e5cd-448a-a524-330c0e531783" name="Effects ccr11" subx="0.8333333" suby="0" subw="0.08333334" subh="1" />
+      <MotionRowDefault id="a9cf125a-d36d-47cb-af20-1a02ad415f8c" name="Effects ccr12" subx="0.9166667" suby="0" subw="0.08333334" subh="1" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="192d1a26-449c-4e63-b0c4-5f53b9ff4c19" Arrangement="HorizontalTop" PreviewResFactor="1" EffectBulbSize="1" Tag="" Name="Ribbons+6ch Star">
+    <member id="44e50f09-247a-4284-8e35-10bf79fd709a" orientation="normal" top="0" left="0" />
+    <member id="f3634a26-bd7b-4bc0-986d-8a791c56b420" orientation="normal" top="0" left="0" />
+    <member id="2bdf3ee4-9508-4d9d-8290-f56c60c3b017" orientation="flip_vertical" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="7e456d09-8e9e-46d0-bf7d-2586665c4c24" name="Effects SUPERSTAR" />
+    </MotionRowDefaults>
+  </PropGroup>
+</PixelEditorPropExport>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="219e268f-c097-4316-b32e-4da3b61e79b0" BulbShape="Square" ChannelGrid="" Comment="" CustomBulbColor="FF80FFFF" DeviceType="None" DimmingCurveName="None" IndividualChannels="False" MaxChannels="16" Opacity="255" Parm1="1" Parm2="50" Parm3="0" Parm4="0" Parm5="0" Parm6="0" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Red,Green,Blue,Yellow" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="generic_multicolor_string">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.4628378" y="-0.02403849" />
+      <point x="0.3277028" y="-0.02403843" />
+    </shape>
+  </PropClass>
+</PixelEditorPropExport>

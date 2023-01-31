@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modelinventory>
+    <vendor>
+        <name>Generic Props</name>
+    </vendor>
+    <models>
+        <model>
+            <name>Single color light string.</name>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/generic_single_color_string.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/generic_single_color_string.lpeprop</lorprop>
+        </model>
+        <model>
+            <name>Multi-color light string.</name>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/generic_multicolor_string.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/generic_multicolor_string.lpeprop</lorprop>
+        </model>
+        <model>
+            <name>Single color flood light.</name>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/generic_flood_white.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/generic_flood_white.lpeprop</lorprop>
+        </model>
+        <model>
+            <name>RGB flood light.</name>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/generic_flood_rgb.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/generic_flood_rgb.lpeprop</lorprop>
+        </model>
+        <model>
+            <name>String of single color strobes.</name>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/generic_strobe.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/generic_strobe.lpeprop</lorprop>
+        </model>
+        <model>
+            <name>String of single color snowfall/meteor/drip tubes.</name>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/generic_snowfall_tube.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/generic_snowfall_tube.lpeprop</lorprop>
+        </model>
+    </models>
+</modelinventory>

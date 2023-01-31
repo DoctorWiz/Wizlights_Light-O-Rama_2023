@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LViz lvizSaveFileVersion="3.0.0" CreatedAt="10-21-2017 19:06:32" Chksum="3B3B3243F6728297A746F5C1BE1305A7">
+    <Background BackgroundType="1" PicIntensity="60" EditorWidthTwips="12000" EditorHeightTwips="12000"/>
+    <Levels Dimmed="50">
+        <Level ID="1" Edit_Enabled="True" Sim_Enabled="True" Name="Background"/>
+        <Level ID="2" Edit_Enabled="True" Sim_Enabled="True" Name="Level 2"/>
+        <Level ID="3" Edit_Enabled="True" Sim_Enabled="True" Name="Level 3"/>
+        <Level ID="4" Edit_Enabled="True" Sim_Enabled="True" Name="Level 4"/>
+        <Level ID="5" Edit_Enabled="True" Sim_Enabled="True" Name="Level 5"/>
+        <Level ID="6" Edit_Enabled="True" Sim_Enabled="True" Name="Level 6"/>
+        <Level ID="7" Edit_Enabled="True" Sim_Enabled="True" Name="Level 7"/>
+        <Level ID="8" Edit_Enabled="True" Sim_Enabled="True" Name="Level 8"/>
+        <Level ID="9" Edit_Enabled="True" Sim_Enabled="True" Name="Level 9"/>
+        <Level ID="10" Edit_Enabled="True" Sim_Enabled="True" Name="Level 10"/>
+        <Level ID="11" Edit_Enabled="True" Sim_Enabled="True" Name="Level 11"/>
+        <Level ID="12" Edit_Enabled="True" Sim_Enabled="True" Name="Level 12"/>
+        <Level ID="13" Edit_Enabled="True" Sim_Enabled="True" Name="Level 13"/>
+        <Level ID="14" Edit_Enabled="True" Sim_Enabled="True" Name="Level 14"/>
+        <Level ID="15" Edit_Enabled="True" Sim_Enabled="True" Name="Level 15"/>
+        <Level ID="16" Edit_Enabled="True" Sim_Enabled="True" Name="Foreground"/>
+    </Levels>
+    <Items>
+        <Item ID="1" Name="CCR Ribbons" Locked="False" Comment="" SSWU="0" SSFF="" SSReverseOrder="False" SSForceRowColumn="True" SSRow="1" SSColumn="1" SSUseMyOrder="False" SSStar="False" SSMatrixInd="0" SSPropColorTemp="0">
+            <AssignedObject ID="1" Object="1"/>
+            <AssignedObject ID="2" Object="2"/>
+            <AssignedObject ID="3" Object="3"/>
+            <AssignedObject ID="4" Object="4"/>
+            <AssignedObject ID="5" Object="5"/>
+            <AssignedObject ID="6" Object="6"/>
+            <AssignedObject ID="7" Object="7"/>
+            <AssignedObject ID="8" Object="8"/>
+            <AssignedObject ID="9" Object="9"/>
+            <AssignedObject ID="10" Object="10"/>
+            <AssignedObject ID="11" Object="11"/>
+            <AssignedObject ID="12" Object="12"/>
+            <AssignedObject ID="13" Object="13"/>
+            <AssignedObject ID="14" Object="14"/>
+            <AssignedObject ID="15" Object="15"/>
+            <AssignedObject ID="16" Object="16"/>
+        </Item>
+        <Item ID="2" Name="RGB Stars" Locked="False" Comment="" SSWU="0" SSFF="" SSReverseOrder="False" SSForceRowColumn="True" SSRow="1" SSColumn="17" SSUseMyOrder="False" SSStar="True" SSMatrixInd="1" SSPropColorTemp="0">
+            <AssignedObject ID="1" Object="17"/>
+            <AssignedObject ID="2" Object="18"/>
+            <AssignedObject ID="3" Object="19"/>
+            <AssignedObject ID="4" Object="20"/>
+        </Item>
+    </Items>
+    <DrawObjects>
+        <DrawObject ID="1" Name="CCR 01" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="17" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="2355" Y="11114"/>
+                <DrawPoint ID="2" Type="16" X="2402" Y="10955"/>
+                <DrawPoint ID="3" Type="16" X="2463" Y="10815"/>
+                <DrawPoint ID="4" Type="16" X="2514" Y="10662"/>
+                <DrawPoint ID="5" Type="16" X="2574" Y="10501"/>
+                <DrawPoint ID="6" Type="16" X="2621" Y="10362"/>
+                <DrawPoint ID="7" Type="16" X="2686" Y="10209"/>
+                <DrawPoint ID="8" Type="16" X="2732" Y="10054"/>
+                <DrawPoint ID="9" Type="16" X="2793" Y="9894"/>
+                <DrawPoint ID="10" Type="16" X="2839" Y="9755"/>
+                <DrawPoint ID="11" Type="16" X="2890" Y="9599"/>
+                <DrawPoint ID="12" Type="16" X="2952" Y="9441"/>
+                <DrawPoint ID="13" Type="16" X="2997" Y="9301"/>
+                <DrawPoint ID="14" Type="16" X="3059" Y="9149"/>
+                <DrawPoint ID="15" Type="16" X="3110" Y="8994"/>
+                <DrawPoint ID="16" Type="16" X="3171" Y="8849"/>
+                <DrawPoint ID="17" Type="16" X="3218" Y="8695"/>
+                <DrawPoint ID="18" Type="16" X="3283" Y="8539"/>
+                <DrawPoint ID="19" Type="16" X="3330" Y="8396"/>
+                <DrawPoint ID="20" Type="16" X="3390" Y="8240"/>
+                <DrawPoint ID="21" Type="16" X="3436" Y="8088"/>
+                <DrawPoint ID="22" Type="16" X="3487" Y="7934"/>
+                <DrawPoint ID="23" Type="16" X="3548" Y="7787"/>
+                <DrawPoint ID="24" Type="16" X="3594" Y="7635"/>
+                <DrawPoint ID="25" Type="16" X="3656" Y="7479"/>
+                <DrawPoint ID="26" Type="16" X="3706" Y="7336"/>
+                <DrawPoint ID="27" Type="16" X="3768" Y="7180"/>
+                <DrawPoint ID="28" Type="16" X="3814" Y="7028"/>
+                <DrawPoint ID="29" Type="16" X="3875" Y="6884"/>
+                <DrawPoint ID="30" Type="16" X="3926" Y="6727"/>
+                <DrawPoint ID="31" Type="16" X="3972" Y="6575"/>
+                <DrawPoint ID="32" Type="16" X="4032" Y="6419"/>
+                <DrawPoint ID="33" Type="16" X="4079" Y="6276"/>
+                <DrawPoint ID="34" Type="16" X="4144" Y="6120"/>
+                <DrawPoint ID="35" Type="16" X="4191" Y="5966"/>
+                <DrawPoint ID="36" Type="16" X="4252" Y="5821"/>
+                <DrawPoint ID="37" Type="16" X="4303" Y="5666"/>
+                <DrawPoint ID="38" Type="16" X="4365" Y="5514"/>
+                <DrawPoint ID="39" Type="16" X="4410" Y="5374"/>
+                <DrawPoint ID="40" Type="16" X="4472" Y="5216"/>
+                <DrawPoint ID="41" Type="16" X="4523" Y="5060"/>
+                <DrawPoint ID="42" Type="16" X="4569" Y="4921"/>
+                <DrawPoint ID="43" Type="16" X="4630" Y="4761"/>
+                <DrawPoint ID="44" Type="16" X="4676" Y="4606"/>
+                <DrawPoint ID="45" Type="16" X="4741" Y="4453"/>
+                <DrawPoint ID="46" Type="16" X="4788" Y="4314"/>
+                <DrawPoint ID="47" Type="16" X="4848" Y="4153"/>
+                <DrawPoint ID="48" Type="16" X="4899" Y="4000"/>
+                <DrawPoint ID="49" Type="16" X="4960" Y="3860"/>
+                <DrawPoint ID="50" Type="16" X="5007" Y="3701"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="2" Name="CCR 02" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="18" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="2712" Y="11146"/>
+                <DrawPoint ID="2" Type="16" X="2758" Y="10992"/>
+                <DrawPoint ID="3" Type="16" X="2806" Y="10838"/>
+                <DrawPoint ID="4" Type="16" X="2853" Y="10685"/>
+                <DrawPoint ID="5" Type="16" X="2913" Y="10530"/>
+                <DrawPoint ID="6" Type="16" X="2960" Y="10376"/>
+                <DrawPoint ID="7" Type="16" X="3008" Y="10226"/>
+                <DrawPoint ID="8" Type="16" X="3054" Y="10072"/>
+                <DrawPoint ID="9" Type="16" X="3099" Y="9918"/>
+                <DrawPoint ID="10" Type="16" X="3145" Y="9764"/>
+                <DrawPoint ID="11" Type="16" X="3209" Y="9610"/>
+                <DrawPoint ID="12" Type="16" X="3255" Y="9456"/>
+                <DrawPoint ID="13" Type="16" X="3300" Y="9302"/>
+                <DrawPoint ID="14" Type="16" X="3349" Y="9150"/>
+                <DrawPoint ID="15" Type="16" X="3395" Y="8998"/>
+                <DrawPoint ID="16" Type="16" X="3441" Y="8843"/>
+                <DrawPoint ID="17" Type="16" X="3502" Y="8690"/>
+                <DrawPoint ID="18" Type="16" X="3551" Y="8536"/>
+                <DrawPoint ID="19" Type="16" X="3597" Y="8382"/>
+                <DrawPoint ID="20" Type="16" X="3642" Y="8228"/>
+                <DrawPoint ID="21" Type="16" X="3688" Y="8076"/>
+                <DrawPoint ID="22" Type="16" X="3737" Y="7922"/>
+                <DrawPoint ID="23" Type="16" X="3798" Y="7768"/>
+                <DrawPoint ID="24" Type="16" X="3843" Y="7616"/>
+                <DrawPoint ID="25" Type="16" X="3889" Y="7462"/>
+                <DrawPoint ID="26" Type="16" X="3938" Y="7323"/>
+                <DrawPoint ID="27" Type="16" X="3984" Y="7169"/>
+                <DrawPoint ID="28" Type="16" X="4029" Y="7017"/>
+                <DrawPoint ID="29" Type="16" X="4090" Y="6863"/>
+                <DrawPoint ID="30" Type="16" X="4139" Y="6709"/>
+                <DrawPoint ID="31" Type="16" X="4185" Y="6557"/>
+                <DrawPoint ID="32" Type="16" X="4230" Y="6403"/>
+                <DrawPoint ID="33" Type="16" X="4276" Y="6249"/>
+                <DrawPoint ID="34" Type="16" X="4325" Y="6095"/>
+                <DrawPoint ID="35" Type="16" X="4386" Y="5942"/>
+                <DrawPoint ID="36" Type="16" X="4432" Y="5787"/>
+                <DrawPoint ID="37" Type="16" X="4478" Y="5635"/>
+                <DrawPoint ID="38" Type="16" X="4527" Y="5483"/>
+                <DrawPoint ID="39" Type="16" X="4572" Y="5329"/>
+                <DrawPoint ID="40" Type="16" X="4618" Y="5175"/>
+                <DrawPoint ID="41" Type="16" X="4682" Y="5021"/>
+                <DrawPoint ID="42" Type="16" X="4728" Y="4867"/>
+                <DrawPoint ID="43" Type="16" X="4773" Y="4713"/>
+                <DrawPoint ID="44" Type="16" X="4819" Y="4559"/>
+                <DrawPoint ID="45" Type="16" X="4868" Y="4409"/>
+                <DrawPoint ID="46" Type="16" X="4914" Y="4255"/>
+                <DrawPoint ID="47" Type="16" X="4974" Y="4100"/>
+                <DrawPoint ID="48" Type="16" X="5021" Y="3947"/>
+                <DrawPoint ID="49" Type="16" X="5069" Y="3793"/>
+                <DrawPoint ID="50" Type="16" X="5115" Y="3639"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="3" Name="CCR 03" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="19" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="3094" Y="11183"/>
+                <DrawPoint ID="2" Type="16" X="3138" Y="11028"/>
+                <DrawPoint ID="3" Type="16" X="3181" Y="10872"/>
+                <DrawPoint ID="4" Type="16" X="3224" Y="10717"/>
+                <DrawPoint ID="5" Type="16" X="3267" Y="10562"/>
+                <DrawPoint ID="6" Type="16" X="3311" Y="10406"/>
+                <DrawPoint ID="7" Type="16" X="3354" Y="10250"/>
+                <DrawPoint ID="8" Type="16" X="3397" Y="10095"/>
+                <DrawPoint ID="9" Type="16" X="3440" Y="9940"/>
+                <DrawPoint ID="10" Type="16" X="3484" Y="9784"/>
+                <DrawPoint ID="11" Type="16" X="3527" Y="9629"/>
+                <DrawPoint ID="12" Type="16" X="3570" Y="9474"/>
+                <DrawPoint ID="13" Type="16" X="3613" Y="9317"/>
+                <DrawPoint ID="14" Type="16" X="3657" Y="9163"/>
+                <DrawPoint ID="15" Type="16" X="3701" Y="9008"/>
+                <DrawPoint ID="16" Type="16" X="3743" Y="8851"/>
+                <DrawPoint ID="17" Type="16" X="3786" Y="8697"/>
+                <DrawPoint ID="18" Type="16" X="3831" Y="8541"/>
+                <DrawPoint ID="19" Type="16" X="3873" Y="8385"/>
+                <DrawPoint ID="20" Type="16" X="3916" Y="8230"/>
+                <DrawPoint ID="21" Type="16" X="3960" Y="8075"/>
+                <DrawPoint ID="22" Type="16" X="4004" Y="7919"/>
+                <DrawPoint ID="23" Type="16" X="4046" Y="7763"/>
+                <DrawPoint ID="24" Type="16" X="4090" Y="7609"/>
+                <DrawPoint ID="25" Type="16" X="4133" Y="7454"/>
+                <DrawPoint ID="26" Type="16" X="4176" Y="7298"/>
+                <DrawPoint ID="27" Type="16" X="4220" Y="7142"/>
+                <DrawPoint ID="28" Type="16" X="4263" Y="6987"/>
+                <DrawPoint ID="29" Type="16" X="4306" Y="6831"/>
+                <DrawPoint ID="30" Type="16" X="4350" Y="6675"/>
+                <DrawPoint ID="31" Type="16" X="4393" Y="6521"/>
+                <DrawPoint ID="32" Type="16" X="4436" Y="6365"/>
+                <DrawPoint ID="33" Type="16" X="4478" Y="6209"/>
+                <DrawPoint ID="34" Type="16" X="4523" Y="6053"/>
+                <DrawPoint ID="35" Type="16" X="4566" Y="5900"/>
+                <DrawPoint ID="36" Type="16" X="4609" Y="5744"/>
+                <DrawPoint ID="37" Type="16" X="4652" Y="5588"/>
+                <DrawPoint ID="38" Type="16" X="4696" Y="5434"/>
+                <DrawPoint ID="39" Type="16" X="4739" Y="5277"/>
+                <DrawPoint ID="40" Type="16" X="4782" Y="5121"/>
+                <DrawPoint ID="41" Type="16" X="4825" Y="4966"/>
+                <DrawPoint ID="42" Type="16" X="4869" Y="4811"/>
+                <DrawPoint ID="43" Type="16" X="4912" Y="4655"/>
+                <DrawPoint ID="44" Type="16" X="4955" Y="4500"/>
+                <DrawPoint ID="45" Type="16" X="4998" Y="4344"/>
+                <DrawPoint ID="46" Type="16" X="5042" Y="4188"/>
+                <DrawPoint ID="47" Type="16" X="5085" Y="4035"/>
+                <DrawPoint ID="48" Type="16" X="5128" Y="3879"/>
+                <DrawPoint ID="49" Type="16" X="5171" Y="3723"/>
+                <DrawPoint ID="50" Type="16" X="5216" Y="3567"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="4" Name="CCR 04" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="20" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="3556" Y="11215"/>
+                <DrawPoint ID="2" Type="16" X="3591" Y="11058"/>
+                <DrawPoint ID="3" Type="16" X="3626" Y="10903"/>
+                <DrawPoint ID="4" Type="16" X="3662" Y="10746"/>
+                <DrawPoint ID="5" Type="16" X="3698" Y="10588"/>
+                <DrawPoint ID="6" Type="16" X="3733" Y="10431"/>
+                <DrawPoint ID="7" Type="16" X="3769" Y="10273"/>
+                <DrawPoint ID="8" Type="16" X="3804" Y="10116"/>
+                <DrawPoint ID="9" Type="16" X="3838" Y="9959"/>
+                <DrawPoint ID="10" Type="16" X="3875" Y="9802"/>
+                <DrawPoint ID="11" Type="16" X="3910" Y="9645"/>
+                <DrawPoint ID="12" Type="16" X="3945" Y="9488"/>
+                <DrawPoint ID="13" Type="16" X="3981" Y="9332"/>
+                <DrawPoint ID="14" Type="16" X="4017" Y="9174"/>
+                <DrawPoint ID="15" Type="16" X="4052" Y="9018"/>
+                <DrawPoint ID="16" Type="16" X="4087" Y="8860"/>
+                <DrawPoint ID="17" Type="16" X="4122" Y="8703"/>
+                <DrawPoint ID="18" Type="16" X="4158" Y="8545"/>
+                <DrawPoint ID="19" Type="16" X="4194" Y="8388"/>
+                <DrawPoint ID="20" Type="16" X="4229" Y="8231"/>
+                <DrawPoint ID="21" Type="16" X="4264" Y="8075"/>
+                <DrawPoint ID="22" Type="16" X="4301" Y="7919"/>
+                <DrawPoint ID="23" Type="16" X="4335" Y="7761"/>
+                <DrawPoint ID="24" Type="16" X="4371" Y="7604"/>
+                <DrawPoint ID="25" Type="16" X="4406" Y="7446"/>
+                <DrawPoint ID="26" Type="16" X="4442" Y="7290"/>
+                <DrawPoint ID="27" Type="16" X="4477" Y="7132"/>
+                <DrawPoint ID="28" Type="16" X="4513" Y="6975"/>
+                <DrawPoint ID="29" Type="16" X="4548" Y="6817"/>
+                <DrawPoint ID="30" Type="16" X="4584" Y="6660"/>
+                <DrawPoint ID="31" Type="16" X="4619" Y="6504"/>
+                <DrawPoint ID="32" Type="16" X="4654" Y="6348"/>
+                <DrawPoint ID="33" Type="16" X="4690" Y="6191"/>
+                <DrawPoint ID="34" Type="16" X="4726" Y="6033"/>
+                <DrawPoint ID="35" Type="16" X="4761" Y="5876"/>
+                <DrawPoint ID="36" Type="16" X="4797" Y="5718"/>
+                <DrawPoint ID="37" Type="16" X="4831" Y="5561"/>
+                <DrawPoint ID="38" Type="16" X="4867" Y="5404"/>
+                <DrawPoint ID="39" Type="16" X="4903" Y="5247"/>
+                <DrawPoint ID="40" Type="16" X="4938" Y="5090"/>
+                <DrawPoint ID="41" Type="16" X="4973" Y="4933"/>
+                <DrawPoint ID="42" Type="16" X="5010" Y="4777"/>
+                <DrawPoint ID="43" Type="16" X="5045" Y="4620"/>
+                <DrawPoint ID="44" Type="16" X="5080" Y="4463"/>
+                <DrawPoint ID="45" Type="16" X="5115" Y="4305"/>
+                <DrawPoint ID="46" Type="16" X="5150" Y="4148"/>
+                <DrawPoint ID="47" Type="16" X="5186" Y="3990"/>
+                <DrawPoint ID="48" Type="16" X="5222" Y="3833"/>
+                <DrawPoint ID="49" Type="16" X="5257" Y="3677"/>
+                <DrawPoint ID="50" Type="16" X="5292" Y="3519"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="5" Name="CCR 05" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="21" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="4020" Y="11248"/>
+                <DrawPoint ID="2" Type="16" X="4047" Y="11089"/>
+                <DrawPoint ID="3" Type="16" X="4075" Y="10930"/>
+                <DrawPoint ID="4" Type="16" X="4103" Y="10772"/>
+                <DrawPoint ID="5" Type="16" X="4130" Y="10613"/>
+                <DrawPoint ID="6" Type="16" X="4158" Y="10454"/>
+                <DrawPoint ID="7" Type="16" X="4187" Y="10294"/>
+                <DrawPoint ID="8" Type="16" X="4214" Y="10136"/>
+                <DrawPoint ID="9" Type="16" X="4242" Y="9977"/>
+                <DrawPoint ID="10" Type="16" X="4270" Y="9817"/>
+                <DrawPoint ID="11" Type="16" X="4298" Y="9658"/>
+                <DrawPoint ID="12" Type="16" X="4326" Y="9498"/>
+                <DrawPoint ID="13" Type="16" X="4353" Y="9341"/>
+                <DrawPoint ID="14" Type="16" X="4381" Y="9181"/>
+                <DrawPoint ID="15" Type="16" X="4409" Y="9023"/>
+                <DrawPoint ID="16" Type="16" X="4437" Y="8864"/>
+                <DrawPoint ID="17" Type="16" X="4465" Y="8705"/>
+                <DrawPoint ID="18" Type="16" X="4492" Y="8545"/>
+                <DrawPoint ID="19" Type="16" X="4520" Y="8385"/>
+                <DrawPoint ID="20" Type="16" X="4549" Y="8227"/>
+                <DrawPoint ID="21" Type="16" X="4576" Y="8068"/>
+                <DrawPoint ID="22" Type="16" X="4604" Y="7910"/>
+                <DrawPoint ID="23" Type="16" X="4632" Y="7751"/>
+                <DrawPoint ID="24" Type="16" X="4659" Y="7592"/>
+                <DrawPoint ID="25" Type="16" X="4688" Y="7433"/>
+                <DrawPoint ID="26" Type="16" X="4715" Y="7272"/>
+                <DrawPoint ID="27" Type="16" X="4743" Y="7114"/>
+                <DrawPoint ID="28" Type="16" X="4771" Y="6955"/>
+                <DrawPoint ID="29" Type="16" X="4799" Y="6796"/>
+                <DrawPoint ID="30" Type="16" X="4827" Y="6638"/>
+                <DrawPoint ID="31" Type="16" X="4854" Y="6478"/>
+                <DrawPoint ID="32" Type="16" X="4882" Y="6320"/>
+                <DrawPoint ID="33" Type="16" X="4911" Y="6161"/>
+                <DrawPoint ID="34" Type="16" X="4938" Y="6001"/>
+                <DrawPoint ID="35" Type="16" X="4965" Y="5842"/>
+                <DrawPoint ID="36" Type="16" X="4994" Y="5683"/>
+                <DrawPoint ID="37" Type="16" X="5021" Y="5524"/>
+                <DrawPoint ID="38" Type="16" X="5050" Y="5364"/>
+                <DrawPoint ID="39" Type="16" X="5077" Y="5208"/>
+                <DrawPoint ID="40" Type="16" X="5104" Y="5048"/>
+                <DrawPoint ID="41" Type="16" X="5133" Y="4889"/>
+                <DrawPoint ID="42" Type="16" X="5161" Y="4729"/>
+                <DrawPoint ID="43" Type="16" X="5188" Y="4570"/>
+                <DrawPoint ID="44" Type="16" X="5216" Y="4411"/>
+                <DrawPoint ID="45" Type="16" X="5244" Y="4252"/>
+                <DrawPoint ID="46" Type="16" X="5273" Y="4093"/>
+                <DrawPoint ID="47" Type="16" X="5300" Y="3935"/>
+                <DrawPoint ID="48" Type="16" X="5327" Y="3776"/>
+                <DrawPoint ID="49" Type="16" X="5356" Y="3617"/>
+                <DrawPoint ID="50" Type="16" X="5383" Y="3456"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="6" Name="CCR 06" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="22" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="4477" Y="11282"/>
+                <DrawPoint ID="2" Type="16" X="4496" Y="11121"/>
+                <DrawPoint ID="3" Type="16" X="4516" Y="10961"/>
+                <DrawPoint ID="4" Type="16" X="4535" Y="10800"/>
+                <DrawPoint ID="5" Type="16" X="4555" Y="10639"/>
+                <DrawPoint ID="6" Type="16" X="4574" Y="10480"/>
+                <DrawPoint ID="7" Type="16" X="4593" Y="10319"/>
+                <DrawPoint ID="8" Type="16" X="4614" Y="10160"/>
+                <DrawPoint ID="9" Type="16" X="4633" Y="9999"/>
+                <DrawPoint ID="10" Type="16" X="4652" Y="9838"/>
+                <DrawPoint ID="11" Type="16" X="4672" Y="9678"/>
+                <DrawPoint ID="12" Type="16" X="4691" Y="9517"/>
+                <DrawPoint ID="13" Type="16" X="4711" Y="9357"/>
+                <DrawPoint ID="14" Type="16" X="4730" Y="9198"/>
+                <DrawPoint ID="15" Type="16" X="4750" Y="9038"/>
+                <DrawPoint ID="16" Type="16" X="4770" Y="8876"/>
+                <DrawPoint ID="17" Type="16" X="4789" Y="8716"/>
+                <DrawPoint ID="18" Type="16" X="4809" Y="8556"/>
+                <DrawPoint ID="19" Type="16" X="4828" Y="8394"/>
+                <DrawPoint ID="20" Type="16" X="4848" Y="8234"/>
+                <DrawPoint ID="21" Type="16" X="4867" Y="8076"/>
+                <DrawPoint ID="22" Type="16" X="4887" Y="7915"/>
+                <DrawPoint ID="23" Type="16" X="4907" Y="7754"/>
+                <DrawPoint ID="24" Type="16" X="4926" Y="7594"/>
+                <DrawPoint ID="25" Type="16" X="4946" Y="7433"/>
+                <DrawPoint ID="26" Type="16" X="4965" Y="7272"/>
+                <DrawPoint ID="27" Type="16" X="4985" Y="7111"/>
+                <DrawPoint ID="28" Type="16" X="5004" Y="6953"/>
+                <DrawPoint ID="29" Type="16" X="5024" Y="6792"/>
+                <DrawPoint ID="30" Type="16" X="5044" Y="6631"/>
+                <DrawPoint ID="31" Type="16" X="5063" Y="6471"/>
+                <DrawPoint ID="32" Type="16" X="5083" Y="6311"/>
+                <DrawPoint ID="33" Type="16" X="5102" Y="6149"/>
+                <DrawPoint ID="34" Type="16" X="5122" Y="5990"/>
+                <DrawPoint ID="35" Type="16" X="5141" Y="5830"/>
+                <DrawPoint ID="36" Type="16" X="5161" Y="5669"/>
+                <DrawPoint ID="37" Type="16" X="5181" Y="5509"/>
+                <DrawPoint ID="38" Type="16" X="5200" Y="5349"/>
+                <DrawPoint ID="39" Type="16" X="5220" Y="5188"/>
+                <DrawPoint ID="40" Type="16" X="5239" Y="5027"/>
+                <DrawPoint ID="41" Type="16" X="5258" Y="4868"/>
+                <DrawPoint ID="42" Type="16" X="5278" Y="4707"/>
+                <DrawPoint ID="43" Type="16" X="5298" Y="4547"/>
+                <DrawPoint ID="44" Type="16" X="5318" Y="4387"/>
+                <DrawPoint ID="45" Type="16" X="5337" Y="4226"/>
+                <DrawPoint ID="46" Type="16" X="5356" Y="4066"/>
+                <DrawPoint ID="47" Type="16" X="5376" Y="3905"/>
+                <DrawPoint ID="48" Type="16" X="5395" Y="3745"/>
+                <DrawPoint ID="49" Type="16" X="5415" Y="3585"/>
+                <DrawPoint ID="50" Type="16" X="5435" Y="3423"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="7" Name="CCR 07" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="23" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="4937" Y="11314"/>
+                <DrawPoint ID="2" Type="16" X="4949" Y="11151"/>
+                <DrawPoint ID="3" Type="16" X="4962" Y="10988"/>
+                <DrawPoint ID="4" Type="16" X="4972" Y="10826"/>
+                <DrawPoint ID="5" Type="16" X="4985" Y="10662"/>
+                <DrawPoint ID="6" Type="16" X="4996" Y="10500"/>
+                <DrawPoint ID="7" Type="16" X="5007" Y="10339"/>
+                <DrawPoint ID="8" Type="16" X="5021" Y="10176"/>
+                <DrawPoint ID="9" Type="16" X="5032" Y="10013"/>
+                <DrawPoint ID="10" Type="16" X="5043" Y="9850"/>
+                <DrawPoint ID="11" Type="16" X="5055" Y="9688"/>
+                <DrawPoint ID="12" Type="16" X="5067" Y="9524"/>
+                <DrawPoint ID="13" Type="16" X="5077" Y="9362"/>
+                <DrawPoint ID="14" Type="16" X="5091" Y="9201"/>
+                <DrawPoint ID="15" Type="16" X="5103" Y="9038"/>
+                <DrawPoint ID="16" Type="16" X="5114" Y="8875"/>
+                <DrawPoint ID="17" Type="16" X="5125" Y="8712"/>
+                <DrawPoint ID="18" Type="16" X="5137" Y="8550"/>
+                <DrawPoint ID="19" Type="16" X="5148" Y="8386"/>
+                <DrawPoint ID="20" Type="16" X="5161" Y="8225"/>
+                <DrawPoint ID="21" Type="16" X="5173" Y="8062"/>
+                <DrawPoint ID="22" Type="16" X="5184" Y="7900"/>
+                <DrawPoint ID="23" Type="16" X="5196" Y="7737"/>
+                <DrawPoint ID="24" Type="16" X="5207" Y="7574"/>
+                <DrawPoint ID="25" Type="16" X="5218" Y="7412"/>
+                <DrawPoint ID="26" Type="16" X="5232" Y="7248"/>
+                <DrawPoint ID="27" Type="16" X="5243" Y="7087"/>
+                <DrawPoint ID="28" Type="16" X="5254" Y="6924"/>
+                <DrawPoint ID="29" Type="16" X="5266" Y="6761"/>
+                <DrawPoint ID="30" Type="16" X="5277" Y="6599"/>
+                <DrawPoint ID="31" Type="16" X="5288" Y="6436"/>
+                <DrawPoint ID="32" Type="16" X="5302" Y="6274"/>
+                <DrawPoint ID="33" Type="16" X="5313" Y="6110"/>
+                <DrawPoint ID="34" Type="16" X="5325" Y="5949"/>
+                <DrawPoint ID="35" Type="16" X="5336" Y="5786"/>
+                <DrawPoint ID="36" Type="16" X="5348" Y="5623"/>
+                <DrawPoint ID="37" Type="16" X="5359" Y="5461"/>
+                <DrawPoint ID="38" Type="16" X="5373" Y="5298"/>
+                <DrawPoint ID="39" Type="16" X="5383" Y="5136"/>
+                <DrawPoint ID="40" Type="16" X="5395" Y="4972"/>
+                <DrawPoint ID="41" Type="16" X="5407" Y="4811"/>
+                <DrawPoint ID="42" Type="16" X="5417" Y="4648"/>
+                <DrawPoint ID="43" Type="16" X="5430" Y="4485"/>
+                <DrawPoint ID="44" Type="16" X="5443" Y="4323"/>
+                <DrawPoint ID="45" Type="16" X="5454" Y="4160"/>
+                <DrawPoint ID="46" Type="16" X="5465" Y="3998"/>
+                <DrawPoint ID="47" Type="16" X="5477" Y="3835"/>
+                <DrawPoint ID="48" Type="16" X="5488" Y="3673"/>
+                <DrawPoint ID="49" Type="16" X="5500" Y="3510"/>
+                <DrawPoint ID="50" Type="16" X="5514" Y="3347"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="8" Name="CCR 08" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="24" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="5399" Y="11345"/>
+                <DrawPoint ID="2" Type="16" X="5403" Y="11182"/>
+                <DrawPoint ID="3" Type="16" X="5406" Y="11017"/>
+                <DrawPoint ID="4" Type="16" X="5410" Y="10852"/>
+                <DrawPoint ID="5" Type="16" X="5414" Y="10687"/>
+                <DrawPoint ID="6" Type="16" X="5418" Y="10524"/>
+                <DrawPoint ID="7" Type="16" X="5422" Y="10359"/>
+                <DrawPoint ID="8" Type="16" X="5426" Y="10195"/>
+                <DrawPoint ID="9" Type="16" X="5430" Y="10030"/>
+                <DrawPoint ID="10" Type="16" X="5434" Y="9865"/>
+                <DrawPoint ID="11" Type="16" X="5438" Y="9701"/>
+                <DrawPoint ID="12" Type="16" X="5441" Y="9536"/>
+                <DrawPoint ID="13" Type="16" X="5446" Y="9371"/>
+                <DrawPoint ID="14" Type="16" X="5449" Y="9208"/>
+                <DrawPoint ID="15" Type="16" X="5454" Y="9043"/>
+                <DrawPoint ID="16" Type="16" X="5457" Y="8879"/>
+                <DrawPoint ID="17" Type="16" X="5461" Y="8714"/>
+                <DrawPoint ID="18" Type="16" X="5465" Y="8549"/>
+                <DrawPoint ID="19" Type="16" X="5469" Y="8384"/>
+                <DrawPoint ID="20" Type="16" X="5473" Y="8220"/>
+                <DrawPoint ID="21" Type="16" X="5477" Y="8056"/>
+                <DrawPoint ID="22" Type="16" X="5481" Y="7892"/>
+                <DrawPoint ID="23" Type="16" X="5485" Y="7727"/>
+                <DrawPoint ID="24" Type="16" X="5488" Y="7562"/>
+                <DrawPoint ID="25" Type="16" X="5493" Y="7397"/>
+                <DrawPoint ID="26" Type="16" X="5496" Y="7234"/>
+                <DrawPoint ID="27" Type="16" X="5501" Y="7069"/>
+                <DrawPoint ID="28" Type="16" X="5504" Y="6904"/>
+                <DrawPoint ID="29" Type="16" X="5508" Y="6739"/>
+                <DrawPoint ID="30" Type="16" X="5512" Y="6575"/>
+                <DrawPoint ID="31" Type="16" X="5516" Y="6411"/>
+                <DrawPoint ID="32" Type="16" X="5520" Y="6247"/>
+                <DrawPoint ID="33" Type="16" X="5524" Y="6082"/>
+                <DrawPoint ID="34" Type="16" X="5528" Y="5917"/>
+                <DrawPoint ID="35" Type="16" X="5532" Y="5752"/>
+                <DrawPoint ID="36" Type="16" X="5536" Y="5588"/>
+                <DrawPoint ID="37" Type="16" X="5539" Y="5423"/>
+                <DrawPoint ID="38" Type="16" X="5543" Y="5260"/>
+                <DrawPoint ID="39" Type="16" X="5547" Y="5095"/>
+                <DrawPoint ID="40" Type="16" X="5551" Y="4930"/>
+                <DrawPoint ID="41" Type="16" X="5555" Y="4766"/>
+                <DrawPoint ID="42" Type="16" X="5559" Y="4601"/>
+                <DrawPoint ID="43" Type="16" X="5563" Y="4436"/>
+                <DrawPoint ID="44" Type="16" X="5567" Y="4272"/>
+                <DrawPoint ID="45" Type="16" X="5570" Y="4107"/>
+                <DrawPoint ID="46" Type="16" X="5575" Y="3944"/>
+                <DrawPoint ID="47" Type="16" X="5578" Y="3779"/>
+                <DrawPoint ID="48" Type="16" X="5583" Y="3614"/>
+                <DrawPoint ID="49" Type="16" X="5586" Y="3449"/>
+                <DrawPoint ID="50" Type="16" X="5591" Y="3285"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="9" Name="CCR 09" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="25" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="5860" Y="11345"/>
+                <DrawPoint ID="2" Type="16" X="5856" Y="11182"/>
+                <DrawPoint ID="3" Type="16" X="5853" Y="11017"/>
+                <DrawPoint ID="4" Type="16" X="5849" Y="10852"/>
+                <DrawPoint ID="5" Type="16" X="5845" Y="10687"/>
+                <DrawPoint ID="6" Type="16" X="5841" Y="10524"/>
+                <DrawPoint ID="7" Type="16" X="5837" Y="10359"/>
+                <DrawPoint ID="8" Type="16" X="5833" Y="10195"/>
+                <DrawPoint ID="9" Type="16" X="5829" Y="10030"/>
+                <DrawPoint ID="10" Type="16" X="5825" Y="9865"/>
+                <DrawPoint ID="11" Type="16" X="5821" Y="9701"/>
+                <DrawPoint ID="12" Type="16" X="5818" Y="9536"/>
+                <DrawPoint ID="13" Type="16" X="5813" Y="9371"/>
+                <DrawPoint ID="14" Type="16" X="5810" Y="9208"/>
+                <DrawPoint ID="15" Type="16" X="5805" Y="9043"/>
+                <DrawPoint ID="16" Type="16" X="5802" Y="8879"/>
+                <DrawPoint ID="17" Type="16" X="5798" Y="8714"/>
+                <DrawPoint ID="18" Type="16" X="5794" Y="8549"/>
+                <DrawPoint ID="19" Type="16" X="5790" Y="8384"/>
+                <DrawPoint ID="20" Type="16" X="5786" Y="8220"/>
+                <DrawPoint ID="21" Type="16" X="5782" Y="8056"/>
+                <DrawPoint ID="22" Type="16" X="5778" Y="7892"/>
+                <DrawPoint ID="23" Type="16" X="5774" Y="7727"/>
+                <DrawPoint ID="24" Type="16" X="5771" Y="7562"/>
+                <DrawPoint ID="25" Type="16" X="5766" Y="7397"/>
+                <DrawPoint ID="26" Type="16" X="5763" Y="7234"/>
+                <DrawPoint ID="27" Type="16" X="5758" Y="7069"/>
+                <DrawPoint ID="28" Type="16" X="5755" Y="6904"/>
+                <DrawPoint ID="29" Type="16" X="5751" Y="6739"/>
+                <DrawPoint ID="30" Type="16" X="5747" Y="6575"/>
+                <DrawPoint ID="31" Type="16" X="5743" Y="6411"/>
+                <DrawPoint ID="32" Type="16" X="5739" Y="6247"/>
+                <DrawPoint ID="33" Type="16" X="5735" Y="6082"/>
+                <DrawPoint ID="34" Type="16" X="5731" Y="5917"/>
+                <DrawPoint ID="35" Type="16" X="5727" Y="5752"/>
+                <DrawPoint ID="36" Type="16" X="5723" Y="5588"/>
+                <DrawPoint ID="37" Type="16" X="5720" Y="5423"/>
+                <DrawPoint ID="38" Type="16" X="5716" Y="5260"/>
+                <DrawPoint ID="39" Type="16" X="5712" Y="5095"/>
+                <DrawPoint ID="40" Type="16" X="5708" Y="4930"/>
+                <DrawPoint ID="41" Type="16" X="5704" Y="4766"/>
+                <DrawPoint ID="42" Type="16" X="5700" Y="4601"/>
+                <DrawPoint ID="43" Type="16" X="5696" Y="4436"/>
+                <DrawPoint ID="44" Type="16" X="5692" Y="4272"/>
+                <DrawPoint ID="45" Type="16" X="5689" Y="4107"/>
+                <DrawPoint ID="46" Type="16" X="5684" Y="3944"/>
+                <DrawPoint ID="47" Type="16" X="5681" Y="3779"/>
+                <DrawPoint ID="48" Type="16" X="5676" Y="3614"/>
+                <DrawPoint ID="49" Type="16" X="5673" Y="3449"/>
+                <DrawPoint ID="50" Type="16" X="5668" Y="3285"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="10" Name="CCR 10" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="26" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="6321" Y="11313"/>
+                <DrawPoint ID="2" Type="16" X="6310" Y="11151"/>
+                <DrawPoint ID="3" Type="16" X="6298" Y="10987"/>
+                <DrawPoint ID="4" Type="16" X="6287" Y="10824"/>
+                <DrawPoint ID="5" Type="16" X="6274" Y="10661"/>
+                <DrawPoint ID="6" Type="16" X="6263" Y="10498"/>
+                <DrawPoint ID="7" Type="16" X="6251" Y="10337"/>
+                <DrawPoint ID="8" Type="16" X="6239" Y="10173"/>
+                <DrawPoint ID="9" Type="16" X="6228" Y="10011"/>
+                <DrawPoint ID="10" Type="16" X="6216" Y="9847"/>
+                <DrawPoint ID="11" Type="16" X="6204" Y="9684"/>
+                <DrawPoint ID="12" Type="16" X="6192" Y="9521"/>
+                <DrawPoint ID="13" Type="16" X="6181" Y="9358"/>
+                <DrawPoint ID="14" Type="16" X="6169" Y="9197"/>
+                <DrawPoint ID="15" Type="16" X="6157" Y="9033"/>
+                <DrawPoint ID="16" Type="16" X="6145" Y="8871"/>
+                <DrawPoint ID="17" Type="16" X="6134" Y="8707"/>
+                <DrawPoint ID="18" Type="16" X="6122" Y="8544"/>
+                <DrawPoint ID="19" Type="16" X="6110" Y="8381"/>
+                <DrawPoint ID="20" Type="16" X="6099" Y="8219"/>
+                <DrawPoint ID="21" Type="16" X="6087" Y="8056"/>
+                <DrawPoint ID="22" Type="16" X="6075" Y="7893"/>
+                <DrawPoint ID="23" Type="16" X="6063" Y="7730"/>
+                <DrawPoint ID="24" Type="16" X="6052" Y="7567"/>
+                <DrawPoint ID="25" Type="16" X="6040" Y="7404"/>
+                <DrawPoint ID="26" Type="16" X="6028" Y="7241"/>
+                <DrawPoint ID="27" Type="16" X="6016" Y="7079"/>
+                <DrawPoint ID="28" Type="16" X="6005" Y="6916"/>
+                <DrawPoint ID="29" Type="16" X="5993" Y="6753"/>
+                <DrawPoint ID="30" Type="16" X="5981" Y="6590"/>
+                <DrawPoint ID="31" Type="16" X="5970" Y="6427"/>
+                <DrawPoint ID="32" Type="16" X="5958" Y="6264"/>
+                <DrawPoint ID="33" Type="16" X="5946" Y="6101"/>
+                <DrawPoint ID="34" Type="16" X="5934" Y="5939"/>
+                <DrawPoint ID="35" Type="16" X="5923" Y="5775"/>
+                <DrawPoint ID="36" Type="16" X="5910" Y="5613"/>
+                <DrawPoint ID="37" Type="16" X="5899" Y="5450"/>
+                <DrawPoint ID="38" Type="16" X="5887" Y="5287"/>
+                <DrawPoint ID="39" Type="16" X="5876" Y="5124"/>
+                <DrawPoint ID="40" Type="16" X="5864" Y="4961"/>
+                <DrawPoint ID="41" Type="16" X="5852" Y="4799"/>
+                <DrawPoint ID="42" Type="16" X="5841" Y="4635"/>
+                <DrawPoint ID="43" Type="16" X="5828" Y="4473"/>
+                <DrawPoint ID="44" Type="16" X="5817" Y="4310"/>
+                <DrawPoint ID="45" Type="16" X="5805" Y="4147"/>
+                <DrawPoint ID="46" Type="16" X="5794" Y="3984"/>
+                <DrawPoint ID="47" Type="16" X="5782" Y="3822"/>
+                <DrawPoint ID="48" Type="16" X="5770" Y="3659"/>
+                <DrawPoint ID="49" Type="16" X="5758" Y="3495"/>
+                <DrawPoint ID="50" Type="16" X="5746" Y="3333"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="11" Name="CCR 11" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="27" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="6769" Y="11281"/>
+                <DrawPoint ID="2" Type="16" X="6751" Y="11121"/>
+                <DrawPoint ID="3" Type="16" X="6731" Y="10960"/>
+                <DrawPoint ID="4" Type="16" X="6712" Y="10798"/>
+                <DrawPoint ID="5" Type="16" X="6693" Y="10638"/>
+                <DrawPoint ID="6" Type="16" X="6673" Y="10478"/>
+                <DrawPoint ID="7" Type="16" X="6655" Y="10317"/>
+                <DrawPoint ID="8" Type="16" X="6634" Y="10157"/>
+                <DrawPoint ID="9" Type="16" X="6615" Y="9997"/>
+                <DrawPoint ID="10" Type="16" X="6596" Y="9835"/>
+                <DrawPoint ID="11" Type="16" X="6576" Y="9674"/>
+                <DrawPoint ID="12" Type="16" X="6558" Y="9514"/>
+                <DrawPoint ID="13" Type="16" X="6538" Y="9353"/>
+                <DrawPoint ID="14" Type="16" X="6519" Y="9194"/>
+                <DrawPoint ID="15" Type="16" X="6499" Y="9033"/>
+                <DrawPoint ID="16" Type="16" X="6480" Y="8872"/>
+                <DrawPoint ID="17" Type="16" X="6461" Y="8711"/>
+                <DrawPoint ID="18" Type="16" X="6441" Y="8550"/>
+                <DrawPoint ID="19" Type="16" X="6422" Y="8389"/>
+                <DrawPoint ID="20" Type="16" X="6402" Y="8228"/>
+                <DrawPoint ID="21" Type="16" X="6384" Y="8070"/>
+                <DrawPoint ID="22" Type="16" X="6364" Y="7908"/>
+                <DrawPoint ID="23" Type="16" X="6344" Y="7747"/>
+                <DrawPoint ID="24" Type="16" X="6325" Y="7587"/>
+                <DrawPoint ID="25" Type="16" X="6305" Y="7425"/>
+                <DrawPoint ID="26" Type="16" X="6287" Y="7265"/>
+                <DrawPoint ID="27" Type="16" X="6267" Y="7103"/>
+                <DrawPoint ID="28" Type="16" X="6248" Y="6945"/>
+                <DrawPoint ID="29" Type="16" X="6228" Y="6784"/>
+                <DrawPoint ID="30" Type="16" X="6208" Y="6622"/>
+                <DrawPoint ID="31" Type="16" X="6190" Y="6462"/>
+                <DrawPoint ID="32" Type="16" X="6170" Y="6301"/>
+                <DrawPoint ID="33" Type="16" X="6151" Y="6140"/>
+                <DrawPoint ID="34" Type="16" X="6131" Y="5980"/>
+                <DrawPoint ID="35" Type="16" X="6112" Y="5820"/>
+                <DrawPoint ID="36" Type="16" X="6093" Y="5659"/>
+                <DrawPoint ID="37" Type="16" X="6073" Y="5498"/>
+                <DrawPoint ID="38" Type="16" X="6054" Y="5338"/>
+                <DrawPoint ID="39" Type="16" X="6034" Y="5176"/>
+                <DrawPoint ID="40" Type="16" X="6016" Y="5016"/>
+                <DrawPoint ID="41" Type="16" X="5997" Y="4856"/>
+                <DrawPoint ID="42" Type="16" X="5977" Y="4694"/>
+                <DrawPoint ID="43" Type="16" X="5957" Y="4535"/>
+                <DrawPoint ID="44" Type="16" X="5937" Y="4374"/>
+                <DrawPoint ID="45" Type="16" X="5919" Y="4213"/>
+                <DrawPoint ID="46" Type="16" X="5900" Y="4052"/>
+                <DrawPoint ID="47" Type="16" X="5880" Y="3892"/>
+                <DrawPoint ID="48" Type="16" X="5861" Y="3731"/>
+                <DrawPoint ID="49" Type="16" X="5841" Y="3570"/>
+                <DrawPoint ID="50" Type="16" X="5822" Y="3409"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="12" Name="CCR 12" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="28" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="7243" Y="11247"/>
+                <DrawPoint ID="2" Type="16" X="7216" Y="11089"/>
+                <DrawPoint ID="3" Type="16" X="7189" Y="10930"/>
+                <DrawPoint ID="4" Type="16" X="7161" Y="10772"/>
+                <DrawPoint ID="5" Type="16" X="7134" Y="10613"/>
+                <DrawPoint ID="6" Type="16" X="7107" Y="10454"/>
+                <DrawPoint ID="7" Type="16" X="7079" Y="10294"/>
+                <DrawPoint ID="8" Type="16" X="7052" Y="10136"/>
+                <DrawPoint ID="9" Type="16" X="7024" Y="9977"/>
+                <DrawPoint ID="10" Type="16" X="6997" Y="9817"/>
+                <DrawPoint ID="11" Type="16" X="6970" Y="9658"/>
+                <DrawPoint ID="12" Type="16" X="6942" Y="9499"/>
+                <DrawPoint ID="13" Type="16" X="6915" Y="9340"/>
+                <DrawPoint ID="14" Type="16" X="6888" Y="9181"/>
+                <DrawPoint ID="15" Type="16" X="6860" Y="9023"/>
+                <DrawPoint ID="16" Type="16" X="6833" Y="8864"/>
+                <DrawPoint ID="17" Type="16" X="6805" Y="8705"/>
+                <DrawPoint ID="18" Type="16" X="6778" Y="8545"/>
+                <DrawPoint ID="19" Type="16" X="6751" Y="8386"/>
+                <DrawPoint ID="20" Type="16" X="6723" Y="8226"/>
+                <DrawPoint ID="21" Type="16" X="6696" Y="8068"/>
+                <DrawPoint ID="22" Type="16" X="6668" Y="7910"/>
+                <DrawPoint ID="23" Type="16" X="6641" Y="7751"/>
+                <DrawPoint ID="24" Type="16" X="6614" Y="7592"/>
+                <DrawPoint ID="25" Type="16" X="6586" Y="7433"/>
+                <DrawPoint ID="26" Type="16" X="6559" Y="7272"/>
+                <DrawPoint ID="27" Type="16" X="6532" Y="7114"/>
+                <DrawPoint ID="28" Type="16" X="6504" Y="6955"/>
+                <DrawPoint ID="29" Type="16" X="6477" Y="6796"/>
+                <DrawPoint ID="30" Type="16" X="6449" Y="6638"/>
+                <DrawPoint ID="31" Type="16" X="6422" Y="6479"/>
+                <DrawPoint ID="32" Type="16" X="6395" Y="6319"/>
+                <DrawPoint ID="33" Type="16" X="6367" Y="6161"/>
+                <DrawPoint ID="34" Type="16" X="6340" Y="6001"/>
+                <DrawPoint ID="35" Type="16" X="6313" Y="5842"/>
+                <DrawPoint ID="36" Type="16" X="6285" Y="5683"/>
+                <DrawPoint ID="37" Type="16" X="6258" Y="5524"/>
+                <DrawPoint ID="38" Type="16" X="6230" Y="5365"/>
+                <DrawPoint ID="39" Type="16" X="6203" Y="5207"/>
+                <DrawPoint ID="40" Type="16" X="6176" Y="5048"/>
+                <DrawPoint ID="41" Type="16" X="6148" Y="4889"/>
+                <DrawPoint ID="42" Type="16" X="6121" Y="4729"/>
+                <DrawPoint ID="43" Type="16" X="6094" Y="4570"/>
+                <DrawPoint ID="44" Type="16" X="6066" Y="4411"/>
+                <DrawPoint ID="45" Type="16" X="6039" Y="4252"/>
+                <DrawPoint ID="46" Type="16" X="6011" Y="4093"/>
+                <DrawPoint ID="47" Type="16" X="5984" Y="3935"/>
+                <DrawPoint ID="48" Type="16" X="5957" Y="3776"/>
+                <DrawPoint ID="49" Type="16" X="5929" Y="3617"/>
+                <DrawPoint ID="50" Type="16" X="5902" Y="3457"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="13" Name="CCR 13" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="29" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="7705" Y="11214"/>
+                <DrawPoint ID="2" Type="16" X="7670" Y="11058"/>
+                <DrawPoint ID="3" Type="16" X="7635" Y="10902"/>
+                <DrawPoint ID="4" Type="16" X="7599" Y="10744"/>
+                <DrawPoint ID="5" Type="16" X="7564" Y="10587"/>
+                <DrawPoint ID="6" Type="16" X="7529" Y="10429"/>
+                <DrawPoint ID="7" Type="16" X="7493" Y="10271"/>
+                <DrawPoint ID="8" Type="16" X="7458" Y="10113"/>
+                <DrawPoint ID="9" Type="16" X="7424" Y="9957"/>
+                <DrawPoint ID="10" Type="16" X="7388" Y="9799"/>
+                <DrawPoint ID="11" Type="16" X="7353" Y="9642"/>
+                <DrawPoint ID="12" Type="16" X="7318" Y="9484"/>
+                <DrawPoint ID="13" Type="16" X="7282" Y="9328"/>
+                <DrawPoint ID="14" Type="16" X="7247" Y="9170"/>
+                <DrawPoint ID="15" Type="16" X="7212" Y="9013"/>
+                <DrawPoint ID="16" Type="16" X="7177" Y="8855"/>
+                <DrawPoint ID="17" Type="16" X="7142" Y="8698"/>
+                <DrawPoint ID="18" Type="16" X="7107" Y="8540"/>
+                <DrawPoint ID="19" Type="16" X="7071" Y="8382"/>
+                <DrawPoint ID="20" Type="16" X="7036" Y="8226"/>
+                <DrawPoint ID="21" Type="16" X="7001" Y="8069"/>
+                <DrawPoint ID="22" Type="16" X="6965" Y="7912"/>
+                <DrawPoint ID="23" Type="16" X="6931" Y="7754"/>
+                <DrawPoint ID="24" Type="16" X="6895" Y="7597"/>
+                <DrawPoint ID="25" Type="16" X="6860" Y="7439"/>
+                <DrawPoint ID="26" Type="16" X="6825" Y="7282"/>
+                <DrawPoint ID="27" Type="16" X="6790" Y="7124"/>
+                <DrawPoint ID="28" Type="16" X="6754" Y="6967"/>
+                <DrawPoint ID="29" Type="16" X="6719" Y="6809"/>
+                <DrawPoint ID="30" Type="16" X="6684" Y="6651"/>
+                <DrawPoint ID="31" Type="16" X="6649" Y="6494"/>
+                <DrawPoint ID="32" Type="16" X="6614" Y="6339"/>
+                <DrawPoint ID="33" Type="16" X="6578" Y="6181"/>
+                <DrawPoint ID="34" Type="16" X="6543" Y="6023"/>
+                <DrawPoint ID="35" Type="16" X="6508" Y="5866"/>
+                <DrawPoint ID="36" Type="16" X="6472" Y="5708"/>
+                <DrawPoint ID="37" Type="16" X="6438" Y="5550"/>
+                <DrawPoint ID="38" Type="16" X="6403" Y="5393"/>
+                <DrawPoint ID="39" Type="16" X="6367" Y="5236"/>
+                <DrawPoint ID="40" Type="16" X="6332" Y="5078"/>
+                <DrawPoint ID="41" Type="16" X="6297" Y="4921"/>
+                <DrawPoint ID="42" Type="16" X="6261" Y="4764"/>
+                <DrawPoint ID="43" Type="16" X="6226" Y="4608"/>
+                <DrawPoint ID="44" Type="16" X="6191" Y="4450"/>
+                <DrawPoint ID="45" Type="16" X="6156" Y="4292"/>
+                <DrawPoint ID="46" Type="16" X="6121" Y="4134"/>
+                <DrawPoint ID="47" Type="16" X="6086" Y="3977"/>
+                <DrawPoint ID="48" Type="16" X="6050" Y="3819"/>
+                <DrawPoint ID="49" Type="16" X="6015" Y="3662"/>
+                <DrawPoint ID="50" Type="16" X="5980" Y="3505"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="14" Name="CCR 14" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="30" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="8166" Y="11184"/>
+                <DrawPoint ID="2" Type="16" X="8123" Y="11028"/>
+                <DrawPoint ID="3" Type="16" X="8080" Y="10873"/>
+                <DrawPoint ID="4" Type="16" X="8037" Y="10719"/>
+                <DrawPoint ID="5" Type="16" X="7994" Y="10563"/>
+                <DrawPoint ID="6" Type="16" X="7951" Y="10408"/>
+                <DrawPoint ID="7" Type="16" X="7908" Y="10252"/>
+                <DrawPoint ID="8" Type="16" X="7865" Y="10098"/>
+                <DrawPoint ID="9" Type="16" X="7822" Y="9942"/>
+                <DrawPoint ID="10" Type="16" X="7779" Y="9787"/>
+                <DrawPoint ID="11" Type="16" X="7736" Y="9632"/>
+                <DrawPoint ID="12" Type="16" X="7693" Y="9477"/>
+                <DrawPoint ID="13" Type="16" X="7650" Y="9322"/>
+                <DrawPoint ID="14" Type="16" X="7607" Y="9167"/>
+                <DrawPoint ID="15" Type="16" X="7563" Y="9013"/>
+                <DrawPoint ID="16" Type="16" X="7521" Y="8856"/>
+                <DrawPoint ID="17" Type="16" X="7478" Y="8702"/>
+                <DrawPoint ID="18" Type="16" X="7434" Y="8546"/>
+                <DrawPoint ID="19" Type="16" X="7392" Y="8390"/>
+                <DrawPoint ID="20" Type="16" X="7349" Y="8236"/>
+                <DrawPoint ID="21" Type="16" X="7305" Y="8081"/>
+                <DrawPoint ID="22" Type="16" X="7262" Y="7926"/>
+                <DrawPoint ID="23" Type="16" X="7220" Y="7770"/>
+                <DrawPoint ID="24" Type="16" X="7176" Y="7616"/>
+                <DrawPoint ID="25" Type="16" X="7133" Y="7461"/>
+                <DrawPoint ID="26" Type="16" X="7091" Y="7306"/>
+                <DrawPoint ID="27" Type="16" X="7047" Y="7150"/>
+                <DrawPoint ID="28" Type="16" X="7004" Y="6995"/>
+                <DrawPoint ID="29" Type="16" X="6961" Y="6839"/>
+                <DrawPoint ID="30" Type="16" X="6918" Y="6684"/>
+                <DrawPoint ID="31" Type="16" X="6875" Y="6530"/>
+                <DrawPoint ID="32" Type="16" X="6832" Y="6375"/>
+                <DrawPoint ID="33" Type="16" X="6790" Y="6219"/>
+                <DrawPoint ID="34" Type="16" X="6746" Y="6063"/>
+                <DrawPoint ID="35" Type="16" X="6703" Y="5910"/>
+                <DrawPoint ID="36" Type="16" X="6660" Y="5754"/>
+                <DrawPoint ID="37" Type="16" X="6617" Y="5599"/>
+                <DrawPoint ID="38" Type="16" X="6574" Y="5444"/>
+                <DrawPoint ID="39" Type="16" X="6531" Y="5289"/>
+                <DrawPoint ID="40" Type="16" X="6488" Y="5133"/>
+                <DrawPoint ID="41" Type="16" X="6445" Y="4978"/>
+                <DrawPoint ID="42" Type="16" X="6402" Y="4824"/>
+                <DrawPoint ID="43" Type="16" X="6359" Y="4667"/>
+                <DrawPoint ID="44" Type="16" X="6316" Y="4513"/>
+                <DrawPoint ID="45" Type="16" X="6273" Y="4357"/>
+                <DrawPoint ID="46" Type="16" X="6230" Y="4202"/>
+                <DrawPoint ID="47" Type="16" X="6187" Y="4048"/>
+                <DrawPoint ID="48" Type="16" X="6144" Y="3893"/>
+                <DrawPoint ID="49" Type="16" X="6101" Y="3738"/>
+                <DrawPoint ID="50" Type="16" X="6057" Y="3581"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="15" Name="CCR 15" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="31" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="8605" Y="11122"/>
+                <DrawPoint ID="2" Type="16" X="8553" Y="10970"/>
+                <DrawPoint ID="3" Type="16" X="8504" Y="10817"/>
+                <DrawPoint ID="4" Type="16" X="8454" Y="10665"/>
+                <DrawPoint ID="5" Type="16" X="8404" Y="10513"/>
+                <DrawPoint ID="6" Type="16" X="8353" Y="10359"/>
+                <DrawPoint ID="7" Type="16" X="8305" Y="10204"/>
+                <DrawPoint ID="8" Type="16" X="8254" Y="10052"/>
+                <DrawPoint ID="9" Type="16" X="8204" Y="9900"/>
+                <DrawPoint ID="10" Type="16" X="8150" Y="9747"/>
+                <DrawPoint ID="11" Type="16" X="8102" Y="9595"/>
+                <DrawPoint ID="12" Type="16" X="8054" Y="9443"/>
+                <DrawPoint ID="13" Type="16" X="8002" Y="9290"/>
+                <DrawPoint ID="14" Type="16" X="7951" Y="9134"/>
+                <DrawPoint ID="15" Type="16" X="7901" Y="8983"/>
+                <DrawPoint ID="16" Type="16" X="7853" Y="8833"/>
+                <DrawPoint ID="17" Type="16" X="7802" Y="8678"/>
+                <DrawPoint ID="18" Type="16" X="7752" Y="8525"/>
+                <DrawPoint ID="19" Type="16" X="7702" Y="8372"/>
+                <DrawPoint ID="20" Type="16" X="7652" Y="8221"/>
+                <DrawPoint ID="21" Type="16" X="7601" Y="8065"/>
+                <DrawPoint ID="22" Type="16" X="7552" Y="7912"/>
+                <DrawPoint ID="23" Type="16" X="7501" Y="7763"/>
+                <DrawPoint ID="24" Type="16" X="7451" Y="7608"/>
+                <DrawPoint ID="25" Type="16" X="7394" Y="7444"/>
+                <DrawPoint ID="26" Type="16" X="7353" Y="7304"/>
+                <DrawPoint ID="27" Type="16" X="7300" Y="7150"/>
+                <DrawPoint ID="28" Type="16" X="7251" Y="6994"/>
+                <DrawPoint ID="29" Type="16" X="7199" Y="6845"/>
+                <DrawPoint ID="30" Type="16" X="7150" Y="6692"/>
+                <DrawPoint ID="31" Type="16" X="7100" Y="6537"/>
+                <DrawPoint ID="32" Type="16" X="7050" Y="6385"/>
+                <DrawPoint ID="33" Type="16" X="7000" Y="6232"/>
+                <DrawPoint ID="34" Type="16" X="6950" Y="6079"/>
+                <DrawPoint ID="35" Type="16" X="6900" Y="5925"/>
+                <DrawPoint ID="36" Type="16" X="6850" Y="5776"/>
+                <DrawPoint ID="37" Type="16" X="6801" Y="5624"/>
+                <DrawPoint ID="38" Type="16" X="6750" Y="5468"/>
+                <DrawPoint ID="39" Type="16" X="6698" Y="5315"/>
+                <DrawPoint ID="40" Type="16" X="6650" Y="5162"/>
+                <DrawPoint ID="41" Type="16" X="6602" Y="5010"/>
+                <DrawPoint ID="42" Type="16" X="6548" Y="4858"/>
+                <DrawPoint ID="43" Type="16" X="6498" Y="4705"/>
+                <DrawPoint ID="44" Type="16" X="6448" Y="4553"/>
+                <DrawPoint ID="45" Type="16" X="6399" Y="4398"/>
+                <DrawPoint ID="46" Type="16" X="6348" Y="4244"/>
+                <DrawPoint ID="47" Type="16" X="6298" Y="4094"/>
+                <DrawPoint ID="48" Type="16" X="6247" Y="3941"/>
+                <DrawPoint ID="49" Type="16" X="6199" Y="3788"/>
+                <DrawPoint ID="50" Type="16" X="6146" Y="3635"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="16" Name="CCR 16" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="1" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="32" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="9004" Y="11065"/>
+                <DrawPoint ID="2" Type="16" X="8947" Y="10918"/>
+                <DrawPoint ID="3" Type="16" X="8891" Y="10767"/>
+                <DrawPoint ID="4" Type="16" X="8835" Y="10617"/>
+                <DrawPoint ID="5" Type="16" X="8776" Y="10470"/>
+                <DrawPoint ID="6" Type="16" X="8721" Y="10318"/>
+                <DrawPoint ID="7" Type="16" X="8665" Y="10161"/>
+                <DrawPoint ID="8" Type="16" X="8610" Y="10011"/>
+                <DrawPoint ID="9" Type="16" X="8551" Y="9864"/>
+                <DrawPoint ID="10" Type="16" X="8491" Y="9713"/>
+                <DrawPoint ID="11" Type="16" X="8438" Y="9562"/>
+                <DrawPoint ID="12" Type="16" X="8383" Y="9416"/>
+                <DrawPoint ID="13" Type="16" X="8326" Y="9264"/>
+                <DrawPoint ID="14" Type="16" X="8268" Y="9109"/>
+                <DrawPoint ID="15" Type="16" X="8209" Y="8958"/>
+                <DrawPoint ID="16" Type="16" X="8157" Y="8813"/>
+                <DrawPoint ID="17" Type="16" X="8100" Y="8660"/>
+                <DrawPoint ID="18" Type="16" X="8041" Y="8508"/>
+                <DrawPoint ID="19" Type="16" X="7986" Y="8361"/>
+                <DrawPoint ID="20" Type="16" X="7929" Y="8210"/>
+                <DrawPoint ID="21" Type="16" X="7873" Y="8056"/>
+                <DrawPoint ID="22" Type="16" X="7816" Y="7903"/>
+                <DrawPoint ID="23" Type="16" X="7761" Y="7759"/>
+                <DrawPoint ID="24" Type="16" X="7702" Y="7606"/>
+                <DrawPoint ID="25" Type="16" X="7639" Y="7443"/>
+                <DrawPoint ID="26" Type="16" X="7592" Y="7308"/>
+                <DrawPoint ID="27" Type="16" X="7534" Y="7156"/>
+                <DrawPoint ID="28" Type="16" X="7476" Y="7002"/>
+                <DrawPoint ID="29" Type="16" X="7420" Y="6858"/>
+                <DrawPoint ID="30" Type="16" X="7363" Y="6705"/>
+                <DrawPoint ID="31" Type="16" X="7308" Y="6552"/>
+                <DrawPoint ID="32" Type="16" X="7251" Y="6400"/>
+                <DrawPoint ID="33" Type="16" X="7196" Y="6253"/>
+                <DrawPoint ID="34" Type="16" X="7137" Y="6101"/>
+                <DrawPoint ID="35" Type="16" X="7082" Y="5949"/>
+                <DrawPoint ID="36" Type="16" X="7027" Y="5805"/>
+                <DrawPoint ID="37" Type="16" X="6970" Y="5653"/>
+                <DrawPoint ID="38" Type="16" X="6911" Y="5498"/>
+                <DrawPoint ID="39" Type="16" X="6853" Y="5346"/>
+                <DrawPoint ID="40" Type="16" X="6800" Y="5199"/>
+                <DrawPoint ID="41" Type="16" X="6746" Y="5048"/>
+                <DrawPoint ID="42" Type="16" X="6686" Y="4898"/>
+                <DrawPoint ID="43" Type="16" X="6627" Y="4750"/>
+                <DrawPoint ID="44" Type="16" X="6573" Y="4600"/>
+                <DrawPoint ID="45" Type="16" X="6516" Y="4443"/>
+                <DrawPoint ID="46" Type="16" X="6461" Y="4291"/>
+                <DrawPoint ID="47" Type="16" X="6402" Y="4146"/>
+                <DrawPoint ID="48" Type="16" X="6346" Y="3995"/>
+                <DrawPoint ID="49" Type="16" X="6290" Y="3844"/>
+                <DrawPoint ID="50" Type="16" X="6232" Y="3696"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="17" Name="String 01" BulbSize="4" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="1,5 (1,57) 1,6 1,7 1,8 1,9 (1,17) 1,18 1,19 1,20 1,21 (1,29) 1,30 1,31 1,32 1,33 (1,41) 1,42 1,43 1,44 1,45 (1,53) 1,54 1,55 1,56 2,4 (2,58) 2,5 2,6 2,7 2,8 2,9 2,10 (2,16) 2,17 2,18 2,19 2,20 2,21 2,22 (2,28) 2,29 2,30 2,31 2,32 2,33 2,34 (2,40) 2,41 2,42 2,43 2,44 2,45 2,46 (2,52) 2,53 2,54 2,55 2,56 2,57
+" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="33" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="5634" Y="2751"/>
+                <DrawPoint ID="2" Type="16" X="5794" Y="2865"/>
+                <DrawPoint ID="3" Type="16" X="5944" Y="2969"/>
+                <DrawPoint ID="4" Type="16" X="5889" Y="2799"/>
+                <DrawPoint ID="5" Type="16" X="5828" Y="2611"/>
+                <DrawPoint ID="6" Type="16" X="5993" Y="2502"/>
+                <DrawPoint ID="7" Type="16" X="6139" Y="2399"/>
+                <DrawPoint ID="8" Type="16" X="5951" Y="2396"/>
+                <DrawPoint ID="9" Type="16" X="5751" Y="2396"/>
+                <DrawPoint ID="10" Type="16" X="5696" Y="2211"/>
+                <DrawPoint ID="11" Type="16" X="5637" Y="2052"/>
+                <DrawPoint ID="12" Type="16" X="5576" Y="2229"/>
+                <DrawPoint ID="13" Type="16" X="5514" Y="2393"/>
+                <DrawPoint ID="14" Type="16" X="5317" Y="2393"/>
+                <DrawPoint ID="15" Type="16" X="5121" Y="2396"/>
+                <DrawPoint ID="16" Type="16" X="5275" Y="2502"/>
+                <DrawPoint ID="17" Type="16" X="5430" Y="2611"/>
+                <DrawPoint ID="18" Type="16" X="5376" Y="2787"/>
+                <DrawPoint ID="19" Type="16" X="5324" Y="2969"/>
+                <DrawPoint ID="20" Type="16" X="5471" Y="2863"/>
+                <DrawPoint ID="21" Type="16" X="5631" Y="2814"/>
+                <DrawPoint ID="22" Type="16" X="5772" Y="2913"/>
+                <DrawPoint ID="23" Type="16" X="5917" Y="3014"/>
+                <DrawPoint ID="24" Type="16" X="6049" Y="3106"/>
+                <DrawPoint ID="25" Type="16" X="6003" Y="2949"/>
+                <DrawPoint ID="26" Type="16" X="5948" Y="2796"/>
+                <DrawPoint ID="27" Type="16" X="5889" Y="2634"/>
+                <DrawPoint ID="28" Type="16" X="6040" Y="2535"/>
+                <DrawPoint ID="29" Type="16" X="6172" Y="2438"/>
+                <DrawPoint ID="30" Type="16" X="6308" Y="2351"/>
+                <DrawPoint ID="31" Type="16" X="6136" Y="2346"/>
+                <DrawPoint ID="32" Type="16" X="5966" Y="2342"/>
+                <DrawPoint ID="33" Type="16" X="5797" Y="2340"/>
+                <DrawPoint ID="34" Type="16" X="5738" Y="2175"/>
+                <DrawPoint ID="35" Type="16" X="5689" Y="2030"/>
+                <DrawPoint ID="36" Type="16" X="5640" Y="1873"/>
+                <DrawPoint ID="37" Type="16" X="5585" Y="2025"/>
+                <DrawPoint ID="38" Type="16" X="5529" Y="2186"/>
+                <DrawPoint ID="39" Type="16" X="5475" Y="2340"/>
+                <DrawPoint ID="40" Type="16" X="5293" Y="2340"/>
+                <DrawPoint ID="41" Type="16" X="5123" Y="2342"/>
+                <DrawPoint ID="42" Type="16" X="4961" Y="2346"/>
+                <DrawPoint ID="43" Type="16" X="5093" Y="2438"/>
+                <DrawPoint ID="44" Type="16" X="5231" Y="2531"/>
+                <DrawPoint ID="45" Type="16" X="5373" Y="2634"/>
+                <DrawPoint ID="46" Type="16" X="5314" Y="2794"/>
+                <DrawPoint ID="47" Type="16" X="5259" Y="2949"/>
+                <DrawPoint ID="48" Type="16" X="5216" Y="3106"/>
+                <DrawPoint ID="49" Type="16" X="5348" Y="3008"/>
+                <DrawPoint ID="50" Type="16" X="5502" Y="2915"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="18" Name="String 02" BulbSize="4" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="3,3 (3,59) 3,4 3,5 3,6 3,7 3,8 3,9 3,10 3,11 (3,15) 3,16 3,17 3,18 3,19 3,20 3,21 3,22 3,23 (3,27) 3,28 3,29 3,30 3,31 3,32 3,33 3,34 3,35 (3,39) 3,40 3,41 3,42 3,43 3,44 3,45 3,46 3,47 (3,51) 3,52 3,53 3,54 3,55 3,56 3,57 3,58 4,2 (4,60) 4,3 4,4 4,5 4,6 4,7 4,8 4,9 4,10 4,11 
+" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="34" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="5631" Y="2877"/>
+                <DrawPoint ID="2" Type="16" X="5760" Y="2966"/>
+                <DrawPoint ID="3" Type="16" X="5895" Y="3059"/>
+                <DrawPoint ID="4" Type="16" X="6022" Y="3151"/>
+                <DrawPoint ID="5" Type="16" X="6151" Y="3238"/>
+                <DrawPoint ID="6" Type="16" X="6102" Y="3092"/>
+                <DrawPoint ID="7" Type="16" X="6056" Y="2943"/>
+                <DrawPoint ID="8" Type="16" X="6007" Y="2799"/>
+                <DrawPoint ID="9" Type="16" X="5957" Y="2653"/>
+                <DrawPoint ID="10" Type="16" X="6087" Y="2560"/>
+                <DrawPoint ID="11" Type="16" X="6221" Y="2468"/>
+                <DrawPoint ID="12" Type="16" X="6351" Y="2380"/>
+                <DrawPoint ID="13" Type="16" X="6482" Y="2301"/>
+                <DrawPoint ID="14" Type="16" X="6317" Y="2293"/>
+                <DrawPoint ID="15" Type="16" X="6151" Y="2290"/>
+                <DrawPoint ID="16" Type="16" X="5997" Y="2290"/>
+                <DrawPoint ID="17" Type="16" X="5831" Y="2290"/>
+                <DrawPoint ID="18" Type="16" X="5782" Y="2142"/>
+                <DrawPoint ID="19" Type="16" X="5736" Y="1996"/>
+                <DrawPoint ID="20" Type="16" X="5677" Y="1842"/>
+                <DrawPoint ID="21" Type="16" X="5634" Y="1703"/>
+                <DrawPoint ID="22" Type="16" X="5582" Y="1851"/>
+                <DrawPoint ID="23" Type="16" X="5535" Y="1993"/>
+                <DrawPoint ID="24" Type="16" X="5480" Y="2145"/>
+                <DrawPoint ID="25" Type="16" X="5430" Y="2288"/>
+                <DrawPoint ID="26" Type="16" X="5275" Y="2290"/>
+                <DrawPoint ID="27" Type="16" X="5108" Y="2288"/>
+                <DrawPoint ID="28" Type="16" X="4948" Y="2293"/>
+                <DrawPoint ID="29" Type="16" X="4779" Y="2290"/>
+                <DrawPoint ID="30" Type="16" X="4918" Y="2380"/>
+                <DrawPoint ID="31" Type="16" X="5046" Y="2471"/>
+                <DrawPoint ID="32" Type="16" X="5182" Y="2558"/>
+                <DrawPoint ID="33" Type="16" X="5311" Y="2653"/>
+                <DrawPoint ID="34" Type="16" X="5262" Y="2802"/>
+                <DrawPoint ID="35" Type="16" X="5207" Y="2949"/>
+                <DrawPoint ID="36" Type="16" X="5163" Y="3089"/>
+                <DrawPoint ID="37" Type="16" X="5108" Y="3243"/>
+                <DrawPoint ID="38" Type="16" X="5238" Y="3148"/>
+                <DrawPoint ID="39" Type="16" X="5366" Y="3059"/>
+                <DrawPoint ID="40" Type="16" X="5499" Y="2969"/>
+                <DrawPoint ID="41" Type="16" X="5631" Y="2943"/>
+                <DrawPoint ID="42" Type="16" X="5754" Y="3025"/>
+                <DrawPoint ID="43" Type="16" X="5880" Y="3112"/>
+                <DrawPoint ID="44" Type="16" X="6009" Y="3200"/>
+                <DrawPoint ID="45" Type="16" X="6136" Y="3287"/>
+                <DrawPoint ID="46" Type="16" X="6252" Y="3371"/>
+                <DrawPoint ID="47" Type="16" X="6206" Y="3232"/>
+                <DrawPoint ID="48" Type="16" X="6160" Y="3092"/>
+                <DrawPoint ID="49" Type="16" X="6111" Y="2952"/>
+                <DrawPoint ID="50" Type="16" X="6065" Y="2812"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="19" Name="String 03" BulbSize="4" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="4,12 (4,14) 4,15 4,16 4,17 4,18 4,19 4,20 4,21 4,22 4,23 4,24 (4,26) 4,27 4,28 4,29 4,30 4,31 4,32 4,33 4,34 4,35 4,36 (4,38) 4,39 4,40 4,41 4,42 4,43 4,44 4,45 4,46 4,47 4,48 (4,50) 4,51 4,52 4,53 4,54 4,55 4,56 4,57 4,58 4,59 5,1 5,2 5,3 5,4 5,5 5,6 5,7 5,8 5,9 5,10
+" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="35" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="6012" Y="2670"/>
+                <DrawPoint ID="2" Type="16" X="6139" Y="2581"/>
+                <DrawPoint ID="3" Type="16" X="6268" Y="2500"/>
+                <DrawPoint ID="4" Type="16" X="6391" Y="2413"/>
+                <DrawPoint ID="5" Type="16" X="6520" Y="2326"/>
+                <DrawPoint ID="6" Type="16" X="6640" Y="2243"/>
+                <DrawPoint ID="7" Type="16" X="6482" Y="2237"/>
+                <DrawPoint ID="8" Type="16" X="6332" Y="2237"/>
+                <DrawPoint ID="9" Type="16" X="6178" Y="2240"/>
+                <DrawPoint ID="10" Type="16" X="6024" Y="2237"/>
+                <DrawPoint ID="11" Type="16" X="5871" Y="2240"/>
+                <DrawPoint ID="12" Type="16" X="5825" Y="2096"/>
+                <DrawPoint ID="13" Type="16" X="5776" Y="1960"/>
+                <DrawPoint ID="14" Type="16" X="5726" Y="1818"/>
+                <DrawPoint ID="15" Type="16" X="5684" Y="1681"/>
+                <DrawPoint ID="16" Type="16" X="5637" Y="1538"/>
+                <DrawPoint ID="17" Type="16" X="5588" Y="1681"/>
+                <DrawPoint ID="18" Type="16" X="5535" Y="1818"/>
+                <DrawPoint ID="19" Type="16" X="5483" Y="1957"/>
+                <DrawPoint ID="20" Type="16" X="5440" Y="2100"/>
+                <DrawPoint ID="21" Type="16" X="5395" Y="2240"/>
+                <DrawPoint ID="22" Type="16" X="5241" Y="2234"/>
+                <DrawPoint ID="23" Type="16" X="5084" Y="2237"/>
+                <DrawPoint ID="24" Type="16" X="4930" Y="2240"/>
+                <DrawPoint ID="25" Type="16" X="4776" Y="2240"/>
+                <DrawPoint ID="26" Type="16" X="4622" Y="2240"/>
+                <DrawPoint ID="27" Type="16" X="4749" Y="2324"/>
+                <DrawPoint ID="28" Type="16" X="4872" Y="2407"/>
+                <DrawPoint ID="29" Type="16" X="5001" Y="2494"/>
+                <DrawPoint ID="30" Type="16" X="5123" Y="2581"/>
+                <DrawPoint ID="31" Type="16" X="5253" Y="2670"/>
+                <DrawPoint ID="32" Type="16" X="5194" Y="2812"/>
+                <DrawPoint ID="33" Type="16" X="5151" Y="2949"/>
+                <DrawPoint ID="34" Type="16" X="5102" Y="3089"/>
+                <DrawPoint ID="35" Type="16" X="5055" Y="3235"/>
+                <DrawPoint ID="36" Type="16" X="5013" Y="3371"/>
+                <DrawPoint ID="37" Type="16" X="5136" Y="3284"/>
+                <DrawPoint ID="38" Type="16" X="5259" Y="3200"/>
+                <DrawPoint ID="39" Type="16" X="5378" Y="3112"/>
+                <DrawPoint ID="40" Type="16" X="5508" Y="3023"/>
+                <DrawPoint ID="41" Type="16" X="5634" Y="3005"/>
+                <DrawPoint ID="42" Type="16" X="5751" Y="3092"/>
+                <DrawPoint ID="43" Type="16" X="5874" Y="3178"/>
+                <DrawPoint ID="44" Type="16" X="5990" Y="3262"/>
+                <DrawPoint ID="45" Type="16" X="6114" Y="3352"/>
+                <DrawPoint ID="46" Type="16" X="6227" Y="3430"/>
+                <DrawPoint ID="47" Type="16" X="6375" Y="3525"/>
+                <DrawPoint ID="48" Type="16" X="6323" Y="3371"/>
+                <DrawPoint ID="49" Type="16" X="6277" Y="3238"/>
+                <DrawPoint ID="50" Type="16" X="6234" Y="3106"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="20" Name="String 04" BulbSize="4" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="2" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="5,11 5,12 5,13 5,14 5,15 5,16 5,17 5,18 5,19 5,20 5,21 5,22 5,23 5,24 5,25 5,26 5,27 5,28 5,29 5,30 5,31 5,32 5,33 5,34 5,35 5,36 5,37 5,38 5,39 5,40 5,41 5,42 5,43 5,44 5,45 5,46 5,47 5,48 5,49 5,50 5,51 5,52 5,53 5,54 5,55 5,56 5,57 5,58 5,59 5,60" SSColorTemp="0"/>
+            <CCR Network="1" Base_Unit="36" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="6188" Y="2966"/>
+                <DrawPoint ID="2" Type="16" X="6139" Y="2829"/>
+                <DrawPoint ID="3" Type="16" X="6090" Y="2698"/>
+                <DrawPoint ID="4" Type="16" X="6212" Y="2614"/>
+                <DrawPoint ID="5" Type="16" X="6332" Y="2533"/>
+                <DrawPoint ID="6" Type="16" X="6458" Y="2447"/>
+                <DrawPoint ID="7" Type="16" X="6575" Y="2365"/>
+                <DrawPoint ID="8" Type="16" X="6702" Y="2285"/>
+                <DrawPoint ID="9" Type="16" X="6837" Y="2186"/>
+                <DrawPoint ID="10" Type="16" X="6665" Y="2186"/>
+                <DrawPoint ID="11" Type="16" X="6507" Y="2184"/>
+                <DrawPoint ID="12" Type="16" X="6366" Y="2184"/>
+                <DrawPoint ID="13" Type="16" X="6212" Y="2184"/>
+                <DrawPoint ID="14" Type="16" X="6061" Y="2186"/>
+                <DrawPoint ID="15" Type="16" X="5920" Y="2186"/>
+                <DrawPoint ID="16" Type="16" X="5874" Y="2050"/>
+                <DrawPoint ID="17" Type="16" X="5825" Y="1913"/>
+                <DrawPoint ID="18" Type="16" X="5786" Y="1778"/>
+                <DrawPoint ID="19" Type="16" X="5736" Y="1645"/>
+                <DrawPoint ID="20" Type="16" X="5692" Y="1502"/>
+                <DrawPoint ID="21" Type="16" X="5640" Y="1359"/>
+                <DrawPoint ID="22" Type="16" X="5582" Y="1505"/>
+                <DrawPoint ID="23" Type="16" X="5539" Y="1645"/>
+                <DrawPoint ID="24" Type="16" X="5489" Y="1776"/>
+                <DrawPoint ID="25" Type="16" X="5437" Y="1907"/>
+                <DrawPoint ID="26" Type="16" X="5395" Y="2050"/>
+                <DrawPoint ID="27" Type="16" X="5348" Y="2180"/>
+                <DrawPoint ID="28" Type="16" X="5200" Y="2175"/>
+                <DrawPoint ID="29" Type="16" X="5050" Y="2175"/>
+                <DrawPoint ID="30" Type="16" X="4908" Y="2178"/>
+                <DrawPoint ID="31" Type="16" X="4749" Y="2172"/>
+                <DrawPoint ID="32" Type="16" X="4607" Y="2172"/>
+                <DrawPoint ID="33" Type="16" X="4428" Y="2184"/>
+                <DrawPoint ID="34" Type="16" X="4570" Y="2276"/>
+                <DrawPoint ID="35" Type="16" X="4699" Y="2363"/>
+                <DrawPoint ID="36" Type="16" X="4813" Y="2443"/>
+                <DrawPoint ID="37" Type="16" X="4936" Y="2531"/>
+                <DrawPoint ID="38" Type="16" X="5053" Y="2611"/>
+                <DrawPoint ID="39" Type="16" X="5174" Y="2698"/>
+                <DrawPoint ID="40" Type="16" X="5123" Y="2835"/>
+                <DrawPoint ID="41" Type="16" X="5077" Y="2969"/>
+                <DrawPoint ID="42" Type="16" X="5031" Y="3100"/>
+                <DrawPoint ID="43" Type="16" X="4979" Y="3232"/>
+                <DrawPoint ID="44" Type="16" X="4942" Y="3371"/>
+                <DrawPoint ID="45" Type="16" X="4896" Y="3531"/>
+                <DrawPoint ID="46" Type="16" X="5040" Y="3430"/>
+                <DrawPoint ID="47" Type="16" X="5157" Y="3348"/>
+                <DrawPoint ID="48" Type="16" X="5275" Y="3265"/>
+                <DrawPoint ID="49" Type="16" X="5391" Y="3178"/>
+                <DrawPoint ID="50" Type="16" X="5511" Y="3100"/>
+            </DrawPoints>
+        </DrawObject>
+    </DrawObjects>
+</LViz>

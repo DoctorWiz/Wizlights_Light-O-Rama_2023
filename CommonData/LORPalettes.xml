@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root version="1">
+  <PaletteClass id="b2d5bca2-b258-4f66-a7a5-e4636796b88c" Name="default" colors="FFFF0000,1;FF00FF00,1;FF0000FF,0;FFFFFF00,0;FFFFFFFF,0;FF000000,0" />
+  <PaletteClass id="f893d068-c4ac-4f8d-ab9f-afc61c3462ec" Name="Rainbow ROYGBP" colors="FFFF0000,1;FFFF8000,1;FFFFFF00,1;FF00FF00,1;FF0000FF,1;FF8000FF,1" />
+  <PaletteClass id="7d119437-8ae1-44be-b789-5271b4d529d8" Name="Rainbow RYGCBM" colors="FFFF0000,1;FFFFFF00,1;FF00FF00,1;FF00FFFF,1;FF0000FF,1;FFFF00FF,1" />
+</root>

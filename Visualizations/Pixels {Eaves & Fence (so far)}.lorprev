@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PreviewClass id="eccfe1d8-a574-40fd-aa9f-642a785d906a" BackgroundFile="" Brightness="20" Revision="1" Name="Pixels {Eaves &amp; Fence (so far)}">
+  <PropClass id="3709bb2e-f806-45ce-b42f-e247abacd759" BulbShape="Square" ChannelGrid="Regular,4,1,330,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Eave Pixels {L} Horiz [U04.001-330]" Parm1="1" Parm2="110">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.8174204" y="0.2565632" />
+      <point x="-0.3484087" y="0.2541766" />
+    </shape>
+  </PropClass>
+  <PropClass id="4d80d8cf-0b28-4d80-bfda-d5e1c3366d81" BulbShape="Square" ChannelGrid="Regular,6,1,276,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Eave Pixels {L} Diag [U06.001-276]" Parm1="1" Parm2="92">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.3484087" y="0.2470167" />
+      <point x="-0.05360132" y="0.7219571" />
+    </shape>
+  </PropClass>
+  <PropClass id="e89de506-6dc1-471d-a0e8-03c88302b8b9" BulbShape="Square" ChannelGrid="Regular,8,1,276,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Eave Pixels {R} Diag [U06.001-276]" Parm1="1" Parm2="92">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.04690117" y="0.7004773" />
+      <point x="0.1842546" y="0.2732697" />
+    </shape>
+  </PropClass>
+  <PropClass id="4f434546-0b78-45b2-8e16-9096121b72bc" BulbShape="Square" ChannelGrid="Regular,10,1,378,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Eave Pixels {R} Horiz [U10.001-378]" Parm1="1" Parm2="126">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.1708543" y="0.2852028" />
+      <point x="0.7437186" y="0.2828162" />
+    </shape>
+  </PropClass>
+  <PropClass id="66224a6b-01a3-46a7-a8a0-ec18a2af005c" BulbShape="Square" ChannelGrid="Regular,12,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S01" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="0.1966058" OffsetY="-0.4839734" ScaleX="0.0989846" ScaleY="0.02629362" Radians="-1.49229225994141" />
+  </PropClass>
+  <PropClass id="b9e913ba-962d-401f-b9a3-bdd00ab52ef2" BulbShape="Square" ChannelGrid="Regular,13,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S02" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="0.1972844" OffsetY="-0.6106911" ScaleX="0.1142046" ScaleY="0.02923559" Radians="-1.56998122091094" />
+  </PropClass>
+  <PropClass id="0e50b0d0-9b1e-49ac-a271-0bba1e1bfbef" BulbShape="Square" ChannelGrid="Regular,14,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S03" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="0.1807932" OffsetY="-0.7291353" ScaleX="0.07527476" ScaleY="0.05534234" Radians="-2.23396877862099" />
+  </PropClass>
+  <PropClass id="8a59fd86-0045-4ed1-9fdc-7e86bb687001" BulbShape="Square" ChannelGrid="Regular,15,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S04" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="0.1258079" OffsetY="-0.7868122" ScaleX="0.07527476" ScaleY="0.05534234" Radians="-2.35653283649197" />
+  </PropClass>
+  <PropClass id="6de73e33-d7ba-4199-b2ed-3e79a2a341e4" BulbShape="Square" ChannelGrid="Regular,16,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S05" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="0.06311507" OffsetY="-0.8505431" ScaleX="0.07527479" ScaleY="0.05534233" Radians="-2.33626305395791" />
+  </PropClass>
+  <PropClass id="8ba6ec6c-a691-4b61-b1aa-4d35b0ed0e9e" BulbShape="Square" ChannelGrid="Regular,17,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S06" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.02478561" OffsetY="-0.8839735" ScaleX="0.07527477" ScaleY="0.05534234" Radians="-3.14159265358979" />
+  </PropClass>
+  <PropClass id="dd687058-12eb-4050-9e98-aeb61c7fe196" BulbShape="Square" ChannelGrid="Regular,18,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S07" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.1087161" OffsetY="-0.8930782" ScaleX="0.07527476" ScaleY="0.05534233" Radians="-3.14159265358979" />
+  </PropClass>
+  <PropClass id="834d9d34-22e7-4a89-b2a4-21563be873d0" BulbShape="Square" ChannelGrid="Regular,19,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S08" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.1926466" OffsetY="-0.8930783" ScaleX="0.07527477" ScaleY="0.05534234" Radians="-3.14159265358979" />
+  </PropClass>
+  <PropClass id="7f9d27dc-da70-4048-9b4d-d15d69f81b69" BulbShape="Square" ChannelGrid="Regular,20,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S09" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.2765771" OffsetY="-0.8961132" ScaleX="0.07527477" ScaleY="0.05534233" Radians="-3.14159265358979" />
+  </PropClass>
+  <PropClass id="551123b8-93d2-4137-ac51-e389fc44fb8a" BulbShape="Square" ChannelGrid="Regular,21,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S10" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.3605076" OffsetY="-0.8961132" ScaleX="0.07527476" ScaleY="0.05534234" Radians="-3.14159265358979" />
+  </PropClass>
+  <PropClass id="317a7fe3-a717-4477-9eaa-28b385a046b9" BulbShape="Square" ChannelGrid="Regular,22,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S11" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.444438" OffsetY="-0.9021829" ScaleX="0.07527477" ScaleY="0.05534234" Radians="-3.14159265358979" />
+  </PropClass>
+  <PropClass id="d4d0acac-3df6-437a-b17b-697910b66bb1" BulbShape="Square" ChannelGrid="Regular,23,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S12" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.530299" OffsetY="-0.9052178" ScaleX="0.07527474" ScaleY="0.05534234" Radians="-3.14159265358979" />
+  </PropClass>
+  <PropClass id="84f09044-07a7-4a27-85b0-62c216c7aac6" BulbShape="Square" ChannelGrid="Regular,24,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S13" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.612299" OffsetY="-0.9143225" ScaleX="0.07527477" ScaleY="0.05534234" Radians="-3.14159265358979" />
+  </PropClass>
+  <PropClass id="f835348b-12a4-489f-888c-dd222e3bf5f6" BulbShape="Square" ChannelGrid="Regular,25,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S14" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.7000906" OffsetY="-0.9143226" ScaleX="0.07527474" ScaleY="0.05534233" Radians="-3.14159265358979" />
+  </PropClass>
+  <PropClass id="88aa1dde-f843-440e-b739-c1c896710463" BulbShape="Square" ChannelGrid="Regular,26,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S15" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.784021" OffsetY="-0.9143226" ScaleX="0.07527472" ScaleY="0.05534233" Radians="-3.14159265358979" />
+  </PropClass>
+  <PropClass id="a79fcd35-b687-4e99-87a3-69d62138c1d7" BulbShape="Square" ChannelGrid="Regular,27,1,48,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="DMX" DimmingCurveName="None" IndividualChannels="False" MaxChannels="512" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Right" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Pixel Fence S16" Parm1="1" Parm2="16">
+    <shape ShapeName="Arch" OffsetX="-0.869882" OffsetY="-0.9203923" ScaleX="0.07527479" ScaleY="0.05534232" Radians="-3.14159265358979" />
+  </PropClass>
+</PreviewClass>

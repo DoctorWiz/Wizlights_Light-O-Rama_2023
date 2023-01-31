@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="dac583cb-220e-4485-b94c-961cdeb3f0a7" BulbShape="Hexagon" ChannelGrid="Regular,30,22,24,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Face-Elden Mouth &quot;OH&quot;" Parm1="12" Parm2="16">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.730716" y="-0.1774926" />
+      <point x="-0.7531439" y="-0.2128169" />
+      <point x="-0.7582888" y="-0.2464801" />
+      <point x="-0.7606078" y="-0.2826628" />
+      <point x="-0.7577453" y="-0.3051053" />
+      <point x="-0.746767" y="-0.3482153" />
+      <point x="-0.731332" y="-0.3620125" />
+      <point x="-0.7157885" y="-0.3447802" />
+      <point x="-0.7060422" y="-0.3042462" />
+      <point x="-0.7037232" y="-0.2809454" />
+      <point x="-0.7048825" y="-0.2421291" />
+      <point x="-0.7123825" y="-0.2102402" />
+      <point x="-0.731332" y="-0.1783518" />
+    </shape>
+  </PropClass>
+  <PropClass id="05c0c119-ea85-4bab-a215-42c82350d238" BulbShape="Hexagon" ChannelGrid="Regular,30,19,21,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Face-Elden Mouth Full Open" Parm1="13" Parm2="33">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.8527101" y="-0.1777216" />
+      <point x="-0.8505362" y="-0.2123016" />
+      <point x="-0.8340867" y="-0.259018" />
+      <point x="-0.8058254" y="-0.2907923" />
+      <point x="-0.77376" y="-0.3105442" />
+      <point x="-0.7498469" y="-0.3191319" />
+      <point x="-0.732999" y="-0.3191319" />
+      <point x="-0.7145203" y="-0.317414" />
+      <point x="-0.6900637" y="-0.3096856" />
+      <point x="-0.6585418" y="-0.293369" />
+      <point x="-0.6313676" y="-0.2564424" />
+      <point x="-0.6134325" y="-0.2152211" />
+      <point x="-0.6126355" y="-0.1785808" />
+      <point x="-0.8516594" y="-0.1803555" />
+    </shape>
+  </PropClass>
+  <PropClass id="f04428e9-fd42-4a40-b92b-1364a48c55be" BulbShape="Hexagon" ChannelGrid="Regular,30,16,18,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Face-Elden Mouth Half Open" Parm1="23" Parm2="36">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.8563696" y="-0.1775501" />
+      <point x="-0.8509346" y="-0.212645" />
+      <point x="-0.8329998" y="-0.255583" />
+      <point x="-0.8052819" y="-0.2907923" />
+      <point x="-0.7743034" y="-0.307968" />
+      <point x="-0.7492307" y="-0.3164405" />
+      <point x="-0.7301727" y="-0.3181019" />
+      <point x="-0.7139044" y="-0.3155248" />
+      <point x="-0.6881069" y="-0.3120324" />
+      <point x="-0.6572735" y="-0.2911937" />
+      <point x="-0.6298093" y="-0.2556976" />
+      <point x="-0.6124541" y="-0.2114427" />
+      <point x="-0.6090483" y="-0.1767484" />
+      <point x="-0.629737" y="-0.2066333" />
+      <point x="-0.6536501" y="-0.2306793" />
+      <point x="-0.6873463" y="-0.2521478" />
+      <point x="-0.7094477" y="-0.2609076" />
+      <point x="-0.7181436" y="-0.2591896" />
+      <point x="-0.732419" y="-0.2643997" />
+      <point x="-0.7554268" y="-0.2609076" />
+      <point x="-0.7764774" y="-0.2530071" />
+      <point x="-0.8090866" y="-0.2315376" />
+      <point x="-0.8324562" y="-0.2074923" />
+      <point x="-0.8546664" y="-0.1784088" />
+    </shape>
+  </PropClass>
+  <PropClass id="03005d8d-d7cf-4bc8-bb24-c16fbb30d6f0" BulbShape="Hexagon" ChannelGrid="Regular,30,13,15,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Face-Elden Mouth Closed" Parm1="12" Parm2="19">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.8533258" y="-0.1819586" />
+      <point x="-0.8498475" y="-0.212645" />
+      <point x="-0.8346301" y="-0.255583" />
+      <point x="-0.8047385" y="-0.2890747" />
+      <point x="-0.77376" y="-0.3114029" />
+      <point x="-0.7493034" y="-0.3165558" />
+      <point x="-0.7313682" y="-0.317414" />
+      <point x="-0.7161507" y="-0.3165558" />
+      <point x="-0.6889769" y="-0.308827" />
+      <point x="-0.6585418" y="-0.2916515" />
+      <point x="-0.629737" y="-0.2564424" />
+      <point x="-0.6123456" y="-0.2109275" />
+      <point x="-0.6112584" y="-0.1791529" />
+    </shape>
+  </PropClass>
+  <PropClass id="f12fdff9-5ad1-4302-b97b-a24ddedd8b0e" BulbShape="Hexagon" ChannelGrid="Regular,30,10,12,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Face-Elden Eyes Open" Parm1="36" Parm2="37">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="-0.7720934" y="0.05849594" />
+      <point x="-0.7887966" y="0.04006113" />
+      <point x="-0.7887966" y="0.04006113" />
+      <point x="-0.7949922" y="0.01727517" />
+      <point x="-0.7949922" y="0.01727517" />
+      <point x="-0.7977819" y="-0.01089227" />
+      <point x="-0.7977819" y="-0.01089227" />
+      <point x="-0.7943764" y="-0.03980412" />
+      <point x="-0.7943764" y="-0.03980412" />
+      <point x="-0.7871661" y="-0.06442202" />
+      <point x="-0.7871661" y="-0.06442202" />
+      <point x="-0.7714775" y="-0.07930731" />
+      <point x="-0.7714775" y="-0.07930731" />
+      <point x="-0.7552816" y="-0.06528082" />
+      <point x="-0.7552816" y="-0.06528082" />
+      <point x="-0.7491944" y="-0.03894535" />
+      <point x="-0.7491944" y="-0.03894535" />
+      <point x="-0.7463687" y="-0.009060219" />
+      <point x="-0.7463687" y="-0.009060219" />
+      <point x="-0.7491944" y="0.01985146" />
+      <point x="-0.7491944" y="0.01985146" />
+      <point x="-0.7558974" y="0.0436107" />
+      <point x="-0.7558974" y="0.0436107" />
+      <point x="-0.7726007" y="0.05591967" />
+      <point x="-0.7714775" y="0.02340102" />
+      <point x="-0.7793036" y="0.002332734" />
+      <point x="-0.7793036" y="0.002332734" />
+      <point x="-0.7799194" y="-0.02400277" />
+      <point x="-0.7799194" y="-0.02400277" />
+      <point x="-0.7731802" y="-0.0459872" />
+      <point x="-0.7731802" y="-0.0459872" />
+      <point x="-0.7636877" y="-0.02228519" />
+      <point x="-0.7636877" y="-0.02228519" />
+      <point x="-0.7653905" y="0.006683732" />
+      <point x="-0.7653905" y="0.006683732" />
+      <point x="-0.7720934" y="0.02168352" />
+      <point x="-0.6916218" y="0.05677841" />
+      <point x="-0.7095205" y="0.04091989" />
+      <point x="-0.7095205" y="0.04091989" />
+      <point x="-0.7156437" y="0.01813395" />
+      <point x="-0.7156437" y="0.01813395" />
+      <point x="-0.7173464" y="-0.009918991" />
+      <point x="-0.7173464" y="-0.009918991" />
+      <point x="-0.7151366" y="-0.03894535" />
+      <point x="-0.7151366" y="-0.03894535" />
+      <point x="-0.70731" y="-0.06619668" />
+      <point x="-0.70731" y="-0.06619668" />
+      <point x="-0.6916218" y="-0.07581499" />
+      <point x="-0.6916218" y="-0.07581499" />
+      <point x="-0.6753896" y="-0.06442202" />
+      <point x="-0.6753896" y="-0.06442202" />
+      <point x="-0.6681432" y="-0.03717051" />
+      <point x="-0.6681432" y="-0.03717051" />
+      <point x="-0.6670562" y="-0.009918991" />
+      <point x="-0.6670562" y="-0.009918991" />
+      <point x="-0.6681432" y="0.01985146" />
+      <point x="-0.6681432" y="0.01985146" />
+      <point x="-0.6748464" y="0.04189317" />
+      <point x="-0.6748464" y="0.04189317" />
+      <point x="-0.6922376" y="0.05849594" />
+      <point x="-0.6922376" y="0.02431703" />
+      <point x="-0.7000275" y="0.003191482" />
+      <point x="-0.7000275" y="0.003191482" />
+      <point x="-0.7004987" y="-0.02314398" />
+      <point x="-0.7004987" y="-0.02314398" />
+      <point x="-0.6916218" y="-0.0459872" />
+      <point x="-0.6916218" y="-0.0459872" />
+      <point x="-0.6848822" y="-0.02142641" />
+      <point x="-0.6848822" y="-0.02142641" />
+      <point x="-0.6855347" y="0.007599763" />
+      <point x="-0.6855347" y="0.007599763" />
+      <point x="-0.6922376" y="0.02431703" />
+    </shape>
+  </PropClass>
+  <PropClass id="eb1922f3-f1f1-4518-9a58-d0ebf03f1a4a" BulbShape="Hexagon" ChannelGrid="Regular,30,7,9,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Face-Elden Eyes Closed" Parm1="8" Parm2="8">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="-0.7949922" y="-0.03986127" />
+      <point x="-0.7862964" y="-0.06608216" />
+      <point x="-0.7862964" y="-0.06608216" />
+      <point x="-0.7710426" y="-0.07867742" />
+      <point x="-0.7710426" y="-0.07867742" />
+      <point x="-0.7569121" y="-0.06321966" />
+      <point x="-0.7569121" y="-0.06321966" />
+      <point x="-0.7499555" y="-0.0407201" />
+      <point x="-0.7169115" y="-0.03905981" />
+      <point x="-0.7071653" y="-0.06442202" />
+      <point x="-0.7071653" y="-0.06442202" />
+      <point x="-0.6936144" y="-0.07707437" />
+      <point x="-0.6936144" y="-0.07707437" />
+      <point x="-0.6770201" y="-0.06493726" />
+      <point x="-0.6770201" y="-0.06493726" />
+      <point x="-0.6697376" y="-0.03820104" />
+    </shape>
+  </PropClass>
+  <PropClass id="1b68afbb-b4cf-4fd4-bd35-f7a0990fe19b" BulbShape="Hexagon" ChannelGrid="Regular,30,4,6,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Face-Elden Star" Parm1="10" Parm2="21">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.7313682" y="0.3962192" />
+      <point x="-0.7471295" y="0.3464113" />
+      <point x="-0.7862601" y="0.3343886" />
+      <point x="-0.7574555" y="0.2948852" />
+      <point x="-0.7650645" y="0.2356306" />
+      <point x="-0.7319118" y="0.2622521" />
+      <point x="-0.6960419" y="0.233913" />
+      <point x="-0.7036509" y="0.2948852" />
+      <point x="-0.6748464" y="0.3352472" />
+      <point x="-0.7128899" y="0.3438346" />
+      <point x="-0.7313682" y="0.3962192" />
+    </shape>
+  </PropClass>
+  <PropClass id="7663f85e-9cf0-4cd0-8eb0-7ca870456b8e" BulbShape="Hexagon" ChannelGrid="Regular,30,1,3,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="512" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Name="Face-Elden Tree Outline" Parm1="55" Parm2="78">
+    <shape ShapeName="Lines-Connected">
+      <point x="-0.7291943" y="0.2382068" />
+      <point x="-0.7302812" y="0.2373481" />
+      <point x="-0.7791951" y="0.182387" />
+      <point x="-0.8226737" y="0.1239911" />
+      <point x="-0.8585435" y="0.06731258" />
+      <point x="-0.8786524" y="0.02866813" />
+      <point x="-0.8830004" y="0.01321043" />
+      <point x="-0.882457" y="-0.007400034" />
+      <point x="-0.874848" y="-0.0159876" />
+      <point x="-0.8650652" y="-0.01770509" />
+      <point x="-0.853109" y="-0.01684635" />
+      <point x="-0.8764784" y="-0.06321966" />
+      <point x="-0.9020222" y="-0.1216161" />
+      <point x="-0.9128919" y="-0.1645539" />
+      <point x="-0.9166963" y="-0.1834472" />
+      <point x="-0.9128919" y="-0.1971874" />
+      <point x="-0.9058265" y="-0.2066333" />
+      <point x="-0.8960437" y="-0.2100684" />
+      <point x="-0.8868046" y="-0.208351" />
+      <point x="-0.9090872" y="-0.2598773" />
+      <point x="-0.9264789" y="-0.3036738" />
+      <point x="-0.9313703" y="-0.3294368" />
+      <point x="-0.9286531" y="-0.3526236" />
+      <point x="-0.9177834" y="-0.3723756" />
+      <point x="-0.891696" y="-0.3895508" />
+      <point x="-0.8634349" y="-0.3998556" />
+      <point x="-0.8286519" y="-0.4067255" />
+      <point x="-0.7835428" y="-0.4144549" />
+      <point x="-0.7313682" y="-0.4135955" />
+      <point x="-0.6797374" y="-0.411878" />
+      <point x="-0.6351719" y="-0.4093018" />
+      <point x="-0.5998455" y="-0.4007146" />
+      <point x="-0.571584" y="-0.390409" />
+      <point x="-0.5460405" y="-0.371516" />
+      <point x="-0.5329971" y="-0.3526236" />
+      <point x="-0.5305331" y="-0.3294368" />
+      <point x="-0.5368014" y="-0.3036738" />
+      <point x="-0.5547361" y="-0.2573006" />
+      <point x="-0.5775624" y="-0.2057748" />
+      <point x="-0.5683236" y="-0.208351" />
+      <point x="-0.557997" y="-0.208351" />
+      <point x="-0.5493013" y="-0.1963283" />
+      <point x="-0.5482145" y="-0.1817296" />
+      <point x="-0.5503882" y="-0.1611187" />
+      <point x="-0.5607146" y="-0.1259095" />
+      <point x="-0.5873454" y="-0.06321966" />
+      <point x="-0.6107148" y="-0.01684635" />
+      <point x="-0.5976715" y="-0.01770509" />
+      <point x="-0.5868016" y="-0.01512886" />
+      <point x="-0.5808231" y="-0.006541271" />
+      <point x="-0.5802798" y="0.01235166" />
+      <point x="-0.5873454" y="0.02952691" />
+      <point x="-0.6058234" y="0.06473631" />
+      <point x="-0.6427808" y="0.1248499" />
+      <point x="-0.6840851" y="0.1815282" />
+      <point x="-0.7313682" y="0.2364892" />
+    </shape>
+  </PropClass>
+  <PropGroup id="bc902322-034d-4be7-beb0-fa76b0b99ae6" Arrangement="Preview" PreviewResFactor="1" EffectBulbSize="1" Name="LOR Face Group-Elden Whole Tree (RGB)">
+    <member id="7663f85e-9cf0-4cd0-8eb0-7ca870456b8e" orientation="normal" />
+    <member id="1b68afbb-b4cf-4fd4-bd35-f7a0990fe19b" orientation="normal" />
+    <member id="eb1922f3-f1f1-4518-9a58-d0ebf03f1a4a" orientation="normal" />
+    <member id="f12fdff9-5ad1-4302-b97b-a24ddedd8b0e" orientation="normal" />
+    <member id="03005d8d-d7cf-4bc8-bb24-c16fbb30d6f0" orientation="normal" />
+    <member id="f04428e9-fd42-4a40-b92b-1364a48c55be" orientation="normal" />
+    <member id="05c0c119-ea85-4bab-a215-42c82350d238" orientation="normal" />
+    <member id="dac583cb-220e-4485-b94c-961cdeb3f0a7" orientation="normal" />
+  </PropGroup>
+</PixelEditorPropExport>

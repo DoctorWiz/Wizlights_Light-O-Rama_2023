@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="ca357f8d-af5a-4249-aa83-c0348a200a97" BulbShape="Octogon" ChannelGrid="Aux A,09,241,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom-CW" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Star 01" Name="RGB Mini Tree Star 01" Parm1="1" Parm2="20" Parm3="5" Parm4="10">
+    <shape ShapeName="Star" OffsetX="-0.8662761" OffsetY="0.056649387" ScaleX="0.05073228" ScaleY="0.1027634" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="ccf93383-f089-49be-8af0-dcb0c1df068d" name="Whole Star 01" />
+      <MotionRowDefault id="e6b7b5ac-b4cb-41ee-8a2d-5c0326d7644b" name="Whole Star 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="9c899330-647e-4dc3-8d5d-9cc32e4610bd" BulbShape="Octogon" ChannelGrid="Aux A,0A,241,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom-CW" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Star 02" Name="RGB Mini Tree Star 02" Parm1="1" Parm2="20" Parm3="5" Parm4="10">
+    <shape ShapeName="Star" OffsetX="-0.62226987" OffsetY="0.056649387" ScaleX="0.05073233" ScaleY="0.1027634" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="5e16f588-d692-42bb-9749-b035a202dc79" name="Whole Star 01" />
+      <MotionRowDefault id="f8166d57-3dfd-4c35-9607-04cbf91a0a33" name="Whole Star 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="a0e225fc-cc23-4626-b68b-df2bb38d0ae9" BulbShape="Octogon" ChannelGrid="Aux A,0B,241,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom-CW" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Star 03" Name="RGB Mini Tree Star 03" Parm1="1" Parm2="20" Parm3="5" Parm4="10">
+    <shape ShapeName="Star" OffsetX="-0.37826365" OffsetY="0.056649387" ScaleX="0.05073233" ScaleY="0.1027634" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="f3035148-d925-43b2-88b3-4ef0224a4e81" name="Whole Star 01" />
+      <MotionRowDefault id="82c52e63-3f46-4027-b1db-c1f4d9cf5196" name="Whole Star 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="523dc5ef-7674-404b-bec7-6763056cb7bf" BulbShape="Octogon" ChannelGrid="Aux A,0C,241,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom-CW" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Star 04" Name="RGB Mini Tree Star 04" Parm1="1" Parm2="20" Parm3="5" Parm4="10">
+    <shape ShapeName="Star" OffsetX="-0.13425747" OffsetY="0.056649387" ScaleX="0.0507323" ScaleY="0.1027634" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="a5f97707-7753-4c14-b1c4-bcdb69f1e8ee" name="Whole Star 01" />
+      <MotionRowDefault id="82c52e63-3f46-4027-b1db-c1f4d9cf5196" name="Whole Star 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="5e1b7f2d-b4a9-4a2f-bcac-8262ad987d63" BulbShape="Octogon" ChannelGrid="Aux A,0D,241,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom-CW" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Star 05" Name="RGB Mini Tree Star 05" Parm1="1" Parm2="20" Parm3="5" Parm4="10">
+    <shape ShapeName="Star" OffsetX="0.109748736" OffsetY="0.056649387" ScaleX="0.0507323" ScaleY="0.1027634" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="6e0154e3-3740-46ac-b126-bf16bad2c5f2" name="Whole Star 01" />
+      <MotionRowDefault id="82c52e63-3f46-4027-b1db-c1f4d9cf5196" name="Whole Star 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="c1326890-6f89-4744-ad92-6f10f2d7a1fc" BulbShape="Octogon" ChannelGrid="Aux A,0E,241,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom-CW" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Star 06" Name="RGB Mini Tree Star 06" Parm1="1" Parm2="20" Parm3="5" Parm4="10">
+    <shape ShapeName="Star" OffsetX="0.35375494" OffsetY="0.056649387" ScaleX="0.05073233" ScaleY="0.1027634" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="7aa3a08e-e74c-4624-ac3b-dc932a89deb2" name="Whole Star 01" />
+      <MotionRowDefault id="82c52e63-3f46-4027-b1db-c1f4d9cf5196" name="Whole Star 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="6fffea0f-245b-450b-8fb2-38b1795af227" BulbShape="Octogon" ChannelGrid="Aux A,0F,241,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom-CW" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Star 07" Name="RGB Mini Tree Star 07" Parm1="1" Parm2="20" Parm3="5" Parm4="10">
+    <shape ShapeName="Star" OffsetX="0.5977612" OffsetY="0.056649387" ScaleX="0.05073233" ScaleY="0.1027634" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="26e1ae81-709c-4e7d-bd54-4a0a2d0420a8" name="Whole Star 01" />
+      <MotionRowDefault id="82c52e63-3f46-4027-b1db-c1f4d9cf5196" name="Whole Star 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="14ba7e14-eb7c-475c-9b35-f37e268373da" BulbShape="Octogon" ChannelGrid="Aux A,10,241,300,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom-CW" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Star 08" Name="RGB Mini Tree Star 08" Parm1="1" Parm2="20" Parm3="5" Parm4="10">
+    <shape ShapeName="Star" OffsetX="0.84176743" OffsetY="0.056649387" ScaleX="0.05073233" ScaleY="0.1027634" Radians="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="e72b0861-1c24-4eef-a99d-80884b31fd55" name="Whole Star 01" />
+      <MotionRowDefault id="82c52e63-3f46-4027-b1db-c1f4d9cf5196" name="Whole Star 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="c31f6d1b-0a0f-4091-980d-1bb445d59292" BulbShape="Octogon" ChannelGrid="Aux A,09,1,240,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Base 01" Name="RGB Mini Tree Base 01" Parm1="1" Parm2="80" Parm3="4">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="-0.88738483" y="0.0025357008" />
+      <point x="-0.84498984" y="0.003270328" />
+      <point x="-0.8150551" y="-0.20332718" />
+      <point x="-0.92118394" y="-0.20381612" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="7e36b770-6857-4b92-8986-9a5618c8a37b" name="Effects 01" />
+      <MotionRowDefault id="b4e4d5d4-bce3-4a74-aaf0-ed9ee86d22d7" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="825c5099-b73e-47b3-9068-9cf46b30fe7a" BulbShape="Octogon" ChannelGrid="Aux A,0A,1,240,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Base 02" Name="RGB Mini Tree Base 02" Parm1="1" Parm2="80" Parm3="4">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="-0.6424646" y="0.0033529997" />
+      <point x="-0.599153" y="0.0033529997" />
+      <point x="-0.57124114" y="-0.2081536" />
+      <point x="-0.6754774" y="-0.20798439" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="7e36b770-6857-4b92-8986-9a5618c8a37b" name="Effects 01" />
+      <MotionRowDefault id="b4e4d5d4-bce3-4a74-aaf0-ed9ee86d22d7" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="7200ddfe-ce00-48fb-9e82-6c3a163f012c" BulbShape="Octogon" ChannelGrid="Aux A,0B,1,240,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Base 03" Name="RGB Mini Tree Base 03" Parm1="1" Parm2="80" Parm3="4">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="-0.39786616" y="0.0026180148" />
+      <point x="-0.35581005" y="0.0033525825" />
+      <point x="-0.32685027" y="-0.20448083" />
+      <point x="-0.43147165" y="-0.20521528" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="7e36b770-6857-4b92-8986-9a5618c8a37b" name="Effects 01" />
+      <MotionRowDefault id="b4e4d5d4-bce3-4a74-aaf0-ed9ee86d22d7" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="59268584-beb1-42f6-864a-f4c5a2c02fb8" BulbShape="Octogon" ChannelGrid="Aux A,0C,1,240,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Base 04" Name="RGB Mini Tree Base 04" Parm1="1" Parm2="80" Parm3="4">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="-0.15700766" y="0.0030959845" />
+      <point x="-0.11445914" y="0.0036714077" />
+      <point x="-0.08239919" y="-0.20495868" />
+      <point x="-0.18703845" y="-0.20603412" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="7e36b770-6857-4b92-8986-9a5618c8a37b" name="Effects 01" />
+      <MotionRowDefault id="b4e4d5d4-bce3-4a74-aaf0-ed9ee86d22d7" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="7e2c4c67-7fa3-4e30-916d-d9ac1efd11ed" BulbShape="Octogon" ChannelGrid="Aux A,0D,1,240,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Base 05" Name="RGB Mini Tree Base 05" Parm1="1" Parm2="80" Parm3="4">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="0.08610654" y="0.0048220754" />
+      <point x="0.12865494" y="0.0048220754" />
+      <point x="0.16362944" y="-0.20553422" />
+      <point x="0.05717037" y="-0.2053845" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="7e36b770-6857-4b92-8986-9a5618c8a37b" name="Effects 01" />
+      <MotionRowDefault id="b4e4d5d4-bce3-4a74-aaf0-ed9ee86d22d7" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="71913b44-c19e-45d7-8cac-4fff90545303" BulbShape="Octogon" ChannelGrid="Aux A,0E,1,240,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Base 06" Name="RGB Mini Tree Base 06" Parm1="1" Parm2="80" Parm3="4">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="0.33361593" y="0.0053970814" />
+      <point x="0.37652874" y="0.0053972006" />
+      <point x="0.40747985" y="-0.20668441" />
+      <point x="0.30307993" y="-0.20668441" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="7e36b770-6857-4b92-8986-9a5618c8a37b" name="Effects 01" />
+      <MotionRowDefault id="b4e4d5d4-bce3-4a74-aaf0-ed9ee86d22d7" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="918e7a9f-327d-4a41-82c3-5787a2914d8c" BulbShape="Octogon" ChannelGrid="Aux A,0F,1,240,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Base 07" Name="RGB Mini Tree Base 07" Parm1="1" Parm2="80" Parm3="4">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="0.58175236" y="0.0053970814" />
+      <point x="0.6235722" y="0.0048220754" />
+      <point x="0.6545392" y="-0.20610923" />
+      <point x="0.5467957" y="-0.20725948" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="7e36b770-6857-4b92-8986-9a5618c8a37b" name="Effects 01" />
+      <MotionRowDefault id="b4e4d5d4-bce3-4a74-aaf0-ed9ee86d22d7" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropClass id="d48be3d1-8748-4fb5-bcbf-768508843713" BulbShape="Octogon" ChannelGrid="Aux A,10,1,240,0," Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="PixelCurve 30%" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" MasterDimmable="True" PreviewBulbSize="3" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="RGB Mini Tree Base 08" Name="RGB Mini Tree Base 08" Parm1="1" Parm2="80" Parm3="4">
+    <shape ShapeName="Matrix-Vertical-Quad">
+      <point x="0.8206372" y="0.0053972006" />
+      <point x="0.8646448" y="0.0053972006" />
+      <point x="0.8992239" y="-0.20603412" />
+      <point x="0.79403603" y="-0.20423251" />
+    </shape>
+    <MotionRowDefaults>
+      <MotionRowDefault id="7e36b770-6857-4b92-8986-9a5618c8a37b" name="Effects 01" />
+      <MotionRowDefault id="b4e4d5d4-bce3-4a74-aaf0-ed9ee86d22d7" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropClass>
+  <PropGroup id="42bbba0f-f33f-4944-b968-0e71cf3a5678" Arrangement="Custom" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree Stars" Name="LOR Group-RGB Mini Tree Stars">
+    <member id="ca357f8d-af5a-4249-aa83-c0348a200a97" orientation="rotate_left" top="0" left="0" />
+    <member id="9c899330-647e-4dc3-8d5d-9cc32e4610bd" orientation="rotate_left" top="0" left="1" />
+    <member id="a0e225fc-cc23-4626-b68b-df2bb38d0ae9" orientation="rotate_left" top="0" left="2" />
+    <member id="523dc5ef-7674-404b-bec7-6763056cb7bf" orientation="rotate_left" top="0" left="3" />
+    <member id="5e1b7f2d-b4a9-4a2f-bcac-8262ad987d63" orientation="rotate_left" top="0" left="4" />
+    <member id="c1326890-6f89-4744-ad92-6f10f2d7a1fc" orientation="rotate_left" top="0" left="5" />
+    <member id="6fffea0f-245b-450b-8fb2-38b1795af227" orientation="rotate_left" top="0" left="6" />
+    <member id="14ba7e14-eb7c-475c-9b35-f37e268373da" orientation="rotate_left" top="0" left="7" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="301b9f0d-a816-4db7-946c-323f867f2a16" name="All Mini Tree Stars 01" />
+      <MotionRowDefault id="379bd106-fcab-43b6-8761-78cc71bb803b" name="All Mini Tree Stars 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="487ecd91-aefb-4296-ad2b-29dca3f8cf21" Arrangement="Horizontal" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree Bases" Name="LOR Group-RGB Mini Tree Bases">
+    <member id="c31f6d1b-0a0f-4091-980d-1bb445d59292" orientation="normal" top="0" left="0" />
+    <member id="825c5099-b73e-47b3-9068-9cf46b30fe7a" orientation="normal" top="0" left="0" />
+    <member id="7200ddfe-ce00-48fb-9e82-6c3a163f012c" orientation="normal" top="0" left="0" />
+    <member id="59268584-beb1-42f6-864a-f4c5a2c02fb8" orientation="normal" top="0" left="0" />
+    <member id="7e2c4c67-7fa3-4e30-916d-d9ac1efd11ed" orientation="normal" top="0" left="0" />
+    <member id="71913b44-c19e-45d7-8cac-4fff90545303" orientation="normal" top="0" left="0" />
+    <member id="918e7a9f-327d-4a41-82c3-5787a2914d8c" orientation="normal" top="0" left="0" />
+    <member id="d48be3d1-8748-4fb5-bcbf-768508843713" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="53fcb394-3c2b-4961-b696-48117c2fe4f9" name="All Mini Trees 01" />
+      <MotionRowDefault id="661e761b-b348-4646-bbcf-bce4fda54eab" name="All Mini Trees 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="acd2bd5c-3fb6-4e88-b574-f89988e6f123" Arrangement="Horizontal" PreviewResFactor="5" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree Full" Name="LOR Group-RGB Mini Tree Full">
+    <member id="24e699ea-7ffe-4498-8e9c-596cdd7ecd1e" orientation="normal" top="0" left="0" />
+    <member id="e5e50c8c-3df0-447f-b47c-2473c11c177e" orientation="normal" top="0" left="0" />
+    <member id="c3993db4-dcdb-4695-9bf4-eca563c1d18a" orientation="normal" top="0" left="0" />
+    <member id="bc8765f0-7da5-44ec-9ecb-a73008967305" orientation="normal" top="0" left="0" />
+    <member id="4b7ba01f-b516-4489-8815-17fe597b7331" orientation="normal" top="0" left="0" />
+    <member id="99890a1b-de01-465c-9138-0184ff390559" orientation="normal" top="0" left="0" />
+    <member id="0a96e3d8-6a73-4b8e-ab92-33dff3d1409b" orientation="normal" top="0" left="0" />
+    <member id="4a985fa1-d2db-41ea-bad9-1a2c656876b2" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="13665497-d43f-4d61-bd61-ee37c152849e" name="Effects 01" />
+      <MotionRowDefault id="15bf50ec-2f11-43d5-a684-b740ff633fca" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="24e699ea-7ffe-4498-8e9c-596cdd7ecd1e" Arrangement="Preview" PreviewResFactor="5" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree 01" Name="LOR Group-RGB Mini Tree 01">
+    <member id="c31f6d1b-0a0f-4091-980d-1bb445d59292" orientation="normal" top="0" left="0" />
+    <member id="ca357f8d-af5a-4249-aa83-c0348a200a97" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="1d502c13-38bf-41eb-9b23-b0827c16d35f" name="Effects 01" />
+      <MotionRowDefault id="a45db802-040e-4fd5-8169-abfcf4138a64" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="e5e50c8c-3df0-447f-b47c-2473c11c177e" Arrangement="Preview" PreviewResFactor="5" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree 02" Name="LOR Group-RGB Mini Tree 02">
+    <member id="825c5099-b73e-47b3-9068-9cf46b30fe7a" orientation="normal" top="0" left="0" />
+    <member id="9c899330-647e-4dc3-8d5d-9cc32e4610bd" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="107cea02-98f2-4b2d-a76e-3a55b6a098bc" name="Effects 01" />
+      <MotionRowDefault id="cffab7f8-0f8b-4abb-b3fa-1e6f44f96a51" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="c3993db4-dcdb-4695-9bf4-eca563c1d18a" Arrangement="Preview" PreviewResFactor="5" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree 03" Name="LOR Group-RGB Mini Tree 03">
+    <member id="7200ddfe-ce00-48fb-9e82-6c3a163f012c" orientation="normal" top="0" left="0" />
+    <member id="a0e225fc-cc23-4626-b68b-df2bb38d0ae9" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="d6d5ea47-a7b8-4e19-bc0d-623b0e3a6c6f" name="Effects 01" />
+      <MotionRowDefault id="8d7e1748-d081-4cb2-b562-12ca8efce7d0" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="bc8765f0-7da5-44ec-9ecb-a73008967305" Arrangement="Preview" PreviewResFactor="5" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree 04" Name="LOR Group-RGB Mini Tree 04">
+    <member id="59268584-beb1-42f6-864a-f4c5a2c02fb8" orientation="normal" top="0" left="0" />
+    <member id="523dc5ef-7674-404b-bec7-6763056cb7bf" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="b54cee47-1c33-4961-a0f5-268adbde588a" name="Effects 01" />
+      <MotionRowDefault id="f696d0ef-587e-4210-8f29-9cf31b9bcc87" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="4b7ba01f-b516-4489-8815-17fe597b7331" Arrangement="Preview" PreviewResFactor="5" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree 05" Name="LOR Group-RGB Mini Tree 05">
+    <member id="7e2c4c67-7fa3-4e30-916d-d9ac1efd11ed" orientation="normal" top="0" left="0" />
+    <member id="5e1b7f2d-b4a9-4a2f-bcac-8262ad987d63" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="66d8aacf-7042-403a-b792-04c418b60cea" name="Effects 01" />
+      <MotionRowDefault id="5646350a-f92c-4264-b92b-4c7a9820c9f4" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="99890a1b-de01-465c-9138-0184ff390559" Arrangement="Preview" PreviewResFactor="5" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree 06" Name="LOR Group-RGB Mini Tree 06">
+    <member id="71913b44-c19e-45d7-8cac-4fff90545303" orientation="normal" top="0" left="0" />
+    <member id="c1326890-6f89-4744-ad92-6f10f2d7a1fc" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="b8cc0d37-e515-4ffc-ad15-9f7585f820a8" name="Effects 01" />
+      <MotionRowDefault id="785718db-25d8-4093-a3e1-f76d047ab0aa" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="0a96e3d8-6a73-4b8e-ab92-33dff3d1409b" Arrangement="Preview" PreviewResFactor="5" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree 07" Name="LOR Group-RGB Mini Tree 07">
+    <member id="918e7a9f-327d-4a41-82c3-5787a2914d8c" orientation="normal" top="0" left="0" />
+    <member id="6fffea0f-245b-450b-8fb2-38b1795af227" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="1a725d66-6ae0-4b47-94bb-3ce0dfd20ab6" name="Effects 01" />
+      <MotionRowDefault id="9808d585-fa50-4e25-949f-76cfd4ee98fb" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="4a985fa1-d2db-41ea-bad9-1a2c656876b2" Arrangement="Preview" PreviewResFactor="5" EffectBulbSize="1" Tag="LOR Group-RGB Mini Tree 08" Name="LOR Group-RGB Mini Tree 08">
+    <member id="d48be3d1-8748-4fb5-bcbf-768508843713" orientation="normal" top="0" left="0" />
+    <member id="14ba7e14-eb7c-475c-9b35-f37e268373da" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="99e5c45c-60d3-4023-af05-a4d44f3fb3e8" name="Effects 01" />
+      <MotionRowDefault id="acd1af1c-199b-4b9b-8aab-1971d2c41395" name="Effects 02" />
+    </MotionRowDefaults>
+  </PropGroup>
+  <PropGroup id="2c8a73f7-e928-4cd7-8003-09db2b9202ca" Arrangement="None" PreviewResFactor="5" EffectBulbSize="1" Tag="LOR Group-RGB Mini Trees" Name="LOR Group-RGB Mini Trees">
+    <member id="42bbba0f-f33f-4944-b968-0e71cf3a5678" orientation="normal" top="0" left="0" />
+    <member id="487ecd91-aefb-4296-ad2b-29dca3f8cf21" orientation="normal" top="0" left="0" />
+    <member id="acd2bd5c-3fb6-4e88-b574-f89988e6f123" orientation="normal" top="0" left="0" />
+  </PropGroup>
+</PixelEditorPropExport>

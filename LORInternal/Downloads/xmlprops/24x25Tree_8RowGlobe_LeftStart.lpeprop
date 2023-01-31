@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="3e51fbdf-454b-46f0-b3c5-74e76a99854b" BulbShape="Square" ChannelGrid="" Comment="" CustomBulbColor="FF80FFFF" DeviceType="None" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="15" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="Dummy rows bottom" Parm1="25" Parm2="24" Parm3="0">
+    <shape ShapeName="Matrix-Horizontal-Rectangle" OffsetX="0.7782305" OffsetY="-0.8917511" ScaleX="0.3111134" ScaleY="0.0760235" Radians="0" />
+  </PropClass>
+  <PropClass id="9fd7a027-ba34-4c77-84c6-8676d357833a" BulbShape="Square" ChannelGrid="Regular,01,1,150,0,;Regular,02,1,150,0,;Regular,03,1,150,0,;Regular,04,1,150,0,;Regular,05,1,150,0,;Regular,06,1,150,0,;Regular,07,1,150,0,;Regular,08,1,150,0,;Regular,09,1,150,0,;Regular,0A,1,150,0,;Regular,0B,1,150,0,;Regular,0C,1,150,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="255" PreviewBulbSize="6" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left CCW" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="Pixel_Tree" Name="24x25 Tree Left" Parm1="12" Parm2="50" Parm3="1" Parm4="9" Parm5="12" Parm6="1" Parm7="4">
+    <shape ShapeName="Tree 360 wedges" OffsetX="-0.0355453" OffsetY="0.02248323" ScaleX="1.092413" ScaleY="1.637613" Radians="0" />
+  </PropClass>
+  <PropClass id="d038c3a6-0db8-42cb-bdeb-50bb730ef3d9" BulbShape="Square" ChannelGrid="Regular,0D,1,300,0,;Regular,0E,1,300,0," Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="300" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Top Front CCW" StringType="RGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="" Name="Globe Left" Parm1="2" Parm2="12" Parm3="1">
+    <shape ShapeName="Globe 8 Rows" OffsetX="-0.0355453" OffsetY="0.7969912" ScaleX="0.2408133" ScaleY="0.209129" Radians="0" />
+  </PropClass>
+  <PropClass id="20a3a597-f32c-4386-aebb-bbd553244333" BulbShape="Square" ChannelGrid="" Comment="" CustomBulbColor="FF80FFFF" DeviceType="None" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="510" Opacity="15" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="Dummy rows top" Parm1="5" Parm2="24" Parm3="0">
+    <shape ShapeName="Matrix-Horizontal-Rectangle" OffsetX="0.7482306" OffsetY="0.8801844" ScaleX="0.3111134" ScaleY="0.0760235" Radians="0" />
+  </PropClass>
+  <PropGroup id="01386d89-8573-4549-b261-35589d2a4e93" Arrangement="Vertical" PreviewResFactor="1" EffectBulbSize="1" Tag="" Name="24x25 Tree+Globe">
+    <member id="3e51fbdf-454b-46f0-b3c5-74e76a99854b" orientation="normal" top="0" left="0" />
+    <member id="9fd7a027-ba34-4c77-84c6-8676d357833a" orientation="normal" top="0" left="0" />
+    <member id="d038c3a6-0db8-42cb-bdeb-50bb730ef3d9" orientation="normal" top="0" left="0" />
+    <member id="20a3a597-f32c-4386-aebb-bbd553244333" orientation="normal" top="0" left="0" />
+    <MotionRowDefaults>
+      <MotionRowDefault id="9d0cc7db-faee-4bf3-842c-517758992ac1" name="Effects SUPERSTAR" />
+    </MotionRowDefaults>
+  </PropGroup>
+</PixelEditorPropExport>

@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="13d234b2-1728-476a-907f-2de41cd08df6" BulbShape="Octogon" ChannelGrid="Regular,32,28,28,0,Red;Regular,32,29,29,0,Green;Regular,32,30,30,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Felix Star" Name="FaceV2-Felix Star" Parm1="10" Parm2="20">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.6118186" y="-0.07559591" />
+      <point x="0.607336" y="-0.08888485" />
+      <point x="0.5968249" y="-0.09162708" />
+      <point x="0.6043991" y="-0.1011191" />
+      <point x="0.6023895" y="-0.1158843" />
+      <point x="0.6121278" y="-0.1091344" />
+      <point x="0.6217114" y="-0.1158843" />
+      <point x="0.6197019" y="-0.1019626" />
+      <point x="0.6275854" y="-0.09078329" />
+      <point x="0.6169197" y="-0.08930669" />
+      <point x="0.6119733" y="-0.07601804" />
+    </shape>
+  </PropClass>
+  <PropClass id="33d3dde8-893e-45e5-a3c3-0d0eba811562" BulbShape="Octogon" ChannelGrid="Regular,32,25,25,0,Red;Regular,32,26,26,0,Green;Regular,32,27,27,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Felix Tree Outline" Name="FaceV2-Felix Tree Outline" Parm1="40" Parm2="83">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.6119733" y="-0.1152515" />
+      <point x="0.5872414" y="-0.1635552" />
+      <point x="0.5889416" y="-0.1635552" />
+      <point x="0.5911057" y="-0.1631333" />
+      <point x="0.5935789" y="-0.1622895" />
+      <point x="0.5932696" y="-0.1652426" />
+      <point x="0.5775031" y="-0.1876017" />
+      <point x="0.5802854" y="-0.1876017" />
+      <point x="0.5826041" y="-0.1876017" />
+      <point x="0.5841498" y="-0.1886563" />
+      <point x="0.5830679" y="-0.1905545" />
+      <point x="0.5557081" y="-0.2249364" />
+      <point x="0.5552444" y="-0.2270461" />
+      <point x="0.5574083" y="-0.2270461" />
+      <point x="0.5600361" y="-0.2266242" />
+      <point x="0.5625091" y="-0.2259914" />
+      <point x="0.5606546" y="-0.2293661" />
+      <point x="0.5458152" y="-0.2525688" />
+      <point x="0.5654463" y="-0.2624828" />
+      <point x="0.5869321" y="-0.2694438" />
+      <point x="0.6119733" y="-0.2728185" />
+      <point x="0.6370143" y="-0.2692326" />
+      <point x="0.6594276" y="-0.2626936" />
+      <point x="0.6776674" y="-0.2527798" />
+      <point x="0.6632921" y="-0.2293661" />
+      <point x="0.6619008" y="-0.2264134" />
+      <point x="0.664065" y="-0.2268351" />
+      <point x="0.6671564" y="-0.2272569" />
+      <point x="0.6693205" y="-0.2274678" />
+      <point x="0.6682384" y="-0.2249364" />
+      <point x="0.6404149" y="-0.1903437" />
+      <point x="0.6401058" y="-0.189289" />
+      <point x="0.6416516" y="-0.1880235" />
+      <point x="0.643661" y="-0.1878123" />
+      <point x="0.6456707" y="-0.1871796" />
+      <point x="0.6305221" y="-0.1650316" />
+      <point x="0.6305221" y="-0.1625005" />
+      <point x="0.6331499" y="-0.1635552" />
+      <point x="0.6354686" y="-0.1639769" />
+      <point x="0.6365506" y="-0.1633441" />
+      <point x="0.6118186" y="-0.1156734" />
+    </shape>
+  </PropClass>
+  <PropClass id="bc728334-6507-4867-8c29-7e4d3cf1f070" BulbShape="Octogon" ChannelGrid="Regular,32,31,31,0,Red;Regular,32,32,32,0,Green;Regular,32,33,33,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Felix Eyes Closed" Name="FaceV2-Felix Eyes Closed" Parm1="8" Parm2="8">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="0.594197" y="-0.1916092" />
+      <point x="0.5966703" y="-0.1981477" />
+      <point x="0.5966703" y="-0.1981477" />
+      <point x="0.6003802" y="-0.2011016" />
+      <point x="0.6003802" y="-0.2011016" />
+      <point x="0.6047083" y="-0.1985703" />
+      <point x="0.6047083" y="-0.1985703" />
+      <point x="0.607027" y="-0.19182" />
+      <point x="0.6164557" y="-0.1913983" />
+      <point x="0.6192383" y="-0.1977263" />
+      <point x="0.6192383" y="-0.1977263" />
+      <point x="0.6231025" y="-0.20089" />
+      <point x="0.6231025" y="-0.20089" />
+      <point x="0.6274307" y="-0.1975149" />
+      <point x="0.6274307" y="-0.1975149" />
+      <point x="0.6299039" y="-0.1911873" />
+    </shape>
+  </PropClass>
+  <PropClass id="c8bf80b5-bd3f-4faa-8d43-1a7cfa0be482" BulbShape="Octogon" ChannelGrid="Regular,32,34,34,0,Red;Regular,32,35,35,0,Green;Regular,32,36,36,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Felix Eyes Open" Name="FaceV2-Felix Eyes Open" Parm1="36" Parm2="36">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="0.6005347" y="-0.1681956" />
+      <point x="0.5958975" y="-0.1726253" />
+      <point x="0.5958975" y="-0.1726253" />
+      <point x="0.594197" y="-0.1781093" />
+      <point x="0.594197" y="-0.1781093" />
+      <point x="0.5934242" y="-0.1848594" />
+      <point x="0.5934242" y="-0.1848594" />
+      <point x="0.5943517" y="-0.19182" />
+      <point x="0.5943517" y="-0.19182" />
+      <point x="0.5963614" y="-0.1977263" />
+      <point x="0.5963614" y="-0.1977263" />
+      <point x="0.6006891" y="-0.2013125" />
+      <point x="0.6006891" y="-0.2013125" />
+      <point x="0.6051719" y="-0.1979376" />
+      <point x="0.6051719" y="-0.1979376" />
+      <point x="0.6068722" y="-0.1916092" />
+      <point x="0.6068722" y="-0.1916092" />
+      <point x="0.6076452" y="-0.1844375" />
+      <point x="0.6076452" y="-0.1844375" />
+      <point x="0.6068722" y="-0.1774765" />
+      <point x="0.6068722" y="-0.1774765" />
+      <point x="0.6050174" y="-0.1717815" />
+      <point x="0.6050174" y="-0.1717815" />
+      <point x="0.6003802" y="-0.1688284" />
+      <point x="0.6006891" y="-0.176633" />
+      <point x="0.5985253" y="-0.1816954" />
+      <point x="0.5985253" y="-0.1816954" />
+      <point x="0.5983706" y="-0.1880235" />
+      <point x="0.5983706" y="-0.1880235" />
+      <point x="0.6002256" y="-0.1932966" />
+      <point x="0.6002256" y="-0.1932966" />
+      <point x="0.6028535" y="-0.1876017" />
+      <point x="0.6028535" y="-0.1876017" />
+      <point x="0.6023895" y="-0.1806405" />
+      <point x="0.6023895" y="-0.1806405" />
+      <point x="0.6005347" y="-0.1770549" />
+      <point x="0.6227935" y="-0.1686176" />
+      <point x="0.6178471" y="-0.1724143" />
+      <point x="0.6178471" y="-0.1724143" />
+      <point x="0.6161468" y="-0.1778986" />
+      <point x="0.6161468" y="-0.1778986" />
+      <point x="0.6156831" y="-0.1846482" />
+      <point x="0.6156831" y="-0.1846482" />
+      <point x="0.6163013" y="-0.1916092" />
+      <point x="0.6163013" y="-0.1916092" />
+      <point x="0.6184655" y="-0.1981477" />
+      <point x="0.6184655" y="-0.1981477" />
+      <point x="0.6227935" y="-0.2004688" />
+      <point x="0.6227935" y="-0.2004688" />
+      <point x="0.6272761" y="-0.1977263" />
+      <point x="0.6272761" y="-0.1977263" />
+      <point x="0.6292858" y="-0.1911873" />
+      <point x="0.6292858" y="-0.1911873" />
+      <point x="0.6295946" y="-0.1846482" />
+      <point x="0.6295946" y="-0.1846482" />
+      <point x="0.6292858" y="-0.1774765" />
+      <point x="0.6292858" y="-0.1774765" />
+      <point x="0.6274307" y="-0.1722034" />
+      <point x="0.6274307" y="-0.1722034" />
+      <point x="0.622639" y="-0.1681956" />
+      <point x="0.622639" y="-0.176422" />
+      <point x="0.6204748" y="-0.1814845" />
+      <point x="0.6204748" y="-0.1814845" />
+      <point x="0.6203203" y="-0.1878123" />
+      <point x="0.6203203" y="-0.1878123" />
+      <point x="0.6227935" y="-0.1932966" />
+      <point x="0.6227935" y="-0.1932966" />
+      <point x="0.6246483" y="-0.1873908" />
+      <point x="0.6246483" y="-0.1873908" />
+      <point x="0.6244938" y="-0.1804298" />
+      <point x="0.6244938" y="-0.1804298" />
+      <point x="0.622639" y="-0.176422" />
+    </shape>
+  </PropClass>
+  <PropClass id="ed1991df-f3b7-4e71-86af-4f9492827a84" BulbShape="Octogon" ChannelGrid="Regular,32,37,37,0,Red;Regular,32,38,38,0,Green;Regular,32,39,39,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Felix Mouth Closed" Name="FaceV2-Felix Mouth Closed" Parm1="12" Parm2="14">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.581702" y="-0.2200425" />
+      <point x="0.5852312" y="-0.2244106" />
+      <point x="0.5896493" y="-0.2290106" />
+      <point x="0.5940237" y="-0.2318334" />
+      <point x="0.5988018" y="-0.2354117" />
+      <point x="0.6039301" y="-0.2365887" />
+      <point x="0.609511" y="-0.2383941" />
+      <point x="0.6153663" y="-0.2381683" />
+      <point x="0.6200148" y="-0.2366663" />
+      <point x="0.6261823" y="-0.2349669" />
+      <point x="0.6307693" y="-0.2313426" />
+      <point x="0.6351731" y="-0.2285236" />
+      <point x="0.6429673" y="-0.2203591" />
+    </shape>
+  </PropClass>
+  <PropClass id="d3a2951c-c2ec-44a9-bf9a-d7918d70f904" BulbShape="Octogon" ChannelGrid="Regular,32,40,40,0,Red;Regular,32,41,41,0,Green;Regular,32,42,42,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Felix Mouth E (Half Open)" Name="FaceV2-Felix Mouth E (Half Open)" Parm1="26" Parm2="27">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.5778922" y="-0.2155877" />
+      <point x="0.5818312" y="-0.2202613" />
+      <point x="0.5852879" y="-0.2250722" />
+      <point x="0.5892268" y="-0.2282339" />
+      <point x="0.5938089" y="-0.2323577" />
+      <point x="0.5984715" y="-0.23497" />
+      <point x="0.6042595" y="-0.237169" />
+      <point x="0.6092434" y="-0.2377194" />
+      <point x="0.6155137" y="-0.237857" />
+      <point x="0.6209801" y="-0.2367567" />
+      <point x="0.6258839" y="-0.2344203" />
+      <point x="0.6310287" y="-0.2313958" />
+      <point x="0.6352089" y="-0.2286463" />
+      <point x="0.6390675" y="-0.2246597" />
+      <point x="0.6427653" y="-0.220536" />
+      <point x="0.647267" y="-0.2153126" />
+      <point x="0.6410773" y="-0.2157252" />
+      <point x="0.6354501" y="-0.2155877" />
+      <point x="0.6298229" y="-0.216" />
+      <point x="0.6241957" y="-0.2158626" />
+      <point x="0.618247" y="-0.216" />
+      <point x="0.6123787" y="-0.2165497" />
+      <point x="0.6073946" y="-0.2158626" />
+      <point x="0.6013656" y="-0.216" />
+      <point x="0.5958187" y="-0.2164123" />
+      <point x="0.5901915" y="-0.216" />
+      <point x="0.5842429" y="-0.2162749" />
+    </shape>
+  </PropClass>
+  <PropClass id="a94a9b17-981a-4bc5-9649-ae9ed23d42e8" BulbShape="Octogon" ChannelGrid="Regular,32,43,43,0,Red;Regular,32,44,44,0,Green;Regular,32,45,45,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Felix Mouth AI (Full Open)" Name="FaceV2-Felix Mouth AI (Full Open)" Parm1="13" Parm2="33">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.5787929" y="-0.2157707" />
+      <point x="0.5793949" y="-0.2248477" />
+      <point x="0.5839488" y="-0.2371086" />
+      <point x="0.5917726" y="-0.2454486" />
+      <point x="0.6006495" y="-0.2506331" />
+      <point x="0.6072696" y="-0.252887" />
+      <point x="0.6119339" y="-0.252887" />
+      <point x="0.6170495" y="-0.2524358" />
+      <point x="0.62382" y="-0.2504073" />
+      <point x="0.6325464" y="-0.2461251" />
+      <point x="0.6400693" y="-0.2364326" />
+      <point x="0.6450344" y="-0.2256136" />
+      <point x="0.645255" y="-0.2159965" />
+      <point x="0.5790839" y="-0.2164628" />
+    </shape>
+  </PropClass>
+  <PropClass id="23128b13-e6aa-4965-a379-0d257f520003" BulbShape="Octogon" ChannelGrid="Regular,32,46,46,0,Red;Regular,32,47,47,0,Green;Regular,32,48,48,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Felix Mouth OU" Name="FaceV2-Felix Mouth OU" Parm1="12" Parm2="16">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.6125658" y="-0.2157109" />
+      <point x="0.6063567" y="-0.2249826" />
+      <point x="0.6049324" y="-0.2338184" />
+      <point x="0.6042907" y="-0.2433151" />
+      <point x="0.6050831" y="-0.2492052" />
+      <point x="0.6081223" y="-0.2605205" />
+      <point x="0.6123953" y="-0.2641416" />
+      <point x="0.6166983" y="-0.2596189" />
+      <point x="0.6193964" y="-0.2489802" />
+      <point x="0.6200385" y="-0.2428643" />
+      <point x="0.6197175" y="-0.2326758" />
+      <point x="0.617641" y="-0.2243062" />
+      <point x="0.6123953" y="-0.2159369" />
+    </shape>
+  </PropClass>
+  <PropClass id="73e08e74-176e-4ac5-a65b-2d14b0d8fa3b" BulbShape="Octogon" ChannelGrid="Regular,32,49,49,0,Red;Regular,32,50,50,0,Green;Regular,32,51,51,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Felix Mouth Ah" Name="FaceV2-Felix Mouth Ah" Parm1="10" Parm2="10">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.6121814" y="-0.2159132" />
+      <point x="0.5956551" y="-0.2239873" />
+      <point x="0.593602" y="-0.2311838" />
+      <point x="0.5946286" y="-0.2424176" />
+      <point x="0.6069462" y="-0.2520718" />
+      <point x="0.6115655" y="-0.2529492" />
+      <point x="0.6170058" y="-0.2527738" />
+      <point x="0.6305553" y="-0.2406624" />
+      <point x="0.6315818" y="-0.2320611" />
+      <point x="0.6285022" y="-0.2241626" />
+      <point x="0.6124892" y="-0.2157371" />
+    </shape>
+  </PropClass>
+  <PropClass id="13a33612-1057-40db-adc8-e5ce5b43a4f3" BulbShape="Octogon" ChannelGrid="Regular,32,52,52,0,Red;Regular,32,53,53,0,Green;Regular,32,54,54,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Felix Mouth MBP" Name="FaceV2-Felix Mouth MBP" Parm1="9" Parm2="10">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.5876323" y="-0.227252" />
+      <point x="0.5923452" y="-0.2309172" />
+      <point x="0.5971316" y="-0.2341131" />
+      <point x="0.6033162" y="-0.2348295" />
+      <point x="0.6097157" y="-0.2368285" />
+      <point x="0.6152712" y="-0.2364253" />
+      <point x="0.6210951" y="-0.2352466" />
+      <point x="0.6274383" y="-0.233617" />
+      <point x="0.6328078" y="-0.2301845" />
+      <point x="0.6375989" y="-0.2267295" />
+    </shape>
+  </PropClass>
+  <PropClass id="94528745-4d2a-49b5-b7b8-01d3b56c5006" BulbShape="Octogon" ChannelGrid="Regular,32,55,55,0,Red;Regular,32,56,56,0,Green;Regular,32,57,57,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Felix Mouth FV" Name="FaceV2-Felix Mouth FV" Parm1="1" Parm2="13">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.5785831" y="-0.2156366" />
+      <point x="0.6472543" y="-0.2159875" />
+    </shape>
+  </PropClass>
+  <PropClass id="36b8ff0a-80db-4368-b296-bffca41ae1a9" BulbShape="Octogon" ChannelGrid="Regular,32,58,58,0,Red;Regular,32,59,59,0,Green;Regular,32,60,60,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Felix Mouth L" Name="FaceV2-Felix Mouth L" Parm1="36" Parm2="31">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.6090056" y="-0.2376709" />
+      <point x="0.6155752" y="-0.2376709" />
+      <point x="0.6205022" y="-0.2367939" />
+      <point x="0.6259426" y="-0.2350383" />
+      <point x="0.6312802" y="-0.2315278" />
+      <point x="0.6355915" y="-0.2278416" />
+      <point x="0.6407238" y="-0.22398" />
+      <point x="0.6437006" y="-0.2197676" />
+      <point x="0.6484224" y="-0.2160815" />
+      <point x="0.6478066" y="-0.2153791" />
+      <point x="0.6419555" y="-0.2160815" />
+      <point x="0.6358993" y="-0.2160815" />
+      <point x="0.6294327" y="-0.2153791" />
+      <point x="0.6245055" y="-0.2157299" />
+      <point x="0.6183466" y="-0.2160815" />
+      <point x="0.6125985" y="-0.2160815" />
+      <point x="0.6070555" y="-0.2160815" />
+      <point x="0.6016152" y="-0.2153791" />
+      <point x="0.5959695" y="-0.2157299" />
+      <point x="0.5899133" y="-0.2157299" />
+      <point x="0.5836518" y="-0.215906" />
+      <point x="0.5784169" y="-0.2150276" />
+      <point x="0.5779034" y="-0.2176607" />
+      <point x="0.5813937" y="-0.2202938" />
+      <point x="0.5854995" y="-0.22556" />
+      <point x="0.5899133" y="-0.2287189" />
+      <point x="0.5938138" y="-0.2325805" />
+      <point x="0.5991516" y="-0.2366181" />
+      <point x="0.6033601" y="-0.2362669" />
+      <point x="0.6051052" y="-0.2390756" />
+      <point x="0.606029" y="-0.2276663" />
+      <point x="0.6086978" y="-0.2211716" />
+      <point x="0.6113666" y="-0.2155546" />
+      <point x="0.6139328" y="-0.2167831" />
+      <point x="0.616499" y="-0.221347" />
+      <point x="0.6187572" y="-0.2281923" />
+      <point x="0.6194758" y="-0.2371448" />
+    </shape>
+  </PropClass>
+  <PropClass id="2f0e867e-7a8b-4cd2-bf83-48af9744a4d6" BulbShape="Octogon" ChannelGrid="Regular,32,61,61,0,Red;Regular,32,62,62,0,Green;Regular,32,63,63,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Felix Mouth WQ" Name="FaceV2-Felix Mouth WQ" Parm1="7" Parm2="7">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.6124568" y="-0.2175134" />
+      <point x="0.6117381" y="-0.2157581" />
+      <point x="0.6114303" y="-0.218918" />
+      <point x="0.6040397" y="-0.2231303" />
+      <point x="0.610917" y="-0.2403321" />
+      <point x="0.6152282" y="-0.2371726" />
+      <point x="0.6194368" y="-0.2236568" />
+      <point x="0.6159936" y="-0.2204257" />
+    </shape>
+  </PropClass>
+  <PropClass id="639fd609-09ec-4763-ae97-1194872a9fc9" BulbShape="Octogon" ChannelGrid="Regular,32,64,64,0,Red;Regular,32,65,65,0,Green;Regular,32,66,66,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Felix Mouth etc" Name="FaceV2-Felix Mouth etc" Parm1="23" Parm2="36">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.5777801" y="-0.2157261" />
+      <point x="0.5792845" y="-0.2249375" />
+      <point x="0.5842497" y="-0.2362071" />
+      <point x="0.5919231" y="-0.2454486" />
+      <point x="0.6004991" y="-0.2499571" />
+      <point x="0.6074402" y="-0.2521808" />
+      <point x="0.6127161" y="-0.2526166" />
+      <point x="0.61722" y="-0.2519404" />
+      <point x="0.6243616" y="-0.2510238" />
+      <point x="0.6328976" y="-0.2455541" />
+      <point x="0.6405006" y="-0.2362373" />
+      <point x="0.6453053" y="-0.2246218" />
+      <point x="0.6462482" y="-0.2155156" />
+      <point x="0.6405207" y="-0.2233599" />
+      <point x="0.6339006" y="-0.2296711" />
+      <point x="0.6245723" y="-0.2353056" />
+      <point x="0.6184537" y="-0.2376048" />
+      <point x="0.6160463" y="-0.2371539" />
+      <point x="0.6120944" y="-0.2385213" />
+      <point x="0.6057248" y="-0.2376048" />
+      <point x="0.5998971" y="-0.235531" />
+      <point x="0.5908698" y="-0.2298961" />
+      <point x="0.5844002" y="-0.2235847" />
+      <point x="0.5782515" y="-0.2159513" />
+    </shape>
+  </PropClass>
+  <PropGroup id="76b909e4-431a-4fe8-b8ba-151ab3c0f9ae" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Face Group V2-Felix Whole Tree (RGB)" Name="LOR Face Group V2-Felix Whole Tree (RGB)">
+    <member id="13d234b2-1728-476a-907f-2de41cd08df6" orientation="normal" top="0" left="0" />
+    <member id="33d3dde8-893e-45e5-a3c3-0d0eba811562" orientation="normal" top="0" left="0" />
+    <member id="bc728334-6507-4867-8c29-7e4d3cf1f070" orientation="normal" top="0" left="0" />
+    <member id="c8bf80b5-bd3f-4faa-8d43-1a7cfa0be482" orientation="normal" top="0" left="0" />
+    <member id="ed1991df-f3b7-4e71-86af-4f9492827a84" orientation="normal" top="0" left="0" />
+    <member id="d3a2951c-c2ec-44a9-bf9a-d7918d70f904" orientation="normal" top="0" left="0" />
+    <member id="a94a9b17-981a-4bc5-9649-ae9ed23d42e8" orientation="normal" top="0" left="0" />
+    <member id="23128b13-e6aa-4965-a379-0d257f520003" orientation="normal" top="0" left="0" />
+    <member id="73e08e74-176e-4ac5-a65b-2d14b0d8fa3b" orientation="normal" top="0" left="0" />
+    <member id="13a33612-1057-40db-adc8-e5ce5b43a4f3" orientation="normal" top="0" left="0" />
+    <member id="94528745-4d2a-49b5-b7b8-01d3b56c5006" orientation="normal" top="0" left="0" />
+    <member id="36b8ff0a-80db-4368-b296-bffca41ae1a9" orientation="normal" top="0" left="0" />
+    <member id="2f0e867e-7a8b-4cd2-bf83-48af9744a4d6" orientation="normal" top="0" left="0" />
+    <member id="639fd609-09ec-4763-ae97-1194872a9fc9" orientation="normal" top="0" left="0" />
+  </PropGroup>
+</PixelEditorPropExport>

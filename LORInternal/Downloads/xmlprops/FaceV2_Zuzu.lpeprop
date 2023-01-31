@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PixelEditorPropExport version="1">
+  <PropClass id="e242f8a2-40af-404b-b537-62720c2169a1" BulbShape="Octogon" ChannelGrid="Regular,36,28,28,0,Red;Regular,36,29,29,0,Green;Regular,36,30,30,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Zuzu Bow" Name="FaceV2-Zuzu Bow" Parm1="12" Parm2="28">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.9000562" y="-0.09216761" />
+      <point x="0.9001998" y="-0.09473711" />
+      <point x="0.8827195" y="-0.08287791" />
+      <point x="0.8825762" y="-0.1099561" />
+      <point x="0.9001998" y="-0.09908541" />
+      <point x="0.9000562" y="-0.1018523" />
+      <point x="0.9083671" y="-0.1018523" />
+      <point x="0.9079371" y="-0.09948057" />
+      <point x="0.9252745" y="-0.1097585" />
+      <point x="0.9254178" y="-0.08366866" />
+      <point x="0.9079371" y="-0.09453942" />
+      <point x="0.9079371" y="-0.09177221" />
+      <point x="0.9001998" y="-0.09177221" />
+    </shape>
+  </PropClass>
+  <PropClass id="ec1e5069-7788-4c31-9fb4-7b1444f3deb3" BulbShape="Octogon" ChannelGrid="Regular,36,25,25,0,Red;Regular,36,26,26,0,Green;Regular,36,27,27,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Zuzu Tree Outline" Name="FaceV2-Zuzu Tree Outline" Parm1="58" Parm2="83">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.9039249" y="-0.1069913" />
+      <point x="0.9017758" y="-0.1109443" />
+      <point x="0.8969043" y="-0.120234" />
+      <point x="0.8910297" y="-0.1285354" />
+      <point x="0.8841521" y="-0.1364412" />
+      <point x="0.8798537" y="-0.141185" />
+      <point x="0.8778479" y="-0.1447428" />
+      <point x="0.8782775" y="-0.1492887" />
+      <point x="0.8808566" y="-0.1538346" />
+      <point x="0.8854419" y="-0.1577875" />
+      <point x="0.8801402" y="-0.1670773" />
+      <point x="0.8741224" y="-0.1726114" />
+      <point x="0.8675315" y="-0.177948" />
+      <point x="0.8625165" y="-0.1824939" />
+      <point x="0.861227" y="-0.1854586" />
+      <point x="0.8609406" y="-0.188819" />
+      <point x="0.8630893" y="-0.1925739" />
+      <point x="0.8660983" y="-0.1963291" />
+      <point x="0.8685343" y="-0.198899" />
+      <point x="0.8639495" y="-0.2050264" />
+      <point x="0.8523433" y="-0.2174781" />
+      <point x="0.840021" y="-0.2301278" />
+      <point x="0.8397345" y="-0.2328947" />
+      <point x="0.8414539" y="-0.2370454" />
+      <point x="0.844606" y="-0.2415914" />
+      <point x="0.8516271" y="-0.2483115" />
+      <point x="0.8640924" y="-0.2572062" />
+      <point x="0.8801402" y="-0.2660997" />
+      <point x="0.8940386" y="-0.2700531" />
+      <point x="0.9040683" y="-0.2708434" />
+      <point x="0.9138117" y="-0.2698554" />
+      <point x="0.9272805" y="-0.2660997" />
+      <point x="0.9436145" y="-0.2570082" />
+      <point x="0.955937" y="-0.2481138" />
+      <point x="0.963101" y="-0.2415914" />
+      <point x="0.9662532" y="-0.2364525" />
+      <point x="0.9678293" y="-0.2323016" />
+      <point x="0.9675429" y="-0.2293371" />
+      <point x="0.9547905" y="-0.2168848" />
+      <point x="0.9436145" y="-0.2046306" />
+      <point x="0.9391729" y="-0.1985037" />
+      <point x="0.9416088" y="-0.195736" />
+      <point x="0.9446175" y="-0.1923766" />
+      <point x="0.9466233" y="-0.1880284" />
+      <point x="0.9467669" y="-0.1846682" />
+      <point x="0.9449043" y="-0.1819009" />
+      <point x="0.9403191" y="-0.1781454" />
+      <point x="0.9334413" y="-0.172216" />
+      <point x="0.9271372" y="-0.1649029" />
+      <point x="0.921979" y="-0.156997" />
+      <point x="0.9267074" y="-0.1526486" />
+      <point x="0.9295727" y="-0.1488932" />
+      <point x="0.9300028" y="-0.1445449" />
+      <point x="0.9277104" y="-0.141185" />
+      <point x="0.9234118" y="-0.1360462" />
+      <point x="0.9162475" y="-0.1279425" />
+      <point x="0.91023" y="-0.119641" />
+      <point x="0.9060745" y="-0.110549" />
+      <point x="0.9039249" y="-0.1067937" />
+    </shape>
+  </PropClass>
+  <PropClass id="f2923918-b159-4862-957e-e7103899be89" BulbShape="Octogon" ChannelGrid="Regular,36,31,31,0,Red;Regular,36,32,32,0,Green;Regular,36,33,33,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Zuzu Eyes Closed" Name="FaceV2-Zuzu Eyes Closed" Parm1="20" Parm2="15">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="0.8844388" y="-0.1834822" />
+      <point x="0.8865882" y="-0.1886214" />
+      <point x="0.8865882" y="-0.1886214" />
+      <point x="0.8845822" y="-0.1917838" />
+      <point x="0.8845822" y="-0.1917838" />
+      <point x="0.8865882" y="-0.1892144" />
+      <point x="0.8865882" y="-0.1892144" />
+      <point x="0.8900266" y="-0.1919809" />
+      <point x="0.8900266" y="-0.1919809" />
+      <point x="0.8888806" y="-0.1955388" />
+      <point x="0.8888806" y="-0.1955388" />
+      <point x="0.8900266" y="-0.1917838" />
+      <point x="0.8900266" y="-0.1917838" />
+      <point x="0.8940386" y="-0.191586" />
+      <point x="0.8940386" y="-0.191586" />
+      <point x="0.8947551" y="-0.195736" />
+      <point x="0.8947551" y="-0.195736" />
+      <point x="0.8940386" y="-0.1913879" />
+      <point x="0.8940386" y="-0.1913879" />
+      <point x="0.8976209" y="-0.1886214" />
+      <point x="0.9099427" y="-0.1890162" />
+      <point x="0.9132387" y="-0.1921789" />
+      <point x="0.9132387" y="-0.1921789" />
+      <point x="0.9126654" y="-0.1959344" />
+      <point x="0.9126654" y="-0.1959344" />
+      <point x="0.912952" y="-0.1921789" />
+      <point x="0.912952" y="-0.1921789" />
+      <point x="0.9172505" y="-0.1921789" />
+      <point x="0.9172505" y="-0.1921789" />
+      <point x="0.9186834" y="-0.1959344" />
+      <point x="0.9186834" y="-0.1959344" />
+      <point x="0.9171074" y="-0.1919809" />
+      <point x="0.9171074" y="-0.1919809" />
+      <point x="0.9208327" y="-0.188819" />
+      <point x="0.9208327" y="-0.188819" />
+      <point x="0.9228385" y="-0.1917838" />
+      <point x="0.9228385" y="-0.1917838" />
+      <point x="0.9211192" y="-0.1890162" />
+      <point x="0.9211192" y="-0.1890162" />
+      <point x="0.9228385" y="-0.1838776" />
+    </shape>
+  </PropClass>
+  <PropClass id="5791e171-63ff-4269-a36e-e6f1385b12f8" BulbShape="Octogon" ChannelGrid="Regular,36,34,34,0,Red;Regular,36,35,35,0,Green;Regular,36,36,36,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Zuzu Eyes Open" Name="FaceV2-Zuzu Eyes Open" Parm1="51" Parm2="41">
+    <shape ShapeName="Lines-Unconnected">
+      <point x="0.8897403" y="-0.1698441" />
+      <point x="0.8890237" y="-0.1656936" />
+      <point x="0.8890237" y="-0.1656936" />
+      <point x="0.8897403" y="-0.1698441" />
+      <point x="0.8897403" y="-0.1698441" />
+      <point x="0.8864451" y="-0.1724138" />
+      <point x="0.8864451" y="-0.1724138" />
+      <point x="0.8842953" y="-0.1692511" />
+      <point x="0.8842953" y="-0.1692511" />
+      <point x="0.8863013" y="-0.1724138" />
+      <point x="0.8863013" y="-0.1724138" />
+      <point x="0.8844388" y="-0.177948" />
+      <point x="0.8844388" y="-0.177948" />
+      <point x="0.8845822" y="-0.1836797" />
+      <point x="0.8845822" y="-0.1836797" />
+      <point x="0.8867313" y="-0.1900049" />
+      <point x="0.8867313" y="-0.1900049" />
+      <point x="0.8898834" y="-0.1923766" />
+      <point x="0.8898834" y="-0.1923766" />
+      <point x="0.8938952" y="-0.1919809" />
+      <point x="0.8938952" y="-0.1919809" />
+      <point x="0.8973343" y="-0.188819" />
+      <point x="0.8973343" y="-0.188819" />
+      <point x="0.8996269" y="-0.1832846" />
+      <point x="0.8996269" y="-0.1832846" />
+      <point x="0.8996269" y="-0.1775524" />
+      <point x="0.8996269" y="-0.1775524" />
+      <point x="0.8974775" y="-0.1718209" />
+      <point x="0.8974775" y="-0.1718209" />
+      <point x="0.8938952" y="-0.1696466" />
+      <point x="0.8938952" y="-0.1696466" />
+      <point x="0.8947551" y="-0.1656936" />
+      <point x="0.8947551" y="-0.1656936" />
+      <point x="0.893752" y="-0.1694491" />
+      <point x="0.893752" y="-0.1694491" />
+      <point x="0.8897403" y="-0.1698441" />
+      <point x="0.892606" y="-0.1751808" />
+      <point x="0.8895972" y="-0.1763665" />
+      <point x="0.8895972" y="-0.1763665" />
+      <point x="0.8883075" y="-0.180715" />
+      <point x="0.8883075" y="-0.180715" />
+      <point x="0.8894536" y="-0.1850635" />
+      <point x="0.8894536" y="-0.1850635" />
+      <point x="0.8928923" y="-0.1862494" />
+      <point x="0.8928923" y="-0.1862494" />
+      <point x="0.8954717" y="-0.1828892" />
+      <point x="0.8954717" y="-0.1828892" />
+      <point x="0.8956151" y="-0.178541" />
+      <point x="0.8956151" y="-0.178541" />
+      <point x="0.892606" y="-0.1757738" />
+      <point x="0.9178236" y="-0.1694491" />
+      <point x="0.9132387" y="-0.1694491" />
+      <point x="0.9132387" y="-0.1694491" />
+      <point x="0.9128087" y="-0.1654959" />
+      <point x="0.9128087" y="-0.1654959" />
+      <point x="0.9132387" y="-0.1696466" />
+      <point x="0.9132387" y="-0.1696466" />
+      <point x="0.91023" y="-0.172809" />
+      <point x="0.91023" y="-0.172809" />
+      <point x="0.9079371" y="-0.1777504" />
+      <point x="0.9079371" y="-0.1777504" />
+      <point x="0.9077938" y="-0.1832846" />
+      <point x="0.9077938" y="-0.1832846" />
+      <point x="0.9097998" y="-0.1886214" />
+      <point x="0.9097998" y="-0.1886214" />
+      <point x="0.9132387" y="-0.1919809" />
+      <point x="0.9132387" y="-0.1919809" />
+      <point x="0.9173938" y="-0.191586" />
+      <point x="0.9173938" y="-0.191586" />
+      <point x="0.9208327" y="-0.1884234" />
+      <point x="0.9208327" y="-0.1884234" />
+      <point x="0.9205362" y="-0.1898463" />
+      <point x="0.9205362" y="-0.1898463" />
+      <point x="0.9226954" y="-0.1834822" />
+      <point x="0.9226954" y="-0.1834822" />
+      <point x="0.9226954" y="-0.177355" />
+      <point x="0.9226954" y="-0.177355" />
+      <point x="0.9205459" y="-0.1724138" />
+      <point x="0.9205459" y="-0.1724138" />
+      <point x="0.9232686" y="-0.1700421" />
+      <point x="0.9232686" y="-0.1700421" />
+      <point x="0.9209758" y="-0.1726114" />
+      <point x="0.9209758" y="-0.1726114" />
+      <point x="0.9176803" y="-0.1694491" />
+      <point x="0.9176803" y="-0.1694491" />
+      <point x="0.9185401" y="-0.1658913" />
+      <point x="0.9185401" y="-0.1658913" />
+      <point x="0.9178236" y="-0.1698441" />
+      <point x="0.9148147" y="-0.1753784" />
+      <point x="0.912379" y="-0.1791338" />
+      <point x="0.912379" y="-0.1791338" />
+      <point x="0.911949" y="-0.1828892" />
+      <point x="0.911949" y="-0.1828892" />
+      <point x="0.9148147" y="-0.1864471" />
+      <point x="0.9148147" y="-0.1864471" />
+      <point x="0.9176803" y="-0.1846682" />
+      <point x="0.9176803" y="-0.1846682" />
+      <point x="0.9189698" y="-0.180122" />
+      <point x="0.9189698" y="-0.180122" />
+      <point x="0.9178236" y="-0.1761691" />
+      <point x="0.9178236" y="-0.1761691" />
+      <point x="0.9142416" y="-0.1753784" />
+    </shape>
+  </PropClass>
+  <PropClass id="d14452c0-cac5-49da-bbcf-395146eb040c" BulbShape="Octogon" ChannelGrid="Regular,36,37,37,0,Red;Regular,36,38,38,0,Green;Regular,36,39,39,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Zuzu Mouth Closed" Name="FaceV2-Zuzu Mouth Closed" Parm1="12" Parm2="14">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.8747267" y="-0.2182708" />
+      <point x="0.8781912" y="-0.2223478" />
+      <point x="0.8825288" y="-0.2266412" />
+      <point x="0.8868229" y="-0.2292757" />
+      <point x="0.8915139" y="-0.2326161" />
+      <point x="0.8965486" y="-0.2337142" />
+      <point x="0.9020272" y="-0.2353988" />
+      <point x="0.9077757" y="-0.2351888" />
+      <point x="0.9123394" y="-0.233787" />
+      <point x="0.9183939" y="-0.2322003" />
+      <point x="0.9228969" y="-0.2288179" />
+      <point x="0.9272203" y="-0.2261868" />
+      <point x="0.9348721" y="-0.2185671" />
+    </shape>
+  </PropClass>
+  <PropClass id="ecb082b3-8902-4ef9-8d4a-2eb0fb020afd" BulbShape="Octogon" ChannelGrid="Regular,36,40,40,0,Red;Regular,36,41,41,0,Green;Regular,36,42,42,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Zuzu Mouth E (Half Open)" Name="FaceV2-Zuzu Mouth E (Half Open)" Parm1="26" Parm2="27">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.8709865" y="-0.2141127" />
+      <point x="0.8748536" y="-0.2184751" />
+      <point x="0.878247" y="-0.2229658" />
+      <point x="0.8821139" y="-0.2259163" />
+      <point x="0.8866125" y="-0.2297651" />
+      <point x="0.8911895" y="-0.2322033" />
+      <point x="0.8968719" y="-0.2342559" />
+      <point x="0.9017645" y="-0.2347693" />
+      <point x="0.9079201" y="-0.2348977" />
+      <point x="0.9132868" y="-0.2338713" />
+      <point x="0.9181007" y="-0.2316902" />
+      <point x="0.9231514" y="-0.2288671" />
+      <point x="0.9272554" y="-0.2263013" />
+      <point x="0.9310436" y="-0.2225807" />
+      <point x="0.9346737" y="-0.2187318" />
+      <point x="0.9390931" y="-0.213856" />
+      <point x="0.9330164" y="-0.2142411" />
+      <point x="0.9274923" y="-0.2141127" />
+      <point x="0.9219678" y="-0.2144978" />
+      <point x="0.9164436" y="-0.2143694" />
+      <point x="0.9106031" y="-0.2144978" />
+      <point x="0.9048424" y="-0.2150108" />
+      <point x="0.8999495" y="-0.2143694" />
+      <point x="0.8940306" y="-0.2144978" />
+      <point x="0.8885853" y="-0.2148827" />
+      <point x="0.8830611" y="-0.2144978" />
+      <point x="0.877221" y="-0.2147544" />
+    </shape>
+  </PropClass>
+  <PropClass id="7e6c5b03-7a3a-4eeb-90d9-3d1886c4be8b" BulbShape="Octogon" ChannelGrid="Regular,36,43,43,0,Red;Regular,36,44,44,0,Green;Regular,36,45,45,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Zuzu Mouth AI (Full Open)" Name="FaceV2-Zuzu Mouth AI (Full Open)" Parm1="13" Parm2="33">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.8718708" y="-0.2142844" />
+      <point x="0.8724616" y="-0.2227553" />
+      <point x="0.8769323" y="-0.2341999" />
+      <point x="0.8846131" y="-0.2419839" />
+      <point x="0.8933278" y="-0.2468223" />
+      <point x="0.8998267" y="-0.2489262" />
+      <point x="0.9044057" y="-0.2489262" />
+      <point x="0.9094279" y="-0.2485055" />
+      <point x="0.9160748" y="-0.2466121" />
+      <point x="0.9246415" y="-0.2426153" />
+      <point x="0.932027" y="-0.2335689" />
+      <point x="0.9369012" y="-0.2234703" />
+      <point x="0.9371179" y="-0.2144943" />
+      <point x="0.8721564" y="-0.2149297" />
+    </shape>
+  </PropClass>
+  <PropClass id="5419ba40-05f0-4765-8e01-9b742d34d00d" BulbShape="Octogon" ChannelGrid="Regular,36,46,46,0,Red;Regular,36,47,47,0,Green;Regular,36,48,48,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Zuzu Mouth OU" Name="FaceV2-Zuzu Mouth OU" Parm1="12" Parm2="16">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.9050261" y="-0.2142283" />
+      <point x="0.8989308" y="-0.2228815" />
+      <point x="0.8975323" y="-0.2311283" />
+      <point x="0.8969019" y="-0.2399923" />
+      <point x="0.89768" y="-0.24549" />
+      <point x="0.900664" y="-0.2560514" />
+      <point x="0.9048586" y="-0.2594311" />
+      <point x="0.909083" y="-0.2552091" />
+      <point x="0.9117318" y="-0.2452797" />
+      <point x="0.912362" y="-0.2395712" />
+      <point x="0.912047" y="-0.2300623" />
+      <point x="0.9100088" y="-0.2222502" />
+      <point x="0.9048586" y="-0.2144381" />
+    </shape>
+  </PropClass>
+  <PropClass id="344bd35c-db90-4c44-aab5-7a2918c3e01f" BulbShape="Octogon" ChannelGrid="Regular,36,49,49,0,Red;Regular,36,50,50,0,Green;Regular,36,51,51,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Zuzu Mouth Ah" Name="FaceV2-Zuzu Mouth Ah" Parm1="10" Parm2="10">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.9046487" y="-0.2144164" />
+      <point x="0.8884247" y="-0.2219525" />
+      <point x="0.886409" y="-0.2286696" />
+      <point x="0.8874168" y="-0.2391549" />
+      <point x="0.8995093" y="-0.2481656" />
+      <point x="0.9040441" y="-0.2489845" />
+      <point x="0.909385" y="-0.2488203" />
+      <point x="0.9226868" y="-0.2375161" />
+      <point x="0.9236945" y="-0.2294886" />
+      <point x="0.9206714" y="-0.2221161" />
+      <point x="0.9049509" y="-0.2142521" />
+    </shape>
+  </PropClass>
+  <PropClass id="1a683c05-2d60-4293-95dd-225f9e37a23f" BulbShape="Octogon" ChannelGrid="Regular,36,52,52,0,Red;Regular,36,53,53,0,Green;Regular,36,54,54,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Zuzu Mouth MBP" Name="FaceV2-Zuzu Mouth MBP" Parm1="9" Parm2="10">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.8805487" y="-0.2249996" />
+      <point x="0.8851754" y="-0.2284212" />
+      <point x="0.8898737" y="-0.2314036" />
+      <point x="0.8959455" y="-0.232072" />
+      <point x="0.9022282" y="-0.2339377" />
+      <point x="0.9076821" y="-0.2335616" />
+      <point x="0.9133996" y="-0.2324612" />
+      <point x="0.9196267" y="-0.2309403" />
+      <point x="0.9248978" y="-0.2277367" />
+      <point x="0.9296017" y="-0.2245117" />
+    </shape>
+  </PropClass>
+  <PropClass id="a6265a62-8e1c-47b5-8259-53fdfc2d005b" BulbShape="Octogon" ChannelGrid="Regular,36,55,55,0,Red;Regular,36,56,56,0,Green;Regular,36,57,57,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Zuzu Mouth FV" Name="FaceV2-Zuzu Mouth FV" Parm1="1" Parm2="13">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.8716648" y="-0.214158" />
+      <point x="0.9390805" y="-0.2144859" />
+    </shape>
+  </PropClass>
+  <PropClass id="9a1d2f43-161f-4ac5-8cb0-be2cbee1ee03" BulbShape="Octogon" ChannelGrid="Regular,36,58,58,0,Red;Regular,36,59,59,0,Green;Regular,36,60,60,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Zuzu Mouth L" Name="FaceV2-Zuzu Mouth L" Parm1="36" Parm2="31">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.9015313" y="-0.2347246" />
+      <point x="0.9079807" y="-0.2347246" />
+      <point x="0.9128177" y="-0.2339051" />
+      <point x="0.9181583" y="-0.2322672" />
+      <point x="0.9233986" y="-0.22899" />
+      <point x="0.9276307" y="-0.22555" />
+      <point x="0.9326693" y="-0.2219461" />
+      <point x="0.9355917" y="-0.2180141" />
+      <point x="0.9402276" y="-0.2145737" />
+      <point x="0.9396226" y="-0.2139178" />
+      <point x="0.9338788" y="-0.2145737" />
+      <point x="0.9279334" y="-0.2145737" />
+      <point x="0.9215848" y="-0.2139178" />
+      <point x="0.9167478" y="-0.2142462" />
+      <point x="0.9107013" y="-0.2145737" />
+      <point x="0.9050581" y="-0.2145737" />
+      <point x="0.8996167" y="-0.2145737" />
+      <point x="0.8942758" y="-0.2139178" />
+      <point x="0.8887331" y="-0.2142462" />
+      <point x="0.882788" y="-0.2142462" />
+      <point x="0.8766407" y="-0.2144092" />
+      <point x="0.8715014" y="-0.2135903" />
+      <point x="0.8709975" y="-0.2160478" />
+      <point x="0.8744238" y="-0.2185057" />
+      <point x="0.8784547" y="-0.2234201" />
+      <point x="0.882788" y="-0.2263691" />
+      <point x="0.8866169" y="-0.2299735" />
+      <point x="0.8918572" y="-0.2337412" />
+      <point x="0.8959889" y="-0.2334137" />
+      <point x="0.8977022" y="-0.2360348" />
+      <point x="0.898609" y="-0.2253865" />
+      <point x="0.9012288" y="-0.2193248" />
+      <point x="0.9038492" y="-0.214082" />
+      <point x="0.9063683" y="-0.2152283" />
+      <point x="0.9088876" y="-0.2194879" />
+      <point x="0.9111047" y="-0.2258781" />
+      <point x="0.91181" y="-0.2342329" />
+    </shape>
+  </PropClass>
+  <PropClass id="d5114777-6977-4a75-82f3-dd197325cb27" BulbShape="Octogon" ChannelGrid="Regular,36,61,61,0,Red;Regular,36,62,62,0,Green;Regular,36,63,63,0,Blue" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="FaceV2-Zuzu Mouth WQ" Name="FaceV2-Zuzu Mouth WQ" Parm1="7" Parm2="7">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.9049193" y="-0.2159107" />
+      <point x="0.9042137" y="-0.2142718" />
+      <point x="0.9039118" y="-0.2172208" />
+      <point x="0.8966557" y="-0.2211527" />
+      <point x="0.9034073" y="-0.2372081" />
+      <point x="0.9076398" y="-0.2342595" />
+      <point x="0.9117717" y="-0.2216442" />
+      <point x="0.9083914" y="-0.2186287" />
+    </shape>
+  </PropClass>
+  <PropClass id="06db976c-1272-45d5-8063-95226ba8bc16" BulbShape="Octogon" ChannelGrid="Regular,36,64,64,0,Red;Regular,36,65,65,0,Green;Regular,36,66,66,0,Blue" Comment="" CustomBulbColor="FF80FFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" LegacySequenceMethod="" MaxChannels="66" Opacity="255" MasterDimmable="True" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="DumbRGB" TraditionalColors="" TraditionalType="Channel_per_color" EffectBulbSize="1" Tag="FaceV2-Zuzu Mouth etc" Name="FaceV2-Zuzu Mouth etc" Parm1="23" Parm2="36">
+    <shape ShapeName="Lines-Connected">
+      <point x="0.8708764" y="-0.2142423" />
+      <point x="0.8723533" y="-0.2228393" />
+      <point x="0.8772274" y="-0.233358" />
+      <point x="0.8847609" y="-0.2419839" />
+      <point x="0.8931803" y="-0.2461914" />
+      <point x="0.899994" y="-0.2482669" />
+      <point x="0.9051738" y="-0.2486737" />
+      <point x="0.9095951" y="-0.2480427" />
+      <point x="0.9166063" y="-0.247187" />
+      <point x="0.9249865" y="-0.2420821" />
+      <point x="0.9324504" y="-0.2333863" />
+      <point x="0.9371673" y="-0.2225446" />
+      <point x="0.938093" y="-0.2140458" />
+      <point x="0.9324701" y="-0.2213668" />
+      <point x="0.925971" y="-0.2272577" />
+      <point x="0.9168129" y="-0.2325167" />
+      <point x="0.9108067" y="-0.2346627" />
+      <point x="0.9084431" y="-0.2342415" />
+      <point x="0.9045634" y="-0.2355178" />
+      <point x="0.8983104" y="-0.2346627" />
+      <point x="0.8925891" y="-0.2327272" />
+      <point x="0.8837268" y="-0.2274676" />
+      <point x="0.8773752" y="-0.2215774" />
+      <point x="0.8713391" y="-0.2144525" />
+    </shape>
+  </PropClass>
+  <PropGroup id="45c254cd-7d4c-48c6-87c8-9d1c657b1099" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Tag="LOR Face Group V2-Zuzu Whole Tree (RGB)" Name="LOR Face Group V2-Zuzu Whole Tree (RGB)">
+    <member id="e242f8a2-40af-404b-b537-62720c2169a1" orientation="normal" top="0" left="0" />
+    <member id="ec1e5069-7788-4c31-9fb4-7b1444f3deb3" orientation="normal" top="0" left="0" />
+    <member id="f2923918-b159-4862-957e-e7103899be89" orientation="normal" top="0" left="0" />
+    <member id="5791e171-63ff-4269-a36e-e6f1385b12f8" orientation="normal" top="0" left="0" />
+    <member id="d14452c0-cac5-49da-bbcf-395146eb040c" orientation="normal" top="0" left="0" />
+    <member id="ecb082b3-8902-4ef9-8d4a-2eb0fb020afd" orientation="normal" top="0" left="0" />
+    <member id="7e6c5b03-7a3a-4eeb-90d9-3d1886c4be8b" orientation="normal" top="0" left="0" />
+    <member id="5419ba40-05f0-4765-8e01-9b742d34d00d" orientation="normal" top="0" left="0" />
+    <member id="344bd35c-db90-4c44-aab5-7a2918c3e01f" orientation="normal" top="0" left="0" />
+    <member id="1a683c05-2d60-4293-95dd-225f9e37a23f" orientation="normal" top="0" left="0" />
+    <member id="a6265a62-8e1c-47b5-8259-53fdfc2d005b" orientation="normal" top="0" left="0" />
+    <member id="9a1d2f43-161f-4ac5-8cb0-be2cbee1ee03" orientation="normal" top="0" left="0" />
+    <member id="d5114777-6977-4a75-82f3-dd197325cb27" orientation="normal" top="0" left="0" />
+    <member id="06db976c-1272-45d5-8063-95226ba8bc16" orientation="normal" top="0" left="0" />
+  </PropGroup>
+</PixelEditorPropExport>

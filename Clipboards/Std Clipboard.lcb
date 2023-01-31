@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<channelsClipboard version="2" name="Std Clipboard">
+  <cellDemarcations>
+    <cellDemarcation centisecond="0" />
+    <cellDemarcation centisecond="50" />
+    <cellDemarcation centisecond="100" />
+    <cellDemarcation centisecond="150" />
+    <cellDemarcation centisecond="200" />
+    <cellDemarcation centisecond="250" />
+    <cellDemarcation centisecond="300" />
+    <cellDemarcation centisecond="350" />
+    <cellDemarcation centisecond="400" />
+  </cellDemarcations>
+  <channels>
+    <channel>
+      <effect startCentisecond="0" endCentisecond="150" startColor="FFFF0000" endColor="FFFF0000" startIntensity="100" endIntensity="0" type="INTENSITY" />
+      <effect startCentisecond="150" endCentisecond="200" intensity="0" />
+      <effect startCentisecond="200" endCentisecond="350" startColor="FFFF0000" endColor="FFFF0000" startIntensity="100" endIntensity="0" type="INTENSITY" />
+      <effect startCentisecond="350" endCentisecond="400" intensity="0" settings="INTENSITY" />
+    </channel>
+    <channel>
+      <effect startCentisecond="0" endCentisecond="50" intensity="0" />
+      <effect startCentisecond="50" endCentisecond="200" startColor="FF00FF00" endColor="FF00FF00" startIntensity="100" endIntensity="0" type="INTENSITY" />
+      <effect startCentisecond="200" endCentisecond="250" intensity="0" />
+      <effect startCentisecond="250" endCentisecond="400" startColor="FF00FF00" endColor="FF00FF00" startIntensity="100" endIntensity="0" type="INTENSITY" />
+    </channel>
+    <channel>
+      <effect startCentisecond="0" endCentisecond="50" startColor="FF0000FF" endColor="FF0000FF" startIntensity="33" endIntensity="0" type="INTENSITY" />
+      <effect startCentisecond="50" endCentisecond="100" intensity="0" />
+      <effect startCentisecond="100" endCentisecond="250" startColor="FF0000FF" endColor="FF0000FF" startIntensity="100" endIntensity="0" type="INTENSITY" />
+      <effect startCentisecond="250" endCentisecond="300" intensity="0" />
+      <effect startCentisecond="300" endCentisecond="400" startColor="FF0000FF" endColor="FF0000FF" startIntensity="100" endIntensity="33" type="INTENSITY" />
+    </channel>
+    <channel>
+      <effect startCentisecond="0" endCentisecond="100" startColor="FFFFFFFF" endColor="FFFFFFFF" startIntensity="67" endIntensity="0" type="INTENSITY" />
+      <effect startCentisecond="100" endCentisecond="150" intensity="0" />
+      <effect startCentisecond="150" endCentisecond="300" startColor="FFFFFFFF" endColor="FFFFFFFF" startIntensity="100" endIntensity="0" type="INTENSITY" />
+      <effect startCentisecond="300" endCentisecond="350" intensity="0" />
+      <effect startCentisecond="350" endCentisecond="400" startColor="FFFFFFFF" endColor="FFFFFFFF" startIntensity="100" endIntensity="67" type="INTENSITY" />
+    </channel>
+  </channels>
+</channelsClipboard>

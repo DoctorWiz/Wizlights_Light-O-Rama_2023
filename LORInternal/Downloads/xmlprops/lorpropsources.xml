@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lorpropsources>
+    <source name="Light-O-Rama Props" link="http://lor2.com/showtime/prod/xmlprops/lor.xml" />
+    <source name="SuperStar" link="http://lor2.com/showtime/prod/xmlprops/superstar.xml" LightsColumn="@lights|\n\n(buy pixels &amp; controllers from Light-O-Rama)" LightsColumnLink="http://store.lightorama.com/rgbdevices.html" />
+    <source name="Boscoyo Studio" link="http://hohenseefamily.com/xlights/boscoyo.xml" LightsColumn="@pixelcount| pixels\n\n(buy pixels &amp; controllers from Light-O-Rama)" LightsColumnLink="http://store.lightorama.com/rgbdevices.html" />
+    <source name="WowLights Productions" link="https://www.wowlights.com/S5Props/S5Props.xml" />
+    <source name="Gilbert Engineering USA" link="https://raw.githubusercontent.com/GEUSA/xmodels/master/geusa-xlights.xml" LightsColumn="@pixelcount| pixels\n\n(buy pixels &amp; controllers from Light-O-Rama)" LightsColumnLink="http://store.lightorama.com/rgbdevices.html" />
+    <source name="Generic Props" link="http://lor2.com/showtime/prod/xmlprops/generic.xml" LightsColumn="Buy controllers from Light-O-Rama" LightsColumnLink="http://store.lightorama.com/showtime-products.html" />
+</lorpropsources>

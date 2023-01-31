@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modelinventory>
+    <vendor>
+        <name>Light-O-Rama, Inc.</name>
+        <website>https://store.lightorama.com/</website>
+        <phone>518-539-9000</phone>
+        <facebook>https://www.facebook.com/groups/lorofficial</facebook>
+    </vendor>
+    <models>
+        <model>
+            <name>Light-O-Rama Pixel Tree Kit 16x25. First string is in back.</name>
+            <weblink>https://store.lightorama.com/copitrkit.html</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/black-pixel-tree-kit-16-strips-of-25-pixels-2.gif</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/LOR_16x25_Tree_BackStart.lpeprop</lorprop>
+            <lights>400 pixel nodes</lights>
+        </model>
+        <model>
+            <name>Light-O-Rama Pixel Tree Kit 16x25. First string is on the left.</name>
+            <weblink>https://store.lightorama.com/copitrkit.html</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/black-pixel-tree-kit-16-strips-of-25-pixels-2.gif</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/LOR_16x25_Tree_LeftStart.lpeprop</lorprop>
+            <lights>400 pixel nodes</lights>
+        </model>
+        
+        <model>
+            <name>Elden the Singing Tree - Version 1 (Sept 2022 and earlier)</name>
+            <weblink>https://store.lightorama.com/collections/singing-faces</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Elden-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/FaceV1_Elden.lpeprop</lorprop>
+            <lights>190-200 RGB pixels. 8 RGB Channels.</lights>
+        </model>
+        <model>
+            <name>Felix the Singing Tree - Version 1 (Sept 2022 and earlier)</name>
+            <weblink>https://store.lightorama.com/collections/singing-faces</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Felix-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/FaceV1_Felix.lpeprop</lorprop>
+            <lights>190-200 RGB pixels. 8 RGB Channels.</lights>
+        </model>
+        <model>
+            <name>Ralphie the Singing Tree - Version 1 (Sept 2022 and earlier)</name>
+            <weblink>https://store.lightorama.com/collections/singing-faces</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Ralphie-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/FaceV1_Ralphie.lpeprop</lorprop>
+            <lights>190-200 RGB pixels. 8 RGB Channels.</lights>
+        </model>
+        <model>
+            <name>Zuzu the Singing Tree - Version 1 (Sept 2022 and earlier)</name>
+            <weblink>https://store.lightorama.com/collections/singing-faces</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Zuzu-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/FaceV1_Zuzu.lpeprop</lorprop>
+            <lights>190-200 RGB pixels. 8 RGB Channels.</lights>
+        </model>
+        
+        <model>
+            <name>Elden the Singing Tree - Version 2 (Oct 2022 and later)</name>
+            <weblink>https://store.lightorama.com/collections/singing-faces</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Elden-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/FaceV2_Elden.lpeprop</lorprop>
+            <lights>190-200 RGB pixels. 14 RGB Channels.</lights>
+        </model>
+        <model>
+            <name>Felix the Singing Tree - Version 2 (Oct 2022 and later)</name>
+            <weblink>https://store.lightorama.com/collections/singing-faces</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Felix-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/FaceV2_Felix.lpeprop</lorprop>
+            <lights>190-200 RGB pixels. 14 RGB Channels.</lights>
+        </model>
+        <model>
+            <name>Ralphie the Singing Tree - Version 2 (Oct 2022 and later)</name>
+            <weblink>https://store.lightorama.com/collections/singing-faces</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Ralphie-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/FaceV2_Ralphie.lpeprop</lorprop>
+            <lights>190-200 RGB pixels. 14 RGB Channels.</lights>
+        </model>
+        <model>
+            <name>Zuzu the Singing Tree - Version 2 (Oct 2022 and later)</name>
+            <weblink>https://store.lightorama.com/collections/singing-faces</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Zuzu-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/FaceV2_Zuzu.lpeprop</lorprop>
+            <lights>190-200 RGB pixels. 14 RGB Channels.</lights>
+        </model>
+        
+        <model>
+            <name>10W RGB Flood Package (8 flood lights)</name>
+            <weblink>https://store.lightorama.com/collections/rgb-products/products/10w-rgb-flood-package</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/floodlights_10W_8.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_10W_Floods_8.lpeprop</lorprop>
+            <lights>8 flood lights</lights>
+        </model>
+        <model>
+            <name>CPC Package - 8 Mini Arches</name>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/arches_8.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Arches_8.lpeprop</lorprop>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-8-mini-arches</weblink>
+            <lights>25 RGB pixels per arch</lights>
+        </model>
+        <model>
+            <name>CPC Package - Window Frames</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-window-frames</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/frames_4.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Frames_4.lpeprop</lorprop>
+            <lights>100 RGB pixels per frame</lights>
+        </model>
+        <model>
+            <name>CPC Package - 20x40 Matrix</name>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/matrix20x40.jpg</imagefile>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-matrix</weblink>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Matrix_20x40.lpeprop</lorprop>
+            <lights>800 RGB pixels</lights>
+        </model>
+        <model>
+            <name>CPC Package - 8 Mini Trees</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-8-mini-trees</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/minitrees_8.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Mini_Trees_8.lpeprop</lorprop>
+            <lights>100 RGB pixels per mini tree (80 on the tree, 20 on the star)</lights>
+        </model>
+        <model>
+            <name>CPC Package - 40 Pixel Stakes</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-pixel-stakes</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/pixel_stakees_40.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Pixel_Stakes_40.lpeprop</lorprop>
+            <lights>5 RGB pixels per stake</lights>
+        </model>
+        <model>
+            <name>CPC Package - Rooflines</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-rooflines</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/rooflines_4.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Rooflines_4.lpeprop</lorprop>
+            <lights>4 Roofline Segments - 100 RGB pixels each</lights>
+        </model>
+        <model>
+            <name>CPC Package - 4 Snowflakes</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-4-snowflakes</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/snowflakes_4.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Snowflakes_4.lpeprop</lorprop>
+            <lights>48 RGB pixels per snowflake</lights>
+        </model>
+        <model>
+            <name>CPC Package - 4 Spinners</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-4-spinners</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/spinners_4.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Spinners_4.lpeprop</lorprop>
+            <lights>100 RGB pixels per spinner</lights>
+        </model>
+        <model>
+            <name>CPC Package - 4 Candy Canes - Left Facing</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-4-candy-canes</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/candy_canes_4_left.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Candycanes_Left.lpeprop</lorprop>
+            <lights>48 RGB pixels per candy cane</lights>
+        </model>
+        <model>
+            <name>CPC Package - 4 Candy Canes - Right Facing</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-4-candy-canes</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/candy_canes_4_right.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Candycanes_Right.lpeprop</lorprop>
+            <lights>48 RGB pixels per candy cane</lights>
+        </model>
+        
+        <model>
+            <name>18" Star Topper for 16x25 Pixel Tree</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/prop-package-18-star-topper-for-pixel-tree</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/star_18.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Star_16x25.lpeprop</lorprop>
+            <lights>50 RGB pixels</lights>
+        </model>
+        <model>
+            <name>32" Star Topper for 16x50 Pixel Tree</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-32-star-topper</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/star_32.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Star_16x50.lpeprop</lorprop>
+            <lights>50 RGB pixels</lights>
+        </model>
+        <model>
+            <name>32" Star Topper for 32x50 Pixel Tree</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-32-star-topper</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/star_32.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RGB_Star_32x50.lpeprop</lorprop>
+            <lights>50 RGB pixels</lights>
+        </model>
+        
+        <model>
+            <name>16x25 Pixel Tree and 18" Star Topper</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/prop-package-18-star-topper-for-pixel-tree</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/LOR_Group-RGB_Tree_16x25_and_Star.png</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/LOR_Group-RGB_Tree_16x25_and_Star.lpeprop</lorprop>
+            <lights>400 RGB pixels for the tree plus 50 RGB pixels for the star</lights>
+        </model>
+        <model>
+            <name>16x50 Pixel Tree and 32" Star Topper</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-32-star-topper</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/LOR_Group-RGB_Tree_16x50_and_Star.png</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/LOR_Group-RGB_Tree_16x50_and_Star.lpeprop</lorprop>
+            <lights>800 RGB pixels for the tree plus 50 RGB pixels for the star</lights>
+        </model>
+        <model>
+            <name>32x50 Pixel Tree and 32" Star Topper</name>
+            <weblink>https://store.lightorama.com/collections/rgb-packages/products/cpc-package-32-star-topper</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/LOR_Group-RGB_Tree_32x50_and_Star.png</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/LOR_Group-RGB_Tree_32x50_and_Star.lpeprop</lorprop>
+            <lights>1600 RGB pixels for the tree plus 50 RGB pixels for the star</lights>
+        </model>
+    </models>
+</modelinventory>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LViz lvizSaveFileVersion="2.1.0" CreatedAt="03-21-2015 10:03:59" Chksum="E260A7A95667AC6259378A6A064413C1">
+    <Background BackgroundType="1" PicIntensity="50" EditorWidthTwips="34500" EditorHeightTwips="5745"/>
+    <Levels Dimmed="50">
+        <Level ID="1" Edit_Enabled="True" Sim_Enabled="True" Name="Background"/>
+        <Level ID="2" Edit_Enabled="True" Sim_Enabled="True" Name="Level 2"/>
+        <Level ID="3" Edit_Enabled="True" Sim_Enabled="True" Name="Level 3"/>
+        <Level ID="4" Edit_Enabled="True" Sim_Enabled="True" Name="Level 4"/>
+        <Level ID="5" Edit_Enabled="True" Sim_Enabled="True" Name="Level 5"/>
+        <Level ID="6" Edit_Enabled="True" Sim_Enabled="True" Name="Level 6"/>
+        <Level ID="7" Edit_Enabled="True" Sim_Enabled="True" Name="Level 7"/>
+        <Level ID="8" Edit_Enabled="True" Sim_Enabled="True" Name="Level 8"/>
+        <Level ID="9" Edit_Enabled="True" Sim_Enabled="True" Name="Level 9"/>
+        <Level ID="10" Edit_Enabled="True" Sim_Enabled="True" Name="Level 10"/>
+        <Level ID="11" Edit_Enabled="True" Sim_Enabled="True" Name="Level 11"/>
+        <Level ID="12" Edit_Enabled="True" Sim_Enabled="True" Name="Level 12"/>
+        <Level ID="13" Edit_Enabled="True" Sim_Enabled="True" Name="Level 13"/>
+        <Level ID="14" Edit_Enabled="True" Sim_Enabled="True" Name="Level 14"/>
+        <Level ID="15" Edit_Enabled="True" Sim_Enabled="True" Name="Level 15"/>
+        <Level ID="16" Edit_Enabled="True" Sim_Enabled="True" Name="Foreground"/>
+    </Levels>
+    <Items>
+        <Item ID="1" Name="Arch 1" Locked="False" Comment="" SSWU="0" SSFF="" SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSUseMyOrder="False" SSStar="False" SSMatrixInd="0">
+        </Item>
+        <Item ID="2" Name="Arch 3" Locked="False" Comment="" SSWU="0" SSFF="" SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSUseMyOrder="False" SSStar="False" SSMatrixInd="0">
+        </Item>
+        <Item ID="3" Name="Arches" Locked="False" Comment="" SSWU="0" SSFF="" SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSUseMyOrder="False" SSStar="False" SSMatrixInd="0">
+            <AssignedObject ID="1" Object="1"/>
+            <AssignedObject ID="2" Object="2"/>
+            <AssignedObject ID="3" Object="3"/>
+            <AssignedObject ID="4" Object="4"/>
+        </Item>
+    </Items>
+    <DrawObjects>
+        <DrawObject ID="1" Name="Arch 1 - CCR 1b" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="0" Base_Unit="1" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="26"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="6436" Y="3520"/>
+                <DrawPoint ID="2" Type="16" X="6436" Y="3257"/>
+                <DrawPoint ID="3" Type="16" X="6337" Y="3033"/>
+                <DrawPoint ID="4" Type="16" X="6239" Y="2810"/>
+                <DrawPoint ID="5" Type="16" X="6093" Y="2583"/>
+                <DrawPoint ID="6" Type="16" X="5947" Y="2399"/>
+                <DrawPoint ID="7" Type="16" X="5702" Y="2210"/>
+                <DrawPoint ID="8" Type="16" X="5459" Y="2024"/>
+                <DrawPoint ID="9" Type="16" X="5217" Y="1913"/>
+                <DrawPoint ID="10" Type="16" X="4926" Y="1797"/>
+                <DrawPoint ID="11" Type="16" X="4631" Y="1727"/>
+                <DrawPoint ID="12" Type="16" X="4339" Y="1651"/>
+                <DrawPoint ID="13" Type="16" X="4035" Y="1650"/>
+                <DrawPoint ID="14" Type="16" X="3653" Y="1651"/>
+                <DrawPoint ID="15" Type="16" X="3362" Y="1727"/>
+                <DrawPoint ID="16" Type="16" X="3067" Y="1797"/>
+                <DrawPoint ID="17" Type="16" X="2775" Y="1913"/>
+                <DrawPoint ID="18" Type="16" X="2534" Y="2024"/>
+                <DrawPoint ID="19" Type="16" X="2290" Y="2210"/>
+                <DrawPoint ID="20" Type="16" X="2045" Y="2399"/>
+                <DrawPoint ID="21" Type="16" X="1899" Y="2583"/>
+                <DrawPoint ID="22" Type="16" X="1754" Y="2810"/>
+                <DrawPoint ID="23" Type="16" X="1656" Y="3033"/>
+                <DrawPoint ID="24" Type="16" X="1556" Y="3257"/>
+                <DrawPoint ID="25" Type="16" X="1556" Y="3520"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="2" Name="Arch 2 - CCR 1a" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="0" Base_Unit="1" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="11625" Y="3518"/>
+                <DrawPoint ID="2" Type="16" X="11625" Y="3242"/>
+                <DrawPoint ID="3" Type="16" X="11527" Y="3010"/>
+                <DrawPoint ID="4" Type="16" X="11427" Y="2777"/>
+                <DrawPoint ID="5" Type="16" X="11282" Y="2540"/>
+                <DrawPoint ID="6" Type="16" X="11134" Y="2348"/>
+                <DrawPoint ID="7" Type="16" X="10889" Y="2152"/>
+                <DrawPoint ID="8" Type="16" X="10643" Y="1959"/>
+                <DrawPoint ID="9" Type="16" X="10402" Y="1844"/>
+                <DrawPoint ID="10" Type="16" X="10109" Y="1724"/>
+                <DrawPoint ID="11" Type="16" X="9811" Y="1650"/>
+                <DrawPoint ID="12" Type="16" X="9518" Y="1568"/>
+                <DrawPoint ID="13" Type="16" X="9173" Y="1568"/>
+                <DrawPoint ID="14" Type="16" X="8830" Y="1568"/>
+                <DrawPoint ID="15" Type="16" X="8537" Y="1650"/>
+                <DrawPoint ID="16" Type="16" X="8240" Y="1724"/>
+                <DrawPoint ID="17" Type="16" X="7947" Y="1844"/>
+                <DrawPoint ID="18" Type="16" X="7705" Y="1959"/>
+                <DrawPoint ID="19" Type="16" X="7460" Y="2152"/>
+                <DrawPoint ID="20" Type="16" X="7214" Y="2348"/>
+                <DrawPoint ID="21" Type="16" X="7067" Y="2540"/>
+                <DrawPoint ID="22" Type="16" X="6921" Y="2777"/>
+                <DrawPoint ID="23" Type="16" X="6821" Y="3010"/>
+                <DrawPoint ID="24" Type="16" X="6724" Y="3242"/>
+                <DrawPoint ID="25" Type="16" X="6724" Y="3518"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="3" Name="Arch 3 - CCR 2a" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="0" Base_Unit="2" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="1"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="11868" Y="3524"/>
+                <DrawPoint ID="2" Type="16" X="11868" Y="3252"/>
+                <DrawPoint ID="3" Type="16" X="11968" Y="3015"/>
+                <DrawPoint ID="4" Type="16" X="12067" Y="2777"/>
+                <DrawPoint ID="5" Type="16" X="12222" Y="2545"/>
+                <DrawPoint ID="6" Type="16" X="12376" Y="2348"/>
+                <DrawPoint ID="7" Type="16" X="12629" Y="2151"/>
+                <DrawPoint ID="8" Type="16" X="12883" Y="1955"/>
+                <DrawPoint ID="9" Type="16" X="13135" Y="1835"/>
+                <DrawPoint ID="10" Type="16" X="13437" Y="1718"/>
+                <DrawPoint ID="11" Type="16" X="13744" Y="1639"/>
+                <DrawPoint ID="12" Type="16" X="14050" Y="1564"/>
+                <DrawPoint ID="13" Type="16" X="14401" Y="1564"/>
+                <DrawPoint ID="14" Type="16" X="14755" Y="1564"/>
+                <DrawPoint ID="15" Type="16" X="15061" Y="1639"/>
+                <DrawPoint ID="16" Type="16" X="15368" Y="1718"/>
+                <DrawPoint ID="17" Type="16" X="15670" Y="1835"/>
+                <DrawPoint ID="18" Type="16" X="15922" Y="1955"/>
+                <DrawPoint ID="19" Type="16" X="16176" Y="2151"/>
+                <DrawPoint ID="20" Type="16" X="16429" Y="2348"/>
+                <DrawPoint ID="21" Type="16" X="16583" Y="2545"/>
+                <DrawPoint ID="22" Type="16" X="16738" Y="2777"/>
+                <DrawPoint ID="23" Type="16" X="16837" Y="3015"/>
+                <DrawPoint ID="24" Type="16" X="16938" Y="3252"/>
+                <DrawPoint ID="25" Type="16" X="16938" Y="3524"/>
+            </DrawPoints>
+        </DrawObject>
+        <DrawObject ID="4" Name="Arch 4 - CCR 2b" BulbSize="5" BulbSpacing="1" Comment="" BulbShape="11" ZOrder="1" AssignedItem="3" Locked="False" Fixture_Type="4" Channel_Type="2" Max_Opacity="0">
+            <Sample Background_Color="0" RGB_R="0" RGB_G="0" RGB_B="0"/>
+            <SuperStar_Data SSReverseOrder="False" SSForceRowColumn="False" SSRow="0" SSColumn="0" SSLocations="" SSColorTemp="0"/>
+            <CCR Network="0" Base_Unit="2" Unit_Mode="0" Channel_Mode="0" Resolution="0" Physical_Pixel_Number="26"/>
+            <DrawPoints>
+                <DrawPoint ID="1" Type="16" X="17157" Y="3504"/>
+                <DrawPoint ID="2" Type="16" X="17157" Y="3222"/>
+                <DrawPoint ID="3" Type="16" X="17253" Y="2981"/>
+                <DrawPoint ID="4" Type="16" X="17353" Y="2738"/>
+                <DrawPoint ID="5" Type="16" X="17500" Y="2503"/>
+                <DrawPoint ID="6" Type="16" X="17648" Y="2297"/>
+                <DrawPoint ID="7" Type="16" X="17893" Y="2097"/>
+                <DrawPoint ID="8" Type="16" X="18140" Y="1896"/>
+                <DrawPoint ID="9" Type="16" X="18383" Y="1775"/>
+                <DrawPoint ID="10" Type="16" X="18678" Y="1654"/>
+                <DrawPoint ID="11" Type="16" X="18976" Y="1573"/>
+                <DrawPoint ID="12" Type="16" X="19269" Y="1495"/>
+                <DrawPoint ID="13" Type="16" X="19614" Y="1495"/>
+                <DrawPoint ID="14" Type="16" X="19957" Y="1495"/>
+                <DrawPoint ID="15" Type="16" X="20251" Y="1573"/>
+                <DrawPoint ID="16" Type="16" X="20549" Y="1654"/>
+                <DrawPoint ID="17" Type="16" X="20844" Y="1775"/>
+                <DrawPoint ID="18" Type="16" X="21087" Y="1896"/>
+                <DrawPoint ID="19" Type="16" X="21334" Y="2097"/>
+                <DrawPoint ID="20" Type="16" X="21578" Y="2297"/>
+                <DrawPoint ID="21" Type="16" X="21727" Y="2503"/>
+                <DrawPoint ID="22" Type="16" X="21874" Y="2738"/>
+                <DrawPoint ID="23" Type="16" X="21973" Y="2981"/>
+                <DrawPoint ID="24" Type="16" X="22070" Y="3222"/>
+                <DrawPoint ID="25" Type="16" X="22070" Y="3504"/>
+            </DrawPoints>
+        </DrawObject>
+    </DrawObjects>
+</LViz>

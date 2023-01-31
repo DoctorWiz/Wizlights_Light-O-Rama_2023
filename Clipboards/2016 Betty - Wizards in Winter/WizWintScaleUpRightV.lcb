@@ -1,0 +1,1979 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<channelsClipboard version="1" name="WizWintScaleUpRightV">
+	<cellDemarcations>
+		<cellDemarcation centisecond="0"/>
+		<cellDemarcation centisecond="10"/>
+		<cellDemarcation centisecond="20"/>
+		<cellDemarcation centisecond="30"/>
+		<cellDemarcation centisecond="41"/>
+		<cellDemarcation centisecond="51"/>
+		<cellDemarcation centisecond="61"/>
+		<cellDemarcation centisecond="71"/>
+		<cellDemarcation centisecond="81"/>
+		<cellDemarcation centisecond="91"/>
+		<cellDemarcation centisecond="101"/>
+		<cellDemarcation centisecond="111"/>
+		<cellDemarcation centisecond="121"/>
+	</cellDemarcations>
+	<channels>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="102"  intensity="0"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="100"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="82"  intensity="0"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="102"  intensity="100"/>
+			<effect type="intensity" startCentisecond="102" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="62"  intensity="0"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="82"  intensity="100"/>
+			<effect type="intensity" startCentisecond="82" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="41"  intensity="0"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="62"  intensity="100"/>
+			<effect type="intensity" startCentisecond="62" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="0"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="41"  intensity="100"/>
+			<effect type="intensity" startCentisecond="41" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="21"  intensity="100"/>
+			<effect type="intensity" startCentisecond="21" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="121"  intensity="0"/>
+		</channel>
+		<channel>
+			<effect type="intensity" startCentisecond="0" endCentisecond="121"  intensity="0"/>
+		</channel>
+	</channels>
+</channelsClipboard>
