@@ -1,0 +1,49 @@
+{
+   "mappings" : [
+      {
+         "model" : "Candy Canes 1 (R)",
+         "color" : "white",
+         "mapping" : "Candy Canes 1 (R)"
+      },
+      {
+         "model" : "Candy Canes 2 (G)",
+         "color" : "white",
+         "mapping" : "Candy Canes 2 (G)"
+      },
+      {
+         "model" : "Candy Canes 3 (R)",
+         "color" : "white",
+         "mapping" : "Candy Canes 3 (R)"
+      },
+      {
+         "model" : "Candy Canes 4 (G)",
+         "color" : "white",
+         "mapping" : "Candy Canes 4 (G)"
+      }
+   ],
+   "timingtracks" : [
+      {
+         "name" : "0 Beats",
+         "enabled" : false
+      },
+      {
+         "name" : "1 Half Beats",
+         "enabled" : false
+      },
+      {
+         "name" : "2 Quarter Beats",
+         "enabled" : false
+      },
+      {
+         "name" : "Blue Christmas",
+         "enabled" : false
+      },
+      {
+         "name" : "3 Note Onsets",
+         "enabled" : false
+      }
+   ],
+   "mapccrstrand" : false,
+   "eraseexisting" : false,
+   "importblendmode" : true
+}
